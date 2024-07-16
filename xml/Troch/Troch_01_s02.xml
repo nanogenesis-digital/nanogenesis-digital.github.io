@@ -1,0 +1,208 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mondini</title>
+                <author>David Troch</author>
+                <respStmt>
+                    <name>Lamyk Bekius</name>
+                    <resp>encoding scheme, TEI customization, encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p corresp="section">Mondini</p>
+                <p corresp="session">2</p>
+                <p corresp="version">1</p>
+                <p corresp="total_versions">20</p>
+                <p corresp="name">David_Troch</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <l>Date: 10-08-2020</l>
+                    <l>Start time: 10:38:24</l>
+                    <l>Duration: 01:12:47</l>
+                </p>
+                <p><linkGrp><link prev="#" n="01_s02" next="02_s04"/></linkGrp></p>
+                <p>
+                    <material corresp="01_s02">Sessie-versie 1</material>
+                    <material corresp="02_s04">Sessie-versie 2</material>
+                    <material corresp="03_s05">Sessie-versie 3</material>
+                    <material corresp="04_s06">Sessie-versie 4</material>
+                    <material corresp="05_s07">Sessie-versie 5</material>
+                    <material corresp="06_s12">Sessie-versie 6</material>
+                    <material corresp="07_s13">Sessie-versie 7</material>
+                    <material corresp="08_s14">Sessie-versie 8</material>
+                    <material corresp="09_s15">Sessie-versie 9</material>
+                    <material corresp="10_s16">Sessie-versie 10</material>
+                    <material corresp="11_s17">Sessie-versie 11</material>
+                    <material corresp="12_s18">Sessie-versie 12</material>
+                    <material corresp="13_s19">Sessie-versie 13</material>
+                    <material corresp="14_s21">Sessie-versie 14</material>
+                    <material corresp="15_s22">Sessie-versie 15</material>
+                    <material corresp="16_s23">Sessie-versie 16</material>
+                    <material corresp="17_s24">Sessie-versie 17</material>
+                    <material corresp="18_s25">Sessie-versie 18</material>
+                    <material corresp="19_s27">Sessie-versie 19</material>
+                    <material corresp="20_s29">Sessie-versie 20</material>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><seg><add seq="20200810105732" type="nt" evidence="4417-4423">Mondini</add></seg><lb/>
+                <seg><add seq="20200810103829" type="nt" evidence="14-81">Alsof het nog niet
+                        volstond dat ik in een uitgestorven bergdorpje <del seq="20200810105712" type="typo" evidence="4358-4359"><add seq="20200810105710" type="context" evidence="4356-4357">bt</add></del><add seq="20200810105712" type="context|continue" evidence="4360-4368">verzeild </add><del seq="20200810103853" type="pre-context" evidence="82-83">te</del></add><add seq="20200810103853" type="nt|continue" evidence="84-86">z<del seq="20200810103854" type="typo" evidence="87-88">qu</del></add><add seq="20200810103855" type="nt|continue" evidence="89-149">ou <del seq="20200810105716" type="context" evidence="4379-4409">terechtkom</del><add seq="20200810105719" type="context" evidence="4408-4412">rak</add>en,
+                        moest ik ook nog eens een onooglijk appart<del seq="20200810103917" type="typo" evidence="150-151">me</del></add><add seq="20200810103918" type="nt|continue" evidence="152-211">ementje betrekken boven een
+                            leegstaand<del seq="20200810105832" type="context" evidence="4456">e</del> winkel<add seq="20200810105835" type="context" evidence="4471-4474">pand</add> waar men<add seq="20200810110022" type="translocation" evidence="4618-4620"><add seq="20200810110026" type="context" evidence="4626">,</add> afgaande op <del seq="20200810110040" type="context" evidence="4636-4640">de pancarte
+                                </del><add seq="20200810110042" type="context" evidence="4638-4654">het reclamepan<del seq="20200810110045" type="typo" evidence="4654">n</del></add><add seq="20200810110045" type="context|continue" evidence="4656-4659">eel </add>boven de etalage,</add> o<del seq="20200810103936" type="pre-context" evidence="212-214">ok
+                        </del></add><add seq="20200810103936" type="nt|continue" evidence="215-342">oit ski's moet hebben verhuurd<del seq="20200810110017" type="translocation" evidence="4608-4612"> afgaande op de pancarte boven
+                            de etalage,</del><add seq="20200810110245" type="context" evidence="4744-4782">, terwijl er hier prachtige ruime hui<del seq="20200810110330" type="typo" evidence="4783">m</del></add><add seq="20200810110330" type="context" evidence="4784-4833">zen te kraken
+                            vallen, maar het appartementje <lb/></add> zodat ik me er elke dag
+                        weer opnieuw kan afvragen waa<del seq="20200810103956" type="typo" evidence="343-344">aa</del></add><add seq="20200810103957" type="nt|continue" evidence="345-449">rom ik niet een van de vele
+                        leegstaande huizen kraak, wat nauwelijks een mens zou opvallen en als het
+                            da<del seq="20200810104017" type="pre-context" evidence="450">n</del></add><add seq="20200810104018" type="nt|continue" evidence="451-461">t toch moe<del seq="20200810104022" type="pre-context" evidence="462">t</del></add><add seq="20200810104022" type="nt|continue" evidence="463-506">st doen zou die mens daar niet ommalen want </add><mod seq="20200810104113" type="continue" evidence="526-700">alles in dit
+                        onooglijke dorpje is doortrokken met onverschilligheid, maar ik blijf bij
+                        het appartementje al is het niet groot omdat er hier tenminste stromend water
+                        is en ele<del seq="20200810104151" type="typo" evidence="701">t</del></mod><mod seq="20200810104151" type="continue|continue" evidence="702-734">ktriciteit wat me wellicht van p<del seq="20200810104200" type="typo" evidence="735">s</del></mod><mod seq="20200810104201" type="continue|continue" evidence="736-1075">as zal
+                        komen eens de winter aanbreekt, al ga ik er prat op dat het ook de komende
+                        winter niet zal sneeuwen en ik geen schrik moet hebben van drommen mensen
+                        hier beneden op de gelijkvloerse verdieping die in lange rijen staan aan te
+                        schuiven voor een paar skilatten waarop ze een tijd daarna vrolijk van de
+                        bergflank zweven als volleerd a<del seq="20200810104316" type="typo" evidence="1076">p</del></mod><mod seq="20200810104317" type="continue|continue" evidence="1077-1116">lpinisten of hoe zulke mensen nu ook a<del seq="20200810104324" type="typo" evidence="1117-1118">wl</del></mod><mod seq="20200810104325" type="continue|continue" evidence="1119-1196">lweer
+                        genoemd mogen worden, het kan me niet schelen, zolang ze maar weg<del seq="20200810104339" type="typo" evidence="1204-1205">v<del seq="20200810104337" type="typo" evidence="1197-1202">lijven</del><mod seq="20200810104338" type="continue|continue" evidence="1203">b</mod></del></mod><mod seq="20200810104339" type="continue|continue" evidence="1206-1228">blijven, zolang de sne<del seq="20200810104346" type="typo" evidence="1228">u</del></mod><mod seq="20200810104346" type="continue|continue" evidence="1230-1239">euw maar
+                            <del seq="20200810104348" type="pre-context" evidence="1240">b</del></mod><mod seq="20200810104348" type="continue|continue" evidence="1241-1345">wegblijft, de restanten van de skilift niet in ere wordt hersteld, die
+                        bakjes van de skiliften bengelen <del seq="20200810104418" type="pre-context" evidence="1346">v</del></mod><mod seq="20200810104418" type="continue|continue" evidence="1347-1419">nu
+                        vervaarlijk heen en weer, dat kan ik zien vanuit mijn piepklein badk<del seq="20200810104430" type="typo" evidence="1420-1421">ma</del></mod><mod seq="20200810104431" type="continue|continue" evidence="1422-1461">amerraampje en ik verbaas me erover dat<del seq="20200810104441" type="typo" evidence="1462">z</del></mod><mod seq="20200810104441" type="continue|continue" evidence="1463-1505"> ze niet
+                        bij het minste zuchtje wind naar <del seq="20200810104452" type="typo" evidence="1506">e</del></mod><mod seq="20200810104452" type="continue|continue" evidence="1507-1552">beneden
+                        denderen, maa rdat ze nog altijd lijk<del seq="20200810104501" type="typo" evidence="1552">t</del></mod><mod seq="20200810104501" type="continue|continue" evidence="1554-1552">en te
+                        wachten op de ko<del seq="20200810104510" type="typo" evidence="1586-1595">nt van men</del></mod><mod seq="20200810104512" type="continue|continue" evidence="1596-1652">mst van
+                        menselijke zitvlakken om naar de top van de berg<del seq="20200810104521" type="typo" evidence="1653">t</del></mod><mod seq="20200810104521" type="continue|continue" evidence="1654-1745">te
+                        vervoeren, een top die ik door het piepkleine badkamerraampje niet kan zien,
+                        wellicht z<del seq="20200810104539" type="typo" evidence="1746">l</del></mod><mod seq="20200810104539" type="continue|continue" evidence="1747-1785">elfs
+                        niet als ik het in mijn hoofd zou<del seq="20200810104546" type="typo" evidence="1786">h</del></mod><mod seq="20200810104546" type="continue|continue" evidence="1787-1839"> halen
+                        om mijn hoofd door het raampje te wringen, wa<del seq="20200810104604" type="typo" evidence="1840">t</del></mod><mod seq="20200810104604" type="continue|continue" evidence="1841-2606">nt mijn
+                        hoofd past er niet door, misschien is het zelfs voor een babyhoofdje te
+                        klein en als het dat niet zo is en je het hoofd van zo'n baby erdoor
+                        schuift, kan je hem niet vragen of de bergtop te zien is, nu ja, je kan het
+                        wel vragen maar een antwoord moet je van dat klein grut niet verwachten,
+                        nee, als ik al de dragn voel om de bergtop bij goed weer te zien, dan moet
+                        ik mijn appartement uit, de trap af, de kriepende deur uit en daar heb ik
+                        nooit veel zin in, ik probeer niet te veel naar buiten te gaan alleen voor
+                        het meest noodzakelijke, niet dat het in dit geval uitgestorven bergdorpje
+                        van de mensen stikt, maar als je dan toch iemand tegenkomt, heeft die zo
+                        goed als altijd zin om je staande te houden voor een praatje en de praatjes
+                        vrolijken me niet bepaald <del seq="20200810104821" type="pre-context" evidence="2607">p</del></mod><mod seq="20200810104821" type="continue|continue" evidence="2608-2696">op, want
+                        veel diepgang kennen ze niet, er worden geen vragen gesteld, men durft de
+                            huid<del seq="20200810104835" type="typo" evidence="2697-2698">ge</del></mod><mod seq="20200810104836" type="continue|continue" evidence="2699-2806">ige
+                        toestand niet aan de kaak te stellen en dat zou men nochtans beter soms wel
+                        eens doen, al moet ik maar <del seq="20200810104900" type="pre-context" evidence="2807">b</del></mod><mod seq="20200810104900" type="continue|continue" evidence="2808-3086">meteen
+                        bekennen dat omdat niemand anders het doet, ik er zelf ook niet toe geneigd
+                        ben, wat van een soort lafheid zou kunnen getuigen, maar laf ben ik
+                        allerminst, ik heb de moed gehad om have en goed achter te laten, dagen,
+                        weken door het land te hebben gezworven, deze berg te <del seq="20200810105001" type="pre-context" evidence="3087">e</del></mod><mod seq="20200810105001" type="continue|continue" evidence="3088-3141">hebben
+                        uitgezocht om via ik weet niet hoeveel haar<del seq="20200810105026" type="typo" evidence="3141-3145">dspe</del></mod><mod seq="20200810105028" type="continue|continue" evidence="3146-3163">speldbochten h<del seq="20200810105036" type="typo" evidence="3164-3467">eir </del></mod><mod seq="20200810105036" type="continue|continue" evidence="3168-3211">ier
+                        terecht te komen en te leven alsof ik <del seq="20200810105051" type="pre-context" evidence="3212-3212">id</del></mod><mod seq="20200810105052" type="continue|continue" evidence="3214-3454">de
+                        laatste mens op deze godvergeten planeet ben en als het werkelijk zo is dan
+                        laat ik dat niet aan mijn hart komen, ik zal het zolang mogelijk proberen
+                        uitzingen tot ook mijn lied ten einde is en zolang dat niet het geval is,
+                        schrijf ik <del seq="20200810105132" type="pre-context" evidence="3455">n</del></mod><mod seq="20200810105132" type="continue|continue" evidence="3456-3507">het
+                        neer, wat wellicht geen zin heeft, want als de<del seq="20200810105142" type="typo" evidence="3507">e</del></mod><mod seq="20200810105142" type="continue|continue" evidence="3508-3597">ze
+                        papieren al ooit door levende organismen worden gevonden, dan zullen ze niet
+                        meteen <del seq="20200810105156" type="pre-context" evidence="3798-3600">te
+                        </del></mod><mod seq="20200810105156" type="continue|continue" evidence="3601-3661">begrijpen wat voor woorden ik hier in een onafgebroken ritme<del seq="20200810105206" type="typo" evidence="3662">t</del></mod><mod seq="20200810105206" type="continue|continue" evidence="3663-3742"> zit te
+                        noteren, zoals wij ooit het spijkerschrift in grotten hebben geprobeer<del seq="20200810105225" type="typo" evidence="3742-3742"> d</del></mod><mod seq="20200810105225" type="continue|continue" evidence="3745-3913">d te
+                        ontcijferen en ik ben er zeker van dat we er maar een slag naar hebben
+                        geslagen en nooit de ware finesses van het spijkerschift tot ons zijn
+                        doorgedrongen, en<del seq="20200810105251" type="typo" evidence="3914-3918">v ik </del></mod><mod seq="20200810105252" type="continue|continue" evidence="3919-3965"> ik heb
+                        niet de ambitie om <add seq="20200810105309" type="pre-context" evidence="3969-3971">op </add>die finesses alsnog </mod><mod seq="20200810105311" type="continue|continue" evidence="3975-4079">vat te
+                        krijgen, ik heb wel wat beters met mijn tijd te doen, je zou het gerust
+                        overleven kunnen noemen.</mod>
+                </seg>
+                <del seq="20200810110014" type="context" evidence="4601-4603"><add seq="20200810110012" type="nt" evidence="4598-4599"><lb/>Zwijgzaamheid <lb/> Haar
+                        zwijgzaamheid zou je in je armen willen nemen. Je wil haar tonen dat je er
+                        ook op lastige momenten voor haar bent, zonder dat je het met zoveel woorden
+                        moet zeggen. Je wil dat ze voelt dat het oké is dat ze haar hoofd met een
+                        zucht op je schouders vlijt. Dat het normaal is dat de horizon niet te zien
+                        is op momenten dat er over de eigen voeten wordt gestruikeld. Met je armen
+                        om haar heen wil je blijven zitten tot ze haast onhoorbaar zegt dat ze de
+                        beestjes onder haar vel kwijt wil, maar jullie niet. <lb/> 16 juli 2020,
+                        10u12 </add></del>
+            </p>
+
+            <p><add seq="20200810104031" type="focus" evidence="512">Focus events<lb/><media url="Mail" mimeType="internet">
+                        <desc>Mail</desc>
+                    </media></add>
+                <lb/>
+                <add seq="20200810104034" type="focus" evidence="515"><media url="YouTube" mimeType="internet">
+                        <desc>Destroyer - Crimson Tide - YouTube</desc>
+                    </media></add>
+                <lb/>
+                <add seq="20200810105329" type="focus" evidence="4083"><media url="YouTube" mimeType="internet">
+                        <desc>Suicide Demo For Kara Walker - YouTube</desc>
+                    </media></add>
+                <lb/>
+                <add seq="20200810105331" type="focus" evidence="4086"><media url="Social" mimeType="internet">
+                    <desc>Social Media</desc>
+                </media></add>
+                <lb/>
+                <add seq="20200810105343" type="focus" evidence="4100"><media url="Mail" mimeType="internet">
+                        <desc>Mail</desc>
+                    </media></add>
+                <lb/>
+                <add seq="20200810105425" type="focus" evidence="4133"><media url="YouTube" mimeType="internet">
+                        <desc>Beirut - When I Die (OFFICIAL VIDEO) - YouTube</desc>
+                    </media></add>
+                <lb/>
+                <add seq="20200810105535" type="focus" evidence="4181-4195"><media url="Synonyms" mimeType="internet">
+                        <desc>Synoniemen.net - gratis online synoniemenwoordenboek</desc>
+                    </media></add>
+                <lb/>
+                <add seq="20200810105545" type="focus" evidence="4205-4214"><media url="Synonyms" mimeType="internet">
+                        <desc>Synoniemen van pancarte; ander woord voor pancarte -
+                            synoniemen.net</desc>
+                    </media></add>
+                <lb/>
+                <add seq="20200810105552" type="focus" evidence="4215-4220"><media url="Synonyms" mimeType="internet">
+                        <desc>Synoniemen van bord; ander woord voor bord -
+                            synoniemen.net</desc>
+                    </media></add>
+                <lb/>
+                <add seq="20200810105559" type="focus" evidence="4222"><media url="YouTube" mimeType="internet">
+                    <desc>Beirut - When I Die (OFFICIAL VIDEO) - YouTube</desc>
+                </media></add>
+                <lb/>
+                <add seq="20200810105650" type="focus" evidence="4243-4256"><media url="Synonyms" mimeType="internet">
+                        <desc>Synoniemen van terechtkomen; ander woord voor terechtkomen -
+                            synoniemen.net</desc>
+                    </media></add>
+                <lb/>
+                <add seq="20200810105854" type="focus" evidence="4481"><media url="Social" mimeType="internet">
+                    <desc>Social Media</desc>
+                </media></add>
+                <lb/>
+                <add seq="20200810105854" type="focus" evidence="4585-4546"><media url="Social" mimeType="internet">
+                        <desc>Zo, mijn openingszin van 700 woorden is alvast overgetypt. We
+                            kunnen beginnen.</desc>
+                    </media></add>
+                <lb/>
+                <add seq="20200810110050" type="focus" evidence="4670"><media url="Social" mimeType="internet">
+                    <desc>Social Media</desc>
+                </media></add>
+                <lb/>
+                <add seq="20200810110050" type="focus" evidence="4670-4676"><media url="Mail" mimeType="internet">
+                        <desc>Mail</desc>
+                    </media></add>
+                <lb/>
+                <add seq="20200810110419" type="focus" evidence="4837"><media url="Mail" mimeType="internet">
+                    <desc>Mail</desc>
+                </media></add>
+                <lb/>
+                <add seq="20200810110420" type="focus" evidence="4839"><media url="YouTube" mimeType="internet">
+                    <desc>Beirut - Gallipoli (OFFICIAL AUDIO) - YouTube</desc>
+                </media></add>
+                <lb/>
+            </p>
+        </body>
+    </text>
+</TEI>

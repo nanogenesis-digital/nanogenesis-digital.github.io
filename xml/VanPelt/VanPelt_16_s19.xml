@@ -1,0 +1,586 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dauphin</title>
+                <author>Ellen Van Pelt</author>
+                <respStmt>
+                    <name>Lamyk Bekius</name>
+                    <resp>encoding scheme, TEI customization, encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p corresp="section">Dauphin</p>
+                <p corresp="session">19</p>
+                <p corresp="version">16</p>
+                <p corresp="total_versions">19</p>
+                <p corresp="name">Ellen_VanPelt</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <l>Date: 06-01-2021</l>
+                    <l>Start time: 15:29:02</l>
+                    <l>Duration: 00:40:12</l>
+                </p>
+                <p><linkGrp><link prev="15_s18" n="16_s19" next="17_s20"/></linkGrp></p>
+                <p>
+                    <material corresp="01_s01">Sessie-versie 1</material>
+                    <material corresp="02_s02">Sessie-versie 2</material>
+                    <material corresp="03_s03">Sessie-versie 3</material>
+                    <material corresp="04_s04">Sessie-versie 4</material>
+                    <material corresp="05_s05">Sessie-versie 5</material>
+                    <material corresp="06_s06">Sessie-versie 6</material>
+                    <material corresp="07_s07">Sessie-versie 7</material>
+                    <material corresp="08_s08">Sessie-versie 8</material>
+                    <material corresp="09_s11">Sessie-versie 9</material>
+                    <material corresp="10_s12">Sessie-versie 10</material>
+                    <material corresp="11_s14">Sessie-versie 11</material>
+                    <material corresp="12_s15">Sessie-versie 12</material>
+                    <material corresp="13_s16">Sessie-versie 13</material>
+                    <material corresp="14_s17">Sessie-versie 14</material>
+                    <material corresp="15_s18">Sessie-versie 15</material>
+                    <material corresp="16_s19">Sessie-versie 16</material>
+                    <material corresp="17_s20">Sessie-versie 17</material>
+                    <material corresp="18_s21">Sessie-versie 18</material>
+                    <material corresp="19_s22">Sessie-versie 19</material>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><seg><title>Dolfinarium/ Tussen kaai en schip</title> </seg><lb/><lb/>
+                <seg>We zitten op elkaar gepakt op houten zitbanken aan weerszijden van het
+                    middenschip.</seg>
+                <seg>Finn kleeft tegen me aan en gluurt vanonder zijn Pokémon-pet om hem heen.</seg>
+                <seg>Door de muziekboxen klinkt <emph rend="italics">The conquest of paradise</emph>.</seg>
+                <seg>Ons galjoen verlaat het haventje van Houmt Souk, we zetten koers naar
+                    zee.</seg>
+                <lb type="indent"/>
+                <seg>Acht piraten bengelen in het touwwerk boven onze hoofden.</seg>
+                <seg>Een voet en een hand op de touwladders, het andere been en de andere arm houden
+                    ze uitgestrekt naast zich zoals de figuurtjes van Vredeseilanden.</seg>
+                <seg>De stoerste piraat klimt verder naar het kraaiennest, de muziek wordt luider
+                    gezet.</seg>
+                <seg>Onze medepassagiers applaudiseren en juichen.</seg>
+                <seg>We lijken wel schoolkinderen die op uitstap vertrekken.</seg>
+                <lb/><lb/>
+                <seg>Vanmorgen pikte een gammele tourbus van Djerba Expeditions ons op vlak voor het
+                    hotel.</seg>
+                <seg>Finn en ik zochten een plekje achteraan in de al half gevulde bus.</seg>
+                <lb type="indent"/>
+                <seg>We reden niet meteen naar het haventje, maar maakten een onweg langs zes
+                    luxe-hotels.</seg>
+                <seg>Elke keer stapte er een verse lading toeristen op.</seg>
+                <seg>De ruwe stof van de stoelen prikte in mijn billen, de droge lucht in de bus
+                    bezorgde me keelpijn.</seg>
+                <lb type="indent"/>
+                <seg>'Wanneer zien we de flamingo's, mama?' vroeg Finn.</seg>
+                <lb type="indent"/>
+                <seg>'Straks,' zei ik.</seg>
+                <seg>'Op het eiland.'</seg>
+                <lb type="indent"/>
+                <seg>De ober die me elke dag mijn koffie bracht, had me dit tripje
+                    aangesmeerd.</seg>
+                <seg>Met een piratenboot naar het Flamingo eiland, een idyllische parel in de
+                    Middellandse Zee met prachtige stranden vol roze vogels.</seg>
+                <seg>En animatie.</seg>
+                <seg>En een authentieke Tunesische lunch.</seg>
+                <seg>Ik had niet eens moeite gedaan om hem af te schepen en had hem het geld cash
+                    gegeven.</seg>
+                <lb/><lb/>
+                <seg>De vloot van Houmt Souk telt vijftien met piratenvlaggen uitgedoste
+                    galjoenen.</seg>
+                <seg>Ons schip heet Elyssa.</seg>
+                <seg>Niet het mooiste schip, maar wel met de mooiste naam.</seg>
+                <seg>Samen met twee andere piratenboten verlaten we de haven.</seg>
+                <seg>We vormen een kleine kolonne, klaar voor de verovering van het Flamingo
+                    eiland.</seg>
+                <lb type="indent"/>
+                <seg>De zeebries brengt verfrissing.</seg>
+                <seg>Ik smeer Finn nog een keer met zonnecrème in.</seg>
+                <seg>Ondertussen wijst hij naar de mannen, die nu allerlei acrobatische kunstjes in
+                    de touwen halen.</seg>
+                <lb type="indent"/>
+                <seg>'Kijk, mama, kijk!' kraait hij.</seg>
+                <lb type="indent"/>
+                <seg>Wanneer de muziek stopt, klauteren de piraten naar beneden en verspreiden ze
+                    zich over het bovendek.</seg>
+                <seg>In ruil voor enkele dinars mag je met hen op de foto.</seg>
+                <seg>Vooral de voorsteven van het schip is populair.</seg>
+                <seg>De ene vrouw na de andere poseert met een piraat, de armen wijd gespreid,
+                    vooruitleunend in de punt van het schip.</seg>
+                <seg>Het verband tussen <emph rend="italics">Titanic</emph> en <emph rend="italics">Pirates of the Caribbean</emph> ontgaat me.</seg>
+                <seg><del seq="20210106160109" type="pre-context" evidence="1611-1632"><add seq="20210106160104" type="nt" evidence="1587-1610">Hoe ben ik dit in toeris</add></del><del seq="20210106160122" type="pre-context" evidence="1688-1737"><add seq="20210106160111" type="nt|continue" evidence="1636-1677">Waarom ben ik in dit toeristencircus verz<del seq="20210106160120" type="typo" evidence="1678">i</del></add><add seq="20210106160120" type="nt|continue" evidence="1679-1687">eild gera</add></del><add seq="20210106160127" type="nt|continue" evidence="1761-1772">W<del seq="20210106160131" type="pre-context" evidence="1773-1783">e raakten i</del></add><add seq="20210106160134" type="nt|continue" evidence="1784-1788">aa<del seq="20210106160135" type="typo" evidence="1789-1791">om </del></add><add seq="20210106160136" type="nt|continue" evidence="1792-1836">rom raakte ik in dit toeristencircus verzeil<del seq="20210106160148" type="pre-context" evidence="1841">t</del></add><add seq="20210106160149" type="nt|continue" evidence="143-1845">d?</add></seg>
+                <lb type="indent"/>
+                <seg>De oudste van de kapersbende, een kleine, pezige man, kiest ons als
+                    prooi.</seg>
+                <seg>Hij lacht breed, hij heeft amper nog tanden.</seg>
+                <lb type="indent"/>
+                <seg>'Une photo avec la belle maman et son beaux fils?'</seg>
+                <lb type="indent"/>
+                <seg>De fotograaf-piraat staat al paraat.</seg>
+                <seg>Finn kruipt achter mijn rug alsof ik een levend schild ben dat hem zal
+                    beschermen.</seg>
+                <lb type="indent"/>
+                <seg>'Il a peur?'</seg>
+                <lb type="indent"/>
+                <seg>Ik knik.</seg>
+                <seg>De piraat kijkt me aan.</seg>
+                <seg>Oude, wijze ogen.</seg>
+                <seg>Hij zet zich in kleermakerszit voor ons op de grond en in belabberd Frans
+                    steekt hij van wal.</seg>
+                <seg>Hij vertelt hij over zijn nonkel die dit schip kocht en er een piratenboot van
+                    liet maken.</seg>
+                <seg>Drie families leven nu van de inkomsten.</seg>
+                <seg>Zijn toon is zacht, zijn stem kalmeert me.</seg>
+                <seg>Finn wriemelt achter mijn rug en wurmt zijn hoofdje onder mijn oksel.</seg>
+                <lb type="indent"/>
+                <seg>De fotograaf-piraat heeft ondertussen door dat er aan ons niets verdiend zal
+                    worden en druipt af.</seg>
+                <lb type="indent"/>
+                <seg>De oude piraat buigt zich voorover naar Finn.</seg>
+                <seg>Hij zet zijn breedste lach op en houdt hij hem zijn zwaard voor.</seg>
+                <seg>Met een vooruitgestoken wijsvinger raakt Finn het zwaard aan.</seg>
+                <lb type="indent"/>
+                <seg>'Het is echt, mama,' fluistert hij in mijn oor.</seg>
+                <lb type="indent"/>
+                <seg>Onze zeerover staat op, hij heeft werk voor de boeg.</seg>
+                <seg>Zijn kompanen lokken de toeristen van de zitbanken, verleiden hen tot dansen en
+                    springen op een pompend salsalied.</seg>
+                <seg>Een jong koppeltje steelt de show met op een danscursus ingeoefende frivole
+                    danspasjes, een vijftiger beweegt houteriger met zijn armen alsof hij op
+                    marsmuziek paradeert en een vrouw van onbestemde leefijd verliest zich in een
+                    extatisch dansritueel.</seg>
+                <seg>Ik zie hoe Finn haar aanstaart en elke beweging volgt.</seg>
+                <lb type="indent"/>
+                <seg>'Wil je ook dansen?' vraag ik.</seg>
+                <lb type="indent"/>
+                <seg>Hij schudt zijn hoofd.</seg>
+                <lb type="indent"/>
+                <seg>Naast de kajuit, in de weinige schaduw die er op dit schip is, zit een man een
+                    boek te lezen.</seg>
+                <seg>Met zijn zwarte trainingsbroek en donkergroene sweater valt hij op tussen al
+                    het blote blanke vlees.</seg>
+                <seg>Hij is jong, een pak jonger dan ik in elk geval.</seg>
+                <seg>Het lijkt alsof hij uit een ander tableau geplukt is.</seg>
+                <lb type="indent"/>
+                <seg>De man merkt me op.</seg>
+                <seg>Denk ik.</seg>
+                <seg>Al kan ik het door zijn zonnebril niet met zekerheid weten.</seg>
+                <seg>Ik wend mijn blik niet af, blijf hem aankijken.</seg>
+                <seg>Dan richt zijn blik weer op zijn boek.</seg>
+                <seg>Ik vraag me of wat hij hier doet.</seg>
+                <seg>Is hij een piraat die zijn kostuum vergat?</seg>
+                <seg>Een terrorist die een aanslag beraamt op Flamingo eiland?</seg>
+                <lb/><lb/>
+                <seg>Deze zomervakantie is de eerste.</seg>
+                <seg>De eerste die Finn en ik samen moeten doorspartelen.</seg>
+                <seg>De eerste dat ik moeder en vader tegelijk zal zijn, twee maanden lang.</seg>
+                <lb type="indent"/>
+                <seg>'Ken je geen andere alleenstaande moeders?'</seg>
+                <seg>had mijn vader gevraagd.</seg>
+                <seg>'In zijn klasje, daar zitten toch vast jongens met gescheiden moeders.</seg>
+                <seg>Daarmee kan je gezellig samen op vakantie.'</seg>
+                <lb type="indent"/>
+                <seg>De moeders van Finns klasgenootjes, ik ken ze niet.</seg>
+                <seg>Aan de schoolpoort staan ze op een kluitje te praten.</seg>
+                <seg>Ze glimlachen naar me, ik glimlach naar hen.</seg>
+                <seg>Misschien verandert dat wanneer Finn volgend schooljaar naar het eerste
+                    leerjaar gaat.</seg>
+                <lb type="indent"/>
+                <seg>Vader had me de voucher met het vliegticket en de hotelboeking per mail
+                    verstuurd.</seg>
+                <seg>Een verdiend cadeau, had hij erbij geschreven.</seg>
+                <seg>Hotel Fiesta.</seg>
+                <seg>Drie maal per dag buffet, kinderanimatie, zwembaden, glijbanen en een
+                    privéstrand aan zee.</seg>
+                <lb/><lb/>
+                <seg>We zijn hooguit een uurtje op zee wanneer het schip vaart mindert.</seg>
+                <seg>Voor ons verschijnt onze magische bestemming.</seg>
+                <seg>Het eiland oogt verlaten, een uitgestrekte strandvlakte met enkele grote hutten
+                    van palmbladeren.</seg>
+                <lb type="indent"/>
+                <seg>We meren aan bij een krakkemikkige steiger.</seg>
+                <seg>De piraten helpen ons van boord over een gammel loopbrugje, daarna staan we
+                    bijeengepakt naast <del seq="20210106152917" type="context" evidence="17-21">het schip</del><add seq="20210106152919" type="context" evidence="20-32">het galjoen</add>.</seg>
+                <seg>We krijgen instructies: verderop aan de andere kant van dit eiland, ligt het
+                    strand.</seg>
+                <seg>Een strand zoals op de Bahama's, zeggen de piraten.</seg>
+                <seg>We hebben ruimschoots de tijd om van dat paradijs te genieten.</seg>
+                <seg>Pas over twee uur worden we verwacht in een van de grote hutten vlakbij de
+                    aanlegplaats voor onze lunch.</seg>
+                <seg>Op het dak van onze hut wappert een zwarte vlag met een wit piratenhoofd.</seg>
+                <lb type="indent"/>
+                <seg>Finn en ik dralen nog wat aan de kade.</seg>
+                <seg>De andere toeristen van ons schip, die al dapper aan de verkenningstocht van
+                    het eiland waren begonnen, zijn nog maar een tiental meters van ons verwijderd,
+                    wanne<add seq="20210106152942" type="context" evidence="44">e</add>r ze langs links en rechts belaagd worden door mannen op quads.</seg>
+                <seg>Ze dragen witte sjaals om hun hoofd en laten de motoren gevaarlijk en luid
+                    ronken.</seg>
+                <seg>Ook komen er enkele kamelen aandraven, de zitjes op hun rug waggelen van links
+                    naar rechts.</seg>
+                <lb type="indent"/>
+                <seg>Met open mond wijst Finn naar de dieren, naar de mannen op de quads.</seg>
+                <seg>Ik neem hem bij de hand en wil met hem naar de kamelen wandelen, maar hij plant
+                    zijn voetjes stevig in het zand.</seg>
+                <lb type="indent"/>
+                <seg>Dan hoor ik de oude piraat achter me.</seg>
+                <seg>In zijn handen heeft hij een grote koelzak.</seg>
+                <lb type="indent"/>
+                <seg>'Votre lunch,' zegt hij.</seg>
+                <lb type="indent"/>
+                <seg>En dat er geen flamingo's zijn deze tijd van het jaar.</seg>
+                <seg>Pas in november strijken ze hier neer.</seg>
+                <seg>Finn gaat vlak voor de piraat staan en strijkt weer met zijn vingertoppen over
+                    het zwaard dat aan zijn gordel bengelt.</seg>
+                <lb type="indent"/>
+                <seg>De kaper kroelt Finn even door zijn haar en zet dan koers naar de
+                    palmhut.</seg>
+                <lb type="indent"/>
+                <seg>De quads zijn ondertussen weer vertrokken, nu bestuurd door uitgelaten joelende
+                    toeristen.</seg>
+                <seg>Er zijn nog twee kamelen zonder ruiters, hun drijvers kijken om zich heen en
+                    gaan dan richting het volgende piratenschip dat net aangemeerd is.</seg>
+                <lb/><lb/>
+                <seg>De kust is veilig, Finn laat zich nu <del seq="20210106153407" type="context" evidence="98-106">met me </del>meevoeren richting het
+                    strand.</seg>
+                <seg>We ploeteren langzaam <del seq="20210106153351" type="context" evidence="70-73">in het zand</del><add seq="20210106153355" type="context" evidence="76-93">over de zandvlakte</add>, de zon brandt ongenadig, er is geen zuchtje
+                    wind op dit eiland.</seg>
+                <seg>Het lijkt alsof we een woestijn doorkruisen.</seg>
+                <seg>Een verdiend cadeau.</seg>
+                <lb type="indent"/>
+                <seg>'Is het nog ver?' vraagt Finn.</seg>
+                <lb type="indent"/>
+                <seg>In de verte zie ik het opstuivende zand van de quads, <add seq="20210106153421" type="context" evidence="112-121">maar nog g</add>een kustlijn<del seq="20210106153425" type="context" evidence="125-129"> kan ik niet zien</del>.</seg>
+                <lb type="indent"/>
+                <seg>'Ik ben moe,' zegt Finn.</seg>
+                <seg>Zijn <add seq="20210106153434" type="context" evidence="140-150">plakkerige </add>handje glijdt uit de mijne, twee seconden later zit hij neer in het hete
+                    zand.</seg>
+                <lb type="indent"/>
+                <seg>'Het is te warm om in de zon te zitten, pruts.</seg>
+                <seg>We moeten verder stappen.'</seg>
+                <lb type="indent"/>
+                <seg>Hij schudt zijn hoofdje, frult aan de gespen van zijn sandalen.</seg>
+                <lb type="indent"/>
+                <seg>Te moe voor een tot mislukken gedoemde pedagogische interventie, ga ik naast
+                    hem zitten.</seg>
+                <seg>Ik haal de zonnecrème nog eens boven.</seg>
+                <seg>Die bescherming kan ik hem bieden.</seg>
+                <lb/><lb/>
+                <seg>Na vijf minuten druipt het zweet in straaltjes van mijn slapen naar
+                    beneden.</seg>
+                <seg>Mijn bloesje kleeft aan mijn lijf.</seg>
+                <seg>Dan zie ik een schaduw naast me.</seg>
+                <seg>Ik kijk op, de man met de zwarte trainingsbroek staat naast ons.</seg>
+                <seg>Zijn sweater heeft hij om zijn middel gebonden.</seg>
+                <lb type="indent"/>
+                <seg>'Mon fils est fatigué,' zeg ik.</seg>
+                <seg>Te laat realiseer ik me hoe hulpeloos dat klinkt.</seg>
+                <lb type="indent"/>
+                <seg>De man hurkt voor Finn, met zijn rug naar hem toe.</seg>
+                <seg><del seq="20210106153614" type="context" evidence="162-165">Finn</del><add seq="20210106153618" type="context" evidence="167-169">Die</add> heeft meteen door dat hem een lift wordt aangeboden en slaat zijn armen om
+                    de man.</seg>
+                <seg>Hij kent hem niet, ik ken deze man niet en toch hangt hij op zijn rug, zijn
+                    hoofdje tegen hem aangevlijd.</seg>
+                <lb type="indent"/>
+                <seg>We ploeteren door het zand.</seg>
+                <seg>De man heet Mustafa.</seg>
+                <seg>Zijn stem klinkt hees.</seg>
+                <seg>Hij vertelt me dat het Flamingo eiland een scheireiland is, een smalle strook
+                    zand.</seg>
+                <seg>De kade ligt aan de ene lange zijde, het strand aan de andere kant.</seg>
+                <seg>We moeten ongeveer een kilometer stappen, zegt hij.</seg>
+                <seg>Ik ben te moe en te verdoofd door de warmte om vragen te stellen.</seg>
+                <seg>Dat we vastzitten aan het land en geen losgeslagen eiland zijn, lucht me
+                    op.</seg>
+                <lb type="indent"/>
+                <seg>Wanneer we het strand naderen, zie ik parasols van palmbladeren met witte
+                    plastic strandstoelen eronder.</seg>
+                <seg>Een vergeten lustoord dat wacht op de dagelijkse aanvoer van
+                    toeristenvlees.</seg>
+                <seg>Tussen de parasols scharrelen jongens met grote tassen op hun rug.</seg>
+                <lb type="indent"/>
+                <seg>Mustafa zet Finn neer.</seg>
+                <lb type="indent"/>
+                <seg>'Merci,' zeg ik.</seg>
+                <lb type="indent"/>
+                <seg>Mustafa knikt en beent met grote passen van ons weg.</seg>
+                <lb/><lb/>
+                <seg>Nu we dichterbij zijn zie ik hoe haveloos en verloederd het strand is.</seg>
+                <seg>De palmbladeren van de parasols zijn <del seq="20210106153731" type="context" evidence="180-188">verdroogd</del><add seq="20210106153740" type="context" evidence="191-119">gescheurd</add> en uitgerafeld, de meeste
+                    ligstoelen zijn kaduuk, het strand ligt vol lege blikjes, flesjes en aangespoeld
+                    afval.</seg>
+                <lb type="indent"/>
+                <seg>Ik laat Finn een plekje onder een parasol kiezen.</seg>
+                <seg>Meteen verschijnt een jongen die armbandjes verkoopt.</seg>
+                <seg>Het zijn moeilijke tijden, zegt hij.</seg>
+                <seg>Sinds de aanslagen droogde de stroom toeristen op.</seg>
+                <seg>Van de vijftien piratenschepen vaart nog maar amper een fractie uit naar het
+                    eiland.</seg>
+                <seg>Ik koop een armbandje met azuurblauwe kraaltjes en een flesje water van, ik
+                    laat hem het wisselgeld houden.</seg>
+                <lb type="indent"/>
+                <seg>Terwijl Finn op en neer springt in de kleine golven, probeer ik op mijn buik in
+                    het zand te lezen.</seg>
+                <seg><emph rend="italics">Heilbot op de maan</emph>.</seg>
+                <seg>Telkens ik een bladzijde omsla, weet ik dat de woorden alweer vervlogen
+                    zijn.</seg>
+                <seg>Mijn ogen registreren, maar ik neem niets in me op.</seg>
+                <seg>De hitte dreunt in mijn hoofd.</seg>
+                <lb type="indent"/>
+                <seg>Finn zit nu neergehurkt in het water.</seg>
+                <lb type="indent"/>
+                <seg>'Kom, mama,' roept hij.</seg>
+                <lb type="indent"/>
+                <seg>Het zeewater voelt heerlijk fris aan mijn voeten.</seg>
+                <seg>Finn toont me zijn vangst: een platte schelp met een binnenkant van
+                    parelmoer.</seg>
+                <lb type="indent"/>
+                <seg>'Hoe heet ze?' vraagt hij.</seg>
+                <lb type="indent"/>
+                <seg>'Pinctada radiata, Atlantische pareloester.'</seg>
+                <lb type="indent"/>
+                <seg>Finn laat het parelmoer flikkeren in het zonlicht.</seg>
+                <lb type="indent"/>
+                <seg>Het zeewater is glashelder, op de bodem<del seq="20210106153830" type="context" evidence="242"> glinsteren</del><add seq="20210106153830" type="context" evidence="244-250"> zie ik</add><add seq="20210106153807" type="context" evidence="209-221"> hier en daar</add> schelpen.</seg>
+                <seg>Samen met Finn ga ik op <del seq="20210106153842" type="context" evidence="258-266">schelpen</del>jacht.</seg>
+                <seg>We vinden kaurischelpen met goude stipjes, gevlochten fuikhoorn, een spierwitte
+                    stekelhoorn, alikruikjes en een grote voluta.</seg>
+                <seg>We verzamelen ze op het strand, leggen de schelpen op een rijtje naast elkaar
+                    op onze badhanddoek met palmbomenprint.</seg>
+                <lb type="indent"/>
+                <seg>'Mogen ze in de kast van papa?' vraagt Finn.</seg>
+                <lb type="indent"/>
+                <seg>'Ja, we geven ze een mooi plekje.'</seg>
+                <lb type="indent"/>
+                <seg>Thuis zal ik de schelpen schoonmaken en insmeren met olie om ze te doen
+                    glanzen.</seg>
+                <seg>Finn zal me daarmee helpen.</seg>
+                <seg>Op een identificatie kaartje zal ik de naam en vindplaats noteren, de schelpen
+                    dan zorgvuldig opbergen.</seg>
+                <seg>Ze zullen de lege plekken in de vitrinekast vullen.</seg>
+                <lb/><lb/>
+                <seg>Rondom ons beginnen de meeste toeristen al aan de terugweg naar de hut.</seg>
+                <seg>De mannen met de quads zijn miraculeus verdwenen, deze tocht moet iedereen te
+                    voet ondernemen.</seg>
+                <lb type="indent"/>
+                <seg>Ik geef Finn een plastic doosje voor onze <del seq="20210106154135" type="context" evidence="281">schelpen</del><add seq="20210106154143" type="context" evidence="285-292">schelpen</add>schat.</seg>
+                <seg>Hij bekijkt elk<del seq="20210106154157" type="context" evidence="303-310">e schelp</del><add seq="20210106154200" type="context" evidence="313-353"> exemplaar zorgvuldig, <del seq="20210106154213" type="context" evidence="369-398">legt ze dan voor<del seq="20210106154210" type="typo" evidence="354-355">is</del><add seq="20210106154211" type="context" evidence="356-368">zichtige in h</add></del></add><add seq="20210106154217" type="context" evidence="400-428">bergt ze dan voorzichtig op.</add><del seq="20210106154222" type="context" evidence="430-473"> voor hij ze erin stopt.</del></seg>
+                <seg>Enkel de schelp met het parelmoer mag er niet in, die houdt hij in zijn
+                    handje.</seg>
+                <lb type="indent"/>
+                <seg>'Kom, we gaan.'</seg>
+                <lb type="indent"/>
+                <seg>Finn kijkt om zich heen.</seg>
+                <seg>Daar is zijn drager weer.</seg>
+                <seg><del seq="20210106154231" type="context" evidence="476-479">Mustafa komt onze richting uit.</del></seg>
+                <lb type="indent"/>
+                <seg>Deze keer probeer ik een gesprek met <del seq="20210106154440" type="context" evidence="485-487">hem</del><add seq="20210106154442" type="context" evidence="490-496">Mustafa</add> op gang te brengen, maar mijn vragen
+                    blijven onbeantwoord.</seg>
+                <seg>Hij doet alsof hij me niet hoort.</seg>
+                <lb/><lb/>
+                <seg>We komen als laatste aan in de hut die vanbinnen verrassend groot is.</seg>
+                <seg>Het doet me goed om uit de zon te zijn, alsof ik eindelijk naar adem kan happen
+                    na een lange tijd onder water.</seg>
+                <lb type="indent"/>
+                <seg>Er staan houten picknicktafels opgesteld in een cirkel<del seq="20210106154631" type="context" evidence="512-514">, i</del><del seq="20210106154700" type="context" evidence="534-536"><add seq="20210106154633" type="context" evidence="517-521">. I</add></del><add seq="20210106154702" type="context" evidence="537-542"> met i</add>n het midden <del seq="20210106154653" type="context" evidence="526">zien we </del>onze piraten.</seg>
+                <seg>Ze zingen en kloppen met lepels op pannen.</seg>
+                <seg>Voor hen staan houten schragen, met daarop een rood met wit geblokt tafellaken
+                    en dampende wokpannen.</seg>
+                <seg>Netjes in een rij schuiven onze medepassagiers aan voor het eten.</seg>
+                <lb type="indent"/>
+                <seg>Finn en ik <add seq="20210106154726" type="context" evidence="560-587">kiezen een van de nog vrije</add><del seq="20210106154733" type="context" evidence="589">nemen <del seq="20210106154715" type="context" evidence="545">de laatste nog</del><add seq="20210106154717" type="context" evidence="548-551">een</add> vrije</del> tafel<add seq="20210106154733" type="context" evidence="592-596">s uit</add>.</seg>
+                <seg>Pas wanneer de wachtrij geslonken is, staan we op.</seg>
+                <seg>Net als in het buffetrestaurant in ons hotel, wordt het eten voor ons op het
+                    bord geschept.</seg>
+                <seg>Er is salade, gebakken vis, couscous, een stoverij van groenten.</seg>
+                <seg>Het ruikt heerlijk.</seg>
+                <lb type="indent"/>
+                <seg>'Ik lust dat niet,' piept Finn wanneer we vlak voor de piraten staan.</seg>
+                <lb type="indent"/>
+                <seg>'Er is ook brood,' zeg ik.</seg>
+                <lb type="indent"/>
+                <seg>Finn laat zijn bord volscheppen en houdt het ver voor zich uit wanneer we terug
+                    naar onze tafel stappen.</seg>
+                <seg>Hij duwt zijn bord voor mijn neus, zodat ik twee borden voor me heb.</seg>
+                <seg>Hij knabbelt zuinig op een stuk platbrood.</seg>
+                <lb type="indent"/>
+                <seg>Mustafa schuift bij ons aan.</seg>
+                <seg>Zijn zonnebril gaat af, voor het eerst zie ik zijn ogen.</seg>
+                <seg>Ze zijn donker en koud.</seg>
+                <seg>Wanneer hij mijn twee borden ziet, schieten zijn wenkbrauwen omhoog.</seg>
+                <lb type="indent"/>
+                <seg>'Bon appétit,' zeg ik.</seg>
+                <lb type="indent"/>
+                <seg>Mustafa begint gehaast te eten.</seg>
+                <seg>Hij schrokt.</seg>
+                <lb type="indent"/>
+                <seg>Plots regent er zand in zijn bord.</seg>
+                <seg>Ik kijk omhoog.</seg>
+                <seg>Dwarrelt het doorheen het dak van palmbladeren?</seg>
+                <seg>Een zandstorm?</seg>
+                <seg>Ook Mustafa kijkt rond, vindt de oorzaak van de zandregen en kijkt me nors
+                    aan.</seg>
+                <seg>Op de grond, vlak naast hem, graaft Finn een kuil.</seg>
+                <seg><del seq="20210106154901" type="context" evidence="613-616"><add seq="20210106154900" type="context" evidence="609-612">Hij </add></del><add seq="20210106154902" type="context" evidence="618-627">De At<del seq="20210106154905" type="typo" evidence="628-631">slat</del></add><add seq="20210106154906" type="context|continue" evidence="632-638">la<del seq="20210106154907" type="typo" evidence="639-643">tnisc</del></add><add seq="20210106154910" type="context|continue" evidence="644-664">ntische pareloe<del seq="20210106154913" type="typo" evidence="665-670">rster</del></add><add seq="20210106154915" type="context|continue" evidence="671-676">st<del seq="20210106154916" type="typo" evidence="677-680">r ge</del></add><add seq="20210106154916" type="context|continue" evidence="681-714">er gebruikt hij als schepje, zoa</add><del seq="20210106154923" type="context" evidence="612">A</del>ls een hondje laat hij het zand achter zich opvliegen.</seg>
+                <lb type="indent"/>
+                <seg>'Stop daarmee, onmiddellijk.'</seg>
+                <seg>Mijn stem klinkt hard<del seq="20210106154930" type="context" evidence="722"> en luid</del>.</seg>
+                <lb type="indent"/>
+                <seg>Finn schrikt, kijkt me met grote ogen aan en begint te huilen.</seg>
+                <seg>Hij kruipt in zijn plekje onder mijn oksel, snikt en snottert.</seg>
+                <seg>Mustafa schuift zijn bord met een zucht opzij.</seg>
+                <seg>Ik bied hem mijn tweede bord aan, zonder zand, hij schudt het hoofd.</seg>
+                <lb type="indent"/>
+                <seg>'Mijn papa is dood.'</seg>
+                <seg>Finn zit recht nu, zijn stem klinkt ferm en hij kijkt Mustafa strijdlustig
+                    aan.</seg>
+                <seg>Die richt zijn blik nu op mij.</seg>
+                <lb type="indent"/>
+                <seg>'Qu'est qu'il dit?'</seg>
+                <lb type="indent"/>
+                <seg>'Son père est mort.'</seg>
+                <lb type="indent"/>
+                <seg>Mustafa kijkt me recht in de ogen.</seg>
+                <seg>Ik zou hem willen vertellen dat Finn en ik <del seq="20210106154936" type="context" evidence="725">een schip</del><add seq="20210106154937" type="context" evidence="729-739">een bootje</add> zijn, dat we ons anker
+                    kwijt raakten, dat we blijven varen zonder koers te houden, dat we niet kunnen
+                    aanmeren<del seq="20210106154943" type="context" evidence="744-748">, ook hier niet</del>.</seg>
+                <lb type="indent"/>
+                <seg>Mustafa knikt naar me, legt zijn hand even op Finns hoofdje en verdwijnt dan
+                    uit de hut.</seg>
+                <lb/><lb/>
+                <seg>De <del seq="20210106155118" type="context" evidence="764-770">piraten</del><add seq="20210106155119" type="context" evidence="771-781">zeerovers</add> slaan weer met hun lepels op de pannen.</seg>
+                <seg>Het is tijd voor animatie.</seg>
+                <seg>Ze slepen zitbanken naar het midden van de hut, daarop moeten we plaatsnemen,
+                    zo meteen begint het spektakel.</seg>
+                <seg>Met tegenzin laat Finn zich meesleuren naar een ban<del seq="20210106155130" type="typo" evidence="787">d</del><add seq="20210106155131" type="typo" evidence="788">k</add> op de laatste rij.</seg>
+                <lb type="indent"/>
+                <seg>De piraten voeren een komische act op.</seg>
+                <seg>Aan een snel tempo volgen moppen en skètches over Duitse, Franse en Engelse
+                    toeristen.</seg>
+                <seg>Ze zijn werkelijk van alle markten thuis.</seg>
+                <seg>De frêle vrouw naast me buldert van het lachen.</seg>
+                <lb type="indent"/>
+                <seg>Finn knijpt in mijn hand.</seg>
+                <seg>Zijn hoofdje leunt tegen me aan, zodat hij tussen de schouders van het koppel
+                    voor ons kan kijken.</seg>
+                <seg>Zijn haren kleven tegen mijn bovenarm.</seg>
+                <lb type="indent"/>
+                <seg>'De piraten zijn grappig,' fluistert hij.</seg>
+                <seg>Hun gekke bekken en overdreven mimiek zijn voor hem genoeg.</seg>
+                <lb type="indent"/>
+                <seg>Finns hoofdje maakt zich los van mijn arm.</seg>
+                <seg>Twee rijen voor ons staat een vrouw bruusk op.</seg>
+                <seg>Ze zegt luid dat ze haar geld terug wil, ze begrijpt niets van dat Frans.</seg>
+                <seg>In elk land spreekt men Engels, waarom doen ze hier die kleine moeite
+                    niet?</seg>
+                <seg>Ze blijft even naast de zitbanken staan, wachtend op respons, op een
+                    muiterij.</seg>
+                <seg>Geen van de andere toeristen reageert en de piraten gaan door.</seg>
+                <lb type="indent"/>
+                <seg>Dan pas zie ik dat Mustafa naast ons zit, Finns hoofdje leunt nu tegen hem
+                    aan.</seg>
+                <lb/><lb/>
+                <seg>De dag zit erop, zeggen de piraten.</seg>
+                <seg>Het is nog maar net iets over twee, maar we moeten alweer aan boord.</seg>
+                <lb type="indent"/>
+                <seg>Het schip zet er vaart achter, we klieven aan een hoog tempo door de zee.</seg>
+                <seg>Opnieuw zitten we bijeengepakt in het middenschip.</seg>
+                <seg>Het blanke vlees rondom mij kleurt nu rood.</seg>
+                <seg>Het bier dat tegen betaling bij de lunch te krijgen was, heeft zijn werk
+                    gedaan, de sfeer is uitgelaten.</seg>
+                <seg>Er wordt geroepen, gelachen en gedanst.</seg>
+                <seg>Ik zoek Mustafa, maar vind hem niet.</seg>
+                <seg>Is hij op het eiland gebleven?</seg>
+                <seg>Ik zou hem mee naar huis kunnen nemen.</seg>
+                <seg>Zodat Finn niet meer enkel tegen mij aanleunt, zodat hij iemand heeft om hem te
+                    dragen.</seg>
+                <lb type="indent"/>
+                <seg>De motoren van het schip slaan we af.</seg>
+                <seg>We minderen vaart en nemen een bocht.</seg>
+                <lb type="indent"/>
+                <seg>'Dauphins!' roept een van de piraten en hij wijst naar de plek waar hij de dieren
+                    zag.</seg>
+                <lb type="indent"/>
+                <seg>Een deining gaat door het schip, onze medepassagiers dringen en duwen voor een
+                    plekje aan de reling, smartphones en fototoestellen klaar in de aanslag.</seg>
+                <seg>Dan wordt het stil, een gespannen verwachtingsvolle stilte.</seg>
+                <seg>Finn en ik wurmen ons ertussen, de ballustrade duwt in mijn buik.</seg>
+                <lb type="indent"/>
+                <seg>'Ooh!'</seg>
+                <seg>Daar zijn ze, twee dolfijnen springen op uit de golven.</seg>
+                <seg>Hun gladde lijven glinsteren in de zon.</seg>
+                <seg>Ze gaan onder, verdwijnen even, springen dan weer op, dichter bij het
+                    schip.</seg>
+                <seg>Ik voel tranen opwellen, slik ze weg.</seg>
+                <seg>Dolfijnen zijn de enige dieren die zelfmoord kunnen plegen.</seg>
+                <seg>Ze houden hun adem in en zinken naar de zeebodem.</seg>
+                <seg>Ik vraag me af of hun soortgenoten dan rouwen, gaan zoeken op de bodem van de
+                    zee.</seg>
+                <add seq="20210106155243" type="layout" evidence="801"><lb type="indent"/></add>
+                <seg><add seq="20210106155243" type="nt" evidence="801-827">Finn le<del seq="20210106155249" type="pre-context" evidence="823-847">gt zijn hoofdje op m</del></add><add seq="20210106155251" type="nt|continue" evidence="848-865">unt met zijn hoof<del seq="20210106155254" type="typo" evidence="866">j</del></add><add seq="20210106155255" type="nt|continue" evidence="867-872">dje t<del seq="20210106155256" type="typo" evidence="873">g</del></add><add seq="20210106155256" type="nt|continue" evidence="874-886">egen me aan.</add></seg>
+                <add seq="20210106155300" type="layout" evidence="892"><lb type="indent"/></add>
+                <seg><add seq="20210106155300" type="nt" evidence="892-910">Ze zijn zo mooi,<del seq="20210106155305" type="pre-context" evidence="911">'</del></add><add seq="20210106155305" type="nt|continue" evidence="912-917"> mama<del seq="20210106155307" type="pre-context" evidence="918">'</del></add><del seq="20210106155309" type="context" evidence="926-934"><add seq="20210106155307" type="nt|continue" evidence="920-925">. En </add></del><add seq="20210106155311" type="context" evidence="935-947">,' zegt hij.</add></seg>
+                <seg><add seq="20210106155314" type="nt" evidence="949-955">'En z<del seq="20210106155316" type="pre-context" evidence="956">i</del></add><add seq="20210106155316" type="nt|continue" evidence="957-977">e zijn altijd blij.'</add></seg>
+                <lb type="indent"/>
+                <seg>Dan zie ik Mustafa wat verder<del seq="20210106155325" type="context" evidence="988"> </del>op staan, ook hij leunt over de reling, alsof hij
+                    zo dichter bij de dolfijnen komt.</seg>
+                <seg><add seq="20210106155709" type="nt" evidence="1096-1113">Voor het eerst <del seq="20210106155713" type="typo" evidence="1114-1116">fli</del></add><add seq="20210106155713" type="nt|continue" evidence="1117-1139">glimlacht hij naar me.</add></seg>
+                <lb type="indent"/>
+                <del seq="20210106160900" type="context" evidence="2322-2324"><seg>Waarom ontroeren deze waterdieren zo?</seg>
+                <seg>Omdat ze lijken te glimlachen?</seg>
+                <seg>Omdat ze zo aaibaar en lief lijken?</seg>
+                    <lb type="indent"/>
+                <seg>Finn is stil, waar denkt hij aan?</seg>
+                <seg>Rondom ons blijven de 'ooh' kreten weerklinken, telkens de dolfijnen
+                    opspringen.</seg>
+                <seg>Soms blijven ze wat langer onder water, om dan aan de andere kant van de boot
+                    weer op te duiken.</seg>
+                    <lb type="indent"/>
+                <seg>Waar komt mijn ontroering vandaan?</seg>
+                <seg>Is het de vermoeidheid?</seg></del>
+            </p>
+            
+                <p>
+                    <add seq="20210106153816" type="focus" evidence="231">Focus events<lb/>
+                        <media url="Google" mimeType="internet"><desc>Safe Search - Google Chrome</desc></media></add>
+                    <lb/>
+                    <add seq="20210106155814" type="focus" evidence="1145-1153"><media url="Google" mimeType="internet"><desc>uitdrukkingen scheepvaart - Google zoeken</desc></media></add>
+                    <lb/>
+                    <add seq="20210106155825" type="focus" evidence="1160"><media url="Google" mimeType="internet"><desc>Zeilen: Spreekwoorden | Kunst en Cultuur: Taal</desc></media></add>
+                    <lb/>
+                    <add seq="20210106160216" type="focus" evidence="1849"><media url="Google" mimeType="internet"><desc>Zeilen: Spreekwoorden | Kunst en Cultuur: Taal</desc></media></add>
+                    <lb/>
+                    <add seq="20210106160319" type="focus" evidence="1912"><media url="Google" mimeType="internet"><desc>Zeilen: De onderdelen en hun doel | Sport: Watersport</desc></media></add>
+                    <lb/>
+                    <add seq="20210106160339" type="focus" evidence="1958"><media url="Google" mimeType="internet"><desc>Zeilen: Spreekwoorden | Kunst en Cultuur: Taal</desc></media></add>
+                    <lb/>
+                    <add seq="20210106160340" type="focus" evidence="1960"><media url="Google" mimeType="internet"><desc>uitdrukkingen scheepvaart - Google zoeken</desc></media></add>
+                    <lb/>
+                    <add seq="20210106160348" type="focus" evidence="1972"><media url="Google" mimeType="internet"><desc>Nederlandse spreekwoorden, gezegden, citaten, uitdrukkingen, spreuken, aforismen en volkswijsheden. (Online Spreekwoordenboek)</desc></media></add>
+                    <lb/>
+                    <add seq="20210106160425" type="focus" evidence="2024"><media url="Google" mimeType="internet"><desc>uitdrukkingen scheepvaart - Google zoeken</desc></media></add>
+                    <lb/>
+                    <add seq="20210106160434" type="focus" evidence="2038-2040"><media url="Google" mimeType="internet"><desc>De beste zeelui staan aan de Nederlandse wal: Maritieme uitdrukkingen en gezegden | IsGeschiedenis</desc></media></add>
+                    <lb/>
+                    <add seq="20210106160511" type="focus" evidence="2148"><media url="Google" mimeType="internet"><desc>uitdrukkingen scheepvaart - Google zoeken</desc></media></add>
+                    <lb/>
+                    <add seq="20210106160518" type="focus" evidence="2151-2182"><media url="Google" mimeType="internet"><desc>spreekwoorden schepen - Google zoeken</desc></media></add>
+                    <lb/>
+                    <add seq="20210106160537" type="focus" evidence="2202"><media url="Google" mimeType="internet"><desc>spreekwoorden maritiem - Google zoeken</desc></media></add>
+                    <lb/>
+                    <add seq="20210106160550" type="focus" evidence="2220"><media url="Google" mimeType="internet"><desc>Nederlandse spreekwoorden, gezegden, citaten, uitdrukkingen, spreuken, aforismen en volkswijsheden. (Online Spreekwoordenboek)</desc></media></add>
+                    <lb/>
+                    <add seq="20210106160553" type="focus" evidence="2224"><media url="Google" mimeType="internet"><desc>spreekwoorden maritiem - Google zoeken</desc></media></add>
+                    <lb/>
+                    <add seq="20210106160609" type="focus" evidence="2254-2279"><media url="Google" mimeType="internet"><desc>uitdrukkingen maritiem - Google zoeken</desc></media></add>
+                    <lb/>
+                    <add seq="20210106160617" type="focus" evidence="2295"><media url="Google" mimeType="internet"><desc>Vaartips.nl - tippagina U</desc></media></add>
+                    <lb/>
+            </p>
+            
+            
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,605 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Constellaties</title>
+                <author>Jens Meijen</author>
+                <respStmt>
+                    <name>Lamyk Bekius</name>
+                    <resp>encoding scheme, TEI customization, encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p corresp="section">Constellaties</p>
+                <p corresp="session">7</p>
+                <p corresp="version">3</p>
+                <p corresp="total_versions">6</p>
+                <p corresp="name">Jens_Meijen</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <l>Date: 04-08-2020</l>
+                    <l>Start time: 21:28</l>
+                    <l>Duration: 1 uur en 34 minuten</l>
+                </p>
+                <p><linkGrp><link prev="02_s04" n="03_s07" next="04_s08"/></linkGrp></p>
+                <p>
+                    <material corresp="01_s01">Sessie-versie 1</material>
+                    <material corresp="02_s04">Sessie-versie 2</material>
+                    <material corresp="03_s07">Sessie-versie 3</material>
+                    <material corresp="04_s08">Sessie-versie 4</material>
+                    <material corresp="05_s10">Sessie-versie 5</material>
+                    <material corresp="06_s11">Sessie-versie 6</material>
+                    <material corresp="Final">Gepubliceerde tekst</material>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><seg>(notities uit facebook messenger genomen tijdens de parijsresidentie van
+                    deburen) </seg><lb/>
+                <seg>twee mensen op terras café, turven hoeveel mensen in een hondendrol stappen
+                    </seg><lb/>
+                <seg>ruziemakende mensen balkon </seg><lb/>
+                <seg>Rue Cassini </seg><lb/>
+                <seg>Alain Fournier, mysterieuze verdwijning </seg><lb/>
+                <seg>stad probeert verdwijning uit te leggen?</seg>
+                <lb/>
+                <seg>set noveltyshotglaasjes als cadeau </seg><lb/>
+                <seg>met touw waslijn tss twee bomen gehangen </seg><lb/>
+                <seg>beige stofwolken, weerkaatsend licht, jqrdin du luxembourg </seg><lb/>
+                <seg>standbeeld van jongen zonder gezicht houdt masker omhoog dat aan twee kanten
+                    een aangezicht heeft </seg><lb/>
+                <seg>sprinkhaan op pols </seg><lb/>
+                <seg>ristorante terra nova om hoek panthéon </seg><lb/>
+                <seg>bang zijn van spiegels?</seg>
+                <lb/>
+                <seg>diagram van winkel zo gevaarlijke zones inkleuren om te vermijden </seg><lb/>
+                <seg>mensen die dingen verplaatsen 's nachts en wo boodschappen overbrengen
+                    </seg><lb/>
+                <seg>straten die tegen hem spreken </seg><lb/>
+                <seg>soort tarot-detectiveverhaal sterrenbeelden </seg><lb/>
+                <seg>ik wil smokkelaar worden </seg><lb/>
+                <del seq="20200804215716" type="translocation" evidence="2909"><seg>Kijk, je kan de stad zien van hier.</seg>
+                <seg>Als de aarde rond was, zou d ronding van de aarde ervoor zorgen dat je de stad
+                    niet kon zien.</seg>
+                <seg>Dan was het gewoon een vlakke horizon; toch?</seg>
+                <lb/>
+                <seg>Er zijn veel discussies overwat nu precies het model is - is de aarde een
+                    ruimteschip, een vliegende schotel, weet je wel, of omkoepeld met een soort
+                    edelmetaal waarop dan de lucht geprojecteerd wordt.</seg></del>
+                <lb/>
+                <seg>complottheorieën </seg><lb/>
+                <seg>Alle metro's vertrekken op exact hetzelfde moment middernacht </seg><lb/>
+                <seg>overal spetters op de grond, maken beekjes </seg><lb/>
+                <seg>maken boodschappen?</seg>
+                <lb/>
+                <seg>man loopt door parijs op zoek naar </seg><lb/>
+                <seg>cold open in parijs </seg><lb/>
+                <seg>uiteindelijk duidelijk dat er geen aanleiding is </seg><lb/>
+                <seg>familielid ook een soort hallucinatie veroorzaakt door de stad?</seg>
+                <lb/>
+                <seg>https://nl.wikipedia.org/wiki/Cassini-Huygens </seg><lb/>
+                <seg>detectiveverhaal </seg><lb/>
+                <seg>moord/verdwijning --&gt; identificatie verdachten --&gt; ondervraging verdachten --&gt;
+                    oplossing </seg><lb/>
+                <seg>verdwijning = vervreemd familielid </seg><lb/>
+                <seg>verdachten = specifieke dingen in de stad </seg><lb/>
+                <seg>praat met vuilnisbakken / katten / deuren / bomen (saai) </seg><lb/>
+                <seg>draaiende kebabhomp </seg><lb/>
+                <seg>kip draaiend aan het spit </seg><lb/>
+                <seg>subwoofer van getunede subaru impreza </seg><lb/>
+                <seg>groen kruis van de apotheek pharmacie de la glacière </seg><lb/>
+                <seg>mysterieuze vochtplassen in uitgedroogde straten </seg><lb/>
+                <seg>schedels in de catacomben klinken gedempt, kan het familielid er niet in
+                    onderscheiden </seg><lb/>
+                <seg>mondmaskers of niet?</seg>
+                <lb/>
+                <seg>stad leidt hem ergens heen </seg><lb/>
+                <seg>meta: architectuur van het verhaal is de architectuur van de stad </seg><lb/>
+                <seg><add seq="20200804212819" type="nt" evidence="21-31">Ik weet  <del seq="20200804212821" type="pre-context" evidence="32-34">et</del></add><add seq="20200804212821" type="nt|continue" evidence="35-42">niet <del seq="20200804212822" type="typo" evidence="43-45">zqn</del></add><add seq="20200804212822" type="nt|continue" evidence="46-52"><del seq="20200804212823" type="typo" evidence="53-56">wqnnee</del></add><add seq="20200804212824" type="nt|continue" evidence="57-80">wanneer het begonnen is. </add></seg><seg><add seq="20200804212828" type="nt" evidence="83-102"><del seq="20200804213026" type="pre-context" evidence="269-281">De zoektocht</del><add seq="20200804213027" type="pre-context" evidence="292-299"><del seq="20200804213140" type="pre-context" evidence="303">misschien</del></add><del seq="20200804212830" type="typo" evidence="103">; bedo</del></add><add seq="20200804212831" type="nt|continue" evidence="107-117"><del seq="20200804213458" type="pre-context" evidence="361">, bedoel ik</del></add><add seq="20200804213458" type="nt|continue" evidence="363-369">- op <del seq="20200804213500" type="typo" evidence="373-275">jet</del></add><add seq="20200804213501" type="nt|continue" evidence="378-390">het <del seq="20200804213502" type="typo" evidence="391">mooment</del></add><add seq="20200804213503" type="nt|continue" evidence="394-408">moment d<del seq="20200804213504" type="typo" evidence="409">qt ik </del><add seq="20200804213505" type="nt|continue" evidence="415">at <del seq="20200804213507" type="typo" evidence="427">ok</del></add></add><add seq="20200804213507" type="nt|continue" evidence="429-449">ik de br<del seq="20200804213510" type="typo" evidence="450-456">ife in mijn</del></add><add seq="20200804213511" type="nt|continue" evidence="459-573">ef in mijn handen geduwd kreeg van de postbode, diep in de nacht, terwijl de dauw van de nokken van de daken droop, en de honden blaften in de verte<del seq="20200804213900" type="pre-context" evidence="672">,</del><add seq="20200804213900" type="pre-context" evidence="674">.</add> <del seq="20200804213605" type="pre-context" evidence="648">de</del><add seq="20200804213605" type="pre-context" evidence="648-670"><del seq="20200804213903" type="pre-context" evidence="680">e</del><add seq="20200804213903" type="pre-context" evidence="682">E</add>nkele</add> sirenes<del seq="20200804213905" type="pre-context" evidence="692-698"> vaag en</del><add seq="20200804213906" type="pre-context" evidence="699">,</add> omineus</add><add seq="20200804213910" type="nt|continue" evidence="706">. </add></seg><seg><add seq="20200804213922" type="nt" evidence="718-733">Ik vroeg me <del seq="20200804213924" type="pre-context" evidence="734-736">net</del></add><add seq="20200804213925" type="nt|continue" evidence="745-780">niet af waarom de postbode om midde<del seq="20200804213934" type="typo" evidence="781-782">nr</del></add><add seq="20200804213934" type="nt|continue" evidence="783-798">rnacht <del seq="20200804213937" type="pre-context" evidence="799-802">voor de</del></add><add seq="20200804213940" type="nt|continue" evidence="805-824">de post rondbracht. </add></seg><seg><add seq="20200804213948" type="nt" evidence="831-850">Ik vroeg me ni<del seq="20200804213950" type="typo" evidence="851-856">te qf</del></add><add seq="20200804213951" type="nt|continue" evidence="857-891">et af waarom er <del seq="20200804213957" type="pre-context" evidence="892-903">een woord op mijn n</del> </add><add seq="20200804213959" type="nt|continue" evidence="904-919">een bevel op <del seq="20200804214001" type="pre-context" evidence="920">m</del></add><add seq="20200804214001" type="nt|continue" evidence="921-951">de muur van mijn slaapkamer w<del seq="20200804214006" type="typo" evidence="952">s</del></add><add seq="20200804214006" type="nt|continue" evidence="954-989">as verschenen: 'Ga naar buiten.' </add></seg><seg><add seq="20200804214025" type="nt" evidence="1003-1060">Toen ik de brief eenmaal op de keukentafel <del seq="20200804215239" type="context" evidence="2708">gooide</del><add seq="20200804215239" type="context" evidence="2708-2713">legde</add>, <del seq="20200804214035" type="typo" evidence="1061-1063">omm</del></add><add seq="20200804214035" type="nt|continue" evidence="1064-1085">mompelde ik bij me<del seq="20200804214038" type="typo" evidence="1086-1089">welf</del></add><add seq="20200804214039" type="nt|continue" evidence="1090-1095">zelf</add></seg>
+               
+                <seg><del seq="20200804214042" type="context" evidence="1100-1149">Toen ik de brief in mijn handen gedrukt kreeg van de postbode, dacht ik meteen</del>:
+                    'Wie the fuck stuurt tegenwoordig nog een brief?</seg>
+                <seg><del seq="20200804213438" type="context" evidence="320-348">Dan moet het al wel héél belangrijk zijn.'</del></seg>
+                <lb/>
+                <seg><add seq="20200804214055" type="nt" evidence="1161-1208"><del seq="20200804214125" type="pre-context" evidence="1238-1242">In de </del><add seq="20200804214126" type="pre-context" evidence="1246-1247">De</add>brief <del seq="20200804214127" type="pre-context" evidence="1254">stond dat</del><add seq="20200804214128" type="pre-context" evidence="1257-1270">was van</add> mijn oom<add seq="20200804214535" type="context" evidence="1768-1780"> in Parijs</add>, Alain <del seq="20200804214104" type="typo" evidence="1209-1215">Frou</del></add><add seq="20200804214105" type="nt|continue" evidence="1212-1220"><del seq="20200804214516" type="context" evidence="1725">Fournier</del>, <del seq="20200804214135" type="pre-context" evidence="1289">vermist</del></add><add seq="20200804214135" type="nt|continue" evidence="1289-1324">die <del seq="20200804214750" type="context" evidence="2005">zei</del><add seq="20200804214752" type="context" evidence="2005-2015">schreef</add> dat hij<del seq="20200804214812" type="context" evidence="2027">, als ik dit </del><del seq="20200804214139" type="typo" evidence="1325-1326">wo</del></add><add seq="20200804214140" type="nt|continue" evidence="1327-1362"><del seq="20200804214812" type="context|continue" evidence="2027">zou lezen,</del> <del seq="20200804214159" type="pre-context" evidence="1430-1436">vermist en</del> vermoord <del seq="20200804214145" type="typo" evidence="1363">zas</del></add><add seq="20200804214146" type="nt|continue" evidence="1366-1375"><del seq="20200804214816" type="context" evidence="2044-2047">zou zijn</del><add seq="20200804214817" type="context" evidence="2049-2052">was</add>. </add></seg>
+                <seg><add seq="20200804214918" type="context" evidence="2212">'</add><add seq="20200804214149" type="nt" evidence="1378-1414">Het is daardoor <del seq="20200804214834" type="context" evidence="2078">mijn</del><add seq="20200804214835" type="context" evidence="2078-2085">jouw</add> taak <del seq="20200804214158" type="pre-context" evidence="1417">m</del></add><add seq="20200804214159" type="nt|continue" evidence="1418-1425">om <del seq="20200804214206" type="pre-context" evidence="1444">zijn</del></add><add seq="20200804214206" type="nt|continue" evidence="1447-1484">de daders te vatten,<add seq="20200804214921" type="context" evidence="2216">'</add> schreef hij. </add></seg><seg><add seq="20200804214929" type="nt" evidence="2233-2284">'Ga naar het adres onderaan en vraag naar de muur. </add></seg><seg><add seq="20200804214951" type="nt" evidence="2287-2304">Dan zal je <del seq="20200804214953" type="typo" evidence="2305">knnen</del></add><add seq="20200804214955" type="nt|continue" evidence="2314-2329">kunnen zien w<del seq="20200804214958" type="typo" evidence="2330">e</del></add><add seq="20200804214958" type="nt|continue" evidence="2331-2353">ie het gedaan heeft.' </add></seg>
+                <seg><add seq="20200804214538" type="nt" evidence="1782-1791">Stuur da<del seq="20200804214539" type="typo" evidence="1792"> t</del></add><add seq="20200804214540" type="nt|continue" evidence="1795-1812">n toch gewoon ee<del seq="20200804214542" type="typo" evidence="1813-1814">, </del></add><add seq="20200804214543" type="nt|continue" evidence="1815-1831">n mail, <del seq="20200804214556" type="typo" evidence="1832-1835">ala</del></add><add seq="20200804214556" type="nt|continue" evidence="1836-1846">Alain<del seq="20200804214652" type="context" evidence="1859-1860">. </del></add><add seq="20200804214653" type="context" evidence="1861-1887"><del seq="20200804214845" type="context" evidence="2104">, foeterde ik, dan was <del seq="20200804214658" type="context" evidence="1888">r</del></del></add><add seq="20200804214658" type="context" evidence="1890-1912"><del seq="20200804214846" type="context|continue" evidence="2105">er misschien nog tijd. </del></add><add seq="20200804214846" type="context" evidence="2104-2119">, idioot<del seq="20200804215016" type="context" evidence="2382">.</del><add seq="20200804214914" type="context" evidence="2208"><del seq="20200804215016" type="context|continue" evidence="2383">'</del></add></add><add seq="20200804215018" type="context" evidence="2392-2409">, mompelde ik. </add></seg>
+                <seg><add seq="20200804215256" type="nt" evidence="2739-2764">Typisch dat hij weer <del seq="20200804215259" type="typo" evidence="2765-2766">wo</del></add><add seq="20200804215300" type="nt|continue" evidence="2768-2792">zo mysterieus moet doen. </add></seg><seg><add seq="20200804215303" type="nt" evidence="2795-2820">Altijd <del seq="20200804215306" type="pre-context" evidence="2821-2830">een schrijver gezee</del></add><add seq="20200804215308" type="pre-context" evidence="2831-2850">een soort schrijver ge<del seq="20200804215308" type="typo" evidence="2852-2862">zee</del></add><add seq="20200804215312" type="nt|continue" evidence="2855">weest, Alain, <del seq="20200804215316" type="pre-context" evidence="2878-2879">ee</del></add><add seq="20200804215316" type="nt|continue" evidence="2880-2891">de fantast. </add></seg>
+                <seg><add seq="20200804215023" type="nt" evidence="2413-2422">Een trein<del seq="20200804215024" type="typo" evidence="2423">d</del></add><add seq="20200804215024" type="nt|continue" evidence="2424-2438">conducteur <del seq="20200804215029" type="typo" evidence="2438-2439">wz</del></add><add seq="20200804215029" type="nt|continue" evidence="2441-2443">zwa<del seq="20200804215030" type="typo" evidence="2444">i</del></add><add seq="20200804215031" type="nt|continue" evidence="2451-2458">ait met <del seq="20200804215033" type="typo" evidence="2459">w</del></add><add seq="20200804215033" type="nt|continue" evidence="2460-2496">zijn <add seq="20200804215037" type="pre-context" evidence="2497-2525">digitale ticket</add>scanner voor mijn ogen</add><add seq="20200804215041" type="nt|continue" evidence="2527">. </add></seg>
+                <seg><add seq="20200804215042" type="nt" evidence="2528-2530">'ça va, m<del seq="20200804215056" type="pre-context" evidence="2566-2572">onsieur</del></add><add seq="20200804215057" type="nt|continue" evidence="2573-2581">'sieur?'</add></seg>
+                <seg><add seq="20200804215151" type="nt" evidence="2584-2599">'Jaja<del seq="20200804215155" type="typo" evidence="2600">;</del></add><add seq="20200804215156" type="nt|continue" evidence="2602-2625">, mompel ik, en du<del seq="20200804215219" type="typo" evidence="2627">z</del></add><add seq="20200804215219" type="nt|continue" evidence="2629-2660">w mijn verfomfaaide ticket in <del seq="20200804215223" type="typo" evidence="2661-2662">wi</del></add><add seq="20200804215223" type="nt|continue" evidence="2663-2678">zijn handen<del seq="20200804215226" type="pre-context" evidence="2681-2682">: </del></add><add seq="20200804215227" type="nt|continue" evidence="2684"><del seq="20200804215227" type="pre-context" evidence="2685">;</del></add><add seq="20200804215228" type="nt|continue" evidence="2688">. </add></seg>
+                <seg><add seq="20200804220147" type="nt" evidence="3659-3720">Eenmaal in Parijs nam ik de tram <del seq="20200804220208" type="pre-context" evidence="3735-3741">naar het adres op</del></add>
+                    <add seq="20200804220209" type="nt|continue" evidence="3730-3734"><del seq="20200804220209" type="pre-context" evidence="3735-3741">adre</del></add><add seq="20200804220210" type="nt|continue" evidence="3744-3774">richting het adres op de brief<del seq="20200804220212" type="typo" evidence="3777">/</del></add><add seq="20200804220212" type="nt|continue" evidence="3780">. </add></seg><seg><add seq="20200804220213" type="nt" evidence="3783-3798">De Rue Cassi<del seq="20200804220216" type="typo" evidence="3798">i</del></add><add seq="20200804220217" type="nt|continue" evidence="3799-3829">ni, <del seq="20200804220828" type="context" evidence="4110">naar het ruimteschip</del></add><add seq="20200804220257" type="nt|continue" evidence="3858-3871"><del seq="20200804220829" type="context|continue" evidence="4119">, of nee,</del> na<del seq="20200804220259" type="typo" evidence="3872">r</del></add><add seq="20200804220259" type="nt|continue" evidence="3874-3906">ar een of andere<add seq="20200804220832" type="context" evidence="4143-4147"> oude</add> astronoom. </add></seg><seg><add seq="20200804220311" type="nt" evidence="3912-3920"><del seq="20200804220312" type="pre-context" evidence="3921-3924">Ik denk</del></add><add seq="20200804220313" type="nt|continue" evidence="3931-3937">Onder<del seq="20200804220316" type="typo" evidence="3937">z</del></add><add seq="20200804220316" type="nt|continue" evidence="3938-3969">weg denk ik erover om bij <del seq="20200804220328" type="pre-context" evidence="3970">de</del></add><add seq="20200804220329" type="nt|continue" evidence="3974-3996">andere haltes af te s<del seq="20200804220331" type="typo" evidence="3997">p</del></add><add seq="20200804220331" type="nt|continue" evidence="3999-4019">tappen, de stad te <del seq="20200804220335" type="typo" evidence="4020">w</del></add><add seq="20200804220335" type="nt|continue" evidence="4021-4049">zien, maar iets <del seq="20200804220808" type="typo" evidence="4050">zeerhou</del></add><add seq="20200804220809" type="nt|continue" evidence="4053-4071">weerhoudt me daar<del seq="20200804220812" type="typo" evidence="4072-4073">an</del></add><add seq="20200804220812" type="nt|continue" evidence="4074-4078">van. </add></seg><seg><add seq="20200804220818" type="nt" evidence="4081-4104">Plichtsbesef misschien. </add></seg>
+                <seg><add seq="20200804220847" type="nt" evidence="4164-4196">Bij het afstappen viel de <del seq="20200804220853" type="typo" evidence="4197-4200">zam</del></add><add seq="20200804220854" type="nt|continue" evidence="4204-4245"><del seq="20200804221239" type="context" evidence="4562">warmte</del><add seq="20200804221239" type="context" evidence="4562-4568">hitte</add> over me heen als een dikke <del seq="20200804220934" type="typo" evidence="4246-4249">zolk</del></add><add seq="20200804220934" type="nt|continue" evidence="4250-4269">wolk. </add></seg>
+                
+                
+                
+                
+                
+                <seg><add seq="20200804215723" type="nt" evidence="2929-2946">Alain was <add seq="20200804215738" type="pre-context" evidence="2985-3004">een <emph rend="italic">flat earther</emph>, </add><del seq="20200804215730" type="pre-context" evidence="2947">een</del></add><add seq="20200804215730" type="nt|continue" evidence="2950-2976">zo iemand die geloof<del seq="20200804215748" type="pre-context" evidence="3031">de </del><add seq="20200804215748" type="nt|continue" evidence="3034-3063">t dat de aarde plat is<del seq="20200804215759" type="pre-context" evidence="3064-3070">- er</del></add><del seq="20200804215733" type="pre-context" evidence="2977">in</del></add><add seq="20200804215800" type="nt|continue" evidence="3071"><del seq="20200804215802" type="pre-context" evidence="3073"/></add><add seq="20200804215802" type="nt|continue" evidence="3076">. </add></seg><seg><add seq="20200804215803" type="nt" evidence="3080-3108">Hij maakte er podcasts over<del seq="20200804215809" type="context" evidence="3110">.</del></add><add seq="20200804215810" type="context" evidence="3112-3143">, had een soort online talksho<del seq="20200804215815" type="typo" evidence="3144">z</del></add><add seq="20200804215816" type="context" evidence="3150-3182">w waar hij andere waarheidsjagers, <del seq="20200804215828" type="typo" evidence="3192">woals </del></add><add seq="20200804215828" type="nt|continue" evidence="3195-3227">zoals ze elkaar noemden, ui<del seq="20200804215841" type="typo" evidence="3238-3241">nodi</del></add><add seq="20200804215841" type="nt|continue" evidence="3242-3251">tnodigde<del seq="20200804215847" type="context" evidence="3254">. </del></add><add seq="20200804215847" type="context" evidence="3255-3270"> om te besprek<del seq="20200804215849" type="typo" evidence="3271">n</del></add><add seq="20200804215850" type="context" evidence="3273-3305">en wat nu precies het model is: </add><add seq="20200804215910" type="translocation" evidence="3333">is de aarde een
+                    ruimteschip, een vliegende schotel, weet je wel, of omkoepeld met een soort
+                    edelmetaal waarop dan de lucht geprojecteerd wordt<del seq="20200804215919" type="context" evidence="3360">.</del><add seq="20200804215920" type="context" evidence="3362">? </add></add></seg>
+                <seg><add seq="20200804215922" type="nt" evidence="3370-3399">Ze raakten het niet eens. </add></seg><seg><add seq="20200804215926" type="nt" evidence="3402-3433">Ik herinner me dat hij aan <del seq="20200804215935" type="pre-context" evidence="3434">wee</del></add><add seq="20200804215935" type="nt|continue" evidence="3437-3445">de <del seq="20200804215936" type="pre-context" evidence="3434">kust</del></add><add seq="20200804215937" type="nt|continue" evidence="3450-3530">Belgische kust opzij wees, van Knokke naar - denk ik- Cadzand, zijwaarts<del seq="20200804215951" type="pre-context" evidence="3531">;</del></add><add seq="20200804215953" type="nt|continue" evidence="3533-5340">, en <del seq="20200804215954" type="typo" evidence="3541-3543">wei</del></add><add seq="20200804220002" type="nt|continue" evidence="3544-3568">zei, '</add></seg>
+                
+            <add seq="20200804215721" type="translocation" evidence="2922"> <seg>Kijk, je kan de stad zien van hier.</seg>
+                    <seg>Als de aarde rond was, zou d ronding van de aarde ervoor zorgen dat je de stad
+                        niet kon zien.</seg>
+                <seg>Dan was het gewoon een vlakke horizon; toch?<add seq="20200804220010" type="context" evidence="3580"/></seg><seg><add seq="20200804220011" type="nt" evidence="3606-3630">Ik knikte, begreep <del seq="20200804220012" type="typo" evidence="3631-3632">em</del></add><add seq="20200804220139" type="nt|continue" evidence="3633-3647">hem niet goed. </add></seg>
+                
+                
+                
+                <seg><add seq="20200804221110" type="nt" evidence="4287-4359"><del seq="20200804221205" type="context" evidence="4440">Er <del seq="20200804221158" type="context" evidence="4416">is</del><add seq="20200804221159" type="context" evidence="4416-4419">bestaat</add> niets,</del><add seq="20200804221206" type="context" evidence="4444-4462">Er bestaat niets</add>' fluisterde <add seq="20200804221214" type="context" evidence="4399-4403">hij </add>in mijn oor, '<del seq="20200804221209" type="context" evidence="4463">dat</del><add seq="20200804221209" type="context" evidence="4463-4467">als</add> je <add seq="20200804221211" type="context" evidence="4473-4482">het </add>niet <add seq="20200804221213" type="context" evidence="4483-4508">met je eigen ogen </add>kan zien.' </add></seg>
+                   <seg><add seq="20200804221219" type="nt" evidence="4511-4532">Ik haalde mijn schou<del seq="20200804221219" type="typo" evidence="4533-4535">ers</del></add><add seq="20200804221221" type="nt|continue" evidence="4535-4546">ders op. </add></seg>
+                
+                <seg><add seq="20200804222330" type="nt" evidence="5047-5071">Nu zigzag ik tussen de <del seq="20200804222334" type="typo" evidence="5072-5074">,e</del></add><add seq="20200804222334" type="nt|continue" evidence="5074-5103"><del seq="20200804222338" type="pre-context" evidence="5104-5110">mensen in Parijs</del></add><add seq="20200804222339" type="nt|continue" evidence="5113-5124">norse P<del seq="20200804222341" type="typo" evidence="5125">r</del></add><add seq="20200804222341" type="nt|continue" evidence="5126-5144">arijzenaars, stoo<del seq="20200804222347" type="typo" evidence="5145-5146">f</del></add><add seq="20200804222348" type="nt|continue" evidence="5147-5162">t af en toe iem<del seq="20200804222350" type="typo" evidence="5163">n</del></add><add seq="20200804222351" type="nt|continue" evidence="5164-5174">and aan. </add></seg>
+                
+                <seg><add seq="20200804222059" type="nt" evidence="4670-4678">Ik <del seq="20200804222101" type="pre-context" evidence="4679">hoop</del></add><add seq="20200804222102" type="nt|continue" evidence="4679-4687">loop l<del seq="20200804222212" type="typo" evidence="46">qns</del></add><add seq="20200804222213" type="nt|continue" evidence="4717-4728">angs een bron<del seq="20200804222216" type="typo" evidence="4729-4730">we</del></add><add seq="20200804222217" type="nt|continue" evidence="4731-4741">zen stand<del seq="20200804222217" type="typo" evidence="4742-4743">ab</del></add><add seq="20200804222218" type="nt|continue" evidence="4744-4765">beeld van een jongen <del seq="20200804222220" type="typo" evidence="4766">w</del></add><add seq="20200804222221" type="nt|continue" evidence="4767-4779">zonder gezicht. </add></seg><seg><add seq="20200804222227" type="nt" evidence="4801-4818">Hij houdt een <del seq="20200804222229" type="typo" evidence="4819-4824">,ast</del></add><add seq="20200804222230" type="nt|continue" evidence="4825-4844">masker <del seq="20200804222258" type="pre-context" evidence="4940">omhoog</del><add seq="20200804222259" type="pre-context" evidence="4940-4947">vast</add></add><add seq="20200804222243" type="nt|continue" evidence="4878-4900">, <del seq="20200804222250" type="pre-context" evidence="4919-4925">alsof </del><del seq="20200804222246" type="pre-context" evidence="4902-4911">hij net iemand</del></add><add seq="20200804222248" type="nt|continue" evidence="4914-4918">het</add></seg>
+                
+                <seg><add seq="20200804222055" type="translocation" evidence="4659"><del seq="20200804222234" type="context" evidence="4845-4870">standbeeld van jongen zonder gezicht houdt masker omhoog</del> dat aan twee kanten een aangezicht heeft </add><add seq="20200804222302" type="nt|continue" evidence="4953-5001">en heft het omhoog alsof het een vers <del seq="20200804222309" type="pre-context" evidence="5002-5004">onthoofd</del></add><add seq="20200804222312" type="nt|continue" evidence="5005-5023"><del seq="20200804222317" type="context" evidence="5029">ontrompt</del><add seq="20200804222318" type="context" evidence="5029-5046">afgehakt</add> hoofd is. </add></seg>
+                <seg><add seq="20200804222642" type="nt" evidence="5202-5204"><del seq="20200804222644" type="pre-context" evidence="5209">Aan</del></add><add seq="20200804222644" type="nt|continue" evidence="5213-5245">In de Rue Cassini<add seq="20200804223224" type="context" evidence="6035-6063">, waar Alain woonde, </add> staat <del seq="20200804222650" type="pre-context" evidence="5246-5249">wijn n</del></add><add seq="20200804222651" type="nt|continue" evidence="5254-5291">Alains naam in de muur gebeiteld<del seq="20200804222725" type="context" evidence="5343">.</del> </add> </seg>
+                
+                
+                <seg>    <add seq="20200804222725" type="pre-context" evidence="5344-5354"><del seq="20200804222726" type="pre-context" evidence="5355-5358">samen met</del></add><add seq="20200804222727" type="pre-context" evidence="5361-5377">daaronder <del seq="20200804222729" type="typo" evidence="5378">wijn</del></add><del seq="20200804222743" type="pre-context" evidence="5420-5431"><add seq="20200804222730" type="pre-context|continue" evidence="5381-5398">zijn <del seq="20200804222742" type="pre-context" evidence="5421-5431">geboort</del><del seq="20200804222732" type="typo" evidence="5399-5403">jeaar</del></add></del>
+                    <del seq="20200804222743" type="pre-context" evidence="5421-5431"><add seq="20200804222733" type="pre-context|continue" evidence="5404-5418">ejaar en sterf</add></del>
+                    <add seq="20200804222748" type="context" evidence="5435">'</add> <add seq="20200804222711" type="nt" evidence="5316-5329">1965-2020</add> <add seq="20200804222749" type="context" evidence="5444-5447">' en</add><add seq="20200804222922" type="context" evidence="5469-5475"><del seq="20200804222927" type="context" evidence="5483-5509">'kenner</del></add>
+                    <del seq="20200804223002" type="context" evidence="5570-5585">  <add seq="20200804222928" type="context" evidence="5583-5528">'Sleutelfiguur in de <del seq="20200804222949" type="context" evidence="5535">sterrenwacht</del></add>  </del>   
+                    <del seq="20200804223003" type="context" evidence="5571-5585"> <add seq="20200804222955" type="context" evidence="5545-5563">pseudo-geologie.'</add></del>   <add seq="20200804223005" type="context" evidence="5590-5622"> 'Voorzitter van de <add seq="20200804223029" type="context" evidence="5681-5698">vereniging van</add> Franse pseu<del seq="20200804223009" type="typo" evidence="5636">fo</del></add><add seq="20200804223011" type="context|continue" evidence="5638-5680">do-geologen.' </add>
+                </seg>                        
+                       <seg><add seq="20200804223037" type="nt" evidence="5701-5722">Er zit een m<del seq="20200804223040" type="typo" evidence="5723-5724">qn</del></add><add seq="20200804223041" type="nt|continue" evidence="5726-5769">an op een balkon op de eerste verdieping. </add></seg> <seg><add seq="20200804223047" type="nt" evidence="5772-5821">Ik groet hem en vraag of hij iets weet o<del seq="20200804223059" type="typo" evidence="5822-5823">f </del></add><add seq="20200804223059" type="nt|continue" evidence="5824-5837">ver mijn oom. </add></seg>   <seg><add seq="20200804223104" type="nt" evidence="5840-5870">Hij <del seq="20200804223122" type="context" evidence="5893">zegt</del><add seq="20200804223123" type="context" evidence="5895-5908">stelt <del seq="20200804223124" type="typo" evidence="5909">wich</del></add><add seq="20200804223124" type="context|continue" evidence="5912-5964">zich voor als Marcel en zegt</add> dat iedereen <del seq="20200804223132" type="context" evidence="5965">hem</del> <del seq="20200804223108" type="typo" evidence="5871">zel</del></add><add seq="20200804223108" type="nt|continue" evidence="5874-5884"><del seq="20200804223133" type="context" evidence="5958">wel kende</del><add seq="20200804223133" type="context" evidence="5974-5990">mijn oom kende</add>. </add></seg>   
+                <seg><add seq="20200804223139" type="nt" evidence="5994-6034">'We hebben veel aan hem te danken</add><mod seq="20200804223311" type="continue" evidence="6066">. </mod></seg><seg><add seq="20200804223313" type="nt" evidence="6101-6102"><del seq="20200804223315" type="pre-context" evidence="6103">Je</del></add><add seq="20200804223315" type="nt|continue" evidence="6109-6140">Lees zijn boeken maar eens. </add></seg><seg><add seq="20200804223321" type="nt" evidence="6143-6150">Hij hee<del seq="20200804223323" type="typo" evidence="6151">t</del></add><add seq="20200804223323" type="nt|continue" evidence="6152-6180">ft de wereld tenminste <del seq="20200804223338" type="pre-context" evidence="6192-6204">door</del></add><add seq="20200804223513" type="nt|continue" evidence="6207-6221">helemaal door. </add></seg><seg><add seq="20200804223518" type="nt" evidence="6224-6243">Alles is een woord. </add></seg><seg><add seq="20200804223523" type="nt" evidence="6246-6289">Je staat nu bovenop een lette<del seq="20200804223725" type="typo" evidence="6290">.</del></add><add seq="20200804223725" type="nt|continue" evidence="6291-6293">r. </add></seg><seg><add seq="20200804223728" type="nt" evidence="6296-6361">Die kasseien die je ziet, dat is <del seq="20200804225419" type="context" evidence="6974">puur</del><add seq="20200804225419" type="context" evidence="6974-6980">pure</add> fantasie, een hallucinatie<add seq="20200804224546" type="context" evidence="6417-6430">, een symbool</add>.</add><add seq="20200804224556" type="context" evidence="6433">' </add></seg><seg><add seq="20200804224559" type="nt" evidence="6438-6455">Ik knik<del seq="20200804224617" type="pre-context" evidence="6536-6555">, </del><del seq="20200804224607" type="pre-context" evidence="6471-6476">gliml</del><del seq="20200804224602" type="typo" evidence="6456-6459">qch</del></add><add seq="20200804224603" type="nt|continue" evidence="6460-6470"><del seq="20200804224607" type="pre-context|continue" evidence="6471-6484">ach, en ga</del></add><add seq="20200804224609" type="nt|continue" evidence="6487-6497"><del seq="20200804224617" type="pre-context" evidence="6536-6555">glimlach, en ga een eindje verder</del></add><add seq="20200804224620" type="nt|continue" evidence="6558-6571"> en glimlach<add seq="20200804230048" type="context" evidence="7963-8002">, ga een eindje verderop staan</add>.<lb/> </add></seg>
+                <seg><add seq="20200804224626" type="nt" evidence="6575">***</add></seg><lb/>
+                <seg><add seq="20200804225724" type="nt" evidence="7475-7531">Alain zat naast me aan een lange tafel op het terras <del seq="20200804230002" type="context" evidence="7869">- </del><add seq="20200804230003" type="context" evidence="7871-7872">op </add><del seq="20200804225743" type="pre-context" evidence="7532-7533">ee</del></add><add seq="20200804225744" type="nt|continue" evidence="7534-7573">de verjaardag van <del seq="20200804230007" type="context" evidence="7882">iemand</del><add seq="20200804230007" type="context" evidence="7882-7902">een van <del seq="20200804230014" type="context" evidence="7942">de</del><add seq="20200804230015" type="context" evidence="7943-7947">mijn</add> neefjes</add><del seq="20200804230013" type="context" evidence="7911-7917"> in de familie</del>. </add></seg>
+                <seg><add seq="20200804225937" type="nt" evidence="7743-7763">Een vijver <del seq="20200804225941" type="pre-context" evidence="7764-7767">kabbelde</del></add><add seq="20200804225943" type="nt|continue" evidence="7770-7855">vlakbij, enkele vette koivissen erin, een pompje deed het water kabbelen. </add></seg>
+                <seg><add seq="20200804224719" type="nt" evidence="6604-6610">'Bed<del seq="20200804224720" type="typo" evidence="6611-6614">nakt</del></add><add seq="20200804224721" type="nt|continue" evidence="6615-6628">enk eens een <del seq="20200804224722" type="typo" evidence="6629">z</del></add><add seq="20200804224723" type="nt|continue" evidence="6630-6636">woord<del seq="20200804225756" type="context" evidence="7578">.</del>' </add><add seq="20200804225756" type="context" evidence="7579-7590">, zei hij<del seq="20200804225759" type="context" evidence="7591">.</del></add></seg>
+                <del seq="20200804225513" type="context" evidence="7064"> <seg><add seq="20200804224726" type="nt" evidence="6644-6663">'Hoe bedoel je?' </add></seg><lb/></del>
+                <seg><add seq="20200804224731" type="nt" evidence="6664-6676">'<del seq="20200804225801" type="context" evidence="7597">G</del><add seq="20200804225801" type="context" evidence="7598">g</add>ewoon een <del seq="20200804224733" type="typo" evidence="6677-6678">zo</del></add><add seq="20200804224734" type="nt|continue" evidence="6679-6686">woord<del seq="20200804224735" type="typo" evidence="6687">;</del></add><add seq="20200804224735" type="nt|continue" evidence="6688-6704">, eender welk<add seq="20200804225518" type="context" evidence="7079-7084"> woord</add>.<del seq="20200804224739" type="context" evidence="6709">' </del></add></seg><seg><add seq="20200804224741" type="nt" evidence="6714-6727">Je zal zien <del seq="20200804224744" type="typo" evidence="6728">)</del></add><add seq="20200804224745" type="nt|continue" evidence="6730-6766">- zodra je het bedenkt, bestaat het. </add></seg>
+                <seg><add seq="20200804224754" type="nt" evidence="6774-6790">Dan <del seq="20200804224759" type="pre-context" evidence="6800-6807">zweeft het erge</del></add><add seq="20200804224802" type="nt|continue" evidence="6809-6815"><del seq="20200804224803" type="pre-context" evidence="6816">staat</del></add><add seq="20200804224803" type="nt|continue" evidence="6819-6859">ligt het voor je voeten en kan je het e<del seq="20200804224808" type="typo" evidence="6860-6861">ne</del></add><add seq="20200804224808" type="nt|continue" evidence="6862-6886">ender waar laten verschi<del seq="20200804224811" type="typo" evidence="6887">n</del></add><add seq="20200804224812" type="nt|continue" evidence="6888-6893">jnen. </add></seg><seg><add seq="20200804224813" type="nt" evidence="6896-6907">Onze hele <del seq="20200804224816" type="typo" evidence="6908-6909">ze</del></add><add seq="20200804224816" type="nt|continue" evidence="6910-6940">wereld bestaat uit woorden<add seq="20200804225455" type="context" evidence="6990-7026"> en niks <del seq="20200804225457" type="typo" evidence="7001-7002">nd</del></add> <add seq="20200804225457" type="context" evidence="7003-7007">ande<del seq="20200804225458" type="typo" evidence="7008">s</del></add><add seq="20200804225459" type="context|continue" evidence="7009-7026">rs dan woorden</add>.' </add></seg>
+                <seg><add seq="20200804225501" type="nt" evidence="7029-7035">Alain <del seq="20200804225503" type="typo" evidence="7036">z</del></add><add seq="20200804225503" type="nt|continue" evidence="7037-7057">was een <del seq="20200804225523" type="pre-context" evidence="7089-7095">beetje gek,</del> </add><mod seq="20200804225524" type="continue" evidence="7098-7136">zonderling, <del seq="20200804225531" type="pre-context" evidence="7137-7149">iemand die op een andere</del></mod><mod seq="20200804225533" type="continue" evidence="7152-7216">dat wist ik al, maar als <del seq="20200804225632" type="context" evidence="7304">kleuter</del><add seq="20200804225633" type="context" evidence="7304-7308">kind</add> weet je nog niet wat een beet<del seq="20200804225544" type="pre-context" evidence="7217">e</del></mod><mod seq="20200804225544" type="continue" evidence="7219-7258">je gek is en wat totaal gestoord is. </mod></seg> 
+                <seg><add seq="20200804225551" type="nt" evidence="7261-7292">Ik bedacht een woord<del seq="20200804225557" type="typo" evidence="7294">%</del></add><add seq="20200804225559" type="nt|continue" evidence="7296">:</add><mod seq="20200804225638" type="continue" evidence="7316-7332"> vijverstoel. </mod></seg><del seq="20200804225701" type="pre-context" evidence="7369-7382"><seg><add seq="20200804225653" type="nt" evidence="7336-7340"><del seq="20200804225654" type="pre-context" evidence="7341-7344">Het</del></add><add seq="20200804225654" type="nt|continue" evidence="7345-7358">Inderdaad, z<del seq="20200804225659" type="typo" evidence="7359-7360">g </del></add><add seq="20200804225659" type="nt|continue" evidence="7361-7368">ag ik,</add></seg></del>
+                <seg><add seq="20200804225703" type="nt" evidence="7387-7419"> Het woord verscheen vlakbij ons. </add></seg>
+                <seg><add seq="20200804225707" type="nt" evidence="7422-7427">Het b<del seq="20200804225707" type="typo" evidence="7428">o</del></add><add seq="20200804225708" type="nt|continue" evidence="7429-7450">estond <del seq="20200804225920" type="context" evidence="7724">plots in on</del><del seq="20200804225717" type="typo" evidence="7451-7452">we</del></add><add seq="20200804225718" type="nt|continue" evidence="7454-7468"><del seq="20200804225921" type="context|continue" evidence="7727">ze </del><del seq="20200804225919" type="context" evidence="7720">wereld</del>. </add></seg>
+                <seg><add seq="20200804225807" type="nt" evidence="7605-7627">Iedereen <del seq="20200804225812" type="pre-context" evidence="7628-7634">kon het zien</del></add><add seq="20200804225812" type="nt|continue" evidence="7637-7672">had het kunnen zien, <del seq="20200804230152" type="translocation" evidence="8003-8006">als ze maar </del><del seq="20200804225816" type="typo" evidence="7674">il</del></add><add seq="20200804225817" type="nt|continue" evidence="7678-7685"><del seq="20200804230151" type="translocation" evidence="8003">wilden</del><del seq="20200804225909" type="context" evidence="7687">.</del></add><add seq="20200804225910" type="context" evidence="7689-7712"><del seq="20200804230151" type="context|continue" evidence="8003">,</del> opzij hadden gekeken<del seq="20200804230152" type="context" evidence="8006">.</del> </add><add seq="20200804230153" type="translocation" evidence="8018-8037">, als ze maar wilden. </add></seg>           
+                <seg><add seq="20200804230018" type="nt" evidence="7927"><lb/>***<lb/></add></seg>            
+                
+                  <seg><del seq="20200804220013" type="context" evidence="3587">Er zijn veel discussies overwat nu precies het model is -  </del><del seq="20200804215908" type="translocation" evidence="3326">is de aarde een
+                        ruimteschip, een vliegende schotel, weet je wel, of omkoepeld met een soort
+                        edelmetaal waarop dan de lucht geprojecteerd wordt.</del></seg></add> 
+                
+                <seg><add seq="20200804214703" type="nt" evidence="1915-1970">Ik <del seq="20200804214750" type="pre-context" evidence="1972-1981">herinnerde me dat er</del></add></seg>
+                <seg><del seq="20200804215009" type="context" evidence="2371">Kijk naar de muren, kijk naar de muren: ze spreken.</del></seg>
+                <lb/>
+                
+                <seg><add seq="20200804214902" type="nt" evidence="2137-2139">De e<del seq="20200804214903" type="typo" evidence="2143-2144">,o</del></add><add seq="20200804214903" type="nt|continue" evidence="2145-2207">nige logische stap is verdachten ondervragen in de buurt </add></seg><seg><add seq="20200804230213" type="nt" evidence="8067-8089">Dat spreekt voor zich.  </add></seg><seg><add seq="20200804230223" type="nt" evidence="8112-8134">Er loopt een plas water</add></seg>
+              
+                <seg>Ik moet verdachten ondervragen.</seg>
+                <seg>Dat is de enige logische stap.</seg>
+                <lb/>
+                
+                <add seq="20200804214242" type="translocation" evidence="1691">  <seg>kip draaiend aan het spit </seg><lb/>
+                    <seg>subwoofer van getunede subaru impreza </seg><lb/>
+                    <seg>groen kruis van de apotheek pharmacie de la glacière </seg><lb/>
+                    <seg>mysterieuze vochtplassen in uitgedroogde straten </seg><lb/>
+                    <seg>schedels in de catacomben klinken gedempt, kan het familielid er niet in
+                        onderscheiden </seg><lb/></add>
+                
+                <seg>graffiti die hem iets vertelt </seg><lb/>
+                <seg>Nu staat er 'Zoek de muur.'</seg>
+                <lb/>
+                <seg>Ik begrijp het.</seg>
+                <seg>De woorden zijn wegen.</seg>
+                <seg>Ze proberen me ergens heen te leiden - maar ik heb nog steeds de keuze om niet
+                    verder te lezen, te blijven stilstaan, hier, mezelf op te houden als een
+                    hardloper die ter plaatste trappelt, een dobberende zwemmer, een vertraging aan
+                    te brengen door tegen mezelf te blijven praten.</seg>
+                <seg>Alleen zo kan ik het tegenhouden.</seg>
+                <seg>Achteruitgaan lukt niet meer, of toch moeilijk.</seg>
+                <seg>Ik sta nog steeds stil.</seg>
+                <seg>Ik kan wegkijken van de woorden op de muur van het cafeetje, naar de gescheurde
+                    bleke gevel van het verzekeringskantoor aan de overkant van de straat, maar dan
+                    verschijnt de graffiti daar.</seg>
+                <seg>Niemand lijkt het te merken, de tekst die van de ene naar de andere kant
+                    geteleporteerd is.</seg>
+                <seg>Nee, de tekst verschijnt niet, ze was er altijd al; ik heb gewoon te goed
+                    gekeken, te helder.</seg>
+                <seg>Ik ga naar het verzekeringskantoor toe om de tekst beter te kunnen zien.</seg>
+                <seg>Een man op een elektrische step zoeft langs me heen, roept me iets na dat op
+                    con lijkt, wat ik op mijn beurt dan weer vind lijken op het kwaken van een
+                    eend.</seg>
+                <seg>Ik roep dat hij zijn vette luie muil moet houden.</seg>
+                <seg>Iemand van in het verzekeringskantoor kijkt naar buiten om te zien wat er
+                    gaande is, legt de handen tegen het glas als om te voelen of de ruit wel
+                    degelijk van smetteloos gepoetst glas is en niet gewoon een krachtveld dat de
+                    kantoormedewerkers binnen moet houden.</seg>
+                <seg>Het is een jongeman, zie ik, nauwelijks twintig.</seg>
+                <seg>Hij kijkt me aan.</seg>
+                <seg>Ik kom dichterbij.</seg>
+                <seg>De graffiti ben ik intussen al vergeten, al denk ik er wel aan want ik praat
+                    erover tegen mezelf, maar de het belang van de graffiti is me intussen
+                    ontgaan.</seg>
+                <seg>Het gaat ook niet om de tekst maar om de wegen die de tekst me toont.</seg>
+                <seg>Ja, zoiets.</seg>
+                <seg>De jongeman maakt een gebaar naar de deur en schudt zijn hoofd.</seg>
+                <seg>Ik knik, al heb ik geen idee wat hij bedoelt.</seg>
+                <seg>Hij lacht en steekt zijn duim op.</seg>
+                <seg>Zijn mond beweegt en ik hoor hem plots Nederlands praten met de stem van De
+                    Cock uit Baantjer, zo'n nineties-detective waarin er niets bestaat buiten
+                    Amsterdam.</seg>
+                <seg>Hij zegt: 'Ik kan niet uit dit kantoor.</seg>
+                <seg>Je moet de sleutel vinden om de deur te openen.</seg>
+                <seg>Ik zit er al dagen, want het kantoor is failliet en niemand komt nog
+                    kijken.'</seg>
+                <seg>Ik vraag hem of ik de deur niet gewoon kan intrappen.</seg>
+                <seg>'Nee,' zegt hij, 'je moet de sleutel hebben.</seg>
+                <seg>Anders kan je me fysiek wel uit het kantoor halen, maar niet mentaal.</seg>
+                <seg>Niet echt, snap je.'</seg>
+                <seg>Volgens De Cock vinden alle moorden plaats in een soort microkosmos.</seg>
+                <seg>Misschien alle verdwijningen ook wel.</seg>
+                <seg>Zodra iemand meegenomen is, belandt hij of zij in een soort andere dimensie,
+                    een wegmaakkamer, een bergplaats.</seg>
+                <seg>Het is dan de taak van de detective om die opbergplaats te vinden.</seg>
+                <seg>Eigenlijk ben je dan lekker interdimensioneel bezig.</seg>
+                <seg>Zijn de woorden me dan van de ene naar de andere dimensie aan het leiden?</seg>
+                <seg>Of laten ze me zien dat we niet op een plat papieren vlak leven, maar eigenlijk
+                    een platgedrukte verzameling symbolen zijn in een wereld die ook in de diepte
+                    groeit, die daar moerassen maakt, jungles laat groeien, wortels uitstrekt om
+                    doorheen een galactische leegte te woekeren - plekken die we nooit zullen
+                    zien.</seg>
+                <seg>Ik ken enkel de muren van deze stad, de zoektocht die maar niet lijkt te
+                    eindigen.</seg>
+                <seg>Eigenlijk verander je niet van dimensie, je ziet gewoon dat er altijd al meer
+                    dimensies waren, meer richtingen, meer mogelijkheden.</seg>
+                <seg>De jongeman is intussen van het raam verdwenen.</seg>
+                <seg>De stem van De Cock eveneens.</seg>
+                <seg>Ik zet mijn handen tegen het glas en kijk naar binnen in de donkere
+                    kantoorruimte.</seg>
+                <seg>Enorme MacBooks staren me aan.</seg>
+                <seg>Reusachtige vierkante ogen.</seg>
+                <seg>De tekst die naar me terugkijkt.</seg>
+                <seg>Ik ben al een tijd gestopt met ter plaatse te trappelen, besef ik nu, en de
+                    tekst heeft me onverbiddelijk meegesleurd.</seg>
+                <seg>Dit is een waarschuwing: ik word door enorme ogen in de gaten gehouden.</seg>
+                <seg>Ogen die, als ze dat zouden willen, al weten hoe dit eindigt, hoe álles
+                    eindigt; alsof ze gewoon door de bladzijden van de tijd kunnen bladeren en zo de
+                    toekomst en het verleden tegelijk kunnen zien.</seg>
+                <seg>Maar ze doen het niet.</seg>
+                <seg>Ofwel omdat ze het anders te makkelijk zouden vinden, ofwel omdat ze het
+                    spannend vinden om niet te weten hoe het met me afloopt.</seg>
+                <seg>Ik ben een gladiator, de toeschouwers zijn waarzeggers.</seg>
+                <lb/>
+                <seg>*** </seg><lb/>
+                <seg>'Trek een kaart.</seg>
+                <seg>Het maakt niet zo veel uit welke.</seg>
+                <seg>Je zal telkens de juiste trekken, de kaart waar het universum je heen
+                    drijft.'</seg>
+                <lb/>
+                <seg>Ik trok een kaart en draaide 'm om.</seg>
+                <seg>Een zwaard met een brandende kroon doorheen.</seg>
+                <lb/>
+                <seg>'Deze kaart gaat over inzicht, intellect, het cerebrale.</seg>
+                <seg>Trek nog een kaart.'</seg>
+                <lb/>
+                <seg>Gewoonlijk geloofde ik niet in dat soort dingen, maar de man had vriendelijk
+                    aangedrongen, en dan krijg ik al snel het gevoel dat ik uitverkoren ben om hen
+                    daarin te volgen.</seg>
+                <seg>De volgende kaart was eentje met verschillende drinkbekers erop.</seg>
+                <lb/>
+                <seg>'Je zal tot een besef komen in de toekomst, een besef dat je ergens heen zal
+                    leiden waar weinigen je zijn voorgegaan.</seg>
+                <seg>Trek nog een laatste kaart.'</seg>
+                <lb/>
+                <seg>Het was eentje met een muur, een bliksemschicht die insloeg op de muur, en
+                    botten die aan de andere kant van de muur opgestapeld lagen.</seg>
+                <seg>De waarzegger legde zijn hand over zijn mond.</seg>
+                <seg>De kralen aan zijn arm rinkelden.</seg>
+                <seg>Ik trok mijn wenkbrauwen vragend op.</seg>
+                <lb/>
+                <seg>'Als je niet voorzichtig bent en je grenzen niet kent, zal het besef je
+                    ondergang betekenen.'</seg>
+                <lb/>
+                <seg>Ik schoot in de lach.</seg>
+                <seg>Per ongeluk natuurlijk, maar soms is het gewoon zo.</seg>
+                <seg>Een uitverkoren lach.</seg>
+                <seg>Hij schudde zijn hoofd, misnoegd.</seg>
+                <seg>Toen ik mijn tranen weggeveegd had, zei ik: 'Tja, ik kan er toch niks meer aan
+                    doen nu.'</seg>
+                <lb/>
+                <seg>*** </seg><lb/>
+                <seg>Van het kantoor loop ik verder over de boulevard.</seg>
+                <seg>Honger.</seg>
+                <seg>Ik hup een boulangerie binnen en bestel een broodje tradigrain, wat me een
+                    beetje doet denken aan een tardigrade, zo'n minuscuul wezentje dat overal in het
+                    water zit, een waterbeer.</seg>
+                <seg>Terwijl ik afreken vliegt een wesp de bakkerij binnen, kruipt vervolgens onder
+                    een spleet tussen het glas dat de broodjes afschermt van al te veel spugende
+                    klanten, en begint met een pulserend onderlijf een van de broodjes te
+                    steken.</seg>
+                <seg>Buiten zit ik op een bankje.</seg>
+                <seg>Er zitten kleffe, taaie vijgen en zongedroogde tomaten op de tradigrain.</seg>
+                <seg>Een hoop oude mensen schuifelen dezelfde straat in met lege tassen, en een even
+                    grote stroom ouderen schuifelen weer die straat uit met preistronken en
+                    baguettes die uit hun tassen priemen.</seg>
+                <seg>De stad lokt me weer; fijn dat ze me even een middagpauze gunde.</seg>
+                <seg>Aan de rand van het plein staat in het groot MARKT op de grond gekalkt - gek
+                    dat het er niet in het Frans staat.</seg>
+                <seg>Op de markt lopen gefluoveste mensen rond met felgekleurde waterpistolen om
+                    mensen te besproeien.</seg>
+                <seg>Verkoeling.</seg>
+                <seg>Sommigen hebben van die super soakers waar je eerst mee moet pompen om druk te
+                    ontwikkelen.</seg>
+                <seg>Er staat ook een ambulance in de buurt om flauwgevallen bejaarden weer bij
+                    bewustzijn te helpen.</seg>
+                <seg>Een van de kramen bevat enkel eieren, in een paar verschillende groottes - XS,
+                    S, M, L en XL - maar in alle mogelijke kleuren.</seg>
+                <seg>Er staan bordjes bij de verschillende kleuren: purper-en-goudgestreept,
+                    nachtelijkevijverindigo, burenruziefuchsia, kerststronkrood,
+                    klokkenspelblauw.</seg>
+                <seg>De man ziet me gebiologeerd naar de bordjes staren.</seg>
+                <lb/>
+                <seg>'Mooi he?'</seg>
+                <seg>vraagt hij.</seg>
+                <seg>Hij lijkt Canadees Frans te spreken.</seg>
+                <seg>Ofwel is hij erg dronken.</seg>
+                <lb/>
+                <seg>'Ja, creatief is het wel.</seg>
+                <seg>Je hebt mooie namen bedacht.</seg>
+                <seg>Goeie marketing.'</seg>
+                <lb/>
+                <seg>'Het zijn ook allemaal eieren van verschillende dieren.</seg>
+                <seg>Unieke wezens.</seg>
+                <seg>Galapagoshagedissen.</seg>
+                <seg>En perfect eetbaar, volledig volgens de EU-richtlijnen.'</seg>
+                <lb/>
+                <seg>'Komen al die eieren van verschillende dieren?'</seg>
+                <seg>Hij knikt.</seg>
+                <seg>'Zijn het niet gewoon kippeneieren en ganzeneieren die je beschilderd
+                    hebt?</seg>
+                <seg>Deed ik vroeger ook met Pasen.'</seg>
+                <seg>Hij schudt woedend zijn hoofd.</seg>
+                <lb/>
+                <seg>'Ik zweer het, j't'jure m'sieur,' roept hij met zijn vinger voor mijn
+                    neus.</seg>
+                <seg>Ik vraag me af of dit ook een teken is, of een doodlopende straat waar ik per
+                    direct weer uit moet manoeuvreren.</seg>
+                <seg>Ik neem zijn wijzende hand vast, sluit mijn ogen, en beweeg in de richting die
+                    het meest juist aanvoelt.</seg>
+                <seg>De eierverkoper wijst naar links, verder over de markt.</seg>
+                <seg>Hij is opgehouden met zweren.</seg>
+                <seg>Even denk ik dat hij weer met de stem van De Cock gaat spreken, maar dat
+                    gebeurt niet.</seg>
+                <seg>Hier valt weinig informatie te rapen.</seg>
+                <lb/>
+                <seg>*** </seg><lb/>
+                <seg>Soms droom ik dat ik op een vliegtuig zit met allemaal bekende
+                    muzikanten.</seg>
+                <seg>De passagiers wisselen naarmate ik naar andere muziek luister, maar ze zijn
+                    altijd erg bekend.</seg>
+                <seg>En de piloot roept dan om dat hij geen idee heeft waar hij heen moet vliegen,
+                    want iedereen heeft een andere bestemming of zoiets, en als antwoord beginnen de
+                    muzikanten dan te spelen.</seg>
+                <seg>Vaak ook hun bekendste nummers.</seg>
+                <seg>Als het Bob Dylan is, spelen ze Hurricane; het enige van zijn nummers dat ik
+                    geen kattengejank vind.</seg>
+                <seg>Op het vliegtuig ben ik de enige die geen instrument speelt, en dat hebben ze
+                    meestal snel door, en dan stemmen ze om me van het vliegtuig te zetten, en dan
+                    gooien ze me uit het vliegtuig en zie ik de wolken, de sterren, de witte
+                    aardbodem met de zwarte tekens, woorden die je pas kan lezen wanneer je er ver
+                    boven zweeft maar die je zelfs niet kan bedenken wanneer je ertussen leeft,
+                    wanneer je de woorden bent, erin geboren wordt en erin sterft.</seg>
+                <seg>Je kan niet zien waar je in ondergedompeld bent.</seg>
+                <seg>Je eigen meningen, houdingen, bestemmingen.</seg>
+                <seg>En je nadert de grond, de woorden drijven weer uit elkaar, zo ver dat het geen
+                    letters maar gebouwen zijn, dat het geen klanken maar honden verdronken in
+                    zwembaden zijn, kinderen op schommels, ijstheekannen op tafel en de zomerlucht;
+                    en dan zie je het: de aarde is zo vlak als maar kan zijn, hoogstens licht
+                    gewelfd, een rib geplukt uit de romp van een ongelukkig man.</seg>
+                <lb/>
+                <seg>*** </seg><lb/>
+                <seg>Verderop op de markt staat een kraampje met vinylplaten.</seg>
+                <seg>Ik kijk even in de bakken en zie enkel platen van Bob Dylan, zelfs meerdere
+                    exemplaren van hetzelfde album, heruitgaves, liveversies, verzameledities - aan
+                    de kassa ligt zelfs een ondertekend exemplaar in een glazen beschermdoos.</seg>
+                <seg>Ik vraag aan de marktkramer: 'Bent u verzamelaar?'</seg>
+                <seg>Ze knikt en antwoordt: 'Ik heb de grootste collectie Bob Dylanplaten ter
+                    wereld.</seg>
+                <seg>Dit zijn enkel de exemplaren die ik niet meer moet hebben.</seg>
+                <seg>Thuis heb ik nog veel meer.'</seg>
+                <lb/>
+                <seg>'Zijn ze allemaal tweedehands?'</seg>
+                <lb/>
+                <seg>'Nee hoor, de meeste zijn wel vijfdehands geloof ik.</seg>
+                <seg>Ik luister er zelf ook niet meer naar.</seg>
+                <seg>Dat vermindert de waarde.'</seg>
+                <lb/>
+                <seg>'Vanwaar de fascinatie?'</seg>
+                <lb/>
+                <seg>'Ik weet niet.</seg>
+                <seg>Het is zo gegroeid.</seg>
+                <seg>Of nee, eigenlijk ben ik ermee geboren.</seg>
+                <seg>Mijn grootvader deed het al, en mijn vader, en dus ik ook.</seg>
+                <seg>Alsof we gewoon nooit anders gedaan hebben.'</seg>
+                <lb/>
+                <seg>'Kan je je nog veel herinneren van je vader?'</seg>
+                <lb/>
+                <seg>'Wat is dat nu voor een vraag?'</seg>
+                <seg>bromt ze.</seg>
+                <lb/>
+                <seg>'Gewoon, uit interesse.</seg>
+                <seg>Wat weet je over Alain Fournier?'</seg>
+                <lb/>
+                <seg>'Beschuldig je me ergens van?'</seg>
+                <lb/>
+                <seg>'Ik ben van een geheime dienst.'</seg>
+                <lb/>
+                <seg>'EEN geheime dienst?</seg>
+                <seg>Niet DE geheime dienst?'</seg>
+                <lb/>
+                <seg>'Je hoeft niet meer te weten dan dat.</seg>
+                <seg>Bob Dylan is trouwens zo overschat dat het zielig wordt.</seg>
+                <seg>Verdiende absoluut geen Nobelprijs.'</seg>
+                <lb/>
+                <seg>'Rot op.'</seg>
+                <seg>De vrouw duwt me uit haar Bob Dylan-paleis.</seg>
+                <seg>'Pisvodje dat je bent.'</seg>
+                <lb/>
+                <seg>Ik loop verder over de markt en wacht tot het universum me een nieuwe
+                    aanwijzing in de handen duwt.</seg>
+                <seg>De eierverkoper had mijn ontmoeting met de andere verkoper gezien.</seg>
+                <seg>Hij wandelt een eindje met me mee over de markt.</seg>
+                <seg>'Je bent jezelf niet echt populair aan het maken hier.</seg>
+                <seg>Een detective moet onopvallender te werk gaan.'</seg>
+                <lb/>
+                <seg>'Hoe weet je-' </seg><lb/>
+                <seg>'Dat zie je toch zo, man.</seg>
+                <seg>Wat kom je hier anders doen?</seg>
+                <seg>Je ziet er niet hip genoeg uit om een toerist te zijn, en je Frans is te
+                    hakkelig om een local te zijn.'</seg>
+                <seg>Ik wil iets zeggen over zijn haast komische accent.</seg>
+                <seg>'Wat onderzoek je?'</seg>
+                <lb/>
+                <seg>'De verdwijning van m'n oom.</seg>
+                <seg>Ik wist zelfs niet dat ik een oom had, eigenlijk.</seg>
+                <seg>Iemand drukte me gewoon een brief in mijn handen, en daar stond alles in
+                    uitgelegd.</seg>
+                <seg>Hij was een belangrijk man, een voormalig schaatskampioen die in de winter
+                    altijd oefende op de Seine, stiekem, in het donker.</seg>
+                <seg>Dat zou het makkelijker maken om aan te voelen welke groeven in het ijs je moet
+                    ontwijken.</seg>
+                <seg>In de zomer zat hij dan zonder hobby - werken deed hij niet - en dan ging hij
+                    vaak zwemmen in de Seine, gewoon ronddobberen eigenlijk, want hij kon beter
+                    drijven dan zwemmen, of soms wat ratten vangen en als dikke trossen
+                    binnenbrengen bij het département sanitaire voor een kleine vergoeding, en hij
+                    kerfde soms ook boodschappen in muren, liefst vlak onder het
+                    wateroppervlak.</seg>
+                <seg>Hij was ongelooflijk rijk geworden door puur toeval, en ik moet zijn
+                    verdwijning oplossen om de erfenis te krijgen.'</seg>
+                <seg>De eierverkoper knikt.</seg>
+                <seg>Ik vraag me af of ik dit al wist, kon aanvoelen, of dat de stad dit net aan me
+                    verteld heeft.</seg>
+                <lb/>
+                <seg>'Ah, maar je bent niet de enige die dat meegemaakt heeft.</seg>
+                <seg>Eigenlijk was er vorige week nog iemand die me exact hetzelfde vertelde.</seg>
+                <seg>Hij zei ook dat mijn eieren beschilderd waren, de klootzak.</seg>
+                <seg>Je bent dus niet echt een uitzondering, eerder de regel.</seg>
+                <seg>Grappig eigenlijk.</seg>
+                <seg>Nu, ik weet niet of het echt vorige week was, m'n tijdsbesef -' Hij zwijgt
+                    abrupt.</seg>
+                <seg>We zijn gestopt aan de rand van de markt, net op de gekalkte T van MARKT.</seg>
+                <seg>'Veel succes met je zoektocht.</seg>
+                <seg>Ik kan niet verder - ik moet op m'n eieren letten.'</seg>
+                <lb/>
+                <seg>*** </seg><lb/>
+                <seg>Hoe ben ik hier eigenlijk beland?</seg>
+                <seg>Ik kan me nauwelijks voorstellen dat ik ooit niet in Parijs was, dat er een
+                    wereld bestaat buiten de microkosmos van deze stad, zelfs van deze paar straten
+                    die me zo bekend voorkomen.</seg>
+                <seg>Wanneer heb ik de brief gehad?</seg>
+                <seg>Hoe ben ik hier geraakt?</seg>
+                <seg>Ik herinner me dat ik aan de brievenbus stond te wachten en iemand me de
+                    envelop in mijn handen duwde, en dat ik op de trein zat en iemand me vroeg of ik
+                    een wafeltje van de catering wilde delen, maar het voelt alsof ik me de
+                    herinnering herinner, maar niet de gebeurtenis.</seg>
+                <seg>Een soort beeld van het ding, niet het ding zelf.</seg>
+                <seg>Afgevlakt, diepteloos.</seg>
+                <seg>Een woordelijke beschrijving, geen zintuiglijke indruk.</seg>
+                <seg>Mijn oom lijkt ook zo ver weg, zo onbekend.</seg>
+                <seg>Heeft de stad zichzelf in me geprojecteerd, ervoor gezorgd dat ik me niets meer
+                    herinner van mijn leven vóór ik hier arriveerde?</seg>
+                <seg>Ik denk aan de jongeman die opgesloten zat in het kantoor, en ik vraag me af of
+                    ik niet exact hetzelfde aan de hand heb maar dan in een groter kantoor, een
+                    ruimere omgeving maar desalniettemin een onveranderlijke gevangenis.</seg>
+                <seg>Een plek die zichzelf herhaalt onder invloed van een toeschouwer.</seg>
+                <seg>Ik sta nog op de T van MARKT, en een kebabzaak staart me aan.</seg>
+                <seg>De deur een lege mond, de ramen en luifels ogen met vermiljoenen wimpers.</seg>
+                <seg>Natuurlijk.</seg>
+                <seg>Ik ga naar binnen en zie de het dönervlees rondjes draaien op de verwarmde
+                    spies.</seg>
+                <seg>Glimmend.</seg>
+                <seg>Het gebruinde, doorbakken vlees op de homp vormt een patroon, opnieuw een
+                    boodschap, die traag voorbijglijdt met het draaien van de dönerspies.</seg>
+                <seg>'Ga naar de muur,' staat er.</seg>
+                <seg>Bij de volgende rotatie vormt het vlees: 'Daar ligt de sleutel.'</seg>
+                <seg>Met leestekens en al.</seg>
+                <lb/>
+                <seg>De uitbater staat met zijn armen over elkaar terwijl ik het vlees lees.</seg>
+                <lb/>
+                <seg>'Excusez-moi,' vraag ik aan de uitbater, 'Waar kan ik de muur vinden?'</seg>
+                <lb/>
+                <seg>De man rolt met zijn ogen, mompelt iets dat lijkt op 'wéér eentje' en zegt:
+                    'Hier naar buiten, links, en dan de boulevard aflopen tot je niet verder kan.
+                    Maar je kan er niet veel gaan doen, hoor.'</seg>
+                <seg>Ik bedank hem en loop de boulevard af.</seg>
+                <seg>Het heeft geen zin om dit te vertragen door tegen mezelf te praten.</seg>
+                <seg>Het mag eindigen.</seg>
+                <seg>De bomen ruisen achter me aan, laten hun bladeren als kleine letters vallen en
+                    over de grond ruiselen, als om te zeggen dat ik me moet haasten, dat alles
+                    onthuld zal worden.</seg>
+                <seg>Ga nu maar.</seg>
+                <seg>De boulevard eindigt als doodlopende straat in drie witte muren.</seg>
+                <seg>Niet zo spectaculair als ik had gehoopt.</seg>
+                <seg>Misschien had ik verwacht dat ik er geld in had kunnen stoppen en er
+                    frituursnacks uitnemen.</seg>
+                <seg>Er is een touw van de ene zijmuur naar de andere gespannen en in het midden
+                    vastgeknoopt, om mensen weg te houden van de eigenlijke muur, de muur die telt,
+                    de muur waar ik van het vlees naar moest zoeken.</seg>
+                <seg>De muur is een beetje gewelfd, zie ik.</seg>
+                <seg>Afgebogen.</seg>
+                <seg>En plots, in een soort allesomvattende opwelling, probeert de stad me aan te
+                    spreken, dit alles duidelijk te maken; alleen zo kan je een koortsdroom
+                    beëindigen - klaarte die als een super soaker gevuld met rivierwater over je
+                    heen spuit, het losmaken van knopen die in je maag zijn blijven zitten.</seg>
+                <seg>De stad wil dat het mysterie me uit haar klauwen lost, dat voel je aan.</seg>
+                <seg>Ik wacht tot de woorden als gebouwen in mij oprijzen.</seg>
+                <seg>De verklaringen.</seg>
+                <seg>Het oplossen van de verdwijning.</seg>
+                <seg>Kom.</seg>
+                <seg>Daal neer.</seg>
+                <seg>Nu.</seg>
+                <seg>Er valt een schaduw over de muur, de schim van een ding dat niet bestaat, of
+                    iets dat buiten deze stad bestaat, een reusachtige hand, een oog, een
+                    leeslampje, een ochtend- of avondzon, zijdelings, bijna verblindend, het licht
+                    van een computer, een hand, meerdere handen, gepauwgroefde vingers die hun
+                    sporen achterlaten op deze wereld, vetvlekken, speeksel; en door die schaduw zie
+                    ik heel even dat de muur ook een soort hoogte heeft, dat het iets is waar je in
+                    theorie over zou kunnen klimmen als je groot genoeg was, maar dat het haast
+                    onvoorstelbaar lijkt dat je zoiets zou kunnen doen, want zo ver reiken de
+                    woorden niet; en waarom zou je dat ook willen, want dan beland je in lege witte
+                    ruimte, in het niets - de muur is een soort grens die me in deze kosmos
+                    verankert<add seq="20200804212842" type="context" evidence="130-135">, ee<del seq="20200804212843" type="typo" evidence="136-137"> g</del></add><add seq="20200804212844" type="context|continue" evidence="138-152">n grens die <del seq="20200804212846" type="typo" evidence="153-154">,e</del></add><add seq="20200804212846" type="context|continue" evidence="156-185">me scheidt <del seq="20200804212856" type="typo" evidence="186-192">vqn de toeschouzer</del></add><add seq="20200804212857" type="context|continue" evidence="194-213">van de toeschouwers</add>.</seg>
+                <seg>Ik ga dichterbij en probeer het touw nog los te maken door er met mijn vingers
+                    aan te pulken, maar het is geen touw, slechts het idee van een touw, een soort
+                    afdruk, een symbool dat dienstdoet voor wat in principe een touw had moeten zijn
+                    maar het niet echt is, en het principe van de chaos en de verwarring die uit het
+                    verstrengelde touw spreekt is net dat, het principe ervan, niet werkelijk de
+                    chaos of de verwarring, en het ontsnappen uit de stad en de ontknoping van de
+                    zoektocht is dus slechts het idee van een ontknoping.</seg>
+                <seg>Niet werkelijk de ontknoping.</seg>
+                <seg>De illusie ervan.</seg>
+                
+                
+            
+            </p>
+            <p>
+                <add seq="20200804213013" type="focus" evidence="242">Focus events<lb/>
+                    <media url="Taskbar" mimeType="zoeken"><desc>Word Zoekscherm - helderheid</desc></media><lb/></add>
+                <add seq="20200804220229" type="focus" evidence="3837">
+                    <media url="Microsoft Edge" mimeType="internet"><desc>Browser - cassini </desc></media></add>
+                <add seq="20200804220230" type="focus" evidence="3848">
+                    <media url="Wikipedia" mimeType="internet"><desc>Wikipedia  -  Giovanni Domenico Cassini</desc></media></add>
+                <add seq="20200804221858" type="focus" evidence="4602">
+                    <media url="Wikipedia" mimeType="internet"><desc>Wikipedia  -  Giovanni Domenico Cassini</desc></media></add>
+                <add seq="20200804222134" type="focus" evidence="4692">
+                    <media url="Wikipedia" mimeType="internet"><desc>Wikipedia  -  Giovanni Domenico Cassini</desc></media></add>
+                <add seq="20200804222607" type="focus" evidence="5183">
+                    <media url="Wikipedia" mimeType="internet"><desc>Wikipedia  -  Giovanni Domenico Cassini</desc></media></add>
+                <add seq="20200804222827" type="focus" evidence="5458">
+                    <media url="Wikipedia" mimeType="internet"><desc>Wikipedia  -  Giovanni Domenico Cassini</desc></media></add>
+                <add seq="20200804223335" type="focus" evidence="6187">
+                    <media url="Wikipedia" mimeType="internet"><desc>Wikipedia  -  Giovanni Domenico Cassini</desc></media></add> 
+                    <lb/>
+            </p>
+        </body>
+    </text>
+</TEI>

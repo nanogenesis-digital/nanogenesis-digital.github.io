@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mondini</title>
+                <author>David Troch</author>
+                <respStmt>
+                    <name>Lamyk Bekius</name>
+                    <resp>encoding scheme, TEI customization, encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p corresp="section">Mondini</p>
+                <p corresp="session">4</p>
+                <p corresp="version">2</p>
+                <p corresp="total_versions">20</p>
+                <p corresp="name">David_Troch</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <l>Date: 10-08-2020</l>
+                    <l>Start time: 11:12:59</l>
+                    <l>Duration: 00:40:03</l>
+                </p>
+                <p><linkGrp><link prev="01_s02" n="02_s04" next="03_s05"/></linkGrp></p>
+                <p>
+                    <material corresp="01_s02">Sessie-versie 1</material>
+                    <material corresp="02_s04">Sessie-versie 2</material>
+                    <material corresp="03_s05">Sessie-versie 3</material>
+                    <material corresp="04_s06">Sessie-versie 4</material>
+                    <material corresp="05_s07">Sessie-versie 5</material>
+                    <material corresp="06_s12">Sessie-versie 6</material>
+                    <material corresp="07_s13">Sessie-versie 7</material>
+                    <material corresp="08_s14">Sessie-versie 8</material>
+                    <material corresp="09_s15">Sessie-versie 9</material>
+                    <material corresp="10_s16">Sessie-versie 10</material>
+                    <material corresp="11_s17">Sessie-versie 11</material>
+                    <material corresp="12_s18">Sessie-versie 12</material>
+                    <material corresp="13_s19">Sessie-versie 13</material>
+                    <material corresp="14_s21">Sessie-versie 14</material>
+                    <material corresp="15_s22">Sessie-versie 15</material>
+                    <material corresp="16_s23">Sessie-versie 16</material>
+                    <material corresp="17_s24">Sessie-versie 17</material>
+                    <material corresp="18_s25">Sessie-versie 18</material>
+                    <material corresp="19_s27">Sessie-versie 19</material>
+                    <material corresp="20_s29">Sessie-versie 20</material>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><seg>Mondini</seg><lb/>
+                <seg>Alsof het nog niet volstond dat ik in een uitgestorven bergdorpje verzeild zou
+                    raken, moest ik ook nog eens <add seq="20200810112230" type="context" evidence="840-861">mijn dagen slijten in </add>een onooglijk appartementje <del seq="20200810111746" type="context" evidence="532-557">betrekken </del>boven een
+                    leegstaand winkelpand <del seq="20200810112237" type="context" evidence="865-868"><add seq="20200810111751" type="context" evidence="566-568">betrekken </add></del>waar men, afgaande op het reclamepaneel boven de etalage,
+                    ooit ski's moet hebben verhuurd<del seq="20200810111339" type="context" evidence="13">,</del><add seq="20200810111340" type="context" evidence="15">.</add></seg>
+                    <seg><add seq="20200810111341" type="nt" evidence="18-23"><del seq="20200810111650" type="context" evidence="434">Waar </del><del seq="20200810111342" type="pre-context" evidence="24">e</del></add><add seq="20200810111342" type="nt|continue" evidence="25-48"><del seq="20200810111650" type="context" evidence="435">die s</del><add seq="20200810111655" type="context" evidence="438">S</add>ki's <del seq="20200810111702" type="context" evidence="465-198">naartoe zijn</del><del seq="20200810111825" type="context" evidence="580-649"><add seq="20200810111702" type="context" evidence="500-518">heb ik niet nodig</add></del><add seq="20200810111829" type="context" evidence="648-679">zijn iets uit een ver verleden</add>.</add></seg>
+                    <seg><add seq="20200810111852" type="context" evidence="709-724">Vandaag de dag c</add><add seq="20200810111841" type="nt" evidence="648-703"><del seq="20200810111851" type="context" evidence="707">C</del>ompleet nutteloos.</add></seg>
+                    <seg><add seq="20200810112107" type="nt" evidence="805-818">Zoals zoveel<add seq="20200810112121" type="context" evidence="825-831"> dingen</add>.</add></seg>
+                    <seg><add seq="20200810112259" type="nt" evidence="874-910">Vooral <del seq="20200810112316" type="pre-context" evidence="914-917">dingen die </del><del seq="20200810112817" type="context" evidence="1330-1333"><add seq="20200810112317" type="pre-context" evidence="916-927">alles wat </add></del><add seq="20200810112818" type="context" evidence="1332-1347">apparaten die </add>op elek<del seq="20200810112303" type="typo" evidence="900">i</del></add><add seq="20200810112303" type="nt|continue" evidence="901-910">triciteit </add><mod seq="20200810112320" type="continue" evidence="931-943">werk<del seq="20200810112824" type="context" evidence="1353">t</del><add seq="20200810112824" type="context" evidence="1355-1358">en</add>, he<del seq="20200810112827" type="context" evidence="1369-1378">eft</del><add seq="20200810112828" type="context" evidence="1377-1380">b<del seq="20200810112828" type="typo" evidence="1381">e</del></add><add seq="20200810112828" type="context|continue" evidence="1382-1384">ben</add> </mod><mod seq="20200810112431" type="continue" evidence="970-988"><del seq="20200810112830" type="context" evidence="1389-1398"> zij</del><add seq="20200810112831" type="context" evidence="1397-1400">hu</add>n nut verloren.</mod></seg>
+                    <seg><add seq="20200810112507" type="nt" evidence="991-1033">We zijn terug naar het stenen tijdperk gew<del seq="20200810112512" type="typo" evidence="1034">r</del></add><add seq="20200810112512" type="nt|continue" evidence="1035-1041">orpen.</add></seg>
+                    <seg><add seq="20200810112518" type="nt" evidence="1044-1073">Wat er van we nog overblijft.</add></seg>
+                    <seg><add seq="20200810112541" type="nt" evidence="1077-1162"><del seq="20200810112724" type="context" evidence="1275">Ik heb geen idee h</del><add seq="20200810112725" type="context" evidence="1286">H</add>oelang <del seq="20200810112742" type="context" evidence="1314-1315"><add seq="20200810112729" type="context" evidence="1293-1295">is </add></del><add seq="20200810112742" type="context" evidence="1316-1318">zou </add>het geleden <add seq="20200810112746" type="context" evidence="1322-1326">zijn </add><del seq="20200810112731" type="context" evidence="1299-1301">is </del>dat ik <del seq="20200810113425" type="context" evidence="1958-1961">nog </del>een levende ziel ben tegengekomen<del seq="20200810112736" type="context" evidence="1306">.</del><add seq="20200810112737" type="context" evidence="1308">?</add></add></seg>
+                    <seg><add seq="20200810112608" type="nt" evidence="1165-1189">Weken, maanden wellicht.</add></seg>
+                    <seg><add seq="20200810113110" type="translocation" evidence="1680-1681">Vroeger, veel, veel vroeger groette je elkaar, maakte je een praatje<add seq="20200810113138" type="context" evidence="1687-">, nodigde je elkaar misschien zelfs uit voor een glas</add>.</add></seg>
+                    <seg><add seq="20200810113156" type="translocation" evidence="1784-1785">Nu k<del seq="20200810113158" type="context" evidence="1790">e</del><add seq="20200810113159" type="context" evidence="1791-1792">ij</add>k<del seq="20200810113200" type="context" evidence="1797-1809">en w</del><add seq="20200810113201" type="context" evidence="1811"> j</add>e elkaar schichtig aan<add seq="20200810113215" type="context" evidence="1819-">, vanaf wat je hoop<del seq="20200810113218" type="typo" evidence="1839">d</del></add><add seq="20200810113218" type="context|continue" evidence="1840-1855">t dat een ve<del seq="20200810113220" type="typo" evidence="1856-1859">oili</del></add><add seq="20200810113220" type="context" evidence="1860-">ilige afstand is, en zet je het vervolgens op een rennen</add>.</add></seg>
+                    <seg><add seq="20200810113511" type="nt" evidence="2065-2088">Het is ieder voor zich.</add></seg>
+                    <seg><add seq="20200810113542" type="nt" evidence="2091-2109">Voor sentimenta<del seq="20200810113542" type="typo" evidence="2110-2113">ilit</del></add><add seq="20200810113546" type="nt|continue" evidence="2114-2128">liteit is ge<del seq="20200810113548" type="typo" evidence="2129-2131">ne </del></add><add seq="20200810113548" type="nt|continue" evidence="2135-2142">en plaats.</add></seg>
+                    <seg><add seq="20200810113852" type="nt" evidence="2203-2213"><del seq="20200810114210" type="context" evidence="2415-2418">Ik</del><add seq="20200810114212" type="context" evidence="2420-2424">Mij </add><del seq="20200810114214" type="context" evidence="2430-2433"> ga</del><add seq="20200810114215" type="context" evidence="2435-2442">zal je</add><add seq="20200810113939" type="context" evidence="2283-2289"> geen f<del seq="20200810113940" type="typo" evidence="2290">t</del></add><add seq="20200810113940" type="context|continue" evidence="2291-2308">oto's <add seq="20200810114312" type="context" evidence="2537-2550">van geliefden </add><add seq="20200810114218" type="context" evidence="2446-2450">zien </add>inlijsten om</add><del seq="20200810113859" type="pre-context" evidence="2214-2218"> mijn </del></add><add seq="20200810113900" type="nt|continue" evidence="2219-2255"> het appartement <add seq="20200810114007" type="context" evidence="2313-2334">er <del seq="20200810114319" type="context" evidence="2555-2558">wat </del>gezelliger op<del seq="20200810114010" type="typo" evidence="2335-2336">t </del></add><add seq="20200810114010" type="context|continue" evidence="2338-2347"> te maken.</add><del seq="20200810114016" type="context" evidence="2351-2354">niet inrichten met <del seq="20200810113907" type="pre-context" evidence="2256-2257">fo</del><add seq="20200810113907" type="nt|continue" evidence="2258-2276">ingelijste foto's.</add></del></add></seg>
+                    <seg><add seq="20200810114248" type="nt" evidence="2455-2475">Er zijn geen foto's.</add></seg>
+                    <seg><add seq="20200810114346" type="nt" evidence="2562-2568">De <add seq="20200810114432" type="context" evidence="2650-2711">laatste keer dat ik naar haar<hi rend="bold"><add seq="20200810114551" type="context" evidence="2820-2828"> (naam?)</add></hi> glimlach keek, is<add seq="20200810114622" type="context" evidence="2859-2861"> op</add> de dag dat de </add>bat<del seq="20200810114348" type="typo" evidence="2569">e</del></add><add seq="20200810114348" type="nt|continue" evidence="2570-2621">terij van mijn smartphone <del seq="20200810114457" type="context" evidence="2722-2725">heeft </del>het <del seq="20200810114501" type="context" evidence="2730-2736">allang </del>beg<del seq="20200810114504" type="context" evidence="2745-2754">even</del><add seq="20200810114505" type="context" evidence="2756-2759">af</add>.</add></seg>
+                    <seg><add seq="20200810114510" type="nt" evidence="2780-2803">En dat is lang geleden.</add></seg>
+                    <seg><add seq="20200810114726" type="nt" evidence="2884-2906">Haar gezicht vervaagt.</add></seg>
+                    <seg><add seq="20200810114742" type="nt" evidence="2925-2932">Straks <del seq="20200810114743" type="pre-context" evidence="2933">g</del></add><add seq="20200810114743" type="nt|continue" evidence="2934-2983">dreig ik het me helemaal niet meer te herinneren.</add></seg>
+                    <seg><add seq="20200810114955" type="nt" evidence="3040-3090">Als ze het zou weten, ze zou het me niet vergeven.</add></seg>
+                    <seg><add seq="20200810114925" type="nt" evidence="3011-3032">Ik moet me vermannen.</add></seg>
+                    <seg><add seq="20200810115037" type="nt" evidence="3099-3127">Dus teken ik het op de muur.</add></seg>
+                    <seg><add seq="20200810115055" type="nt" evidence="3130-3167">In een lade vond ik een alcoholstift.</add></seg>
+                    <seg><add seq="20200810115107" type="nt" evidence="3170-3180">Z<add seq="20200810115111" type="context" evidence="3185-3211">e bestaat nu enkel nog in z</add>wart-wit.</add></seg>
+                    <add seq="20200810113451" type="context" evidence="1988-1989"><lb/><lb/></add>
+                    <seg><del seq="20200810114751" type="context" evidence="2988-2991"><add seq="20200810112656" type="nt" evidence="1192-1222">Het gezicht kan ik me niet <del seq="20200810112706" type="pre-context" evidence="1223-1226">meer</del></add><add seq="20200810112710" type="nt|continue" evidence="1251-1262">herinneren.</add></del></seg>
+                    <seg><del seq="20200810114734" type="context" evidence="2912-2915"><add seq="20200810112857" type="nt" evidence="1405-1452">We hebben elkaar gegroet, geen praatje gemaakt.</add></del></seg>
+                    <seg><del seq="20200810113105" type="translocation" evidence="1661-1671"><add seq="20200810113022" type="nt" evidence="1510-1539">Vroeger, veel, veel vroeger </add><mod seq="20200810113052" type="continue" evidence="1556-15584">groette je elkaar, maakt<del seq="20200810113058" type="typo" evidence="1588-1592">je <del seq="20200810113056" type="typo" evidence="1587">e</del><mod seq="20200810113057" type="continue|continue" evidence="1586-1587">je</mod></del></mod><mod seq="20200810113058" type="continue|continue" evidence="1593">e je een praatje.</mod></del></seg>
+                    <seg><del seq="20200810113152" type="translocation" evidence="1764-1776"><add seq="20200810113009" type="nt" evidence="1470-1503">Nu keken we elkaar schichtig aan.</add></del></seg>
+                    
+                <seg>terwijl er hier prachtige ruime huizen te kraken vallen, maar het appartementje </seg><lb/>
+                <seg>zodat ik me er elke dag weer opnieuw kan afvragen waarom ik niet een van de
+                    vele leegstaande huizen kraak, wat nauwelijks een mens zou opvallen en als het
+                    dat toch moest doen zou die mens daar niet om malen want alles in dit onooglijke
+                    dorpje is doortrokken met onverschilligheid, maar ik blijf bij het appartementje
+                    al is het niet groot omdat er hier tenminste stromend water is en elektriciteit
+                    wat me wellicht van pas zal komen eens de winter aaanbreekt, al ga ik er prat op
+                    dat het ook de komende winter niet zal sneeuwen en ik geen schrik moet hebben
+                    van drommen mensen hier beneden op de gelijkvloerse verdieping die in lange
+                    rijen staan aan te schuiven voor een paar skilatten waarop ze een tijd daarna
+                    vrolijk van de bergflank zweven als volleerde alpinisten of hoe zulke mensen nu
+                    ook alweer genoemd mogen worden, het kan me niet schelen, zolang ze maar
+                    wegblijven, zolang de sneeuw maar wegblijft, de restanten van de skilift niet in
+                    ere wordt hersteld, die bakjes van de skiliften bungelen nu vervaarlijk heen en
+                    weer, dat kan ik zien vanuit mijn piepklein badkamerraampje en ik verbaas me
+                    erover dat ze niet bij het minste zuchtje wind naar beneden denderen, maa rdat
+                    ze nog altijd lijken te wachten op de komst van menselijke zitvlakken om naar de
+                    top van de berg te vervoeren, een top die ik door het piepkleine badkamerraampje
+                    niet kan zien, wellicht zelfs niet als ik het in mijn hoofd zou halen om mijn
+                    hoofd door het raampje te wringen, want mijn hoofd past er niet door, misschien
+                    is het zelfs voor een babyhoofdje te klein en als het dat niet zo is en je het
+                    hoofd van zo'n baby erdoor schuift, kan je hem niet vragen of de bergtop te zien
+                    is, nu ja, je kan het wel vragen maar een antwoord moet je van dat klein grut
+                    niet verwachten, nee, als ik al de dragn voel om de bergtop bij goed weer te
+                    zien, dan moet ik mijn appartement uit, de trap af, de kriepende deur uit en
+                    daar heb ik nooit veel zin in, ik probeer niet te veel naar buiten te gaan allen
+                    voor het meest noodzakelijke, niet dat het in dit uitgestorven bergdorpje van de
+                    mensen stikt, maar als je dan toch iemand tegenkomt, heeft die zo goed als
+                    altijd zin om je staande te houden voor een praatje en de praatjes vrolijken me
+                    niet bepaald op, want veel diepgang kennen ze niet, er worden geen vragen
+                    gesteld, men durft de huidige toestand niet aan de kaak te stellen en dat zou
+                    men nochtans beter soms wel eens doen, al moet ik maar meteen bekennen dat omdat
+                    niemand anders het doet, ik er zelf ook niet toe geneigd ben, wat van een soort
+                    lafheid zou kunnen getuigen, maar laf ben ik allerminst, ik heb de moed gehad om
+                    have en goed achter te laten, dagen, weken door het land te hebben gezworven,
+                    deze berg te hebben uitgezocht om via ik weet niet hoeveel haarspeldbochten hier
+                    terecht te komen en te leven alsof ik de laatste mens op deze godvergeten
+                    planeet ben en als het werkelijk zo is dan laat ik dat niet aan mijn hart komen,
+                    ik zal het zolang mogelijk proberen uitzingen tot ook mijn lied ten einde is en
+                    zolang dat niet het geval is, schrijf ik het neer, wat wellicht geen zin heeft,
+                    want als deze papieren al ooit door levende organismen worden gevonden, dan
+                    zullen ze niet meteen begrijpen wat voor woorden ik hier in een onafgebroken
+                    ritme zit te noteren, zoals wij ooit het spijkerschrift in grotten hebben
+                    geprobeerd te ontcijferen en ik ben er zeker van dat we er maar een slag naar
+                    hebben geslagen en nooit de ware finesses van het spijkerschrift tot ons zijn
+                    doorgedrongen, en ik heb niet de ambitie om op die finesses alsnog vat te
+                    krijgen, ik heb wel wat beters met mijn tijd te doen, je zou het gerust
+                    overleven kunnen noemen.</seg>
+                <lb/>
+                <seg><add seq="20200810111401" type="nt" evidence="62-198"><lb/>En man alleen in een appartementje boven een leegstaand winkelpand in een
+                    uitgestorven bergdorpje - met de naam Mondini, wat Italia<del seq="20200810111436" type="typo" evidence="198">n</del></add><add seq="20200810111436" type="nt|continue" evidence="199-220">ans zou kunnen
+                        zijn<del seq="20200810111442" type="pre-context" evidence="221-223"> - </del></add><add seq="20200810111443" type="nt|continue" evidence="225">.</add></seg>
+                <seg><add seq="20200810111452" type="nt" evidence="228-258">Hij tuurt angstig naar buiten.</add></seg>
+                <seg><add seq="20200810111529" type="nt" evidence="261-271">Er <del seq="20200810111535" type="pre-context" evidence="276-281">is ge<del seq="20200810111533" type="typo" evidence="272-274">ne </del><add seq="20200810111534" type="nt|continue" evidence="275">e</add></del></add><add seq="20200810111536" type="nt|continue" evidence="282-335">is geen leven meer, er lijkt geen leven meer te zijn.</add></seg>
+                <seg><add seq="20200810111542" type="nt" evidence="337-363">Hoe is hij daar terecht<del seq="20200810111546" type="typo" evidence="364-367"> gek</del></add><add seq="20200810111546" type="nt|continue" evidence="368-411">gekomen, wat vertelt hij over het verleden?</add></seg>
+            </p>
+            <p>
+                <add seq="20200810111556" type="focus" evidence="417-419">Focus events<lb/>
+                    <media url="Mail" mimeType="internet"><desc>Mail</desc></media></add>
+                <lb/>
+                <add seq="20200810111920" type="focus" evidence="730"><media url="Mail" mimeType="internet"><desc>Mail</desc></media></add>
+                <lb/>
+                <add seq="20200810112332" type="focus" evidence="947"><media url="Mail" mimeType="internet"><desc>Mail</desc></media></add>
+                <lb/>
+                <add seq="20200810112332" type="focus" evidence="949"><media url="Social" mimeType="internet"><desc>Social Media</desc></media></add>
+                <lb/>
+                <add seq="20200810113341" type="focus" evidence="1919"><media url="Mail" mimeType="internet"><desc>Mail</desc></media></add>
+                <lb/>
+                <add seq="20200810113343" type="focus" evidence="1921"><media url="YouTube" mimeType="internet"><desc>Music: Beirut - "East Harlem" - The Rip Tide - YouTube</desc></media></add>
+                <lb/>
+                <add seq="20200810114020" type="focus" evidence="2360"><media url="Mail" mimeType="internet"><desc>Mail</desc></media></add>
+                <lb/>
+                <add seq="20200810114034" type="focus" evidence="2377"><media url="Mail" mimeType="internet"><desc>“We hebben het kunnen inperken”: hoe Gent het coronavuur tot... (Gent) - Het Nieuwsblad</desc></media></add>
+                <lb/>
+                <add seq="20200810114627" type="focus" evidence="2867"><media url="Mail" mimeType="internet"><desc>Mail</desc></media></add>
+                <lb/>
+                <add seq="20200810114630" type="focus" evidence="2871"><media url="YouTube" mimeType="internet"><desc>Music: Beirut - The Rip Tide (Official Video) - YouTube</desc></media></add>
+                <lb/>
+                <add seq="20200810115117" type="focus" evidence="3215"><media url="YouTube" mimeType="internet"><desc>Music: Beirut - The Rip Tide (Official Video) - YouTube</desc></media></add>
+                <lb/>
+            </p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dauphin</title>
+                <author>Ellen Van Pelt</author>
+                <respStmt>
+                    <name>Lamyk Bekius</name>
+                    <resp>encoding scheme, TEI customization, encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p corresp="section">Dauphin</p>
+                <p corresp="session">1</p>
+                <p corresp="version">1</p>
+                <p corresp="total_versions">19</p>
+                <p corresp="name">Ellen_VanPelt</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <l>Date: 23-11-2020</l>
+                    <l>Start time: 13:39:52</l>
+                    <l>Duration: 00:58:34</l>
+                </p>
+                <p><linkGrp><link prev="#" n="01_s01" next="02_s02"/></linkGrp></p>
+                <p>
+                    <material corresp="01_s01">Sessie-versie 1</material>
+                    <material corresp="02_s02">Sessie-versie 2</material>
+                    <material corresp="03_s03">Sessie-versie 3</material>
+                    <material corresp="04_s04">Sessie-versie 4</material>
+                    <material corresp="05_s05">Sessie-versie 5</material>
+                    <material corresp="06_s06">Sessie-versie 6</material>
+                    <material corresp="07_s07">Sessie-versie 7</material>
+                    <material corresp="08_s08">Sessie-versie 8</material>
+                    <material corresp="09_s11">Sessie-versie 9</material>
+                    <material corresp="10_s12">Sessie-versie 10</material>
+                    <material corresp="11_s14">Sessie-versie 11</material>
+                    <material corresp="12_s15">Sessie-versie 12</material>
+                    <material corresp="13_s16">Sessie-versie 13</material>
+                    <material corresp="14_s17">Sessie-versie 14</material>
+                    <material corresp="15_s18">Sessie-versie 15</material>
+                    <material corresp="16_s19">Sessie-versie 16</material>
+                    <material corresp="17_s20">Sessie-versie 17</material>
+                    <material corresp="18_s21">Sessie-versie 18</material>
+                    <material corresp="19_s22">Sessie-versie 19</material>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><seg><add seq="20201123134027" type="nt" evidence="18-28">Dolfinarium</add></seg>
+                <lb/><lb/>
+                <seg><add seq="20201123134046" type="nt" evidence="43-71">?hoofdpersonage: gescheiden?</add></seg>
+                <seg><add seq="20201123134056" type="nt" evidence="77-104"><del seq="20201123134056" type="pre-context" evidence="73-76">ne</del></add><add seq="20201123134057" type="nt|continue" evidence="77-71">op re<del seq="20201123134059" type="typo" instant="true" evidence="86-89">si m</del></add><add seq="20201123134100" type="nt|continue" evidence="90-104">is met ouders?</add></seg>
+                <lb/><lb/>
+                <seg><add seq="20201123134118" type="nt" evidence="107-">hotel<del seq="20201123134128" type="pre-context" evidence="114-115"> b</del></add><add seq="20201123134130" type="nt|continue" evidence="116-121">lobby<del seq="20201123134133" type="typo" instant="true" evidence="123-124">n </del><add seq="20201123140101" type="pre-context" evidence="1822-1835"> Fiesta beach</add></add><add seq="20201123134133" type="nt|continue" evidence="125-40">, wachten op bus</add><mod seq="20201123134851" type="continue" evidence="829-844">, het <del seq="20201123134853" type="typo" evidence="840-844" instant="true">ielan</del></mod><mod seq="20201123134854" type="continue|continue" evidence="845">eiland van de flami<del seq="20201123134858" type="typo" evidence="865">g</del></mod><mod seq="20201123134858" type="continue|continue" evidence="866-870">ngo's</mod><mod seq="20201123140231" type="continue" evidence="2013-2063">, het is zelfs geen eiland, maar een schiereiland.</mod></seg><lb/><lb/>
+                <seg><add seq="20201123134138" type="nt" evidence="143-173">tour langs verschillende hotels</add></seg>
+               <lb/><lb/> 
+                <del seq="20201123140637" type="pre-context" evidence="2478-2481"><add seq="20201123140636" type="nt" evidence="2475-2477">Ver</add></del>
+                <seg><add seq="20201123140639" type="nt" evidence="2485-2510">Kolonne van piratensch<del seq="20201123140644" type="typo" evidence="2511-2514" instant="true">apen</del></add><add seq="20201123140645" type="nt|continue" evidence="2515">epen, vo<del seq="20201123140647" type="typo" evidence="2524" instant="true">g</del></add><add seq="20201123140648" type="nt|continue" evidence="2525-2532">lgesto<del seq="20201123140650" type="typo" evidence="2535-2534">au</del></add><add seq="20201123140650" type="nt|continue" evidence="2535-2546">uwd met to<del seq="20201123140653" type="typo" evidence="2547-2548" instant="true">re</del></add><add seq="20201123140653" type="nt|continue" evidence="2549-2555">eristen</add><mod seq="20201123142913" type="continue" evidence="5074">.</mod></seg>
+                
+               <seg><add seq="20201123142914" type="nt" evidence="5077-5095">De onze heet Elys<del seq="20201123142917" type="pre-context" evidence="5096">s</del></add><add seq="20201123142918" type="nt|continue" evidence="5077-5097">a</add></seg>
+                <lb/><lb/>
+                <seg><add seq="20201123134147" type="nt" evidence="176-180">boot<del seq="20201123134150" type="pre-context" evidence="180"> -</del></add><mod seq="20201123135209" type="continue" evidence="1165">, piratenmuziek, kunstjes in de touwen</mod></seg><add seq="20201123135502" type="nt" evidence="1319"><seg>en nagebouwd piratenschip.</seg> <seg><add seq="20201123142929" type="nt" evidence="5104-5128">De piraten zijn enthousi<del seq="20201123142933" type="typo" evidence="5129">t</del></add><add seq="20201123142933" type="nt|continue" evidence="5130-5135">ast. </add></seg><seg>Op dit schip kun je een tochtje maken naar Flamingo eiland (Flamingo Island).</seg> <seg>De bemanning van de schip is gekleed als echte piraten.</seg> <seg>Tijdens de tocht naar Flamingo eiland kun je dolfijnen spotten.</seg> <seg>Eenmaal aangekomen op het eiland kun je genieten van de pracht en praal die dit eiland je te bieden heeft.</seg> <seg>Er is voor ieder wat wils: je kunt hier de flamingo's en natuur bekijken, heerlijk zonnen en luieren op het mooie strand of zwemmen en snorkelen.</seg> <seg>Aan het eind van de middag vaar je terug naar Djerba</seg></add>
+                
+                <seg><add seq="20201123134204" type="nt" evidence="185"><del seq="20201123134204" type="typo" evidence="186" instant="true">p</del></add><add seq="20201123134205" type="nt|continue" evidence="187-192">op zee</add></seg>
+                <lb/><lb/>
+                <seg><del seq="20201123134212" type="pre-context" evidence="206-215"><add seq="20201123134209" type="nt" evidence="196-205">Mijn blik </add></del>
+                <del seq="20201123134902" type="context" evidence="874-877"><add seq="20201123134216" type="nt" evidence="217-240">We zaten op de zijbeu<del seq="20201123134225" type="typo" evidence="241-243" instant="true">gek</del></add><add seq="20201123134226" type="nt|continue" evidence="244-258">ken van de boot</add></del>
+                <del seq="20201123134914" type="pre-context" evidence="920-948"><add seq="20201123134906" type="nt" evidence="884-896">We zaten <del seq="20201123134909" type="pre-context" evidence="897-900">elle</del></add><add seq="20201123134910" type="nt|continue" evidence="901-919">netjes op een rij, </add></del>
+                <del seq="20201123134920" type="pre-context" evidence="953"><add seq="20201123134919" type="nt" evidence="952">A</add></del><del seq="20201123134923" type="pre-context" evidence="961-963"><add seq="20201123134922" type="nt" evidence="958">De </add></del><del seq="20201123134924" type="typo" evidence="968-970"><add seq="20201123134923" type="nt" evidence="965-967">et </add></del><del seq="20201123141558" type="pre-context" evidence="3492-3492"><add seq="20201123134925" type="nt|continue" evidence="972-">Het b<del seq="20201123135027" type="pre-context" evidence="1067-1071">innen</del><add seq="20201123135029" type="pre-context" evidence="1072-1075">oven</add>dek</add></del><add seq="20201123141601" type="nt" evidence="3505-3575">Op het bovendek zijn aan weerszijden van<del seq="20201123141607" type="typo" evidence="3548-3550" instant="true">d e</del></add><add seq="20201123141608" type="nt|continue" evidence="3552-3575"> boot zitbanken gemaakt.</add></seg>
+                <seg><del seq="20201123141619" type="pre-context" evidence="3608-3637"><add seq="20201123141614" type="nt" evidence="3578-3607">Daar zitten we allemaal netjes</add></del><del seq="20201123141625" type="pre-context" evidence="3654-3668"><add seq="20201123141622" type="nt" evidence="3639">Aan de overkant</add></del><del seq="20201123141630" type="pre-context" evidence="3674-3676"><add seq="20201123141627" type="nt" evidence="3671-3673">Mij</add></del><del seq="20201123141633" type="pre-context" evidence="3681-3683"><add seq="20201123141631" type="nt" evidence="3678-3680">Luk</add></del><del seq="20201123141643" type="pre-context" evidence="3691"><add seq="20201123141642" type="nt" evidence="3690">L</add></del><add seq="20201123141651" type="nt|continue" evidence="3693-3735">Robbe kleeft tegen me aan<del seq="20201123141702" type="pre-context" evidence="3737-3751">, hij lijkt bang</del></add><add seq="20201123141704" type="nt|continue" evidence="3752-3793"> en gluurt vanonder zijn pet naar de p<del seq="20201123141711" type="typo" evidence="3794-3797">riat</del></add><add seq="20201123141712" type="nt|continue" evidence="3798-">iraten<del seq="20201123141717" type="pre-context" evidence="3824-3843"> die op een kluitje </del></add><add seq="20201123141721" type="nt|continue" evidence="3844-"> die <add seq="20201123141749" type="context" evidence="3953-3958">zich in ruil voor enkele dinars <del seq="20201123141755" type="typo" evidence="3986" instant="true">m</del></add><add seq="20201123141756" type="context|continue" evidence="3957-3994">laten <del seq="20201123141757" type="typo" evidence="3995-3996" instant="true">go</del></add><add seq="20201123141757" type="context|continue" evidence="3997-3999">fo<del seq="20201123141759" type="typo" evidence="4000" instant="true">r</del></add><add seq="20201123141759" type="context|continue" evidence="4001-4027">tograferen met <del seq="20201123141805" type="context" evidence="4029-4040">de toeristen</del></add><add seq="20201123141807" type="context|continue" evidence="4041-4047">hun<del seq="20201123141809" type="typo" evidence="4048-4051" instant="true">gast</del></add><add seq="20201123141810" type="context|continue" evidence="4052-4060"> gasten.</add><del seq="20201123141747" type="context" evidence="3948-3951">nu hun toer maken langs de </del><del seq="20201123141732" type="typo" evidence="3879-3881" instant="true">ote</del></add><del seq="20201123141748" type="context" evidence="3948-3950"><add seq="20201123141733" type="nt|continue" evidence="3882-3883">t<del seq="20201123141733" type="typo" evidence="3884" instant="true">e</del></add><add seq="20201123141734" type="nt|continue" evidence="3885-3894">oeristen.</add>
+                <add seq="20201123141736" type="nt|continue" evidence="3897-3942">Voor enkele dinars mag je met hen op de foto.</add></del></seg>
+                <lb/><lb/>
+                <seg><del seq="20201123141813" type="pre-context" evidence="4066-4068"><add seq="20201123141812" type="nt" evidence="4063-4065">De </add></del>
+                <del seq="20201123141843" type="context" evidence="4183-4214"><add seq="20201123141824" type="nt" evidence="4072-4">Recht tegenov<del seq="20201123141831" type="context" evidence="4107-4128">er me zit een man in e</del></add><add seq="20201123141833" type="nt|continue" evidence="4129-">er me zit een man.</add></del>
+                <del seq="20201123141850" type="pre-context" evidence="4226-4233"><add seq="20201123141848" type="nt" evidence="4216-4224">Op de ban</add></del>
+                <del seq="20201123141854" type="pre-context" evidence="4242"><add seq="20201123141853" type="nt" evidence="4241">R</add></del>
+                <del seq="20201123141856" type="pre-context" evidence="4246-4247"><add seq="20201123141855" type="nt" evidence="4244-4245">Sc</add></del>
+                <add seq="20201123141856" type="nt" evidence="4249-4291">In de hoek van de zitban<del seq="20201123141901" type="typo" evidence="4275-4276" instant="true">d,</del></add><add seq="20201123141902" type="nt|continue" evidence="4277-">k<add seq="20201123142138" type="context" evidence="4944-4950">, in <del seq="20201123142139" type="pre-context" evidence="4951-4952">ee</del></add><add seq="20201123142140" type="context|continue" evidence="4953-4962">de weini<del seq="20201123142144" type="typo" evidence="4963-4964">e </del></add><add seq="20201123142144" type="context|continue" evidence="4965-4981">ge schaduw die <del seq="20201123142147" type="pre-context" evidence="4983-4985">op </del></add><add seq="20201123142148" type="context|continue" evidence="4986-4993">er op <del seq="20201123142149" type="typo" evidence="4994-4995">td</del></add><add seq="20201123142149" type="context|continue" evidence="4996-5009">dit schip is, </add> zit een man.</add></seg>
+                <seg><del seq="20201123141921" type="pre-context" evidence="4375-4415"><add seq="20201123141906" type="nt" evidence="4294-">Zijn <del seq="20201123141911" type="pre-context" evidence="4312-4324">lange trainin</del></add><add seq="20201123141912" type="nt|continue" evidence="4325-4338">trainingsb<del seq="20201123141915" type="typo" evidence="4339-4342" instant="true">orek</del></add><add seq="20201123141915" type="nt|continue" evidence="4343-4356">roek en swe<del seq="20201123141918" type="typo" evidence="4357-4359" instant="true">tar</del></add><add seq="20201123141918" type="nt|continue" evidence="4360-4374">ater met lange </add></del>
+                    <add seq="20201123141924" type="nt" evidence="4417-">Met zijn <add seq="20201123141934" type="pre-context" evidence="4459"><del seq="20201123141934" type="pre-context" evidence="4460">a</del></add><del seq="20201123141953" type="pre-context" evidence="4503-4518"><add seq="20201123141935" type="pre-context|continue" evidence="4461-4467">zwarte </add>trainings</del><add seq="20201123141956" type="pre-context" evidence="4520-4527">Ad<del seq="20201123141959" type="typo" evidence="4535-4537" instant="true">d<del seq="20201123141957" type="typo" evidence="4528-4532" instant="true">isa s</del><add seq="20201123141958" type="pre-context|continue" evidence="4533-4534">is</add></del></add><add seq="20201123141959" type="pre-context|continue" evidence="4538-4540">i<del seq="20201123142000" type="typo" evidence="4541-4542" instant="true">sa</del></add><add seq="20201123142000" type="pre-context|continue" evidence="4543-4540">das-trainings</add>broek en <del seq="20201123141929" type="pre-context" evidence="4446-4447">zw</del></add><add seq="20201123141929" type="nt|continue" evidence="4448-4454"><del seq="20201123142009" type="pre-context" evidence="4568-4574"><add seq="20201123142007" type="pre-context" evidence="4561-4567">gitzwar</add></del><add seq="20201123142010" type="pre-context" evidence="4575-4581">zwarte </add>sweater</add><del seq="20201123142014" type="pre-context" evidence="4587-4588"><mod seq="20201123142013" type="continue" evidence="4585-4586">, </mod></del><mod seq="20201123142015" type="continue|continue" evidence="4590-4595"> v<del seq="20201123142016" type="typo" evidence="4596-4600">lat h</del></mod><mod seq="20201123142017" type="continue|continue" evidence="4601-4611">alt hi<del seq="20201123142019" type="typo" evidence="4612-4616"> op t</del></mod><mod seq="20201123142020" type="continue|continue" evidence="4617-4642">j tussen al het blote bla<del seq="20201123142024" type="typo" evidence="4643">k</del></mod><mod seq="20201123142025" type="continue|continue" evidence="4644-4650">nke <del seq="20201123142027" type="pre-context" evidence="4651-4653">ble</del></mod><mod seq="20201123142027" type="continue|continue" evidence="4654-4656">v<del seq="20201123142028" type="typo" evidence="4647-4658">ee</del></mod><mod seq="20201123142028" type="continue|continue" evidence="4659-4664">lees.</mod></seg>
+                <seg><add seq="20201123142030" type="nt" evidence="4667-4691">Hi<del seq="20201123142035" type="pre-context" evidence="4693-4716">j draagt een zonnebril, </del></add><add seq="20201123142041" type="nt|continue" evidence="4717-4752">j draagt een zonnebril en lijkt <del seq="20201123142051" type="typo" evidence="4753-4757">dars</del></add><add seq="20201123142052" type="nt|continue" evidence="4759-4788">nors voor zich uit te staren.</add></seg>
+                <seg><del seq="20201123142208" type="pre-context" evidence="5026-5027"><add seq="20201123142207" type="nt" evidence="5024-5025">In</add></del><del seq="20201123142210" type="pre-context" evidence="5031-5032"><add seq="20201123142209" type="nt|continue" evidence="5029-5032">Hi</add></del><add seq="20201123142211" type="nt|continue" evidence="5034-5045">Oortjes in.</add></seg>
+                <seg><del seq="20201123142058" type="pre-context" evidence="4794-4796"><add seq="20201123142057" type="nt" evidence="4791-4793">Hij</add></del><add seq="20201123142059" type="nt|continue" evidence="4798-4805">Is hij <del seq="20201123142101" type="typo" evidence="4806">e</del></add><add seq="20201123142101" type="nt|continue" evidence="4807-4820">iemand van<del seq="20201123142103" type="typo" evidence="4821-4824">d e </del></add><add seq="20201123142104" type="nt|continue" evidence="4826-4834"> de crew?</add></seg>
+                <seg><del seq="20201123142108" type="pre-context" evidence="4842-4847"><add seq="20201123142107" type="nt" evidence="4837-4841">ee p</add></del><del seq="20201123142110" type="pre-context" evidence="4850-4852"><add seq="20201123142109" type="nt|continue" evidence="4848-4849">ee</add></del><add seq="20201123142110" type="nt|continue" evidence="4853-4883">Een piraat <del seq="20201123142116" type="pre-context" evidence="4884-4903">met een dagje verlof</del></add><add seq="20201123142118" type="nt|continue" evidence="4903-4911"> die<del seq="20201123142119" type="typo" evidence="4912-4916">e zij</del></add><add seq="20201123142120" type="nt|continue" evidence="4918-4938">zijn kostuum vergat?</add></seg>
+                <seg><del seq="20201123143006" type="pre-context" evidence="5224-5276"><add seq="20201123142950" type="nt" evidence="5143-5150">De p<del seq="20201123142952" type="typo" evidence="5151-5154">riat</del></add><add seq="20201123142952" type="nt|continue" evidence="5155-5166">iraten lijk<del seq="20201123142955" type="typo" evidence="5167">t</del></add><add seq="20201123142955" type="nt|continue" evidence="5168-5180">en te geniet<del seq="20201123142958" type="typo" evidence="5182-5183">n </del></add><add seq="20201123142958" type="nt|continue" evidence="5184-5192">en van <del seq="20201123143000" type="typo" evidence="5193-5194">te</del></add><add seq="20201123143000" type="nt|continue" evidence="5195-5201">de <del seq="20201123143001" type="pre-context" evidence="5202-5205">ocht</del></add><add seq="20201123143002" type="nt|continue" evidence="5206-5223">tocht, ze hebbne</add></del></seg>
+                <seg><add seq="20201123143011" type="nt" evidence="5278-5319">Een van de piraten komt naast ons zitten.</add></seg>
+                <seg><add seq="20201123143019" type="nt" evidence="5322-5332">Hij <del seq="20201123143024" type="pre-context" evidence="5333-5339">heeft e</del></add><add seq="20201123143025" type="nt|continue" evidence="5340-5353">glimlacht de <del seq="20201123143028" type="typo" evidence="5354">e</del></add><add seq="20201123143029" type="nt|continue" evidence="5355-5368">hele tijd<del seq="20201123143031" type="pre-context" evidence="5369-5373">, ljk</del></add><add seq="20201123143033" type="nt|continue" evidence="5375"><del seq="20201123143045" type="context" evidence="5423">. </del><add seq="20201123143046" type="context" evidence="5424-5442">, zakt achterover<del seq="20201123143052" type="pre-context" evidence="5443-5445"> e</del></add><add seq="20201123143057" type="context|continue" evidence="5445-5483">, laat de wind in zijn haren wapperen. </add></add><del seq="20201123143039" type="pre-context" evidence="5400-5423"><add seq="20201123143035" type="nt" evidence="5378-5399">Piraat zijn is vast en</add></del></seg>
+                <seg><add seq="20201123143105" type="nt" evidence="5486-5505">Robbe speelt met<del seq="20201123143111" type="pre-context" evidence="5506-5509"> zij</del></add><add seq="20201123143112" type="nt|continue" evidence="5511-5520"> zijn p<del seq="20201123143115" type="typo" evidence="5521-5524">riat</del></add><add seq="20201123143116" type="nt|continue" evidence="5525-5528">ir<del seq="20201123143117" type="typo" evidence="5529-5530">ta</del></add><add seq="20201123143118" type="nt|continue" evidence="5531-5546">atenzwaard?</add></seg>
+            </p>
+            
+            <p><add seq="20201123134241" type="focus" evidence="276-304">Focus events<lb/>
+                <media url="Google" mimeType="internet"><desc>onderdelen piratenboot - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201123134319" type="focus" evidence="338"><media url="Google" mimeType="internet"><desc>piratenboot - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201123134326" type="focus" evidence="352"><media url="Wikipedia" mimeType="internet"><desc>Piratenboot - Wikipedia</desc></media></add>
+                <lb/>
+                <add seq="20201123134400" type="focus" evidence="395-410"><media url="Google" mimeType="internet"><desc>geschiedenis piratenboot - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201123134415" type="focus" evidence="419"><media url="Wikikids" mimeType="internet"><desc>Piraat | Wikikids</desc></media></add>
+                <lb/>
+                <add seq="20201123134543" type="focus" evidence="474"><media url="Historiek" mimeType="internet"><desc>Hoe zijn piraten ontstaan? | willemwever</desc></media></add>
+                <lb/>
+                <add seq="20201123134600" type="focus" evidence="512-558"><media url="Google" mimeType="internet"><desc>piratenschip delen van het schip - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201123134622" type="focus" evidence="564-571"><media url="Pinterest" mimeType="internet"><desc>Fragmenten en delen van een piratenschip, geïsoleerde beeldelementen | Piratenschip, Zeilen, Afbeeldingen</desc></media></add>
+                <lb/>
+                <add seq="20201123134706" type="focus" evidence="660-685"><media url="Google" mimeType="internet"><desc>terminologie piratenschip - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201123134724" type="focus" evidence="720"><media url="Wikipedia" mimeType="internet"><desc>Deze termen moet je kennen, om te begrijpen wat er in de wereld gaande is – complete lijst - Ellaster</desc></media></add>
+                <lb/>
+                <add seq="20201123134748" type="focus" evidence="730-732"><media url="PDF" mimeType="internet"><desc>Piraterij: Het Jack Sparrow complex - Laurent Samyn - Thesis Master in de Maritieme Wetenschappen</desc></media></add>
+                <lb/>
+                <add seq="20201123134819" type="focus" evidence="775-796"><media url="Google" mimeType="internet"><desc>piratenschip tunesie - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201123134832" type="focus" evidence="807-815"><media url="Google" mimeType="internet"><desc>piratenschip djerba - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201123134936" type="focus" evidence="999-1018"><media url="Google" mimeType="internet"><desc>binnendek schip - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201123134949" type="focus" evidence="1021"><media url="Wikipedia" mimeType="internet"><desc>Dek - Wikipedia</desc></media></add>
+                <lb/>
+                <add seq="20201123135046" type="focus" evidence="1096-1098-1339"><media url="Qaz" mimeType="internet"><desc>Deck (schip) - Deck (ship) - qaz.wiki </desc></media></add>
+                <lb/>
+                <add seq="20201123135106" type="focus" evidence="1117"><media url="Google" mimeType="internet"><desc>piratenschip djerba - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201123135118" type="focus" evidence="1126"><media url="Tripadvisor" mimeType="internet"><desc>Piratenboot - Reizigersbeoordelingen - Ballade en Mer - Tripadvisor</desc></media></add>
+                <lb/>
+                <add seq="20201123135141" type="focus" evidence="1137-1138"><media url="Tripadivisor" mimeType="internet"><desc>Tripadvisor | | Midoun, Djerba</desc></media></add>
+                <lb/>
+                <add seq="20201123135416" type="focus" evidence="1265"><media url="Reisgraag" mimeType="internet"><desc>Djerba (Tunesië): informatie &amp; reizen | Reisbureau Reisgraag.nl </desc></media></add>
+                <lb/>
+                <add seq="20201123135510" type="focus" evidence="1339-1351"><media url="Google" mimeType="internet"><desc>Djerba - Google Maps</desc></media></add>
+                <lb/>
+                <add seq="20201123135540" type="focus" evidence="1365-1406"><media url="Google" mimeType="internet"><desc>hotel djerba zwembad - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201123135600" type="focus" evidence="1408-1410"><media url="Booking" mimeType="internet"><desc>De 10 beste hotels op Djerba – Waar te verblijven op Djerba, Tunesië - Booking.com - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201123135631" type="focus" evidence="1461-1462"><media url="Booking" mimeType="internet"><desc>Booking.com : Hotels in Djerba . Boek nu je hotel!</desc></media></add>
+                <lb/>
+                <add seq="20201123135847" type="focus" evidence="1633-1662"><media url="Google" mimeType="internet"><desc>hotel djerba tui zee zwembad - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201123135857" type="focus" evidence="1665-1677"><media url="Google" mimeType="internet"><desc>hotel djerba tui zee zwembad glijbaan - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201123135914" type="focus" evidence="1690"><media url="TUI" mimeType="internet"><desc>Hotels Djerba - Boek hier je hotel in Djerba | TUI</desc></media></add>
+                <lb/>
+                <add seq="20201123135953" type="focus" evidence="1734"><media url="TUI" mimeType="internet"><desc>Vakantie zoeken &amp; boeken | TUI</desc></media></add>
+                <lb/>
+                <add seq="20201123140054" type="focus" evidence="1811"><media url="TUI" mimeType="internet"><desc>Fiesta Beach, Djerba - Tunesië | TUI</desc></media></add>
+                <lb/>
+                <add seq="20201123140123" type="focus" evidence="1889-1919"><media url="Google" mimeType="internet"><desc>fiesta beach hotel djerba - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201123140140" type="focus" evidence="1929-1945"><media url="Google" mimeType="internet"><desc>Fiesta Beach, Tunesië - Google Maps</desc></media></add>
+                <lb/>
+                <add seq="20201123140147" type="focus" evidence="1947"><media url="Google" mimeType="internet"><desc>Fiesta Beach - Google Maps</desc></media></add>
+                <lb/>
+                <add seq="20201123140201" type="focus" evidence="1974"><media url="Google" mimeType="internet"><desc>L'île aux Flamants Roses - Google Maps</desc></media></add>
+                <lb/>
+                <add seq="20201123140208" type="focus" evidence="1977"><media url="Google" mimeType="internet"><desc>mezraya, Houmt Souk 4186, Tunesië - Google Maps</desc></media></add>
+                <lb/>
+                <add seq="20201123140244" type="focus" evidence="2074-2099"><media url="Google" mimeType="internet"><desc>flamants roses vertaling - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201123140256" type="focus" evidence="2103-2125"><media url="Google" mimeType="internet"><desc>flamingo eiland djerba - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201123140319" type="focus" evidence="2156-2201"><media url="TUI" mimeType="internet"><desc>| TUI fly</desc></media></add>
+                <lb/>
+                <add seq="20201123140359" type="focus" evidence="2235"><media url="Google" mimeType="internet"><desc>fiesta beach hotel djerba - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201123140418" type="focus" evidence="2257"><media url="Fiesta" mimeType="internet"><desc>Fiesta Beach</desc></media></add>
+                <lb/>
+                <add seq="20201123140441" type="focus" evidence="2276"><media url="Fiesta" mimeType="internet"><desc>Mice | Fiesta Beach</desc></media></add>
+                <lb/>
+                <add seq="20201123140504" type="focus" evidence="2290"><media url="Fiesta" mimeType="internet"><desc>Animation | Fiesta Beach</desc></media></add>
+                <lb/>
+                <add seq="20201123140524" type="focus" evidence="2309-2339"><media url="Google" mimeType="internet"><desc>piratenschip flamingo eiland - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201123140549" type="focus" evidence="2353"><media url="Tripadvisor" mimeType="internet"><desc>Tripadvisor | Piratenschip excursie naar Flamands Island aangeboden door Depart Travel Services | Djerba, Gouvernement Médenine</desc></media></add>
+                <lb/>
+                <add seq="20201123140605" type="focus" evidence="2402-2459"><media url="Google" mimeType="internet"><desc>facebook djerba pirates - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201123140630" type="focus" evidence="2463"><media url="Facebook" mimeType="internet"><desc>Bateau Pirate Djerba - Startpagina | Facebook</desc></media></add>
+                <lb/>
+                <add seq="20201123140822" type="focus" evidence="2690-2721"><media url="Google" mimeType="internet"><desc>pirates hotel fiesta beach - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201123140847" type="focus" evidence="2735-2737"><media url="Tripadvisor" mimeType="internet"><desc>bateau pirate - Photo de Fiesta Beach Djerba, Midoun - Tripadvisor</desc></media></add>
+                <lb/>
+                <add seq="20201123141001" type="focus" evidence="2832"><media url="Tripadvisor" mimeType="internet"><desc>bateau pirate - Photo de Fiesta Beach Djerba, Djerba Island - Tripadvisor</desc></media></add>
+                <lb/>
+                <add seq="20201123141003" type="focus" evidence="2849"><media url="Tripadvisor" mimeType="internet"><desc>Bateau pirate - Foto van Fiesta Beach Djerba, Djerba - TripAdvisor</desc></media></add>
+                <lb/>
+                <add seq="20201123141048" type="focus" evidence="2968"><media url="Facebook" mimeType="internet"><desc>Bateaux pirate Cléopâtre &amp; la Sirène - Startpagina | Facebook</desc></media></add>
+                <lb/>
+                <add seq="20201123141138" type="focus" evidence="3098-3135"><media url="Google" mimeType="internet"><desc>bateau pirates djerba - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201123141243" type="focus" evidence="3198"><media url="Blogtanine" mimeType="internet"><desc>Retour de Tunisie........Djerba - Blogtantine</desc></media></add>
+                <lb/>
+                <add seq="20201123141248" type="focus" evidence="3204-3235"><media url="Google" mimeType="internet"><desc>facebook bateau pirates djerba - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201123141337" type="focus" evidence="3300-3319"><media url="Google" mimeType="internet"><desc>bateau pirates djerba - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201123141413" type="focus" evidence="3320"><media url="Facebook" mimeType="internet"><desc>Bateau le pirate Djerba - مركب القرصان - Startpagina | Facebook</desc></media></add>
+                <lb/>
+                <add seq="20201123141442" type="focus" evidence="3403"><media url="Facebook" mimeType="internet"><desc>Bateau le pirate Djerba - مركب القرصان - Foto’s | Facebook</desc></media></add>
+                <lb/>
+                <add seq="20201123143125" type="focus" evidence="5554-5568"><media url="Google" mimeType="internet"><desc>piratenzwaard - Google zoeken</desc></media></add>
+                
+            </p>
+            
+        </body>
+    </text>
+</TEI>

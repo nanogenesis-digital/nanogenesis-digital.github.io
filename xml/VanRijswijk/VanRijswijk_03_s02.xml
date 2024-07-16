@@ -1,0 +1,437 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Zorgvlied</title>
+                <author>Roos van Rijswijk</author>
+                <respStmt>
+                    <name>Lamyk Bekius</name>
+                    <resp>encoding scheme, TEI customization, encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p corresp="section">Zorgvlied</p>
+                <p corresp="session">2</p>
+                <p corresp="version">3</p>
+                <p corresp="total_versions">7</p>
+                <p corresp="name">Roos_VanRijswijk</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <l>Date: 08-12-2020</l>
+                    <l>Start time: 11:21:57</l>
+                    <l>Duration: 01:39:01</l>
+                </p>
+                <p><linkGrp>
+                    <link prev="02_s01" n="03_s02" next="04_s03"/>
+                </linkGrp></p>
+                <p>
+                    <material corresp="01_s00">Sessie-versie 1</material>
+                    <material corresp="02_s01">Sessie-versie 2</material>
+                    <material corresp="03_s02">Sessie-versie 3</material>
+                    <material corresp="04_s03">Sessie-versie 4</material>
+                    <material corresp="05_s05">Sessie-versie 5</material>
+                    <material corresp="06_s06">Sessie-versie 6</material>
+                    <material corresp="07_s07">Sessie-versie 7</material>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><seg><add seq="20201208122253" type="context" evidence="4584">'</add>Kijk<add seq="20201208122258" type="context" evidence="4596">'</add>, zeg ik tegen mijn moeder, <add seq="20201208122302" type="context" evidence="4606">'</add>daar is iemand ontsnapt<add seq="20201208122308" type="context" evidence="4615">'</add>.</seg>
+                <lb/>
+                <seg>Mijn moeder kijkt naar het gebarsten grafmonument dat ik aanwijs en rilt.</seg>
+                <seg>Ze rookt een sigaret.</seg>
+                <lb type="indent"/>
+                <seg><add seq="20201208122313" type="context" evidence="4624">'</add>Gatverdamme,<add seq="20201208122318" type="context" evidence="4632">'</add> zegt ze.</seg>
+                <lb type="indent"/>
+                <seg><add seq="20201208122320" type="context" evidence="4640">'</add>Nee,<add seq="20201208122325" type="context" evidence="4650">'</add> zeg ik, <add seq="20201208122329" type="context" evidence="4659">'</add>lekker juist, laat de doden ook een luchtje scheppen.<add seq="20201208122332" type="context" evidence="4666">'</add></seg>
+                <lb/><lb/>
+                <seg>In onze familie praat je niet meer over de doden.</seg>
+                <seg><add seq="20201208113117" type="nt" evidence="170-262">Ik heb aan de doden gevraagd of ze dat niet vervelend vonden <del seq="20201208113203" type="pre-context" evidence="263-294">maar omdat ze in gestorven vorm </del></add><add seq="20201208113219" type="nt|continue" evidence="295-382">waarop ik wat korzelig terugkreeg dat zij het ook heus niet de hele tijd over de levend<del seq="20201208113233" type="typo" evidence="383">n</del></add><add seq="20201208113233" type="nt|continue" evidence="384-393">en hadden.</add></seg>
+                
+                <seg><del seq="20201208113237" type="pre-context" evidence="401-405"><add seq="20201208113236" type="nt" evidence="396-400">Waaro</add></del><add seq="20201208113240" type="nt|continue" evidence="409-411"><lb type="indent"/>Wa<del seq="20201208113241" type="pre-context" evidence="412">r</del></add><add seq="20201208113241" type="nt|continue" evidence="413-438">arover dan wel, vroeg ik.</add></seg>
+                
+                <seg><add seq="20201208113247" type="nt" evidence="444-447"><lb type="indent"/>Din<del seq="20201208113248" type="typo" evidence="448">e</del></add><add seq="20201208113248" type="nt|continue" evidence="449-485">gen die jij niet begrijpt, zeiden ze.</add></seg>
+                
+                <seg><add seq="20201208113332" type="nt" evidence="490-504"><lb type="indent"/>Ik<add seq="20201208114740" type="context" evidence="1543">*</add><add seq="20201208123123" type="context" evidence="5233-5238">[VLG]</add> had geen <del seq="20201208113334" type="pre-context" evidence="505-507">in </del></add><add seq="20201208113335" type="nt|continue" evidence="508-512">zin <del seq="20201208113336" type="typo" evidence="514-515">n </del></add><add seq="20201208113336" type="nt|continue" evidence="516-563">in een discussie met x* generaties <del seq="20201208113350" type="pre-context" evidence="564-575">vrouwen waar</del></add><add seq="20201208113401" type="nt|continue" evidence="576-597">heetgebakerde vrouwen<del seq="20201208113538" type="context" evidence="794-888"><add seq="20201208113506" type="context" evidence="691-750"> en bovendien weet ik niet of ze in staat zijn tot het ver<del seq="20201208113530" type="context" evidence="751-753">loe</del></add><add seq="20201208113532" type="context|continue" evidence="756-792">moorden of vervloeken van de levenden</add></del><add seq="20201208113542" type="context" evidence="889-989"> die je bovendien op nogal kinderachtige wijze het leven zuur kunnen maken, dus liet het erbij zitten</add>.</add></seg>
+                <seg><del seq="20201208113431" type="pre-context" evidence="646-690"><add seq="20201208113423" type="nt" evidence="600-639">Als je dood bent kun je niet roken en <del seq="20201208113429" type="pre-context" evidence="640-641">ie</del></add><add seq="20201208113430" type="nt|continue" evidence="642-645">niet</add></del></seg>
+                <seg><add seq="20201208113706" type="nt" evidence="1099-1132">Ik zei dus ook niet dat het <del seq="20201208113714" type="pre-context" evidence="1143-1150">wel <del seq="20201208113711" type="pre-context" evidence="1133-1134">wa</del><del seq="20201208113713" type="pre-context" evidence="1137-1138"><add seq="20201208113712" type="nt|continue" evidence="1135-1136">op</add></del><add seq="20201208113713" type="nt|continue" evidence="1139-1142">een </add></del></add><add seq="20201208113718" type="nt|continue" evidence="1151-1196">op z'n minst wonderlijk te noemen is dat ze <del seq="20201208113725" type="context" evidence="1197-1198">on</del></add><add seq="20201208113730" type="nt|continue" evidence="1199-1225">met hun desinteresse in <del seq="20201208113734" type="pre-context" evidence="1226-1228">de </del></add><add seq="20201208113735" type="nt|continue" evidence="1229-1">het levende leven, wel <del seq="20201208120122" type="context" evidence="2751-2755">de hele tijd achter me aan liepen</del><add seq="20201208120126" type="context" evidence="2757-2788">te pas en te onpas kwamen spoken</add><add seq="20201208115629" type="context" evidence="2307">*</add>.</add></seg>
+                <seg><add seq="20201208113612" type="nt" evidence="992-996">Het <del seq="20201208113613" type="pre-context" evidence="997">s</del></add><add seq="20201208113613" type="nt|continue" evidence="998-1063">is typisch iets voor ons om <del seq="20201208113800" type="pre-context" evidence="1302-1305">iets</del><del seq="20201208113804" type="pre-context" evidence="1313-1319"><add seq="20201208113801" type="pre-context" evidence="1306-1312">het ene</add></del><add seq="20201208113805" type="pre-context" evidence="1320-2323">iets</add><add seq="20201208113813" type="pre-context" evidence="1331-1338"> stellig</add> te beweren<del seq="20201208113638" type="pre-context" evidence="1068-1091"> - dat de levenden h<del seq="20201208113637" type="pre-context" evidence="1064">u</del><add seq="20201208113637" type="nt|continue" evidence="1065-1067">eus</add></del></add><mod seq="20201208113828" type="continue" evidence="1345-1355"><del seq="20201208113857" type="context" evidence="1474-1477"> maar</del><add seq="20201208113858" type="context" evidence="1476-1479"> en</add> verv<del seq="20201208113831" type="typo" evidence="1356">l</del></mod><mod seq="20201208113831" type="continue|continue" evidence="1357-1401">olgens compleet tegenovergesteld te handelen.</mod></seg>
+                
+                <add seq="20201208113845" type="layout" evidence="1410"><lb/><lb/></add>
+                <seg><add seq="20201208115846" type="rt" evidence="2387-2415">H<del seq="20201208115851" type="typo" evidence="2416-2441">Et grindpad van de begraaf</del></add><add seq="20201208115853" type="rt|continue" evidence="2442-2">et grindpad van de begraafplaats knerpt onder onze zolen</add><del seq="20201208115843" type="context" evidence="2383-2388"><add seq="20201208115016" type="nt" evidence="1801-1849">Mijn moeder en ik lopen verder over het grindpad<del seq="20201208115025" type="context" evidence="1851-1852">. </del></add></del><add seq="20201208115026" type="context" evidence="1853-1874"><del seq="20201208115843" type="context|continue" evidence="2388"> van de begraafplaats</del>.</add></seg>
+                <seg><add seq="20201208115945" type="nt" evidence="2514-2625">We zijn hier vrijwel alleen, de enige andere levende ziel die we tegenkwamen was een Aziatische man met<add seq="20201208120048" type="context" evidence="2689-2718"> tussen zijn tanden een <del seq="20201208120053" type="context" evidence="2719-2722">witte</del></add><add seq="20201208120059" type="context|continue" evidence="2723-2734">roze roos en</add> in <del seq="20201208120030" type="pre-context" evidence="2627">e</del></add><add seq="20201208120030" type="nt|continue" evidence="2628-2667">iedere hand een gieter<del seq="20201208120042" type="pre-context" evidence="2668-2683"> en tussen zijn</del></add><add seq="20201208120044" type="nt|continue" evidence="2684">.</add></seg>
+                <seg><add seq="20201208121212" type="nt" evidence="3474-3536">De dode zielen houden zich vooralsnog rustig, <del seq="20201208121807" type="context" evidence="4006-4010">maar</del><add seq="20201208121811" type="context" evidence="4009-4024">al merk ik</add> aan het <del seq="20201208121228" type="pre-context" evidence="3537-3540">gesc</del></add><add seq="20201208121229" type="nt|continue" evidence="3541-3625">zachte geschuif en geritsel om ons heen<del seq="20201208121819" type="context" evidence="4029-4032"> merk ik</del> dat ze ieder moment kunnen arriveren.</add></seg>
+                <seg><del seq="20201208113844" type="pre-context" evidence="1407-1409"><add seq="20201208113838" type="nt" evidence="1404-1406">Zo </add></del><del seq="20201208113849" type="pre-context" evidence="1425-2437"><add seq="20201208113847" type="nt|continue" evidence="1413-1424">Ondanks het </add></del><add seq="20201208113851" type="nt|continue" evidence="1440-1445">Ik <del seq="20201208120750" type="context|continue" evidence="2960">ro</del><del seq="20201208113852" type="typo" evidence="1447-1448">k </del></add><add seq="20201208113853" type="nt|continue" evidence="1449-1467"><del seq="20201208120749" type="context" evidence="2952-2960">ok niet</del><add seq="20201208120751" type="context" evidence="2961-2974">ben geen roker</add>, maar vraag </add><mod seq="20201208114718" type="continue" evidence="1504-1531">een sigaret aan mijn moeder<add seq="20201208121855" type="context" evidence="4053-4060">*[VLG]</add>.</mod></seg>
+                <seg><del seq="20201208115339" type="pre-context" evidence="2011-2037"><add seq="20201208115328" type="rt" evidence="1980-1994">Het is verbod<del seq="20201208115330" type="typo" evidence="1995-1996">n </del></add><add seq="20201208115330" type="rt|continue" evidence="1997-2010">en te roken op</add></del></seg>
+                <seg><add seq="20201208115405" type="rt" evidence="2040-2079">Ze weet niet dat je hier niet mag roken<del seq="20201208115447" type="context" evidence="2081-2082">. </del></add><del seq="20201208115451" type="context" evidence="2090-2089"><add seq="20201208115449" type="context" evidence="2083-2089"> en dat</add></del><del seq="20201208115530" type="context" evidence="2098"><add seq="20201208115528" type="context" evidence="2097">.</add></del><add seq="20201208115530" type="context" evidence="2099-2130"><del seq="20201208121835" type="context" evidence="4040-4043"> en ik vertel het haar ook niet</del>.</add></seg>
+                <seg><add seq="20201208120150" type="nt" evidence="2802-2852"><del seq="20201208120203" type="context" evidence="2847-2852">De wolken die we uitblazen zijn spierwit</del><add seq="20201208120207" type="context" evidence="2851-2867">Spierwit, zi<del seq="20201208120209" type="typo" evidence="2868-2870">n d</del></add><add seq="20201208120210" type="context|continue" evidence="2871-2881">jn de wol<del seq="20201208120212" type="typo" evidence="2882-2883">en</del></add><add seq="20201208120212" type="context|continue" evidence="2884-2909">ken die we uitblazen</add><del seq="20201208120657" type="context" evidence="2916">.</del></add> <add seq="20201208115540" type="rt" evidence="2133-2230"><del seq="20201208120657" type="context|continue" evidence="2917-2918">De</del><add seq="20201208120659" type="context" evidence="2919-2922">, <del seq="20201208121910" type="context" evidence="4066-4069">en</del></add><add seq="20201208121913" type="context" evidence="4071-4072">de</add> herfst is dun en koud; als je hard op de grond stampt verliezen alle bomen <del seq="20201208115557" type="pre-context" evidence="2231-2248">in een straal van </del></add><add seq="20201208115558" type="rt|continue" evidence="2249-2290">binnen een straal van vijf meter hun blad.</add></seg>
+                <seg><add seq="20201208120823" type="rt" evidence="2984-3066">Normaal gesproken zouden we op een middag als deze in een café <del seq="20201208120838" type="pre-context" evidence="3067-3071">zijn </del></add><del seq="20201208120844" type="pre-context" evidence="3083-3093"><add seq="20201208120839" type="rt|continue" evidence="3072-3082">gaan zitten</add></del><add seq="20201208120845" type="rt|continue" evidence="3094-3178">zijn gaan zitten om te veel wijn te drinken<del seq="20201208121012" type="context" evidence="3261-3263"> en</del> ons diner te doen met bittergarnituur<add seq="20201208121021" type="context" evidence="3269-3286">, mensen te kijken</add>.</add></seg>
+                <seg><add seq="20201208123931" type="nt" evidence="5435-5527">Maar dat kan niet, en we hebben alle straten en parken nu wel gezien, vandaar dat we be<del seq="20201208123958" type="typo" evidence="5528-5531">lsot</del></add><add seq="20201208123959" type="nt|continue" evidence="5532-5567">sloten eens over Zorgvlied te <del seq="20201208124006" type="pre-context" evidence="5568-5572">gaan </del></add><add seq="20201208124007" type="nt|continue" evidence="5573-5581">wandelen.</add></seg>
+                <add seq="20201208121122" type="layout" evidence="3294"><lb type="indent"/></add>
+                <seg><add seq="20201208121123" type="nt" evidence="3297-3373"><add seq="20201208122404" type="context" evidence="4711">'</add>Ik hoop dat de kroegen snel weer open gaan<add seq="20201208122409" type="context" evidence="4721">'</add>, zegt mijn moeder<del seq="20201208121142" type="pre-context" evidence="3374-3389">, want ze denkt </del></add><add seq="20201208121151" type="nt|continue" evidence="3390-3451"> alsof ze mijn gedachten leest, misschien doet ze dat ook wel<add seq="20201208121252" type="context" evidence="3636-3678">, misschien hebben we allemaal wel een <del seq="20201208121257" type="context" evidence="3679-3682">vrem</del></add><add seq="20201208121259" type="context|continue" evidence="3683-3710">onaards talent meegekregen</add>.</add></seg>
+                <add seq="20201208121307" type="layout" evidence="3713"><lb type="indent"/></add>
+                <seg><add seq="20201208121308" type="nt" evidence="3716-3729">(Van wie?</add></seg>
+                <seg><add seq="20201208121311" type="nt" evidence="3732-3746">Hoezo onaards?</add></seg>
+                <seg><del seq="20201208121325" type="pre-context" evidence="3774-3795"><add seq="20201208121317" type="nt" evidence="3749-3768">Alles wat we zijn <del seq="20201208121324" type="pre-context" evidence="3769-3770">is</del></add><add seq="20201208121324" type="nt|continue" evidence="3771-3773">en </add></del><add seq="20201208121339" type="nt|continue" evidence="3801-3932">Wat is er aardser dan mens zijn. en wat is er menselijker dan zelfs na je dood nog je stempel op het leven willen drukken?<add seq="20201208123112" type="context" evidence="5212">*</add>)</add></seg>
+                <add seq="20201208121204" type="layout" evidence="3453"><lb type="indent"/></add>
+                <seg><add seq="20201208121205" type="nt" evidence="3456-3465"><add seq="20201208122422" type="context" evidence="4735">'</add>Ja,<add seq="20201208122428" type="context" evidence="4745">'</add> <del seq="20201208122435" type="context" evidence="4761-4763">zeg</del><add seq="20201208122435" type="context" evidence="4764-4771">antwoord</add> ik</add><mod seq="20201208121407" type="continue" evidence="3938-3987">, <add seq="20201208122440" type="context" evidence="4778">'</add>ik hoop het ook, misschien als er een vaccin is.<add seq="20201208122444" type="context" evidence="4788">'</add></mod></seg>
+                
+                <add seq="20201208121950" type="layout" evidence="4085"><lb type="indent"/></add>
+                <seg><add seq="20201208121951" type="rt" evidence="4088-4222">Mijn moeder wijst<del seq="20201208122841" type="context" evidence="4928-4931"> op</del> een glimmende grafsteen <add seq="20201208122847" type="context" evidence="4939-4942">aan </add>met daarin het portret van een gezette man en een <del seq="20201208122020" type="pre-context" evidence="4203-4222">onooglijk hondje geg</del></add><add seq="20201208122022" type="rt|continue" evidence="4223-4245">herdershond gegraveerd.</add></seg>
+                <seg><del seq="20201208122035" type="context" evidence="4259-4270"><add seq="20201208122029" type="nt" evidence="4248-4257">We lachen.</add></del></seg>
+                <seg><add seq="20201208122040" type="nt" evidence="4273-4287">Ik wijs op <del seq="20201208122047" type="pre-context" evidence="4288-4291">een </del></add><add seq="20201208122103" type="nt|continue" evidence="4292-4324">een steen met slechte poëzie.</add></seg>
+                <seg><add seq="20201208122122" type="nt" evidence="4327-4339">Achter me ho<del seq="20201208122124" type="typo" evidence="4340">r</del></add><add seq="20201208122124" type="nt|continue" evidence="4341-">or ik <del seq="20201208122159" type="pre-context" evidence="4422-4480">de kenmerkende tred van mijn oma, de moeder van mijn <del seq="20201208122147" type="pre-context" evidence="4408-4415">moeder, </del><add seq="20201208122150" type="nt|continue" evidence="4416-4421">moeder</add></del></add><add seq="20201208122218" type="nt|continue" evidence="4481-">nieuwe voetstappen, rustig, en ik ruik het parfum van <del seq="20201208122456" type="context" evidence="4798-4803">de moeder van mijn moeder</del><add seq="20201208122500" type="context" evidence="4802-4811">mijn oma</add>.</add></seg>
+                <seg><add seq="20201208122503" type="nt" evidence="4816-">Mijn moeder heeft niet door dat haar moeder er is - <del seq="20201208122610" type="pre-context" evidence="4898-4923">ik vertel haar bijna alles</del></add><add seq="20201208122911" type="nt|continue" evidence="4949-4957">ik <del seq="20201208122912" type="typo" evidence="4958-4963">eb haa</del></add><add seq="20201208122914" type="nt|continue" evidence="4964-4999">heb haar nooit verteld van dit <del seq="20201208122922" type="typo" evidence="5000">g</del></add><add seq="20201208122922" type="nt|continue" evidence="5001-5023">fenom<del seq="20201208122929" type="pre-context" evidence="5037-5063">een en ben het ni<del seq="20201208122926" type="typo" evidence="5024">r</del><add seq="20201208122926" type="nt|continue" evidence="5025-5036">et van pla</add></del></add><add seq="20201208122931" type="nt|continue" evidence="5064-5153">een, ben het niet van plan ook, ze zou me niet geloven of verdrietig worden, want no<del seq="20201208122953" type="pre-context" evidence="5154-5157">rmaa</del></add><add seq="20201208122954" type="nt|continue" evidence="5158-5203">gmaals, over de doden praten we niet.</add></seg>
+                <add seq="20201208123008" type="layout" evidence="5205-5206"><lb type="indent"/></add>
+                <seg><add seq="20201208123152" type="nt" evidence="5259-5310">Loop eens recht, zegt mijn oma, Eet je wel genoeg?</add></seg>
+                <seg><add seq="20201208123210" type="nt" evidence="5313-5395">Vervolgens lacht ze heel erg hard om een grafmonumentje in de vorm van een dolfijn.</add></seg>
+                <seg><del seq="20201208124304" type="context" evidence="5631-5693"><add seq="20201208123533" type="nt" evidence="5398-5425">Als ze klaar is met hoesten</add><mod seq="20201208124248" type="continue" evidence="5596-5629">zeg ik dat ik haar ook gemist heb. </mod></del></seg>
+                <add seq="20201208124318" type="layout" evidence="5694"><lb type="indent"/></add>
+                <seg><add seq="20201208124319" type="nt" evidence="5697-5802">Kunnen jullie niet iets doen, vraag ik aan oma, Zorgen dat de ziekte verdwijnt, een kroeg opengo<del seq="20201208124347" type="typo" evidence="5797">i</del></add><add seq="20201208124347" type="nt|continue" evidence="5802">oien.</add></seg>
+                <add seq="20201208124349" type="layout" evidence="5804"><lb type="indent"/></add>
+                <seg><add seq="20201208124351" type="nt" evidence="5807-5832">Ik ben God niet, zegt ze.</add></seg>
+                <add seq="20201208124404" type="layout" evidence="5833"><lb type="indent"/></add>
+                <seg><add seq="20201208124405" type="nt" evidence="5836-5854">Bestaat die dan?</add></seg>
+                <add seq="20201208124407" type="layout" evidence="5855"><lb type="indent"/></add>
+                <seg><add seq="20201208124408" type="nt" evidence="5858-5888">Natuurlijk niet, wat een onzin<del seq="20201208124435" type="context" evidence="5889">.</del></add><add seq="20201208124435" type="context" evidence="5890-5911">, stel je niet zo aan.</add></seg>
+                <add seq="20201208124443" type="layout" evidence="5913"><lb type="indent"/></add>
+                <seg><del seq="20201208124505" type="pre-context" evidence="5949-5990"><add seq="20201208124444" type="nt" evidence="5916-5920">Mijn<del seq="20201208124448" type="typo" evidence="5921">o</del></add><add seq="20201208124448" type="nt|continue" evidence="5923-5948"> moeder staat stil bij een </add></del></seg>
+                <seg><add seq="20201208124523" type="rt" evidence="5993-6018">'Weet je wie <add seq="20201208124932" type="context" evidence="6657-6660">er </add><del seq="20201208124526" type="pre-context" evidence="6019-6032">er ook dood is</del></add><add seq="20201208124528" type="rt" evidence="6033-6045">dood is<del seq="20201208124532" type="pre-context" evidence="6046-6049">?' ze</del></add><add seq="20201208124533" type="rt|continue" evidence="6050-6102">,' zegt mijn moeder, 'de man van Janneke'.</add></seg>
+                <add seq="20201208124551" type="layout" evidence="6105"><lb type="indent"/></add>
+                <seg><add seq="20201208124552" type="rt" evidence="6107-6151">'Peter?' zeg<del seq="20201208124603" type="typo" evidence="6152-6178">t ik, en breng mijn hand va</del></add><add seq="20201208124608" type="rt|continue" evidence="6179-6198"> ik, 'Wat erg!'</add></seg>
+                <add seq="20201208124613" type="layout" evidence="6200"><lb type="indent"/></add>
+                <seg><add seq="20201208124616" type="rt" evidence="6207-6224">'<del seq="20201208125623" type="context" evidence="7119-7123">Nee, j</del><add seq="20201208125627" type="context" evidence="7128">J</add>ij denkt al<del seq="20201208124619" type="pre-context" evidence="6225">s</del></add><add seq="20201208124620" type="rt|continue" evidence="6226-6270">tijd dat Peter de man van Janneke is.</add></seg>
+                <seg><add seq="20201208124626" type="rt" evidence="6273-6288">Ik bedoel Theo.'</add></seg>
+                <add seq="20201208124629" type="layout" evidence="6292"><lb type="indent"/></add>
+                <seg><del seq="20201208124810" type="context" evidence="6537-6550"><add seq="20201208124630" type="rt" evidence="6298-6311">'O,' zeg ik.</add></del></seg>
+                <add seq="20201208124650" type="layout" evidence="6313"><lb type="indent"/></add>
+                <seg><add seq="20201208124651" type="nt" evidence="6316-6345">Dat was toch een zak, zegt oma.</add></seg>
+                <add seq="20201208124702" type="layout" evidence="6345"><lb type="indent"/></add>
+                <seg><add seq="20201208124705" type="nt" evidence="6360-6391">'Wat zielig voor haar,' zeg ik.</add></seg>
+                <add seq="20201208124711" type="layout" evidence="6393"><lb type="indent"/></add>
+                <seg><add seq="20201208124712" type="nt" evidence="6396-6458">Mijn moeder blijft stilstaan bij een heel oude, liggende steen.</add></seg>
+                <seg><add seq="20201208124747" type="nt" evidence="6461-6475">Ook weer gebar<del seq="20201208124750" type="typo" evidence="6476">t</del></add><add seq="20201208124750" type="nt|continue" evidence="6477-6481">sten.</add></seg>
+                <add seq="20201208124751" type="layout" evidence="6483"><lb type="indent"/></add>
+                <seg><add seq="20201208124752" type="rt" evidence="6487-6526">'Daar past precies een arm door,' zeg ik</add><mod seq="20201208124834" type="continue" evidence="6558-6580"> en mijn moeder <del seq="20201208124839" type="pre-context" evidence="6581-6585">zegt </del></mod><mod seq="20201208124842" type="continue" evidence="6586-6617">zegt dat ik even op moet houden<del seq="20201208124907" type="pre-context" evidence="6632-6633">, </del></mod><mod seq="20201208124907" type="continue|continue" evidence="6635-6646"> en mijn oma</mod><mod seq="20201208125019" type="continue" evidence="678-6723"> lacht zo hard dat ze eindigt met een hoestbui.</mod></seg>
+                <seg><add seq="20201208125038" type="nt" evidence="6726-6746">Haar moeder slaat ha<del seq="20201208125041" type="typo" evidence="6747">r</del></add><add seq="20201208125041" type="nt|continue" evidence="6748-6760">ar op de rug.</add></seg>
+                <seg><add seq="20201208125355" type="nt" evidence="6805-6861">Ze kijkt misprijzend naar de sigaret tussen mijn vingers.</add></seg>
+                <seg><add seq="20201208125430" type="nt" evidence="6866-6898">Ik houd hem voor haar op en ze <del seq="20201208125435" type="pre-context" evidence="6899-6900">ee</del></add><add seq="20201208125435" type="context" evidence="6901-6915">neemt een hijs.</add></seg>
+                <add seq="20201208125448" type="layout" evidence="6917"><lb type="indent"/></add>
+                <seg><add seq="20201208125448" type="nt" evidence="6920-6939">Gezellig, zegt ze.</add></seg>
+                <add seq="20201208125504" type="layout" evidence="6940"><lb type="indent"/></add>
+                <seg><add seq="20201208125506" type="nt" evidence="6943-6976">Alles is dicht, legt mijn oma uit.</add></seg>
+                <seg><add seq="20201208125516" type="nt" evidence="6979-7024">Haar moeder is al even niet meer langsgeweest.</add></seg>
+                <add seq="20201208125528" type="layout" evidence="7026"><lb type="indent"/></add>
+                <seg><add seq="20201208125530" type="nt" evidence="7029-7066">Oorlog? Vraagt mijn overgrootmoeder.</add></seg>
+                <add seq="20201208125537" type="layout" evidence="7067"><lb type="indent"/></add>
+                <seg><add seq="20201208125539" type="nt" evidence="7075-7104">Nee, leg ik uit, een pandemie.</add></seg>
+                <add seq="20201208125716" type="layout" evidence="7141"><lb type="indent"/></add>
+                <seg><add seq="20201208125719" type="nt" evidence="7143-7175">'Kloteweer,' zegt mijn moeder, </add></seg>
+                <add seq="20201208114946" type="layout" evidence="1781"><lb/></add>
+                <add seq="20201208115249" type="layout" evidence="1973-1974"><lb/><lb/></add>
+                <del seq="20201208120709" type="context" evidence="2933-2936"><add seq="20201208114949" type="translocation" evidence="1786-1788"><seg>Omdat iedereen binnenshuis voor een besmettelijke ziekte aan het schuilen is
+                    zegt niemand tegen mijn moeder dat roken hier verboden is, en ik vertel het haar
+                    ook niet.</seg>
+                    <seg><add seq="20201208115043" type="nt" evidence="1883-1895">Bovendien, <del seq="20201208115047" type="pre-context" evidence="1986-1897">hi</del></add><add seq="20201208115047" type="nt|continue" evidence="1898-1934">door hier te zijn doen we al iets <del seq="20201208115058" type="pre-context" evidence="1935-1937">wat</del></add><del seq="20201208115059" type="pre-context" evidence="1940-1941"><add seq="20201208115058" type="nt|continue" evidence="1938-1939">da</add></del><add seq="20201208115101" type="nt|continue" evidence="1942-1951">verbodens.</add></seg>
+                    <seg>Onze knieën zijn bemodderd doordat we door een haagje moesten kruipen om hier
+                        te komen.</seg>
+                    <seg>Alles is dicht, iedereen is bang of sterft en de herfst is dun en koud; als je
+                        hard op de grond stampt verliezen alle bomen in een straal van vijf meter hun
+                        blad.</seg></add></del>
+                <add seq="20201208114946" type="layout" evidence="1782"><lb/></add>
+                <seg><del seq="20201208114925" type="context" evidence="1764-1767"><add seq="20201208114804" type="rt" evidence="1555-1571">Als ze wist dat <del seq="20201208114807" type="pre-context" evidence="1572">e</del></add><add seq="20201208114807" type="rt|continue" evidence="1573-1588">je hier niet <del seq="20201208114809" type="typo" evidence="1589-1591">koc</del></add><add seq="20201208114810" type="rt|continue" evidence="1592-1611">mocht roken zou ze <del seq="20201208114813" type="pre-context" evidence="1612">m</del></add><add seq="20201208114813" type="rt|continue" evidence="1613-1652">het niet doen, ik <del seq="20201208114833" type="pre-context" evidence="1653-1674">heb juist trek in een </del></add><add seq="20201208114835" type="rt|continue" evidence="1675-1712">krijg er juist zin in door het verbod.</add></del></seg>
+                <seg><del seq="20201208114853" type="pre-context" evidence="1741-1760"><add seq="20201208114848" type="nt" evidence="1715-1727">Misschien <del seq="20201208114850" type="pre-context" evidence="1728-1730">omd</del></add><add seq="20201208114850" type="nt|continue" evidence="1731-1740">doordat we</add></del></seg>
+                
+                <seg>Ze worden niet begraven maar na hun uitvaart discreet verstrooid.</seg>
+                <seg><del seq="20201208115722" type="context" evidence="2353-2356">Die uitvaart vindt nooit plaats in de aula van deze begraafplaats, dus we
+                    bevinden ons op veilig terrein.</del></seg>
+                <del seq="20201208114925" type="translocation" evidence="1774-1779"><seg>Omdat iedereen binnenshuis voor een besmettelijke ziekte aan het schuilen is
+                    zegt niemand tegen mijn moeder dat roken hier verboden is, en ik vertel het haar
+                    ook niet.</seg>
+                <seg>Onze knieën zijn bemodderd doordat we door een haagje moesten kruipen om hier
+                    te komen.</seg>
+                <seg>Alles is dicht, iedereen is bang of sterft en de herfst is dun en koud; als je
+                    hard op de grond stampt verliezen alle bomen in een straal van vijf meter hun
+                    blad.</seg></del>
+                <del seq="20201208115715" type="context" evidence="2334-2337"><seg>Normaal gesproken waren we op een dag als deze in een kroeg gaan zitten om te
+                    veel wijn te drinken.</seg>
+                <seg>Dan hadden we gezegd dat de huiswijn in kroegen tegenwoordig beter is dan
+                    vroeger, en weet je nog, in Berlijn was dat vijftien jaar geleden al zo, en we
+                    zouden ons voornemen om daar nog eens heen te gaan.</seg>
+                <seg>Maar we kunnen nergens heen, zelfs niet naar de kroeg.</seg>
+                <seg>We kunnen met een kop thee tegen onze borst gedrukt naar buiten kijken door het
+                    raam van haar woonkamer en de minuten tellen tussen de patrouilles die door haar
+                    straat gaan.</seg>
+                <seg>Dat is precies wat we hebben gedaan.</seg>
+                <seg>Toen we zeker wisten dat er genoeg tijd zou zijn trokken we onze jassen aan en
+                    wachtten voor de zekerheid nog een ronde af.</seg>
+                <seg>Onderweg naar de begraafplaats werden we gade geslagen door de levenden achter
+                    hun eigen ruiten, met hun eigen koppen thee.</seg>
+                    <lb/><lb type="indent"/>
+                <seg>Dat niemand anders op dit idee is gekomen, zegt mijn moeder.</seg>
+                <seg>Ze wijst in het voorbijgaan op een grafsteen met daarin het portret van een
+                    gezette man en een herdershond gelaserd, ze trekt haar wenkbrauwen op.</seg>
+                    <lb type="indent"/>
+                <seg>Terwijl het zo gezellig is, zeg ik.</seg>
+                    <lb type="indent"/>
+                <seg>Even heb ik spijt dat ik geen fles wijn mee heb genomen, dan herinner ik me dat
+                    je nergens meer alcohol kunt kopen.</seg>
+                <seg>Het is om doodmoe van te worden.</seg>
+                <seg>Niet van het gebrek aan alcohol, maar van het steeds maar wennen aan nieuwe
+                    verboden.</seg>
+                <seg>Steeds als ik naar mijn moeder toe fiets vergeet in de mantelzorgverklaring in
+                    mijn zak te stoppen en dat heeft me al vijfhonderd euro aan boetegeld
+                    gekost.</seg></del>
+                <lb/><lb type="indent"/>
+                <del seq="20201208112425" type="context" evidence="98-99"><seg>Kijk, zeg ik tegen mijn moeder, daar is iemand ontsnapt.</seg>
+                    <lb type="indent"/>
+                <seg>Mijn moeder kijkt naar het gebarsten grafmonument dat ik aanwijs en rilt.</seg>
+                <seg>Ze rookt een sigaret.</seg>
+                    <lb type="indent"/>
+                <seg>Gatverdamme, zegt ze.</seg>
+                    <lb type="indent"/>
+                <seg>Nee, zeg ik, lekker juist, laat de doden ook een luchtje scheppen.</seg>
+                    <lb type="indent"/>
+                <seg>We lopen en lachen om rare grafstenen en brengen onze handen naar onze harten
+                    bij de treurige en zeggen Och ja als we een bekende Nederlander zien
+                    liggen.</seg>
+                <seg>Soms staat een van ons stil bij een steen om zich af te vragen waar we die naam
+                    toch van kennen*.</seg>
+                    <lb type="indent"/>
+                <seg>Weet je wie er dood is, zegt mijn moeder, De man van Janneke.</seg>
+                    <lb type="indent"/>
+                <seg>Aldo?</seg>
+                <seg>Ik breng mijn hand vast naar mijn hart.</seg>
+                    <lb type="indent"/>
+                <seg>Nee, zegt mijn moeder, Jij denkt altijd dat Aldo de man van Janneke was, maar
+                    ik bedoel Ronald.</seg>
+                    <lb type="indent"/>
+                <seg>O, zeg ik, mijn hand is alweer gezakt, Wat zielig.</seg>
+                    <lb type="indent"/>
+                <seg>En dan wandelen we weer verder.</seg>
+                <seg>We hebben het over de mensen en kroegen die we missen, de mensen leven allemaal
+                    nog, de kroegen gaan hopelijk ooit weer open, over de doden spreken we
+                    niet.</seg>
+                <seg>Ook niet over hoe mijn moeder nog maar een paar maanden geleden op straat, in
+                    De Pijp, is gestorven.</seg>
+                <seg>We hebben het niet over hoe je tegenwoordig kunt sterven en weer door kunt
+                    leven.</seg>
+                <lb/><lb/>
+                <seg>Een van mijn helderste herinneringen was ooit die van mijn ouders achter een
+                    ruit.</seg>
+                <seg>Ze zijn jong, zo'n tien jaar jonger dan ik nu ben, en ze zwaaien.</seg>
+                <seg>Ik lig in een groot wit bed en er loopt een volledig ingepakte arts om me
+                    heen.</seg>
+                <seg>Alle deuren zijn geblokkeerd met zware balken.</seg>
+                <seg>Sleutels zo groot als onderarmen worden omgedraaid.</seg>
+                <seg>Er worden bruggen opgehaald en luiken naar beneden gerold*.</seg>
+                <seg>De kamer is heel donker maar ik word beschenen door een felle lamp en bepoteld
+                    door de tentakel van een machine.</seg>
+                <seg>Omdat mijn moeder heel vrolijk zwaait wordt de angst niet ondraaglijk.</seg>
+                <seg>Daar houdt de herinnering op.</seg>
+                <seg>De herinnering vergat ik, en dus ook dat het ooit zo'n helder beeld was.</seg>
+                <seg>Maar nu heb ik een vriendin - ze is een stuk ouder dan ik - die als kind wegens
+                    een ouderwetse ziekte wekenlang in quarantaine heeft gezeten en daar nooit
+                    helemaal van is bekomen.</seg>
+                <seg>Zij vertelde me over de narigheid van een halve bevolking in quarantaine en
+                    over het ziekenhuis waar zij verbleef en daar was ineens, bij mij, die ruit
+                    weer.</seg>
+                <seg>Iedere keer als ik naar een dokter of ziekenhuis moest dacht ik aan dat raam en
+                    raakt ik een beetje in paniek.</seg>
+                <seg>Dat was vrij vaak, want ik was zo'n kind dat dertig jaar eerder de tien
+                    waarschijnlijk niet had gehaald en als ik 'm wel had gehaald was ik nu doof en
+                    zwak en knettergek geweest*.</seg>
+                <seg>Ik herinnerde me dat ik dan onderweg naar de huisarts tegen mijn moeder zei dat
+                    ik hopelijk nooit meer naar die enge kamer moest, met dat bed en die lamp, en
+                    dan zei zij Je bent nooit in zo'n kamer geweest, hoe verzin je het.</seg>
+                <seg>Maar toen ik er na het gesprek met die vriendin toch weer eens naar vroeg bij
+                    mijn moeder zei ze: Dat is waar ook.</seg>
+                <seg>Je werd blauw en stopte met ademen, en toen hebben we je oom gebeld want die
+                    had een auto en die reed je, hij was knetterstoned, naar het ziekenhuis.</seg>
+                <seg>Ze wisten niet wat het was maar het leek op iets ergs en besmettelijks.</seg>
+                    <lb type="indent"/>
+                <seg>Ik: wat dan?</seg>
+                    <lb type="indent"/>
+                <seg>Moeder: Geen idee, TBC misschien.</seg>
+                <seg>Je moest apart in een kamer maar wij konden je zien.</seg>
+                <seg>Ze lapten je op en onderzochten je en het bleek de Vijfde Ziekte te zijn.</seg>
+                <seg>Daar krijgen kinderen normaal hooguit rode wangetjes van.</seg>
+                <lb/><lb/>
+                <seg>Al die doden niet gestorven.</seg>
+                <seg>Mijn moeder, ze bestudeert een ontzagwekkend grafmonument, is herrezen met wat
+                    elektronica in haar lichaam.</seg>
+                    <lb type="indent"/>
+                <seg>Ik zeg: Dat monument is groter dan mijn kamer.</seg>
+                    <lb type="indent"/>
+                <seg>Dat zeg ik omdat ik het niet uit kan staan dat ik op mijn vijfendertigste in
+                    een kamer, en niet in een appartement woon.</seg>
+                <seg>Als de psychiatrische wetenschap niet zo ver was geweest had ik nu niet met
+                    mijn moeder over een begraafplaats gewandeld* maar was ik ergens poedelnaakt
+                    voorbijgangers aan het lastigvallen met mijn gevoelens of het gebrek
+                    eraan.</seg>
+                    <lb type="indent"/>
+                <seg>Ik zeg: Als je zo veel geld hebt laat je daar toch de levenden warm van
+                    zitten.</seg>
+                    <lb type="indent"/>
+                <seg>Ja, zegt mijn moeder.</seg>
+                    <lb type="indent"/>
+                <seg>We hebben het er vaak over wat we met heel veel geld zouden doen, al weten we
+                    niet hoe we daar zo een twee drie aan zouden komen.</seg>
+                <seg>Ik wou dat ik talent en passie voor kaakchirurgie had, of het programmeren van
+                    rakketen of cryptovaluta.</seg>
+                    <lb type="indent"/>
+                <seg>Allereerst, zeggen we dan, zouden we huizen voor elkaar kopen, voor haar, voor
+                    mijn broer (die niet lang geleden nota bene aan de andere kant van de wereld de
+                    dood een schop in z'n gezicht gaf) en mijn vader en voor mij.</seg>
+                <seg>Als er dan nog iets over was zouden we ook huizen voor andere mensen
+                    kopen.</seg>
+                <seg>Ikzelf wil het liefst een villa aan de rand van de stad waar ik iedereen waar
+                    ik van hou twee kamers in zou geven, en eigen sanitair.</seg>
+                <seg>Eigen keukens zou ideaal zijn, maar eigenlijk hoop ik dan zo rijk te zijn dat
+                    ik mijn leven kan slijten als kok voor alle mensen waar ik van hou, in een
+                    enorme keuken met een blokjesvloer (van tegels, niet van zeil) en een goede
+                    geluidsinstallatie.</seg>
+                <seg>Ik dans graag tijdens het koken.</seg>
+                <seg>Huizen, zouden we kopen, maatpakken, en altijd goede, biologishche
+                    boodschappen.</seg>
+                <seg>En als we uitgeleefd zijn in die huizen in godnaam geen grafhuur.</seg>
+                    <lb type="indent"/>
+                <seg>Ik herinner me de grafkist van mijn opa en dat ik me schuldig voelde omdat ik
+                    hem zo lelijk vond.</seg>
+                <seg>Als negenjarige kende ik grafkisten alleen maar uit films en daarin glommen
+                    ze.</seg>
+                <seg>Deze zag eruit alsof hij van IKEA was.</seg>
+                <seg>Ik geloof dat ik dat nog tegen mijn moeder heb gezegd maar ik hoop dat zij dat
+                    is vergeten dus dat vraag ik niet nu we op de begraafplaats nog altijd stilstaan
+                    bij de balzaal die een dode familie voorzichzelf reserveerde.</seg>
+                    <lb type="indent"/>
+                <seg>Belachelijk, zegt mijn moeder, ze blaast haar laatste wolk rook uit naar een
+                    groteske engel, we gaan verder over het grindpad.</seg>
+                <lb/><lb/>
+                <seg>Ik zeg dat het wel erg passend is bij het jaar, bij waterkou ons vertier zoeken
+                    op een begraafplaats, en wijs nog zo'n gebarsten steen aan.</seg>
+                    <lb type="indent"/>
+                <seg>Er past precies een arm door, zeg ik.</seg>
+                    <lb type="indent"/>
+                <seg>Hou nou eens op, zegt mijn moeder.</seg>
+                    <lb type="indent"/>
+                <seg>We hadden genoeg van haar huis, genoeg van onze buurten, we hadden zo'n middag
+                    gewild waarop we in een kroeg belandden en ons avondmaal deden met wijn en vijf
+                    soorten bittergarnituur.</seg>
+                    <lb type="indent"/>
+                <seg>Ik zeg: Die is helemaal mooi!</seg>
+                <seg>Daar pas een heel spook door!</seg>
+                    <lb type="indent"/>
+                <seg>We noemen toch maar de mensen op die we kennen, waarvan we weten dat ze hier
+                    ergens onder de grond bewaard worden.</seg>
+                <seg>Waar hun graven liggen weten we niet.</seg>
+                <seg>Ik vind het mooi als mensen een graf onderhouden, daar troost in vinden.</seg>
+                <seg>Mijn moeder vindt het een beetje ziekelijk.</seg>
+                <seg>Niemand laat de doden zo snel los als haar kant van de familie, alsof ze
+                    besmettelijk zijn, ze moeten zo gauw mogelijk tot as vergaan en we zwaaien zelfs
+                    niet vrolijk naar ze vanuit de verte.</seg>
+                <seg>Wel geven we als de mogelijkheid zich aandient een afscheidsfeest voor de
+                    levende stervende, waarbij er ongelimiteerd gegeten, gezopen, gerookt, gegierd
+                    en gejankt mag worden.</seg>
+                <seg>Als de stervende iets stoms zegt, zegt de rest van de familie: Maakt niks uit,
+                    binnenkort hebben we toch geen last meer van je.</seg>
+                <seg>En dan zuipen en lachjanken we verder.</seg>
+                <lb/><lb/>
+                <seg>De graven gaan door terwijl ook de doden maar blijven komen.</seg>
+                <seg>We lopen langs stenen met foto's en stenen met slechte poëzie en stenen zonder
+                    naam en mossige plekken met alleen een nummer en ik word enorm economisch en
+                    denk aan hoe je misschien ruimte kunt besparen door rechtop begraven te
+                    worden.</seg>
+                <seg>Maar dat is natuurlijk om allerlei redenen wat onwenselijk.</seg>
+                <seg>De graven te diep en onhandig.</seg>
+                <seg>Het idee dat zo'n lijk rechtop moet ontbinden, dat er van alles zal zakken en
+                    vallen.</seg>
+                <seg>Bovendien gun je iemand die tenonder is gegaan ten tijde van de fucking
+                    sta-bureaus en stand up brainstorms* inderdaad gewoon de rust van eindelijk
+                    liggen en nooit meer overeind te hoeven komen.</seg>
+                    <lb type="indent"/>
+                <seg>Ineens staan we op een strak stenen plein dat uit talloze lagen lage, zeer
+                    brede treden bestaat.</seg>
+                <seg>Het heeft de kleur van een goedkope pleister.</seg>
+                <seg>We gaan er wat onwennig overheen, de treden op en weer af.</seg>
+                <seg>We hebben allebei een herfstloopneus.</seg>
+                    <lb type="indent"/>
+                <seg>Ik zeg: Dit is een urnenopslag.</seg>
+                <seg>Ik zeg: Of het zijn de kinderen.</seg>
+                <seg>Hoor je ze giechelen.</seg>
+                    <lb type="indent"/>
+                <seg>Hou toch op, zegt mijn moeder weer.</seg>
+                    <lb type="indent"/>
+                <seg>Ik weet niet waarom ik nooit meer een rilling langs mijn rug voel op
+                    begraafplaatsen.</seg>
+                    <lb type="indent"/>
+                <seg>Mijn moeder zegt: Als we vroeger op vakantie langs een haag of een muur liepen
+                    en jij begon te huilen in de kinderwagen of mijn armen, wisten we dat we een
+                    kerkhof passeerden.</seg>
+                    <lb type="indent"/>
+                <seg>Ooit was ik erg bang voor geesten, maar toen ik over ze ging schrijven hield
+                    dat op.</seg>
+                <seg>Misschien komt het door dat ene jaar waarin mensen maar dood bleven gaan,
+                    helemaal dood dus, zonder weer op te staan.</seg>
+                <seg>De laatste uitvaart, ik geloof dat het de negende op een rij was, sloeg ik over
+                    omdat ik zeker wist dat ik halverwege ineen zou zakken onder het gewicht van al
+                    die pasgestorven zielen om mijn schouders.</seg>
+                <seg>Pas een paar jaar later stierf mijn vader, maar aangezien hij herrijzen als
+                    hobby heeft was dat maar van tijdelijke aard.</seg>
+                    <lb type="indent"/>
+                <seg>We waren er hoe dan ook allemaal niet meer geweest als we niet te laat geboren
+                    waren.</seg>
+                    <lb/><lb type="indent"/>
+                <seg>Ik zeg: Doeschka Meijsing ligt hier ook ergens.</seg>
+                    <lb type="indent"/>
+                <seg>We lopen inmiddels weer door het veilige loof, de urnenpleister achter
+                    ons.</seg>
+                <seg>Mijn moeder is de namen van allerlei bomen vergeten en ik heb ze nooit gekend -
+                    we raken allebei een beetje gefrustreerd.</seg>
+                    <lb type="indent"/>
+                <seg>Ik zeg: Als ik iets vroeger, zeg dertig jaar geleden, was geboren, dan had ik
+                    een vaste baan gehad bij de krant en zat ik in mijn vrije tijd in een café vol
+                    medegenieën over mijn oeuvre na te denken en dan kon ik ook nog een hypotheek
+                    betalen.</seg>
+                    <lb type="indent"/>
+                <seg>Ik vul aan: Het waren natuurlijk ook allemaal racistische en seksistische
+                    alcoholisten.</seg>
+                    <lb type="indent"/>
+                <seg>Mijn moeder lacht.</seg>
+                <seg>We lopen naar een plek waar allemaal schrijfgerei uit de grond steekt.</seg>
+                <seg>Het is het graf van Annie M.G. Schmidt.</seg>
+                    <lb type="indent"/>
+                <seg>Ja, vooruit, vindt mijn moeder, Het is ook wel mooi, zo'n gedenkplek.</seg>
+                <seg>Maar ik zou me zo schuldig voelen als ik een weekje niet ging.</seg>
+                    <lb type="indent"/>
+                <seg>En we weten allemaal, zeg ik, Dat wij na een paar weken helemaal geen zin meer
+                    zouden hebben om de viooltjes water te geven en een steen te poetsen.</seg>
+                <seg>En dan zou zo'n steen maar gaan liggen barsten en dan zou jij, of ik,
+                    afhankelijk van wie er eerder doodgaat, je weet het nooit, gaan zwerven.</seg>
+                    <lb type="indent"/>
+                <seg>Nou bah, zegt mijn moeder.</seg>
+                    <lb type="indent"/>
+                <seg>En dan, ga ik verder, Zouden we weer halsoverkop naar die klotebegraafplaats
+                    moeten fietsen.</seg>
+                <seg>een priester bellen, of zoiets.</seg>
+                <seg>We zouden allerlei bezweringen uit moeten spreken en zeggen: kom terug moeder,
+                    kom terug dochter, voor zonsondergang graag, want je weet nog wat er de vorige
+                    keer met al die kinderen is gebeurd.</seg>
+                <lb/><lb/>
+                    <seg>///</seg><lb type="indent"/>
+                <seg>dat mag niet op Zorgvlied, maar als mijn moeder tijdens een globale pandemie op
+                    een begraafplaats een sigaret wil roken, mag mijn moeder dat - ik vertel haar
+                    niet van het verbod.</seg></del>
+            </p>
+            <p>
+                <add seq="20201208112238" type="focus" evidence="25">Focus events<lb/><lb/>
+                    <media url="Notes" mimeType="local"><desc>*Naamloos - Kladblok</desc></media></add>
+                <lb/>
+                <add seq="20201208112426" type="focus" evidence="50"><media url="Notes" mimeType="local"><desc>*Naamloos - Kladblok</desc></media></add>
+            </p>
+        </body>
+    </text>
+</TEI>

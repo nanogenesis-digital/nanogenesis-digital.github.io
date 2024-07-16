@@ -1,0 +1,284 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dauphin</title>
+                <author>Ellen Van Pelt</author>
+                <respStmt>
+                    <name>Lamyk Bekius</name>
+                    <resp>encoding scheme, TEI customization, encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p corresp="section">Dauphin</p>
+                <p corresp="session">4</p>
+                <p corresp="version">4</p>
+                <p corresp="total_versions">19</p>
+                <p corresp="name">Ellen_VanPelt</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <l>Date: 30-11-2020</l>
+                    <l>Start time: 16:30:29</l>
+                    <l>Duration: 00:42:08</l>
+                </p>
+                <p><linkGrp><link prev="03_s03" n="04_s04" next="05_s05"/></linkGrp></p>
+                <p>
+                    <material corresp="01_s01">Sessie-versie 1</material>
+                    <material corresp="02_s02">Sessie-versie 2</material>
+                    <material corresp="03_s03">Sessie-versie 3</material>
+                    <material corresp="04_s04">Sessie-versie 4</material>
+                    <material corresp="05_s05">Sessie-versie 5</material>
+                    <material corresp="06_s06">Sessie-versie 6</material>
+                    <material corresp="07_s07">Sessie-versie 7</material>
+                    <material corresp="08_s08">Sessie-versie 8</material>
+                    <material corresp="09_s11">Sessie-versie 9</material>
+                    <material corresp="10_s12">Sessie-versie 10</material>
+                    <material corresp="11_s14">Sessie-versie 11</material>
+                    <material corresp="12_s15">Sessie-versie 12</material>
+                    <material corresp="13_s16">Sessie-versie 13</material>
+                    <material corresp="14_s17">Sessie-versie 14</material>
+                    <material corresp="15_s18">Sessie-versie 15</material>
+                    <material corresp="16_s19">Sessie-versie 16</material>
+                    <material corresp="17_s20">Sessie-versie 17</material>
+                    <material corresp="18_s21">Sessie-versie 18</material>
+                    <material corresp="19_s22">Sessie-versie 19</material>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><seg><title>Dolfinarium</title> </seg><lb/><lb/>
+                <seg>?hoofdpersonage: gescheiden?</seg>
+                <seg>op reis met ouders?</seg>
+                <lb/><lb/>
+                <seg>hotellobby Fiesta beach, wachten op bus, het eiland van de flamingo's, het is
+                    zelfs geen eiland, maar een schiereiland.</seg>
+                <lb/><lb/>
+                <seg>tour langs verschillende hotels</seg><lb/><lb/>
+                <seg>Kolonne van piratenschepen, volgestouwd met toeristen.</seg>
+                <seg>De onze heet Elysa</seg><lb/>
+                <seg>boot, piratenmuziek, kunstjes in de touwenen nagebouwd piratenschip.</seg>
+                <seg>De piraten zijn enthousiast.</seg>
+                <seg>Op dit schip kun je een tochtje maken naar Flamingo eiland (Flamingo
+                    Island).</seg>
+                <seg>De bemanning van de schip is gekleed als echte piraten.</seg>
+                <seg>Tijdens de tocht naar Flamingo eiland kun je dolfijnen spotten.</seg>
+                <seg>Eenmaal aangekomen op het eiland kun je genieten van de pracht en praal die dit
+                    eiland je te bieden heeft.</seg>
+                <seg>Er is voor ieder wat wils: je kunt hier de flamingo's en natuur bekijken,
+                    heerlijk zonnen en luieren op het mooie strand of zwemmen en snorkelen.</seg>
+                <seg>Aan het eind van de middag vaar je terug naar Djerbaop zee</seg><lb/><lb/>
+                <seg>Schot voor de boeg </seg><lb/><lb/><lb/>
+                <seg>Aan weerszijden van het middenschip zijn houten zitbanken gemaakt.</seg>
+                <seg>Daar zitten we op elkaar gepakt, in de brandende zon.</seg>
+                <seg>Finn kleeft tegen me aan en gluurt vanonder zijn pet <del seq="20201130163157" type="context" evidence="255-258">naar</del><del seq="20201130163153" type="context" evidence="250-253"> de piraten die in de touwen
+                    klimmen </del><add seq="20201130163158" type="context" evidence="259-269">om hem heen</add>.</seg>
+                <seg><del seq="20201130163123" type="context" evidence="116-163"><add seq="20201130163101" type="context" evidence="30-51">Het schip is uitgeru<del seq="20201130163105" type="typo" evidence="52-53">t </del></add><add seq="20201130163105" type="context|continue" evidence="54-64">st met <del seq="20201130163107" type="context" evidence="65-68">een </del></add><add seq="20201130163109" type="context|continue" evidence="69-76">een <del seq="20201130163112" type="context" evidence="88-98">fi<del seq="20201130163110" type="typo" evidence="77-78">sk</del><add seq="20201130163110" type="context|continue" evidence="79-87">ks geluid</add></del></add><add seq="20201130163119" type="context|continue" evidence="99-115">muziekinstallatie</add></del><add seq="20201130163127" type="context|continue" evidence="165-185">Door de boxen klinkt</add><del seq="20201130163132" type="context" evidence="186-223">Dan schalt <del seq="20201130163043" type="context" evidence="9-12">plots </del>de</del> muziek van Pirates of the Caribean<del seq="20201130163137" type="context" evidence="229-232"> door de boxen en </del><add seq="20201130163140" type="context" evidence="236">, </add>we zetten koers naar
+                    zee.</seg>
+                <seg>Acht piraten bengelen in het touwwerk, eentje klimt verder naar het
+                    kraaiennest.</seg>
+                <seg>Er wordt geapplaudiseerd, we lijken wel een bus schoolkinderen die op uitstap
+                    vertrekt.</seg>
+                <lb/>
+                <seg>De zeebries brengt <del seq="20201130163215" type="context" evidence="278-281">wat </del>verfrissing.</seg>
+                <seg>Ik smeer Finn <del seq="20201130163329" type="context" evidence="304-307">voor de zekerheid </del>nog een keer met zonnecrème in<del seq="20201130163337" type="context" evidence="318-319"><add seq="20201130163335" type="context" evidence="316-317">, </add></del>.</seg>
+                <seg><del seq="20201130163340" type="context" evidence="323-327">Hij </del><add seq="20201130163342" type="context" evidence="326-339">Ondertussen </add><del seq="20201130163226" type="context" evidence="287-290">blijft wijzen </del><add seq="20201130163229" type="context" evidence="292-299">wijst </add><add seq="20201130163347" type="context" evidence="344-347">hij </add>naar de mannen, die nu allerlei acrobatische kunstjes <add seq="20201130163350" type="context" evidence="353-365">in <del seq="20201130163354" type="context" evidence="366-375">het touwen</del></add><add seq="20201130163355" type="context|continue" evidence="376-385">de touwen </add>de touwen halen.</seg>
+                <lb type="indent"/>
+                <seg>'Kijk, mama, kijk!' kraait hij.</seg>
+                <lb type="indent"/>
+                <seg>Wanneer de muziek stopt, klauteren de piraten weer naar beneden.</seg>
+                <seg>Ze verspreiden zich over het bovendek.</seg>
+                <seg>In ruil voor enkele dinars mag je met hen op de foto.</seg>
+                <seg>De oudste van de bende, een kleine, pezige man<add seq="20201130163422" type="context" evidence="398">,</add> kiest ons als prooi.</seg>
+                <seg>Hij lacht breed,<del seq="20201130163429" type="context" evidence="402-406"> hij</del> heeft amper nog tanden.</seg>
+                <lb type="indent"/>
+                <seg>'Une photo avec la belle maman et son beaux fils?'</seg>
+                <lb type="indent"/>
+                <seg>De fotograaf staat al paraat.</seg>
+                <seg>Finn kruipt achter mijn rug alsof ik een levend schild ben<add seq="20201130163444" type="context" evidence="427-449"> dat hem zal
+                    beschermen</add>.</seg>
+                <lb type="indent"/>
+                <seg>'Il a peur?'</seg>
+                <lb type="indent"/>
+                <seg>Ik knik.</seg>
+                <seg>De piraat kijkt me aan.</seg>
+                <seg>Oude, wijze ogen.</seg>
+                <seg>In kleermakerszit gaat hij voor ons op de grond zitten.</seg>
+                <seg>In belabberd Frans vertelt hij me over het schip, over zijn nonkel die het
+                    kocht en er een piratenboot van liet maken.</seg>
+                <seg>Nu zorgt de boot voor een inkomen voor<del seq="20201130163459" type="context" evidence="458-461"> heel</del><add seq="20201130163501" type="context" evidence="463-468"> zeven</add><del seq="20201130163502" type="context" evidence="469-479">wat</del> families.</seg>
+                <seg>Merkte hij mijn scepticisme over dit toeristencircus?</seg>
+                <seg>Zijn toon is zacht, zijn stem heeft iets kalmerends.</seg>
+                <seg>Finn wriemelt achter mijn rug en wurmt zijn hoofdje onder mijn oksel.</seg>
+                <lb type="indent"/>
+                <seg>De fotograaf heeft ondertussen door er aan ons niets verdiend kan worden.</seg>
+                <seg>Hij probeert het wat verderop.</seg>
+                <lb type="indent"/>
+                <seg>De piraat buigt zich voorover naar Finn.</seg>
+                <seg>Hij zet zijn breedste lach op, dan houdt hij hem zijn piratenzwaard voor.</seg>
+                <seg>Met een vooruitgestoken wijsvinger raakt Finn het zwaard aan.</seg>
+                <lb type="indent"/>
+                <seg>'Het is echt, mama,' fluistert hij in mijn oor.</seg>
+                <lb type="indent"/>
+                <seg>Onze piraat staat op, hij heeft werk voor de boeg.</seg>
+                <seg>De andere piraten lokken de toeristen van de zitbanken, <del seq="20201130163532" type="context" evidence="497-500">proberen hun te verleiden </del><add seq="20201130163533" type="context" evidence="499-514">verleiden hen </add>tot
+                    <del seq="20201130163537" type="context" evidence="519-522">enkel</del><add seq="20201130163538" type="context" evidence="524-527">f<del seq="20201130163539" type="typo" evidence="528-530">ivo</del></add><add seq="20201130163540" type="context|continue" evidence="531-535">rivol</add>e danspasjes op een pompend salsalied.</seg>
+                <lb type="indent"/>
+                <seg>Op de voorsteven, in de weinige schaduw die er op dit schip is, zi<del seq="20201130163552" type="context" evidence="542">t</del><del seq="20201130163559" type="context" evidence="559-567"><add seq="20201130163552" type="context" evidence="543-546">e ik</add></del><add seq="20201130163600" type="context" evidence="569">t</add> een
+                    man.</seg>
+                <seg>Met zijn <del seq="20201130163606" type="context" evidence="574-577">Adidas-</del><add seq="20201130163609" type="context" evidence="579-585">zwarte </add>trainingsbroek en <del seq="20201130163614" type="context" evidence="590-593">zwarte</del><add seq="20201130163614" type="context" evidence="592-605">donkergroene</add> sweater valt hij op tussen al
+                    het blote blanke vlees.</seg>
+                <seg><del seq="20201130163641" type="context" evidence="683-705"><add seq="20201130163630" type="context" evidence="633-643">Hij heeft <del seq="20201130163631" type="context" evidence="644">e</del></add><del seq="20201130163634" type="context" evidence="658-668"><add seq="20201130163632" type="context|continue" evidence="645-656">zelfs een mu</add></del><add seq="20201130163635" type="context|continue" evidence="669-681">een muts op.</add></del>Hij draagt een zonnebril en lijkt nors voor zich uit te staren.</seg>
+                <seg><del seq="20201130163649" type="context" evidence="709-751"><del seq="20201130163623" type="context" evidence="611">M</del><add seq="20201130163624" type="context" evidence="613-626">Hij heeft zelf</add>uts op, oortjes in.</del></seg>
+                <seg><add seq="20201130163701" type="context" evidence="771-777">Is hij </add><del seq="20201130163702" type="context" evidence="778-779">E</del><add seq="20201130163702" type="context" evidence="781">e</add>en piraat die zijn kostuum vergat?</seg>
+                <lb type="indent"/>
+                <seg>Hij merkt me op<del seq="20201130163709" type="context" evidence="790-792">, d</del><add seq="20201130163710" type="context" evidence="794">.</add></seg>
+                <seg><add seq="20201130163711" type="context" evidence="796">D</add>enk ik.</seg>
+                <seg>Al kan ik het door die zonnebril niet met zekerheid weten.</seg>
+                <seg>Ik wend mijn blik niet af, blijf hem aankijken.</seg>
+                <seg>Dan<del seq="20201130163722" type="context" evidence="809-812"> trekt hij zijn muts wat dieper over zijn oren</del><del seq="20201130163725" type="context" evidence="817-819"><add seq="20201130163724" type="context" evidence="814-816">wen</add></del><add seq="20201130163725" type="context|continue" evidence="820-846"> wend<del seq="20201130163731" type="context" evidence="848-870">t hij zijn gezicht af, </del></add><add seq="20201130163734" type="context" evidence="871-891">t hij zijn gezicht af</add>, richt zijn blik op de zee.</seg>
+                <lb/><lb/>
+                <seg>Deze zomervakantie is de eerste.</seg>
+                <seg>De eerste die Finn en ik samen moeten doorspartelen.</seg>
+                <seg>De eerste dat ik moeder en vader tegelijk zal <del seq="20201130163747" type="context" evidence="903-907">moeten </del>zijn, twee maanden lang.</seg>
+                <lb type="indent"/>
+                <seg>'Zijn er geen andere alleenstaande moeders?'</seg>
+                <seg>had mijn vader gevraagd.</seg>
+                <seg>'In zijn klasje, daar zitten toch vast jongens met gescheiden moeders.</seg>
+                <seg><del seq="20201130163759" type="context" evidence="918-922">Dan kunnen jullie </del><add seq="20201130163801" type="context" evidence="921-938">Daarmee kan je </add>gezellig samen op vakantie.'</seg>
+                <lb type="indent"/>
+                <seg><del seq="20201130163807" type="context" evidence="947-951">Ik kende de</del><add seq="20201130163808" type="context" evidence="950-953">De</add> moeders van Finns klasgenootjes<add seq="20201130163812" type="context" evidence="961-972">, ik ken hen</add> niet.</seg>
+                <seg>Aan de schoolpoort st<del seq="20201130163817" type="context" evidence="977-983">onden</del><add seq="20201130163818" type="context" evidence="984-986">aan</add> ze op een kluitje te praten.</seg>
+                <seg>Ze glimlach<del seq="20201130163821" type="context" evidence="992">t</del>en naar me, ik glimlach<del seq="20201130163825" type="context" evidence="1002-1003">te</del> naar hen.</seg>
+                <seg>Meer gebeur<del seq="20201130163829" type="context" evidence="1009-1010">de</del><add seq="20201130163829" type="context" evidence="1011">t</add> er niet.</seg>
+                <seg>Misschien <del seq="20201130163833" type="context" evidence="1016-1019">zou dat veranderen </del><add seq="20201130163834" type="context" evidence="1018-1029">verandert </add>wanneer Finn volgend schooljaar naar het eerste leerjaar <del seq="20201130163838" type="context" evidence="1033-1037">zou gaan</del><add seq="20201130163839" type="context" evidence="1036-1041">gaat</add>.</seg>
+                <lb type="indent"/>
+                <seg>Vader had me de vouchter met het vliegticket en de hotelboeking per <del seq="20201130163848" type="context" evidence="1050">e</del>mail
+                    verstuurd.</seg>
+                <seg>Een verdiend cadeau, had hij erbij geschreven.</seg>
+                <seg>Hotel Fiesta<del seq="20201130163906" type="context" evidence="1064-1073">, stond er in de voucher</del>.</seg>
+                <seg>Drie maal per dag buffet, kinderanimatie, zwembaden, glijbanen en een
+                    privéstrand aan zee.</seg>
+                <seg><del seq="20201130163916" type="pre-context" evidence="1099-1112"><add seq="20201130163914" type="nt" evidence="1085-1098">Een groot fees</add></del><add seq="20201130163919" type="nt|continue" evidence="1122"><del seq="20201130163919" type="pre-context" evidence="1123">E</del></add><del seq="20201130163922" type="pre-context" evidence="1137-1148"><add seq="20201130163920" type="nt|continue" evidence="1125-1136">De hele dag </add></del></seg>
+                <lb/><lb/>
+                <seg><add seq="20201130163929" type="nt" evidence="1156-1166">We zijn <del seq="20201130163931" type="pre-context" evidence="1167-1169">een</del></add><add seq="20201130163932" type="nt|continue" evidence="1170-1176">hoog<del seq="20201130163933" type="typo" evidence="1177-1179">tui</del></add><add seq="20201130163934" type="nt|continue" evidence="1180-1192">uit een uur<del seq="20201130163937" type="pre-context" evidence="1193-1194"> o</del></add><add seq="20201130163937" type="nt|continue" evidence="1195-1239">tje op zee, wanneer het schip vaart mindert.</add></seg>
+                
+                <seg>De kolonne piratenboten meert aan<del seq="20201130163953" type="context" evidence="1244-1250">. De steiger is oud en vervallen.</del><add seq="20201130163955" type="context" evidence="1252-1287"> bij een oude en vervallen steiger. </add><seg><add seq="20201130164001" type="nt" evidence="1290-1299">Elk schip<del seq="20201130164003" type="typo" evidence="1300">h</del></add><add seq="20201130164003" type="nt|continue" evidence="1301-1357"> heeft zijn eigen steiger, ik tel er zeven naast elkaar.</add></seg></seg>
+                
+                <add seq="20201130164015" type="layout" evidence="1362"><lb type="indent"/></add>
+                <seg>De piraten helpen ons van boord, we staan bijeengepakt naast het schip.</seg>
+                <seg><add seq="20201130164227" type="rt" evidence="1610-1637">We krijgen instructries: <del seq="20201130164234" type="pre-context" evidence="1638-1640">Ver</del></add><add seq="20201130164234" type="rt|continue" evidence="1641-1662">verderop aan de and<del seq="20201130164237" type="typo" evidence="1663-1665">der</del></add><add seq="20201130164238" type="rt|continue" evidence="1666-1690">ere kant van dit eilan<del seq="20201130164242" type="context" evidence="1691-1693">s, </del></add><add seq="20201130164243" type="rt|continue" evidence="1694-1702">d, ligt <del seq="20201130164245" type="pre-context" evidence="1703">h</del></add><add seq="20201130164245" type="rt|continue" evidence="1704-1724">een prachtig strand.</add></seg>
+                <seg><add seq="20201130164248" type="rt" evidence="1726-1740">Daar m<del seq="20201130164251" type="typo" evidence="1741-1749">eoten we </del></add><add seq="20201130164254" type="rt|continue" evidence="1750-1783">oeten we nu op eigen kracht heen.</add></seg>
+                <seg><del seq="20201130164259" type="context" evidence="1785-1906">Ze wijzen verderop, daar is het strand.</del></seg>
+                <seg>Over twee uur <del seq="20201130164311" type="context" evidence="1918-1921">moeten we terug hierheen komen.<del seq="20201130164034" type="context" evidence="1393-1402"> Nu</del><add seq="20201130164034" type="context" evidence="1401-1405"> Dan</add> wijzen</del><add seq="20201130164312" type="context" evidence="1923-1941">worden we verwacht </add><del seq="20201130164316" type="context" evidence="1942-1967"> ze naar</del><add seq="20201130164318" type="context" evidence="1969-1970">in</add> een grote hut van palmbladeren<del seq="20201130164325" type="context" evidence="1979-1984">, daar moeten we over twee uur zijn,</del><del seq="20201130164329" type="context" evidence="1998-2007"><add seq="20201130164326" type="context" evidence="1986-1990"> vla<del seq="20201130164327" type="typo" evidence="1991-1992">bk</del></add><add seq="20201130164328" type="context|continue" evidence="1993-1997">kbij </add></del><add seq="20201130164330" type="context" evidence="2008-2028"> vlakbij de steiger.</add> <del seq="20201130164335" type="context" evidence="2030-2037">d</del><add seq="20201130164336" type="context" evidence="2040">D</add>a<del seq="20201130164042" type="context" evidence="1412">n</del><add seq="20201130164043" type="context" evidence="1413-1414">ar</add> krijgen we <del seq="20201130164046" type="context" evidence="1419-1422">eten</del><add seq="20201130164047" type="context" evidence="1423-1431">onze lu<del seq="20201130164049" type="typo" evidence="1432-1433">cn</del></add><add seq="20201130164049" type="context|continue" evidence="1434-1436">nch</add>.</seg>
+                <seg><del seq="20201130164051" type="context" evidence="1440-1444">Ze wijzen naar het </del><add seq="20201130164053" type="context" evidence="1443-1451">Op het </add>dak van de hut<del seq="20201130164056" type="context" evidence="1457-1462">, daar</del> wappert een zwarte vlag met een wit
+                    piratenhoofd.</seg>
+                <seg>Dat is <del seq="20201130164102" type="context" evidence="1468-1471">onze hut</del><add seq="20201130164104" type="context" evidence="1470-1491">de hut van ons schip</add>, de vlag ons oriëntatiepunt.</seg>
+                
+                
+                <lb type="indent"/>
+                <seg><del seq="20201130164122" type="context" evidence="1509-1512">Het voelt vreemd, zonder de piraten het eiland verkennen.</del></seg>
+                <seg>Finn en ik dralen nog wat aan de aanlegsteiger.</seg>
+                <seg>Met een lange dunne stok tekent hij cirkels in het water.</seg>
+                <seg>De andere toeristen van ons schip, die al dapper aan de verkenningstocht <del seq="20201130164147" type="context" evidence="1536-1540">waren</del><del seq="20201130164157" type="context" evidence="1554-1557"><add seq="20201130164148" type="context" evidence="1539-1544">zijn</add></del><del seq="20201130164159" type="context" evidence="1563-1567"><add seq="20201130164158" type="context" evidence="1558-1562">waren</add></del><add seq="20201130164200" type="context" evidence="1568-1587">van het eiland waren</add> begonnen, zijn nog maar een tiental meters van de<del seq="20201130164348" type="typo" evidence="2055">e</del> steiger
+                    verwijderd, wanner ze langs links en rechts belaagd worden door mannen op
+                    qats.</seg>
+                <seg>Ook komen er enkele kamelen aandraven.</seg>
+                <lb type="indent"/>
+                <seg>Met open mond wijst Finn naar de dieren, naar de mannen op de qats.</seg>
+                <seg>Ik neem hem bij de hand en wil met hem naar de kamelen wandelen, maar hij plant
+                    zijn voetjes stevig in het zand.</seg>
+                <lb type="indent"/>
+                <seg>Dan hoor ik de oude piraat achter me.</seg>
+                <seg>In zijn handen heeft hij een grote koelzak.</seg>
+                <lb type="indent"/>
+                <seg>'Lunch,' zegt hij.</seg>
+                <lb type="indent"/>
+                <seg>En dat er geen flamingo's zijn deze tijd van het jaar.</seg>
+                <seg>En dat het geen eiland is, maar een schiereiland.</seg>
+                <lb type="indent"/>
+                <seg><del seq="20201130164408" type="context" evidence="2077-2081">Dat we </del><del seq="20201130164415" type="context" evidence="2106"><add seq="20201130164409" type="context" evidence="2080-2104">We zitten vast aan het </add></del><add seq="20201130164415" type="context" evidence="2108-2111">Dat we </add>vastzitten aan het land<del seq="20201130164404" type="context" evidence="2068-2070">,</del><add seq="20201130164405" type="context" evidence="2071-2073"> en</add> geen losgeslagen eiland zijn, lucht me
+                    op.</seg>
+                <seg>Finn is vlak voor de piraat gaan staan.</seg>
+                <seg>Hij strijkt<add seq="20201130164423" type="context" evidence="2122-2126"> weer</add> met zijn vingertoppen op het zwaard dat aan zijn gordel
+                    bengelt.</seg>
+                <lb type="indent"/>
+                <seg>De piraat kroelt Finn even door zijn haar en zet dan koers naar de
+                    palmhut.</seg>
+                <lb type="indent"/>
+                <seg>De qats zijn ondertussen weer vertrokken, nu bestuurd door uitgelaten joelende
+                    toeristen.</seg>
+                <seg>Er zijn nog twee kamelen zonder ruiters, hun drijvers kijken nog even om zich
+                    heen en gaan dan richting het volgende piratenschip dat <del seq="20201130164439" type="context" evidence="2151-2154">aanmeert.</del><add seq="20201130164440" type="context" evidence="2153-560">net <del seq="20201130164441" type="context" evidence="2161-2162">ga</del></add><add seq="20201130164441" type="context|continue" evidence="2163-2176">aangem<del seq="20201130164444" type="context" evidence="2177-2184">aeerd is</del></add><add seq="20201130164446" type="context" evidence="2185-2193">eerd is.</add></seg>
+                <lb type="indent"/>
+                <seg>De kust is veilig, Finn laat zich nu met me meevoeren richting het
+                    strand.</seg>
+                <lb type="indent"/>
+                <lb type="indent"/>
+                <seg><del seq="20201130165024" type="pre-context" evidence="2297-2303"><add seq="20201130165021" type="nt" evidence="2289-2296">'Attend</add></del><del seq="20201130165131" type="pre-context" evidence="2536-2539"><add seq="20201130165039" type="nt|continue" evidence="2309-2331">Al na vijf minuten <del seq="20201130165048" type="pre-context" evidence="2332-2333">st</del></add><add seq="20201130165048" type="nt|continue" evidence="2334-2367">door het zand ploeteren, <del seq="20201130165053" type="pre-context" evidence="2368-2376">zijn we b</del></add></del><del seq="20201130165059" type="pre-context" evidence="2398-2418"><add seq="20201130165054" type="nt|continue" evidence="2377-2397">druipt het zweet van </add></del><del seq="20201130165114" type="pre-context" evidence="2474-2512"><add seq="20201130165102" type="nt|continue" evidence="2419-2446">heb ik spijt van de <del seq="20201130165107" type="pre-context" evidence="2447-2454">kamelen </del></add><add seq="20201130165109" type="nt|continue" evidence="2455-2473">gemiste kamelenrit </add></del><del seq="20201130165121" type="pre-context" evidence="2515-2516"><add seq="20201130165120" type="nt|continue" evidence="2513-2514">br</add></del></seg>
+                <add seq="20201130165134" type="translocation" evidence="2544-2554"><seg><del seq="20201130165140" type="context" evidence="2570-2574">Finn ploetert </del><add seq="20201130165141" type="context" evidence="2573-2587">We ploeteren </add>langzaam <del seq="20201130165146" type="context" evidence="2591-2595">naast me </del>in het zand, de zon brandt, het lijkt alsof we een woestijn doorkruisen.</seg>
+                    <seg>Een verdiend cadeau.</seg></add>
+                <add seq="20201130165152" type="layout" evidence="2603"><lb type="indent"/></add>
+                <seg><add seq="20201130165152" type="nt" evidence="2603-2605"><del seq="20201130165153" type="pre-context" evidence="2606-2608">'I</del></add><add seq="20201130165154" type="nt|continue" evidence="2609-2642">'Is het nog ver?' vraagt Finn.</add></seg>
+                <add seq="20201130165202" type="layout" evidence="2645"><lb type="indent"/></add>
+                <seg><del seq="20201130165203" type="pre-context" evidence="2647-2648"><add seq="20201130165202" type="nt" evidence="2645-2646">In</add></del><add seq="20201130165205" type="nt|continue" evidence="2652-2667">In de verte <del seq="20201130165208" type="pre-context" evidence="2668-2671">voel</del></add><add seq="20201130165209" type="nt|continue" evidence="2672-2677">zi<del seq="20201130165210" type="typo" evidence="2678-2681"> ik </del></add><add seq="20201130165211" type="nt|continue" evidence="2682-2747">e ik het opstuivende zand van de qats, een kustlijn kan ik n<del seq="20201130165224" type="typo" evidence="2748-2751">eit </del></add><add seq="20201130165225" type="nt|continue" evidence="2752-2761">iet zi<del seq="20201130165228" type="typo" evidence="2762-2764">jn.</del></add><add seq="20201130165228" type="nt|continue" evidence="2765-2768">en.</add></seg>
+                <add seq="20201130165230" type="layout" evidence="2773"><lb type="indent"/></add>
+                <seg><add seq="20201130165230" type="nt" evidence="2773-2798">'Ik ben moe,' zegt Finn<del seq="20201130165237" type="typo" evidence="2799">e</del></add><add seq="20201130165237" type="nt|continue" evidence="2801">.</add></seg>
+                <seg><del seq="20201130165240" type="pre-context" evidence="2819-2833"><add seq="20201130165238" type="nt" evidence="2804-2819">Hij gaat in het</add></del><add seq="20201130165243" type="nt|continue" evidence="2835-2872">Zijn handje glijdt uit de mijne, <del seq="20201130165252" type="pre-context" evidence="2873-2877">hij p</del></add><del seq="20201130165257" type="pre-context" evidence="2884-2889"><add seq="20201130165255" type="nt|continue" evidence="2878-2883">hij ga</add></del><del seq="20201130165301" type="pre-context" evidence="2906-2913"><add seq="20201130165258" type="nt|continue" evidence="2890-2898">in kl<del seq="20201130165300" type="typo" evidence="2899-2902">erma</del><add seq="20201130165301" type="nt|continue" evidence="2903-2905">erk</add></add></del><del seq="20201130165304" type="pre-context" evidence="2918-2921"><add seq="20201130165303" type="nt|continue" evidence="2914-2917">een </add></del><add seq="20201130165305" type="nt|continue" evidence="2922-2985">twee seconden later zit hij in kleermakerszit in het hete zand.</add></seg>
+                <add seq="20201130165318" type="layout" evidence="2990"><lb type="indent"/></add>
+                <seg><add seq="20201130165318" type="nt" evidence="2991"><del seq="20201130165318" type="pre-context" evidence="2992">I</del></add><add seq="20201130165328" type="nt|continue" evidence="2995-3012">'Het is hier te <del seq="20201130165331" type="typo" evidence="3013">z</del></add><add seq="20201130165331" type="nt|continue" evidence="3014-3040">warm om in de zon te zitt<del seq="20201130165336" type="typo" evidence="3041-3042">n,</del></add><add seq="20201130165337" type="nt|continue" evidence="3043-3051">en, <del seq="20201130165338" type="pre-context" evidence="3052-3056">schat</del></add><add seq="20201130165340" type="nt|continue" evidence="3057-3064">pruts<del seq="20201130165342" type="pre-context" evidence="3065-3066">,'</del></add><add seq="20201130165344" type="nt|continue" evidence="3071">.</add></seg>
+                <seg><add seq="20201130165345" type="nt" evidence="3074-3083">We m<del seq="20201130165346" type="typo" evidence="3084-3089">eoten </del></add><add seq="20201130165347" type="nt|continue" evidence="3090-3112">oeten verder stappen.'</add></seg>
+                <add seq="20201130165354" type="layout" evidence="3118"><lb type="indent"/></add>
+                <seg><add seq="20201130165354" type="nt" evidence="3118-3180">Hij schudt zijn hoofdje, frult aan de gespen van zijn sanda<del seq="20201130165409" type="pre-context" evidence="3181-3182">al</del></add><del seq="20201130165411" type="pre-context" evidence="3184"><add seq="20201130165410" type="nt|continue" evidence="3183">a</add></del><add seq="20201130165412" type="nt|continue" evidence="3185-3189">len.</add></seg>
+                <add seq="20201130165417" type="layout" evidence="3199"><lb type="indent"/></add>
+                <seg><del seq="20201130165421" type="pre-context" evidence="3207-3213"><add seq="20201130165417" type="nt" evidence="3199-3206">'Il est</add></del><del seq="20201130170250" type="pre-context" evidence="3280-3282"><add seq="20201130170248" type="nt|continue" evidence="3277-3279">Ik </add></del><add seq="20201130170251" type="nt|continue" evidence="3286-3302">Te moe voor een <del seq="20201130170254" type="pre-context" evidence="3303">s</del><add seq="20201130170255" type="nt|continue" evidence="3304-3308"><del seq="20201130170300" type="pre-context" evidence="3320-3321">p<del seq="20201130170258" type="pre-context" evidence="3315-3318">s<del seq="20201130170256" type="pre-context" evidence="3309-3311">eud</del><add seq="20201130170257" type="nt|continue" evidence="3312-3314">euo</add></del><add seq="20201130170259" type="nt|continue" evidence="3319">e</add></del></add></add><del seq="20201130170302" type="typo" evidence="3322-3340"><add seq="20201130170300" type="nt|continue" evidence="3322-3330">mislustek</add></del><add seq="20201130170306" type="nt|continue" evidence="3342"><del seq="20201130170306" type="pre-context" evidence="3343">t</del></add><add seq="20201130170307" type="nt|continue" evidence="3344-3352">tot mi<del seq="20201130170309" type="typo" evidence="3353-3355">lsu</del></add><add seq="20201130170309" type="nt|continue" evidence="3356-3384">slukken gedoemde interventie<del seq="20201130170314" type="typo" evidence="3385">s</del></add><add seq="20201130170315" type="nt|continue" evidence="3386-3399">, <del seq="20201130170319" type="pre-context" evidence="3400-3411">laat ik me n</del></add><add seq="20201130170321" type="nt|continue" evidence="3412-3431">zet ik me naast he<del seq="20201130170325" type="pre-context" evidence="3432-3433">t </del></add><add seq="20201130170326" type="nt|continue" evidence="3434-3456">m in de brandende zon.</add></seg>
+                <seg><add seq="20201130170334" type="nt" evidence="3459-3474">Ik haal de zonn<del seq="20201130170336" type="typo" evidence="3475">'</del></add><add seq="20201130170337" type="nt|continue" evidence="3476-3511">ecrème nog eens boven.</add></seg>
+                <seg><del seq="20201130170346" type="typo" evidence="3519-3518"><add seq="20201130170344" type="nt" evidence="3514-3518">die b</add></del><add seq="20201130170347" type="nt|continue" evidence="3525-3528">D<del seq="20201130170351" type="pre-context" evidence="3529-3531">e e</del></add><add seq="20201130170352" type="nt|continue" evidence="3532-3565">ie bescherming kan ik hem bieden.</add></seg>
+                <add seq="20201130170401" type="layout" evidence="3575"><lb/><lb/></add>
+                <seg><add seq="20201130170401" type="nt" evidence="3575-3578"><del seq="20201130170407" type="pre-context" evidence="3579-3580">'C</del></add><del seq="20201130170414" type="pre-context" evidence="3603-3623"><add seq="20201130170410" type="nt|continue" evidence="3582-3602">Als een prins op het </add></del><add seq="20201130170425" type="nt|continue" evidence="3646-3659">D<del seq="20201130170440" type="pre-context" evidence="3686-3688">e <del seq="20201130170435" type="pre-context" evidence="3662-3672">man met de </del><del seq="20201130170438" type="pre-context" evidence="3684-3690"><add seq="20201130170436" type="nt|continue" evidence="3678-3683">norse</add></del><add seq="20201130170439" type="nt|continue" evidence="3685">m</add></del></add><add seq="20201130170440" type="nt|continue" evidence="3689-3737">an staat de man met de trainingsbroek naast ons.</add></seg>
+                <seg><add seq="20201130170454" type="nt" evidence="3740-3745">Zijn <del seq="20201130170456" type="pre-context" evidence="3746">e</del></add><add seq="20201130170456" type="nt|continue" evidence="3747-3748"><del seq="20201130170456" type="pre-context" evidence="3749-3750">zw</del></add><add seq="20201130170457" type="nt|continue" evidence="3751-3756">swe<del seq="20201130170458" type="typo" evidence="3757-3759">ter</del></add><add seq="20201130170459" type="nt|continue" evidence="3760-3775">ater heeft hi<del seq="20201130170501" type="typo" evidence="3776-3778"> om</del></add><add seq="20201130170502" type="nt|continue" evidence="3779-3785">j <del seq="20201130170503" type="typo" evidence="3786-3790">m zij</del></add><add seq="20201130170506" type="nt|continue" evidence="3791-3806">om zijn middel <del seq="20201130170508" type="pre-context" evidence="3807">t</del></add><add seq="20201130170509" type="nt|continue" evidence="3808-3817">gebonden<del seq="20201130170512" type="pre-context" evidence="3818-3819">, </del></add><add seq="20201130170513" type="nt|continue" evidence="3821">.</add></seg>
+                <add seq="20201130170515" type="layout" evidence="3825"><lb type="indent"/></add>
+                <seg><del seq="20201130170517" type="pre-context" evidence="3830-3832"><add seq="20201130170515" type="nt" evidence="3825-3829">'Il </add></del><del seq="20201130170521" type="pre-context" evidence="3835"><add seq="20201130170520" type="nt|continue" evidence="3834">V</add></del><del seq="20201130170531" type="pre-context" evidence="3865-3888"><add seq="20201130170524" type="nt|continue" evidence="3841-3864">Hij torent boven ons uit</add></del><add seq="20201130170539" type="nt|continue" evidence="3892-3902">'<del seq="20201130170601" type="context" evidence="3937-3938">Il</del><add seq="20201130170602" type="context" evidence="3940-3947">Mon fils</add> est f<del seq="20201130170542" type="typo" evidence="3903">g</del></add><add seq="20201130170542" type="nt|continue" evidence="3904-3906">a<del seq="20201130170543" type="typo" evidence="3907-3908">gi</del></add><add seq="20201130170543" type="nt|continue" evidence="3909-3913">tig<del seq="20201130170547" type="typo" evidence="3917-3919">ée, </del></add><add seq="20201130170548" type="nt|continue" evidence="3920-3932">ué,' zeg ik.</add></seg>
+                <seg><del seq="20201130170609" type="pre-context" evidence="3958-3959"><add seq="20201130170608" type="nt" evidence="3656-3957">Ik</add></del><add seq="20201130170609" type="nt|continue" evidence="3691-3988">Te laat realiseer ik me ho<del seq="20201130170614" type="typo" evidence="3989-3990"> e</del></add><add seq="20201130170614" type="nt|continue" evidence="3991-4014">e hulpeloos dat klinkt.</add></seg>
+                <add seq="20201130170621" type="layout" evidence="4031"><lb type="indent"/></add>
+                <seg><add seq="20201130170621" type="nt" evidence="4031-4063">De man hurkt voor Finn<del seq="20201130170633" type="pre-context" evidence="4064-4073"> en toont </del></add><add seq="20201130170635" type="nt|continue" evidence="4074-4102">, met zijn rug naar hem toe.</add></seg>
+                <seg><del seq="20201130170643" type="pre-context" evidence="4111-4116"><add seq="20201130170642" type="nt" evidence="4107-4110"><lb/>Finn</add></del><add seq="20201130170646" type="nt|continue" evidence="4119-4166">Finn heeft meteen door dat hem een lift <del seq="20201130170656" type="context" evidence="4167-4172">op de </del></add><add seq="20201130170658" type="nt|continue" evidence="4173-4195">wordt aangeboden en s<del seq="20201130170702" type="pre-context" evidence="4196-4197">ta</del></add><add seq="20201130170703" type="nt|continue" evidence="4198-4224">laat zijn armen om de man.</add></seg>
+                <seg><add seq="20201130170709" type="nt" evidence="4227-4304">Hij kent hem niet, ik ken deze man niet en mijn zoontje hangt nu op zijn rug.</add></seg>
+                <add seq="20201130170728" type="layout" evidence="4309"><lb type="indent"/></add>
+                <seg><add seq="20201130170728" type="nt" evidence="4309-4337">We ploeteren <del seq="20201130170733" type="pre-context" evidence="4338-4345">verder d</del></add><add seq="20201130170735" type="nt|continue" evidence="4346-4373">samen verder door het zand.</add></seg>
+                <seg><del seq="20201130170742" type="pre-context" evidence="4385-4389"><add seq="20201130170740" type="nt" evidence="4376-4383">In vlot </add></del><add seq="20201130170744" type="nt|continue" evidence="4391"><del seq="20201130170744" type="pre-context" evidence="4392">F</del></add><del seq="20201130170745" type="pre-context" evidence="4397-4403"><add seq="20201130170744" type="nt|continue" evidence="4393-4396">een </add></del><add seq="20201130170748" type="nt|continue" evidence="4405-4426">De man heet Mustafa.</add></seg>
+                <seg><del seq="20201130170756" type="pre-context" evidence="4437-4444"><add seq="20201130170754" type="nt" evidence="4429-4436">In velkk</add></del><del seq="20201130170801" type="pre-context" evidence="4462-4477"><add seq="20201130170758" type="nt|continue" evidence="4446-4461">Hij spreekt Fra</add></del><add seq="20201130170803" type="nt|continue" evidence="4480-4502">Zijn stem klinkt hees.</add></seg>
+                <seg><add seq="20201130170809" type="nt" evidence="4505-4542">Hij vertelt me dat het <del seq="20201130170820" type="pre-context" evidence="4545-4557">eiland een s<del seq="20201130170819" type="typo" evidence="4543">e</del><add seq="20201130170820" type="nt|continue" evidence="4544">h</add></del></add><add seq="20201130170822" type="nt|continue" evidence="4558-4564">flam<del seq="20201130170823" type="typo" evidence="4565-4567">igo</del></add><add seq="20201130170825" type="nt|continue" evidence="4568-4602">ingo-eiland een scheireiland is<del seq="20201130170832" type="context" evidence="4603">.</del></add><add seq="20201130170833" type="context" evidence="4604-4620">, een smalle s<del seq="20201130170836" type="typo" evidence="4621-4623">rtt</del></add><add seq="20201130170836" type="context|continue" evidence="4624-4633">trook z<del seq="20201130170838" type="typo" evidence="4634-4636">oan</del></add><add seq="20201130170838" type="context|continue" evidence="4637-4641">and. </add></seg>
+                <del seq="20201130170842" type="context" evidence="4645-4648"><seg>Het <del seq="20201130164453" type="context" evidence="2203-2206">eiland, het</del><add seq="20201130164518" type="context" evidence="2224-2235">eiland, het </add> schiereiland is een smalle strook land<del seq="20201130164524" type="context" evidence="2240-2244"> in de baai</del><del seq="20201130164458" type="context" evidence="2211-2215">, begrijp ik nu</del>.</seg></del>
+                <seg><del seq="20201130170913" type="context" evidence="4736-4738">We </del><add seq="20201130170914" type="context" evidence="4740-4749">Het schip </add>meerde<del seq="20201130170920" type="context" evidence="4755">n</del> aan aan de ene lange zijde, het strand ligt aan de andere zijde.</seg>
+                <seg><del seq="20201130170852" type="context" evidence="4664-4668">Niet ver, ongeveer </del><del seq="20201130170856" type="context" evidence="4678-4686"><add seq="20201130170854" type="context" evidence="4667-4677">Ongeveer </add></del><add seq="20201130170859" type="context" evidence="4689-4707">We moeten ongeveer </add>een kilometer stappen, <del seq="20201130170907" type="context" evidence="4712-4716">schat </del><add seq="20201130170908" type="context" evidence="4714-4724">zegt hij</add><del seq="20201130170910" type="context" evidence="4725-4729">ik</del>.</seg>
+                <del seq="20201130165139" type="translocation" evidence="2566"><seg>Finn ploetert langzaam naast me in het zand, de zon brandt, het lijkt alsof we een woestijn doorkruisen.</seg>
+                <seg>Een verdiend cadeau.</seg></del>
+                
+                <seg><add seq="20201130171011" type="nt" evidence="4939-4957">Ik ben te moe en <del seq="20201130171014" type="pre-context" evidence="4959-4961">de </del></add><add seq="20201130171015" type="nt|continue" evidence="4962-5010">te verdoofd door de warmte om vragen te stellen.</add></seg>
+                <lb type="indent"/>
+                <seg>Wanneer we het strand naderen, zie ik parasols van palmbladeren, eronder
+                    strandstoelen.</seg>
+                <seg>Een vergeten paradijs dat wacht op de dagelijkse aanvoer van
+                    piratenvlees.</seg>
+                <seg>Tussen de parasols scharrelen jongens die flesjes frisdrank verkopen.</seg>
+                <seg><add seq="20201130170934" type="nt" evidence="4776-4827">De man zet Finn neer, <del seq="20201130170945" type="pre-context" evidence="4828-4854">die meteen het water inrust</del></add><add seq="20201130170947" type="nt|continue" evidence="4855-4881">hij rent meteen het water.</add></seg>
+                <add seq="20201130170954" type="layout" evidence="4885"><lb type="indent"/></add>
+                <seg><add seq="20201130170954" type="nt" evidence="4885-4906">'Merci,' zeg ik<del seq="20201130171002" type="context" evidence="4916">.</del><add seq="20201130171003" type="context" evidence="4917-4933"> tegen Mustafa.</add></add></seg>
+                <add seq="20201130171027" type="layout" evidence="5021"><lb type="indent"/></add>
+                <seg><del seq="20201130171002" type="pre-context" evidence="4912-4914"><add seq="20201130171001" type="nt" evidence="4909-4911">Hij</add></del><add seq="20201130171027" type="nt" evidence="5021-5073">Hij knikt en <del seq="20201130171048" type="context" evidence="5155-5159">stapt</del><add seq="20201130171049" type="context" evidence="5160-5164">beent</add> met grote passen van ons weg.</add></seg>
+                <seg><del seq="20201130171043" type="pre-context" evidence="5113-5149"><add seq="20201130171037" type="nt" evidence="5076-5112">Helemaal in de uithoek van het strang</add></del></seg>
+                <add seq="20201130171052" type="layout" evidence="5170"><lb type="indent"/></add>
+                <seg><del seq="20201130171052" type="context" evidence="5170-5173">We kopen </del><add seq="20201130171054" type="context" evidence="5176-5183">Ik koop </add>een flesje water en <del seq="20201130171100" type="context" evidence="5187-5193">kiezen een parasol</del><add seq="20201130171102" type="context" evidence="5195-5214">kies een van de <del seq="20201130171105" type="context" evidence="5215-5217">vri</del></add><add seq="20201130171106" type="context|continue" evidence="5218-5232">nog vrije para<del seq="20201130171108" type="typo" evidence="5233">l</del></add><add seq="20201130171109" type="context|continue" evidence="5234-5241">sols uit.</add></seg>
+                <seg>Finn <del seq="20201130171116" type="context" evidence="5249-5257">rent het water in</del><add seq="20201130171118" type="context" evidence="5258-5293">springt op en neer in het water<del seq="20201130171126" type="context" evidence="5295-5300">, dan </del></add><add seq="20201130171128" type="context|continue" evidence="5302">.</add><add seq="20201130171130" type="nt" evidence="5305-5365"> Dan valt zijn blik ergens op, hij hurkt neer in het water en </add><del seq="20201130171141" type="context" evidence="5366-5370">, </del>graait met zijn<del seq="20201130171147" type="context" evidence="5377-5395"> armen naar beneden</del><add seq="20201130171150" type="context" evidence="5397-5411"> handjes <del seq="20201130171153" type="context" evidence="5412-5418">in het </del></add><add seq="20201130171156" type="context|continue" evidence="5419-5433">naar de bodem.</add>.</seg>
+               
+                <add seq="20201130171200" type="layout" evidence="5437"><lb type="indent"/></add>
+                <seg><add seq="20201130171200" type="nt" evidence="5437-5465">'Kom, mama,' roept hij.</add></seg>
+                <lb type="indent"/>
+                <seg>Het zeewater is glashelder.</seg>
+            </p>
+        </body>
+    </text>
+</TEI>

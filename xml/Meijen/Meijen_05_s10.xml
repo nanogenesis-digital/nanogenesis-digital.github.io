@@ -1,0 +1,597 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Constellaties</title>
+                <author>Jens Meijen</author>
+                <respStmt>
+                    <name>Lamyk Bekius</name>
+                    <resp>encoding scheme, TEI customization, encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p corresp="section">Constellaties</p>
+                <p corresp="session">10</p>
+                <p corresp="version">5</p>
+                <p corresp="total_versions">6</p>
+                <p corresp="name">Jens_Meijen</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <l>Date: 18-08-2020</l>
+                    <l>Start time: 17:15:56</l>
+                    <l>Duration: 01:20:47</l>
+                </p>
+                <p><linkGrp><link prev="04_s08" n="05_s10" next="06_s11"/></linkGrp></p>
+                <p>
+                    <material corresp="01_s01">Sessie-versie 1</material>
+                    <material corresp="02_s04">Sessie-versie 2</material>
+                    <material corresp="03_s07">Sessie-versie 3</material>
+                    <material corresp="04_s08">Sessie-versie 4</material>
+                    <material corresp="05_s10">Sessie-versie 5</material>
+                    <material corresp="06_s11">Sessie-versie 6</material>
+                    <material corresp="Final">Gepubliceerde tekst</material>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><seg>Constellaties </seg><lb/>
+                <seg>Ik weet niet wanneer het begonnen is.</seg>
+                <seg>Misschien op het moment dat ik de brief in mijn handen geduwd kreeg van de
+                    postbode, diep in de nacht, terwijl de dauw van de nokken van de daken droop en
+                    de honden blaften in de verte.</seg>
+                <seg>Enkele sirenes, omineus.</seg>
+                <seg>Ik vroeg me niet af waarom de postbode om middernacht de post rondbracht.</seg>
+                <seg>Ik vroeg me niet af waarom er vlak daarvoor een bevel op de muur van mijn
+                    slaapkamer was verschenen: 'Ga naar buiten.'</seg>
+                <seg>Misschien heb ik het allemaal gedroomd.</seg>
+                <seg>Toen ik de brief eenmaal op de keukentafel legde, mompelde ik bij mezelf: 'Wie
+                    the fuck stuurt tegenwoordig nog een brief,' maar ik scheurde de envelop toch
+                    meteen open.</seg>
+                <seg>De brief was van mijn oom in Parijs, Alain, die schreef dat hij vermoord
+                    was.</seg>
+                <seg>'Het is jouw taak om de daders te vatten,' schreef hij.</seg>
+                <seg>'Ga naar het adres onderaan <add seq="20200818172056" type="context" evidence="507-527">deze brief </add>en vraag naar de muur.</seg>
+                <seg>Dan zal je kunnen zien wie het gedaan heeft.'</seg>
+                <seg>Stuur dan toch gewoon een mail, Alain, idioot, mompelde ik.</seg>
+                <seg>Typisch dat hij weer zo mysterieus moet doen.</seg>
+                <seg>Altijd een soort schrijver geweest, Alain, de fantast.</seg>
+                <seg><add seq="20200818172116" type="context" evidence="532-873"><metamark>Het overschqkelen naar de TT werkt niet goed voor mij. Dat heeft ,misschien te maken met het mompelen van een paar zinnen eerder: waar gebeurt dat? Ik denk dat het beter zou werken zonder 'mompelde hij' en met nog wat meer innerlijk gefoeter. </metamark></add>Een treinconducteur zwaait met zijn digitale ticketscanner voor mijn ogen: 'ça
+                    va, m'sieur?'</seg>
+                <seg>'Jaja,' mompel ik, en duw mijn verfomfaaide ticket in zijn handen.</seg>
+                <lb/>
+                <seg>Eenmaal in Parijs <add seq="20200818172232" type="context" evidence="888-1019"><metamark>Je gaat in de vorige paragraaf over op de TT, op de trein. De TT aanhouden? wisselt nu voortdurend. </metamark></add>nam ik de tram richting het adres op de brief.</seg>
+                <seg>De Rue Cassini, naar een of andere oude astronoom.</seg>
+                <seg>Onderweg denk ik erover om bij andere haltes af te stappen, de stad te zien,
+                    maar iets weerhoudt me daarvan.</seg>
+                <seg>Plichtsbesef misschien.</seg>
+                <seg>Bij het afstappen viel de hitte als een dikke wolk over me heen.</seg>
+                <seg>Alain was een flat earther, zo iemand die gelooft dat de aarde plat is.</seg>
+                <seg>Hij maakte er podcasts over, had een soort online talkshow waar hij andere
+                    waarheidsjagers, zoals ze elkaar noemen, uitnodigde om te bespreken wat nu
+                    precies het model is: is de aarde een ruimteschip, een vliegende schotel, of
+                    omkoepeld met een soort edelmetaal waarop dan de lucht geprojecteerd
+                    wordt?</seg>
+                <seg>Ze raakten het niet eens.</seg>
+                <seg>Ik herinner me dat hij aan de Belgische kust opzij wees, van Knokke naar - denk
+                    ik - Cadzand, zijwaarts, en zei: 'Kijk, je kan de stad zien van hier.</seg>
+                <seg>Als de aarde rond was, zou de ronding van de aarde ervoor zorgen dat je de stad
+                    niet kon zien.</seg>
+                <seg>Dan was het gewoon een vlakke horizon, toch?'</seg>
+                <seg>Ik knikte, begreep hem niet goed.</seg>
+                <seg>'Niets bestaat,' fluisterde hij in mijn oor, als je het niet met je eigen ogen
+                    kan zien.'</seg>
+                <seg>Ik haalde mijn schouders op.</seg>
+                <lb/>
+                <seg>Nu zigzag ik tussen de norse Parijzenaars, stoot af en toe iemand aan.</seg>
+                <seg>Ik loop langs een bronzen standbeeld van een jongen zonder gezicht.</seg>
+                <seg>Hij houdt een masker vast dat aan twee kanten een aangezicht heeft en heft het
+                    omhoog alsof het een vers afgehakt hoofd is.</seg>
+                <seg>In de Rue Cassini, waar Alain woonde, staat Alains naam in de muur gebeiteld,
+                    daaronder '1965-2020' en 'Voorzitter van de vereniging der Franse
+                    pseudo-geologen.'</seg>
+                <seg>Er zit een man op een balkon op de eerste verdieping.</seg>
+                <seg>Ik groet hem en vraag of hij iets weet over mijn oom.</seg>
+                <seg>Hij stelt zich voor als Marcel en zegt dat iedereen mijn oom kende.</seg>
+                <seg>'We hebben veel aan hem te danken.</seg>
+                <seg>Lees zijn boeken maar eens.</seg>
+                <seg>Hij heeft de wereld helemaal door.</seg>
+                <seg>Alles is een woord.</seg>
+                <seg>Je staat nu bovenop een letter.</seg>
+                <seg>Die kasseien die je ziet, dat is pure fantasie, de muren hier een hallucinatie,
+                    allemaal symbolen.'</seg>
+                <lb/>
+                <seg>*** </seg><lb/>
+                <seg>Alain zat naast me aan een lange tafel op het terras op de verjaardag van een
+                    van mijn neefjes.</seg>
+                <seg>Een vijver vlakbij, enkele vette koivissen erin, een pompje deed het water
+                    kabbelen.</seg>
+                <seg>'Bedenk eens een woord,' zei hij, 'gewoon een woord, eender welk woord.</seg>
+                <seg>Je zal zien - zodra je het bedenkt, bestaat het.</seg>
+                <seg>Dan ligt het voor je voeten en kan je het eender waar laten verschijnen.</seg>
+                <seg>Onze hele wereld bestaat uit woorden en niks anders dan woorden.'</seg>
+                <seg>Alain was een zonderling, dat wist ik al, maar als kind weet je nog niet wat
+                    een beetje gek is en wat totaal gestoord is.</seg>
+                <seg>Ik bedacht een woord: vijverstoel.</seg>
+                <seg>Het woord verscheen vlakbij ons.</seg>
+                <seg>Het bestond.</seg>
+                <seg>Iedereen had het kunnen zien, als ze maar opzij hadden gekeken, als ze maar
+                    wilden.</seg>
+                <lb/>
+                <seg>*** </seg><lb/>
+                <seg>Ik bedank de man op het balkon<add seq="20200818180536" type="context" evidence="1048-1069">, Marcel dus, </add>en vraag me af wat ik nu moet doen.</seg>
+                <seg>De enige logische stap is verdachten ondervragen in de buurt.</seg>
+                <seg>Dat spreekt voor zich.</seg>
+                <seg>Het voelt alsof ik het al wist vooraleer ik erover nadacht.</seg>
+                <seg>Er druipt iets van het balkon waar de man op zit, een vloeistof die op de stoep
+                    spettert, een plasje vormt naar de kasseiweg.</seg>
+                <seg>'Ik ben aan het smelten,' lacht hij.</seg>
+                <seg>Hij heft een been omhoog om te tonen dat hij ze in een teiltje ijswater heeft
+                    zitten, en veegt met een doek over zijn voorhoofd.</seg>
+                <seg>Ik krijg het gevoel dat ik de man iets zou moeten vragen, maar tegelijk lijkt
+                    het de bedoeling dat ik het vergeet te vragen.</seg>
+                <seg>Verderop in de straat verkoopt iemand glimmende braadkippen, draaiend aan zo'n
+                    metalen staaf.</seg>
+                <seg>De zon brandt in mijn nek.</seg>
+                <seg>Zonnebrand vergeten.</seg>
+                <seg>De kip pruttelt, sist een beetje, lijkt me plots obsceen naakt op die spies -
+                    het sissen lijkt op fluisteren, alsof het me iets wil vertellen.</seg>
+                <seg>De verkoper kijkt me aan, vraagt of ik misschien liever in het Engels
+                    bestel.</seg>
+                <seg>'Nee, bedankt,' zeg ik haastig in het Frans, 'Het is me wat te warm.'</seg>
+                <seg>Ik loop verder zonder echt na te denken over waar ik nu heen moet - Alains
+                    instructies waren niet helemaal duidelijk.</seg>
+                <seg>Ik loop over een grote boulevard met bomen aan weerszijden en brede wandelpaden
+                    en kom zo aan een druk kruispunt.</seg>
+                <seg>Een auto maakt een geluid als een uitgehongerde beer, rauw en diep, en speelt
+                    luide muziek door een open raam; het is een helblauwe Subaru Impreza met een
+                    enorme spoiler die een eindje verderop voor het stoplicht staat.</seg>
+                <seg>De muziek is van Cher, geloof ik: 'If I could turn back time...</seg>
+                <seg>If I could find a way...</seg>
+                <seg>I'd take back those words that-' de auto trekt brullend op, draait met piepende
+                    banden <add seq="20200818180608" type="context" evidence="1070-1079">linksaf </add>over het kruispunt en verdwijnt.</seg>
+                <seg>Mijn ogen vallen op een plas water die achter me aan gelopen is, tegen de
+                    zwaartekracht in, <add seq="20200818180646" type="context" evidence="1086-1131">omhoog, over een boulevard</add><del seq="20200818180656" type="context" evidence="1132-1141">de boulevard op</del>.</seg>
+                <seg>Voor de rest zijn de straten uitgedroogd, stoffig.</seg>
+                <seg>Het is het ijswater van de man op het balkon, dat voel ik.</seg>
+                <seg>De plas <add seq="20200818180719" type="context" evidence="1157-1200"><metamark>Voelt wat statisch voor een plas</metamark></add>steekt me voorbij en leidt me naar het donkergroene kruis van een
+                    apotheek, Pharmacie de la Glacière.</seg>
+                <seg>Ik ga op de apotheek af, maar dan <add seq="20200818180742" type="context" evidence="1217-1319"><metamark>Ik wil mijn disbelief suspenden; maar wijzen kan toch echt alleen met een vinger of pijl</metamark></add>wijst de plas me niet naar de deur maar naar
+                    een riooldeksel ernaast.</seg>
+                <seg>Het water stroomt door het gat van het deksel.</seg>
+                <seg>Ik ga op het deksel af en hoor verschillende gedempte stemmen door elkaar
+                    praten.</seg>
+                <seg>Het lijkt een soort chaotische vergadering.</seg>
+                <seg>Ik ga liggen, verbrand mijn handen aan het deksel, en hou mijn oor aan het
+                    gat.</seg>
+                <seg><add seq="20200818180814" type="context" evidence="1323-1397"><metamark>Als het door het gat gevloeid is, kan het hem toch niet verkoelen?</metamark></add>Het ijswater verkoelt me.</seg>
+                <seg>Ze hebben het over het uurschema van de metro, en dan vooral de vraag of alle
+                    metro's nu echt op hetzelfde moment vertrekken, 's ochtends.</seg>
+                <seg>Ze gaan een experiment uitvoeren: iemand gaat aan elk station staan met een
+                    walkie-talkie, en oui zeggen wanneer de eerste metro vertrekt.</seg>
+                <lb/>
+                <seg>'We moeten nog informatie doorgeven aan onze afluisteraar,' zegt een van de
+                    stemmen.</seg>
+                <lb/>
+                <seg>'Juist.'</seg>
+                <seg>Geritsel van papier.</seg>
+                <seg>'Lees de graffiti of volg de plas; meer kunnen we je echt niet helpen.</seg>
+                <seg>Doe wat beter je best, anders komen we niet vooruit.'</seg>
+                <lb/>
+                <seg>'Goed.</seg>
+                <seg>Volgende agendapunt.'</seg>
+                <lb/>
+                <seg>Ik sta op en kijk rond of er ergens graffiti op de muur hangt.</seg>
+                <seg>Even denk ik erover om het deksel te openen en te vragen hoe ze wisten dat ik
+                    hen afluisterde, en hoe ze weten dat ik hier op een missie ben <add seq="20200818180910" type="context" evidence="1414-1464"><metamark>Misschien leuker om dit niet te benoemen?</metamark></add>als een soort
+                    detective.</seg>
+                <seg>Er verschijnt graffiti naast de apotheek, op de gevel van een cafeetje.</seg>
+                <seg>'Denk aan de muur,' staat er, in van die maar half leesbare kunstige
+                    graffitiletters.</seg>
+                <seg>Ik knipper met mijn ogen in het felle zonlicht, en nu staat er 'Zoek de
+                    muur.'</seg>
+                <seg>Nu begrijp ik het.</seg>
+                <seg>De woorden zijn wegen.</seg>
+                <seg>Ze proberen me ergens heen te leiden - maar ik heb nog steeds de keuze om niet
+                    verder te lezen, te blijven stilstaan, hier, mezelf op te houden als een
+                    hardloper die ter <add seq="20200818182737" type="context" evidence="1484-1511"><metamark>Vlaams-Nederlands</metamark></add>plaatste trappelt, een dobberende zwemmer, een vertraging aan
+                    te brengen door tegen mezelf te blijven praten.</seg>
+                <seg>Door te kijken naar de bloesems die verspreid liggen over de straten, afkomstig
+                    van enkele enorme acacia's langs de boulevard, te kijken naar een oude man en al
+                    even oude vrouw op het terras van het cafeetje, bloesems in hun zilveren haar,
+                    die giechelen om een man die in een hondendrol gestapt is met zijn witte
+                    sneakers, net op het moment wanneer ik kijk; hij schraapt foeterend met zijn
+                    zool langs de stoeprand.</seg>
+                <seg>Alleen zo kan ik het tegenhouden, deze ongewilde progressie.</seg>
+                <seg>Achteruitgaan lukt niet meer, of toch moeilijk.</seg>
+                <seg>Ik sta nog steeds stil.</seg>
+                <seg>Ik kan wegkijken van de woorden op de muur van het cafeetje, naar de gescheurde
+                    bleke gevel van het verzekeringskantoor aan de overkant van de straat, maar dan
+                    verschijnt de graffiti daar.</seg>
+                <seg>Niemand lijkt het te merken, de tekst die van de ene naar de andere kant
+                    geteleporteerd is.</seg>
+                <seg>Nee, de tekst verschijnt niet, ze was er altijd al; ik heb gewoon te goed
+                    gekeken, te helder.</seg>
+                <seg>Ik ga naar het verzekeringskantoor toe om de tekst beter te kunnen zien.</seg>
+                <seg>Een man op een elektrische step zoeft langs me heen, roept me iets na dat op
+                    con lijkt, wat ik op mijn beurt dan weer vind lijken op het kwaken van een
+                    eend.</seg>
+                <seg>Ik roep dat hij zijn vette luie muil moet houden.</seg>
+                <seg>Iemand van in het verzekeringskantoor kijkt naar buiten om te zien wat er
+                    gaande is, legt de handen tegen het glas als om te voelen of de ruit wel
+                    degelijk van smetteloos gepoetst glas is en niet gewoon een krachtveld dat de
+                    kantoormedewerkers binnen moet houden.</seg>
+                <seg>Het is een jongeman, zie ik, nauwelijks twintig.</seg>
+                <seg>Hij kijkt me aan.</seg>
+                <seg>Ik kom dichterbij.</seg>
+                <lb/>
+                <seg>De graffiti ben ik intussen al vergeten, al denk ik er wel aan want ik praat
+                    erover tegen mezelf, maar de het belang van de <add seq="20200818182800" type="context" evidence="1516-1563"><metamark>En de plas? Bestaat die niet uit woorden?</metamark></add>graffiti is me intussen
+                    ontgaan.</seg>
+                <seg>Het gaat ook niet om de tekst maar om de wegen die de tekst me toont.</seg>
+                <seg>Ja, zoiets.</seg>
+                <seg>De jongeman maakt een gebaar naar de deur en schudt zijn hoofd.</seg>
+                <seg>Ik knik, al heb ik geen idee wat hij bedoelt.</seg>
+                <seg>Hij lacht en steekt zijn duim op.</seg>
+                <seg>Zijn mond beweegt en ik hoor hem plots Nederlands praten met de stem van De
+                    Cock uit Baantjer, zo'n nineties-detective waarin er niets bestaat buiten
+                    Amsterdam.</seg>
+                <seg>Hij zegt: 'Ik kan niet uit dit kantoor.</seg>
+                <seg>Je moet de sleutel vinden om de deur te openen.</seg>
+                <seg>Ik zit er al dagen, want het kantoor is failliet en niemand komt nog
+                    kijken.'</seg>
+                <seg>Ik vraag hem of ik de deur niet gewoon kan intrappen.</seg>
+                <seg>'Nee,' zegt hij, 'je moet de sleutel hebben.</seg>
+                <seg>Anders kan je me fysiek wel uit het kantoor halen, maar niet mentaal.</seg>
+                <seg>Niet echt, snap je.'</seg>
+                <seg>Volgens De Cock vinden alle moorden plaats in een soort microkosmos.</seg>
+                <seg>Misschien alle verdwijningen ook wel.</seg>
+                <seg>Zodra iemand meegenomen is, belandt hij of zij in een soort andere dimensie,
+                    een wegmaakkamer, een bergplaats.</seg>
+                <seg>Het is dan de taak van de detective om die opbergplaats te vinden.</seg>
+                <seg>Eigenlijk ben je dan lekker interdimensioneel bezig.</seg>
+                <seg>Zijn de woorden me dan van de ene naar de andere dimensie aan het leiden?</seg>
+                <seg>Of laten ze me zien dat we niet op een plat papieren vlak leven, maar eigenlijk
+                    een platgedrukte verzameling symbolen zijn in een wereld die ook in de diepte
+                    groeit, die daar moerassen maakt, bossen laat groeien, wortels uitstrekt om
+                    doorheen een galactische leegte te woekeren - plekken die we nooit zullen
+                    zien.</seg>
+                <seg>Ik ken enkel de muren van deze stad, de zoektocht die maar niet lijkt te
+                    eindigen.</seg>
+                <seg>Eigenlijk verander je niet van dimensie, je ziet gewoon dat er altijd al meer
+                    dimensies waren, meer richtingen, meer mogelijkheden.</seg>
+                <seg>De jongeman is intussen van het raam verdwenen.</seg>
+                <seg>De stem van De Cock eveneens.</seg>
+                <seg>Ik zet mijn handen tegen het glas en kijk naar binnen in de donkere
+                    kantoorruimte.</seg>
+                <seg>Enorme MacBooks staren me aan.</seg>
+                <seg>Reusachtige vierkante ogen.</seg>
+                <seg>De tekst die naar me terugkijkt.</seg>
+                <seg>Ik ben al een tijd gestopt met ter <add seq="20200818182924" type="context" evidence="1600-1616"><metamark>Zie eerder</metamark></add>plaatste te trappelen, besef ik nu, en de
+                    tekst heeft me onverbiddelijk meegesleurd.</seg>
+                <seg>Dit is een waarschuwing: ik word door enorme ogen in de gaten gehouden.</seg>
+                <seg><add seq="20200818182938" type="context" evidence="1620-1641"><metamark>Hij ziet de lezers?</metamark></add>Ogen die, als ze dat zouden willen, al weten hoe dit eindigt, hoe álles
+                    eindigt; alsof ze gewoon door de bladzijden van de tijd kunnen bladeren en zo de
+                    toekomst en het verleden tegelijk kunnen zien.</seg>
+                <seg>Maar ze doen het niet.</seg>
+                <seg>Ofwel omdat ze het anders te makkelijk zouden vinden, ofwel omdat ze het
+                    spannend vinden om niet te weten hoe het met me afloopt.</seg>
+                <seg>Ik ben een gladiator, de toeschouwers zijn waarzeggers.</seg>
+                <lb/>
+                <seg>*** </seg><lb/>
+                <seg>'Trek een kaart.</seg>
+                <seg>Het maakt niet zo veel uit welke.</seg>
+                <seg>Je zal telkens de juiste trekken, de kaart waar het universum je heen
+                    drijft.'</seg>
+                <lb/>
+                <seg>Ik trok een kaart en draaide 'm om.</seg>
+                <seg><add seq="20200818182954" type="context" evidence="1671-1719"><metamark>Eerder omgekeerd? een kroon kan niet doorheen een zwaard? </metamark></add>Een zwaard met een brandende kroon doorheen.</seg>
+                <lb/>
+                <seg>'Deze kaart gaat over inzicht, intellect, het cerebrale.</seg>
+                <seg>Trek nog een kaart.'</seg>
+                <lb/>
+                <seg>Gewoonlijk geloofde ik niet in dat soort dingen, maar de man had vriendelijk
+                    aangedrongen, en dan krijg ik al snel het gevoel dat ik uitverkoren ben om <add seq="20200818183020" type="context" evidence="1739-1757"><metamark>Wie is hier 'hen'? </metamark></add>hen
+                    daarin te volgen.</seg>
+                <seg>De volgende kaart was eentje met verschillende drinkbekers erop.</seg>
+                <lb/>
+                <seg>'Je zal tot een besef komen in de toekomst, een besef dat je ergens heen zal
+                    leiden waar weinigen je zijn voorgegaan.</seg>
+                <seg>Trek nog een laatste kaart.'</seg>
+                <lb/>
+                <seg>Het was eentje met een muur, een bliksemschicht die insloeg op de muur, en
+                    botten die aan de andere kant van de muur opgestapeld lagen.</seg>
+                <seg>De waarzegger legde zijn hand over zijn mond.</seg>
+                <seg>De kralen aan zijn arm rinkelden.</seg>
+                <seg>Ik trok mijn wenkbrauwen vragend op.</seg>
+                <lb/>
+                <seg>'Als je niet voorzichtig bent en je grenzen niet kent, zal het besef je
+                    ondergang betekenen.'</seg>
+                <lb/>
+                <seg>Ik schoot in de lach.</seg>
+                <seg>Per ongeluk natuurlijk, en kinderachtig, maar soms is het gewoon zo.</seg>
+                <seg>Een uitverkoren lach.</seg>
+                <seg>Hij schudde zijn hoofd, misnoegd.</seg>
+                <seg>Toen ik mijn tranen weggeveegd had, zei ik: <add seq="20200818183052" type="context" evidence="1770-1944"><metamark>Wanneer speelt dit zich af? Je lijkt een soort parallel te trekken tussen het Barnum-effect en een plot, maar misschien hoort dit al eerder plaats te vinden? Waar kan hij niets aan doen?</metamark></add>'Tja, ik kan er toch niks meer aan
+                    doen nu.'</seg>
+                <lb/>
+                <seg>*** </seg><lb/>
+                <seg><add seq="20200818183143" type="context" evidence="2063-2100"><metamark>Hier verlies ik de connectie met de zoektocht wat. Verliest een beetje intensiteit hier. </metamark></add>Van het kantoor loop ik verder over de boulevard.</seg>
+                <seg>Honger.</seg>
+                <seg>Ik hup een boulangerie binnen en bestel een broodje tradigrain, wat me een
+                    beetje doet denken aan een tardigrade, zo'n minuscuul wezentje dat overal in het
+                    water zit, een waterbeer.</seg>
+                <seg>Terwijl ik afreken vliegt een wesp de bakkerij binnen, kruipt vervolgens onder
+                    een spleet tussen het glas dat de broodjes afschermt van al te veel spugende
+                    klanten, en begint met een pulserend onderlijf een van de broodjes te
+                    steken.</seg>
+                <seg>Buiten zit ik op een bankje.</seg>
+                <seg>Er zitten kleffe, taaie vijgen en zongedroogde tomaten op de tradigrain.</seg>
+                <seg>Een hoop oude mensen schuifelen dezelfde straat in met lege tassen, en een even
+                    grote stroom ouderen schuifelen weer die straat uit met preistronken en
+                    baguettes die uit hun tassen priemen.</seg>
+                <seg>De stad lokt me weer; fijn dat ze me even een middagpauze gunde.</seg>
+                <seg>Aan de rand van het plein staat in het groot MARKT op de grond gekalkt - gek
+                    dat het er niet in het Frans staat.</seg>
+                <seg>Op de markt lopen gefluoveste mensen rond met felgekleurde waterpistolen om
+                    mensen te besproeien.</seg>
+                <seg>Verkoeling.</seg>
+                <seg>Sommigen hebben van die super soakers waar je eerst mee moet pompen om druk te
+                    ontwikkelen.</seg>
+                <seg>Er staat ook een ambulance in de buurt om flauwgevallen bejaarden weer bij
+                    bewustzijn te helpen.</seg>
+                <seg>Een van de kramen bevat enkel eieren, in een paar verschillende groottes - XS,
+                    S, M, L en XL - maar in alle mogelijke kleuren.</seg>
+                <seg>Er staan bordjes bij de verschillende kleuren: purper-en-goudgestreept,
+                    nachtelijkevijverindigo, burenruziefuchsia, kerststronkrood,
+                    klokkenspelblauw.</seg>
+                <seg>De man ziet me gebiologeerd naar de bordjes staren.</seg>
+                <lb/>
+                <seg>'Mooi he?'</seg>
+                <seg>vraagt hij.</seg>
+                <seg>Hij lijkt Canadees Frans te spreken.</seg>
+                <seg>Ofwel is hij erg dronken.</seg>
+                <lb/>
+                <seg>'Ja, creatief is het wel.</seg>
+                <seg>Je hebt mooie namen bedacht.</seg>
+                <seg>Goeie marketing.'</seg>
+                <lb/>
+                <seg>'Het zijn ook allemaal eieren van verschillende dieren.</seg>
+                <seg>Unieke wezens.</seg>
+                <seg>Galapagoshagedissen.</seg>
+                <seg>En perfect eetbaar, volledig volgens de EU-richtlijnen.'</seg>
+                <lb/>
+                <seg>'Komen al die eieren van verschillende dieren?'</seg>
+                <seg>Hij knikt.</seg>
+                <seg>'Zijn het niet gewoon kippeneieren en ganzeneieren die je beschilderd
+                    hebt?</seg>
+                <seg>Deed ik vroeger ook met Pasen.'</seg>
+                <seg>Hij schudt woedend zijn hoofd.</seg>
+                <lb/>
+                <seg>'Ik zweer het, j't'jure m'sieur,' roept hij met zijn vinger voor mijn
+                    neus.</seg>
+                <seg>Ik vraag me af of dit ook een teken is, of een doodlopende straat waar ik per
+                    direct weer uit moet manoeuvreren.</seg>
+                <seg>Ik neem zijn wijzende hand vast, sluit mijn ogen, en beweeg in de richting die
+                    het meest juist aanvoelt.</seg>
+                <seg>De eierverkoper wijst naar links, verder over de markt.</seg>
+                <seg>Hij is opgehouden met zweren.</seg>
+                <seg>Even denk ik dat <add seq="20200818183221" type="context" evidence="2124-2134"><metamark>ook hij?</metamark></add>hij weer met de stem van De Cock gaat spreken, maar dat
+                    gebeurt niet.</seg>
+                <seg>Hier valt weinig informatie te rapen.</seg>
+                <lb/>
+                <seg>*** </seg><lb/>
+                <seg>Soms droom ik dat ik op een vliegtuig zit met allemaal bekende
+                    muzikanten.</seg>
+                <seg>De passagiers wisselen naarmate ik naar andere muziek luister, maar ze zijn
+                    altijd erg bekend.</seg>
+                <seg>En de piloot roept dan om dat hij geen idee heeft waar hij heen moet vliegen,
+                    want iedereen heeft een andere bestemming of zoiets, en als antwoord beginnen de
+                    muzikanten dan te spelen.</seg>
+                <seg>Vaak ook hun bekendste nummers.</seg>
+                <seg>Als het Bob Dylan is, spelen ze Hurricane; het enige van zijn nummers dat ik
+                    geen kattengejank vind.</seg>
+                <seg>Op het vliegtuig ben ik de enige die geen instrument speelt, en dat hebben ze
+                    meestal snel door, en dan stemmen ze om me van het vliegtuig te zetten, en dan
+                    gooien ze me uit het vliegtuig en zie ik de wolken, de sterren, de witte
+                    aardbodem met de zwarte tekens, woorden die je pas kan lezen wanneer je er ver
+                    boven zweeft maar die je zelfs niet kan bedenken wanneer je ertussen leeft,
+                    wanneer je de woorden bent, erin geboren wordt en erin sterft.</seg>
+                <seg>Je kan niet zien waar je in ondergedompeld bent.</seg>
+                <seg>Je eigen meningen, houdingen, bestemmingen.</seg>
+                <seg>En je nadert de grond, de woorden drijven weer uit elkaar, zo ver dat het geen
+                    letters maar gebouwen zijn, dat het geen klanken maar honden verdronken in
+                    zwembaden zijn, kinderen op schommels, ijstheekannen op tafel en de zomerlucht;
+                    en dan zie je het: de aarde is zo vlak als maar kan zijn, hoogstens licht
+                    gewelfd, een rib geplukt uit de romp van een ongelukkig man.</seg>
+                <lb/>
+                <seg>*** </seg><lb/>
+                <seg>Verderop op de markt staat een kraampje met vinylplaten.</seg>
+                <seg>Ik kijk even in de bakken en zie enkel platen van Bob Dylan, zelfs meerdere
+                    exemplaren van hetzelfde album, heruitgaves, liveversies, verzameledities - aan
+                    de kassa ligt zelfs een ondertekend exemplaar in een glazen beschermdoos.</seg>
+                <seg>Ik vraag aan de marktkramer: 'Bent u verzamelaar?'</seg>
+                <seg>Ze knikt en antwoordt: 'Ik heb de grootste collectie Bob Dylanplaten ter
+                    wereld.</seg>
+                <seg>Dit zijn enkel de exemplaren die ik niet meer moet hebben.</seg>
+                <seg>Thuis heb ik nog veel meer.'</seg>
+                <lb/>
+                <seg>'Zijn ze allemaal tweedehands?'</seg>
+                <lb/>
+                <seg>'Nee hoor, de meeste zijn wel vijfdehands geloof ik.</seg>
+                <seg>Ik luister er zelf ook niet meer naar.</seg>
+                <seg>Dat vermindert de waarde.'</seg>
+                <lb/>
+                <seg>'Vanwaar de fascinatie?'</seg>
+                <lb/>
+                <seg>'Ik weet niet.</seg>
+                <seg>Het is zo gegroeid.</seg>
+                <seg>Of nee, eigenlijk ben ik ermee geboren.</seg>
+                <seg>Mijn grootvader deed het al, en mijn vader, en dus ik ook.</seg>
+                <seg>Alsof we gewoon nooit anders gedaan hebben.'</seg>
+                <lb/>
+                <seg>'Kan je je nog veel herinneren van je vader?'</seg>
+                <lb/>
+                <seg>'Wat is dat nu voor een vraag?'</seg>
+                <seg>bromt ze.</seg>
+                <lb/>
+                <seg>'Gewoon, uit interesse.</seg>
+                <seg>Wat weet je over Alain Fournier?'</seg>
+                <lb/>
+                <seg>'Beschuldig je me ergens van?'</seg>
+                <lb/>
+                <seg>'Ik ben van een geheime dienst.'</seg>
+                <lb/>
+                <seg>'EEN geheime dienst?</seg>
+                <seg>Niet DE geheime dienst?'</seg>
+                <lb/>
+                <seg>'Je hoeft niet meer te weten dan dat.</seg>
+                <seg>Bob Dylan is trouwens zo overschat dat het zielig wordt.</seg>
+                <seg>Verdiende absoluut geen Nobelprijs.'</seg>
+                <lb/>
+                <seg>'Rot op.'</seg>
+                <seg>De vrouw duwt me uit haar Bob Dylan-paleis.</seg>
+                <seg>'Pisvodje dat je bent.'</seg>
+                <lb/>
+                <seg>Ik loop verder over de markt en wacht tot het universum me een nieuwe
+                    aanwijzing in de handen duwt.</seg>
+                <seg>De eierverkoper had mijn ontmoeting met de andere verkoper gezien.</seg>
+                <seg>Hij wandelt een eindje met me mee over de markt.</seg>
+                <seg>'Je bent jezelf niet echt populair aan het maken hier.</seg>
+                <seg>Een detective moet onopvallender te werk gaan.'</seg>
+                <lb/>
+                <seg>'Hoe weet je-' </seg><lb/>
+                <seg>'Dat zie je toch zo, man.</seg>
+                <seg>Wat kom je hier anders doen?</seg>
+                <seg>Je ziet er niet hip genoeg uit om een toerist te zijn, en je Frans is te
+                    hakkelig om een local te zijn.'</seg>
+                <seg>Ik wil iets zeggen over zijn haast komische accent.</seg>
+                <seg>'Wat onderzoek je?'</seg>
+                <lb/>
+                <seg>'De verdwijning van m'n oom.</seg>
+                <seg>Hij was een belangrijk man, een voormalig schaatskampioen die in de winter
+                    altijd oefende op de Seine, stiekem, in het donker.</seg>
+                <seg>Dat zou het makkelijker maken om aan te voelen welke groeven in het ijs je moet
+                    ontwijken.</seg>
+                <seg>In de zomer zat hij dan zonder hobby - werken deed hij niet - en dan ging hij
+                    vaak zwemmen in de Seine, gewoon ronddobberen eigenlijk, want hij kon beter
+                    drijven dan zwemmen, of soms wat ratten vangen en als dikke trossen
+                    binnenbrengen bij het département sanitaire voor een kleine vergoeding, en hij
+                    kerfde soms ook boodschappen in muren, liefst vlak onder het
+                    wateroppervlak.</seg>
+                <seg>Hij was ongelooflijk rijk geworden door puur toeval, en ik moet zijn
+                    verdwijning oplossen om de erfenis te krijgen.'</seg>
+                <seg>De eierverkoper knikt.</seg>
+                <seg>Ik vraag me af of ik dit al wist, kon aanvoelen, of dat de stad dit net aan me
+                    verteld heeft.</seg>
+                <lb/>
+                <seg>'Ah, maar je bent niet de enige die dat meegemaakt heeft.</seg>
+                <seg>Eigenlijk was er vorige week nog iemand die me exact hetzelfde vertelde.</seg>
+                <seg>Hij zei ook dat mijn eieren beschilderd waren, de klootzak.</seg>
+                <seg>Je bent dus niet echt een uitzondering, eerder de regel.</seg>
+                <seg>Grappig eigenlijk.</seg>
+                <seg>Nu, ik weet niet of het echt vorige week was, m'n tijdsbesef -' Hij zwijgt
+                    abrupt.</seg>
+                <seg>We zijn gestopt aan de rand van de markt, net op de gekalkte T van MARKT.</seg>
+                <seg>'Veel succes met je zoektocht.</seg>
+                <seg>Ik kan niet verder - ik moet op m'n eieren letten.'</seg>
+                <lb/>
+                <seg>*** </seg><lb/>
+                <seg>Hoe ben ik hier eigenlijk beland?</seg>
+                <seg>Ik kan me nauwelijks voorstellen dat ik ooit niet in Parijs was, dat er een
+                    wereld bestaat buiten de microkosmos van deze stad, zelfs van deze paar straten
+                    die me zo bekend voorkomen.</seg>
+                <seg>Wanneer heb ik de brief gehad?</seg>
+                <seg>Hoe ben ik hier geraakt?</seg>
+                <seg>Ik herinner me dat ik aan de brievenbus stond te wachten en iemand me de
+                    envelop in mijn handen duwde, en dat ik op de trein zat en iemand me vroeg of ik
+                    een wafeltje van de catering wilde delen, maar het voelt alsof ik me de
+                    herinnering herinner, maar niet de gebeurtenis.</seg>
+                <seg>Een soort beeld van het ding, niet het ding zelf.</seg>
+                <seg>Afgevlakt, diepteloos.</seg>
+                <seg>Een woordelijke beschrijving, geen zintuiglijke indruk.</seg>
+                <seg>Mijn oom lijkt ook zo ver weg, zo onbekend.</seg>
+                <seg>Heeft de stad zichzelf in me geprojecteerd, ervoor gezorgd dat ik me niets meer
+                    herinner van mijn leven vóór ik hier arriveerde?</seg>
+                <seg>Ik denk aan de jongeman die opgesloten zat in het kantoor, en ik vraag me af of
+                    ik niet exact hetzelfde aan de hand heb maar dan in een groter kantoor, een
+                    ruimere omgeving maar desalniettemin een onveranderlijke gevangenis.</seg>
+                <seg>Een plek die zichzelf herhaalt onder invloed van een toeschouwer.</seg>
+                <seg>Ik sta nog op de T van MARKT, en een kebabzaak staart me aan.</seg>
+                <seg>De deur een lege mond, de ramen en luifels ogen met vermiljoenen wimpers.</seg>
+                <seg>Natuurlijk.</seg>
+                <seg>Ik ga naar binnen en zie de het dönervlees rondjes draaien op de verwarmde
+                    spies.</seg>
+                <seg>Glimmend.</seg>
+                <seg>Het gebruinde, doorbakken vlees op de homp vormt een patroon, opnieuw een
+                    boodschap, die traag voorbijglijdt met het draaien van de dönerspies.</seg>
+                <seg>'Ga naar de muur,' staat er.</seg>
+                <seg>Bij de volgende rotatie vormt het vlees: 'Daar ligt de sleutel.'</seg>
+                <seg>Met leestekens en al.</seg>
+                <seg>De uitbater staat met zijn armen over elkaar terwijl ik het vlees lees.</seg>
+                <lb/>
+                <seg>'Excusez-moi,' vraag ik aan de uitbater, 'Waar kan ik de muur vinden?'</seg>
+                <lb/>
+                <seg>De man rolt met zijn ogen, mompelt iets dat lijkt op 'wéér eentje' en zegt:
+                    'Hier naar buiten, links, en dan de boulevard aflopen tot je niet verder kan.
+                    Maar je kan er niet veel gaan doen, hoor.'</seg>
+                <seg>Ik bedank hem en loop de boulevard af.</seg>
+                <seg>Het heeft geen zin om dit te vertragen door tegen mezelf te praten.</seg>
+                <seg>Het mag eindigen.</seg>
+                <seg>De bomen ruisen achter me aan, laten hun bladeren als kleine letters vallen en
+                    over de grond ruiselen, als om te zeggen dat ik me moet haasten, dat alles
+                    onthuld zal worden.</seg>
+                <seg>Ga nu maar.</seg>
+                <seg>De boulevard eindigt als doodlopende straat in drie witte muren.</seg>
+                <seg>Niet zo spectaculair als ik had gehoopt.</seg>
+                <seg>Misschien had ik verwacht dat ik er geld in had kunnen stoppen en er
+                    frituursnacks uitnemen.</seg>
+                <seg>Er is een touw van de ene zijmuur naar de andere gespannen en in het midden
+                    vastgeknoopt, om mensen weg te houden van de eigenlijke muur, de muur die telt,
+                    de muur waar ik van het vlees naar moest zoeken.</seg>
+                <seg>De muur is een beetje gewelfd, zie ik.</seg>
+                <seg>Afgebogen.</seg>
+                <seg>En plots, in een soort allesomvattende opwelling, probeert de stad me aan te
+                    spreken, dit alles duidelijk te maken; alleen zo kan je een koortsdroom
+                    beëindigen - klaarte die als een super soaker gevuld met rivierwater over je
+                    heen spuit, het losmaken van knopen die in je maag zijn blijven zitten.</seg>
+                <seg>De stad wil dat het mysterie me uit haar klauwen lost, dat voel je aan.</seg>
+                <seg>Ik wacht tot de woorden als gebouwen in mij oprijzen.</seg>
+                <seg>De verklaringen.</seg>
+                <seg>Het oplossen van de verdwijning.</seg>
+                <seg>Kom.</seg>
+                <seg>Daal neer.</seg>
+                <seg>Nu.</seg>
+                <seg>Er valt een schaduw over de muur, de schim van een ding dat niet bestaat, of
+                    iets dat buiten deze stad bestaat, een reusachtige hand, een oog, een
+                    leeslampje, een ochtend- of avondzon, zijdelings, bijna verblindend, het licht
+                    van een computer, een hand, meerdere handen, gepauwgroefde vingers die hun
+                    sporen achterlaten op deze wereld, vetvlekken, speeksel; en door die schaduw zie
+                    ik heel even dat de muur ook een soort hoogte heeft, dat het iets is waar je in
+                    theorie over zou kunnen klimmen als je groot genoeg was, maar dat het haast
+                    onvoorstelbaar lijkt dat je zoiets zou kunnen doen, want zo ver reiken de
+                    woorden niet; en waarom zou je dat ook willen, want dan beland je in lege witte
+                    ruimte, in het niets - de muur is een soort grens die me in deze kosmos
+                    verankert, een grens die me scheidt van de toeschouwers.</seg>
+                <seg>Ik ga dichterbij en probeer het touw nog los te maken door er met mijn vingers
+                    aan te pulken, maar het is geen touw, slechts het idee van een touw, een soort
+                    afdruk, een symbool dat dienstdoet voor wat in principe een touw had moeten zijn
+                    maar het niet echt is, en het principe van de chaos en de verwarring die uit het
+                    verstrengelde touw spreekt is net dat, het principe ervan, niet werkelijk de
+                    chaos of de verwarring, en het ontsnappen uit de stad en de ontknoping van de
+                    zoektocht is dus slechts het idee van een ontknoping.</seg>
+                <seg>Niet werkelijk de ontknoping.</seg>
+                <seg>De illusie <add seq="20200818183552" type="context" evidence="2152-2365"><metamark>Kun je dit punt niet beter maken als er een illusoire ontknoping is? Als er op het einde een ngelofelijk verband zordt gelegd tussen de marktkramer, de bankbediende en Marcel; die uiteraard de dader is.</metamark></add>ervan.</seg>
+            </p>
+            
+            <p><seg>Voetnoot:<lb/>
+                In deze sessie typt Meijen de opmerkingen van zijn redacteur over in Word comments. 'Alleen de kritische, niet de positieve.'
+                Kleinere (taal-) suggesties voert hij rechtstreeks door. Bij deze sessie worden de typefoutcorrecties niet weergegeven. 
+                In de volgende sessie verwerkt Meijen de opmerkingen in de tekst.
+               </seg>
+            </p>
+        </body>
+    </text>
+</TEI>

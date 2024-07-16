@@ -1,0 +1,49 @@
+
+
+body {
+    font-family: 'Roboto Slab', sans-serif;
+    background-image: url('../img/background.jpeg');
+  }
+
+nav {
+    background-color: #CFD8D7;
+}
+
+.nav-link {
+    color:#023C40;
+}
+
+a:link { 
+    text-decoration: none; 
+  } 
+
+  a:visited { 
+    text-decoration: none; 
+  } 
+
+  a:active { 
+    text-decoration: none; 
+  }
+
+  .writing_process {
+    height:200px; 
+    padding: 5px;
+    text-align: center;
+  }
+
+  .process_link {
+    display: block;
+        margin: 10px;
+        padding: 10px 20px;
+        font-size: 16px;
+        color: white;
+        background-color:#023C40;
+        border: none;
+        border-radius: 5px;
+        text-decoration: none;
+        text-align: center;
+  }
+
+  .process_link:hover {
+    opacity: 0.5;
+  }

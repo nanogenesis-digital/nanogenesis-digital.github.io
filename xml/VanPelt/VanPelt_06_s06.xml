@@ -1,0 +1,556 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dauphin</title>
+                <author>Ellen Van Pelt</author>
+                <respStmt>
+                    <name>Lamyk Bekius</name>
+                    <resp>encoding scheme, TEI customization, encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p corresp="section">Dauphin</p>
+                <p corresp="session">6</p>
+                <p corresp="version">6</p>
+                <p corresp="total_versions">19</p>
+                <p corresp="name">Ellen_VanPelt</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <l>Date: 08-12-2020</l>
+                    <l>Start time: 13:44:24</l>
+                    <l>Duration: 00:56:59</l>
+                </p>
+                <p><linkGrp><link prev="05_s05" n="06_s06" next="07_s07"/></linkGrp></p>
+                <p>
+                    <material corresp="01_s01">Sessie-versie 1</material>
+                    <material corresp="02_s02">Sessie-versie 2</material>
+                    <material corresp="03_s03">Sessie-versie 3</material>
+                    <material corresp="04_s04">Sessie-versie 4</material>
+                    <material corresp="05_s05">Sessie-versie 5</material>
+                    <material corresp="06_s06">Sessie-versie 6</material>
+                    <material corresp="07_s07">Sessie-versie 7</material>
+                    <material corresp="08_s08">Sessie-versie 8</material>
+                    <material corresp="09_s11">Sessie-versie 9</material>
+                    <material corresp="10_s12">Sessie-versie 10</material>
+                    <material corresp="11_s14">Sessie-versie 11</material>
+                    <material corresp="12_s15">Sessie-versie 12</material>
+                    <material corresp="13_s16">Sessie-versie 13</material>
+                    <material corresp="14_s17">Sessie-versie 14</material>
+                    <material corresp="15_s18">Sessie-versie 15</material>
+                    <material corresp="16_s19">Sessie-versie 16</material>
+                    <material corresp="17_s20">Sessie-versie 17</material>
+                    <material corresp="18_s21">Sessie-versie 18</material>
+                    <material corresp="19_s22">Sessie-versie 19</material>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><seg>Dolfinarium </seg><lb/><lb/>
+                <seg>?hoofdpersonage: man dood?</seg>
+                <lb/><lb/>
+                <seg>hotellobby Fiesta beach, wachten op bus, het eiland van de flamingo's, het is
+                    zelfs geen eiland, maar een schiereiland.</seg>
+                <lb/><lb/>
+                <seg>tour langs verschillende hotels</seg><lb/><lb/>
+                <seg>Op dit schip kun je een tochtje maken naar Flamingo eiland (Flamingo
+                    Island).</seg>
+                <seg>De bemanning van de schip is gekleed als echte piraten.</seg>
+                <seg>Tijdens de tocht naar Flamingo eiland kun je dolfijnen spotten.</seg>
+                <seg>Eenmaal aangekomen op het eiland kun je genieten van de pracht en praal die dit
+                    eiland je te bieden heeft.</seg>
+                <seg>Er is voor ieder wat wils: je kunt hier de flamingo's en natuur bekijken,
+                    heerlijk zonnen en luieren op het mooie strand of zwemmen en snorkelen.</seg>
+                <seg>Aan het eind van de middag vaar je terug naar Djerbaop zee</seg><lb/>
+                <seg>Schot voor de boeg </seg><lb/><lb/><lb/>
+                <seg>Aan weerszijden van het middenschip zijn houten zitbanken gemaakt.</seg>
+                <seg>Daar zitten we op elkaar gepakt, in de brandende zon.</seg>
+                <seg>Finn kleeft tegen me aan en gluurt vanonder zijn Pokémon-pet om hem heen.</seg>
+                <seg>Door de boxen klinkt muziek van Pirates of the Caribean, we zetten koers naar
+                    zee.</seg>
+                <seg>Acht piraten bengelen in het touwwerk, eentje klimt verder naar het
+                    kraaiennest.</seg>
+                <seg>Er wordt geapplaudiseerd, we lijken wel een bus schoolkinderen die op uitstap
+                    vertrekt.</seg>
+                <lb type="indent"/>
+                <seg>Ook de anderen schepen verlaten de kade.</seg>
+                <seg>we vormen een kolonne van piratenschepen, klaar om het Flamingo-eiland te
+                    veroveren.</seg>
+                <seg>Ons schip heet Elysa.</seg>
+                <seg>Het is niet de mooiste boot, maar heeft wel de mooiste naam.</seg>
+                <lb type="indent"/>
+                <seg>De zeebries brengt verfrissing.</seg>
+                <seg>Ik smeer Finn nog een keer met zonnecrème in.</seg>
+                <seg>Ondertussen wijst hij naar de mannen, die nu allerlei acrobatische kunstjes in
+                    de touwen halen.</seg>
+                <lb type="indent"/>
+                <seg>'Kijk, mama, kijk!' kraait hij.</seg>
+                <lb/><lb/>                    
+                <seg>Wanneer de muziek stopt, klauteren de piraten weer naar beneden.</seg>
+                <seg>Ze verspreiden zich over het bovendek.</seg>
+                <seg>In ruil voor enkele dinars mag je met hen op de foto.</seg>
+                <seg>De oudste van de bende, een kleine, pezige man, kiest ons als prooi.</seg>
+                <seg>Hij lacht breed, heeft amper nog tanden.</seg>
+                <lb type="indent"/>
+                <seg>'Une photo avec la belle maman et son beaux fils?'</seg>
+                <lb type="indent"/>
+                <seg>De fotograaf staat al paraat.</seg>
+                <seg>Finn kruipt achter mijn rug alsof ik een levend schild ben dat hem zal
+                    beschermen.</seg>
+                <lb type="indent"/>
+                <seg>'Il a peur?'</seg>
+                <lb type="indent"/>
+                <seg>Ik knik.</seg>
+                <seg>De piraat kijkt me aan.</seg>
+                <seg>Oude, wijze ogen.</seg>
+                <seg>In kleermakerszit gaat hij voor ons op de grond zitten en in belabberd Frans
+                    steekt hij van wal.</seg>
+                <seg>Hij vertelt hij over zijn nonkel die dit schip kocht en er een piratenboot van
+                    liet maken.</seg>
+                <seg>Zeven families leven nu van de inkomsten.</seg>
+                <seg>Merkte hij mijn scepticisme over dit toeristencircus?</seg>
+                <seg>Zijn toon is zacht, zijn stem heeft iets kalmerends.</seg>
+                <seg>Finn wriemelt achter mijn rug en wurmt zijn hoofdje onder mijn oksel.</seg>
+                <lb type="indent"/>
+                <seg>De fotograaf heeft ondertussen door dat er aan ons niets verdiend kan
+                    worden.</seg>
+                <seg>Hij probeert het wat verderop.</seg>
+                <lb type="indent"/>
+                <seg>De oude piraat buigt zich voorover naar Finn.</seg>
+                <seg>Hij zet zijn breedste lach op, dan houdt hij hem zijn piratenzwaard voor.</seg>
+                <seg>Met een vooruitgestoken wijsvinger raakt Finn het zwaard aan.</seg>
+                <lb type="indent"/>
+                <seg>'Het is echt, mama,' fluistert hij in mijn oor.</seg>
+                <lb/><lb/>
+                <seg>Onze piraat staat op, hij heeft werk voor de boeg.</seg>
+                <seg>De andere piraten lokken de toeristen van de zitbanken, verleiden hen tot
+                    frivole danspasjes op een pompend salsalied.</seg>
+                <lb type="indent"/>
+                <seg>Op de voorsteven, in de weinige schaduw die er op dit schip is, zit een
+                    man.</seg>
+                <seg>Met zijn zwarte trainingsbroek en donkergroene sweater valt hij op tussen al
+                    het blote blanke vlees.</seg>
+                <seg>Is hij een piraat die zijn kostuum vergat?</seg>
+                <lb type="indent"/>
+                <seg>Hij merkt me op.</seg>
+                <seg>Denk ik.</seg>
+                <seg>Al kan ik het door zijn zonnebril niet met zekerheid weten.</seg>
+                <seg>Ik wend mijn blik niet af, blijf hem aankijken.</seg>
+                <seg>Dan richt zijn blik op de zee.</seg>
+                <lb/><lb/>
+                <seg>Deze zomervakantie is de eerste.</seg>
+                <seg>De eerste die Finn en ik samen moeten doorspartelen.</seg>
+                <seg>De eerste dat ik moeder en vader tegelijk zal zijn, twee maanden lang.</seg>
+                <lb type="indent"/>
+                <seg>'Ken je geen andere alleenstaande moeders?'</seg>
+                <seg>had mijn vader gevraagd.</seg>
+                <seg>'In zijn klasje, daar zitten toch vast jongens met gescheiden moeders.</seg>
+                <seg>Daarmee kan je gezellig samen op vakantie.'</seg>
+                <lb type="indent"/>
+                <seg>De moeders van Finns klasgenootjes, ik ken ze niet.</seg>
+                <seg>Aan de schoolpoort staan ze op een kluitje te praten.</seg>
+                <seg>Ze glimlachen naar me, ik glimlach naar hen.</seg>
+                <seg>Misschien verandert dat wanneer Finn volgend schooljaar naar het eerste
+                    leerjaar gaat.</seg>
+                <lb type="indent"/>
+                <seg>Vader had me de voucher met het vliegticket en de hotelboeking per mail
+                    verstuurd.</seg>
+                <seg>Een verdiend cadeau, had hij erbij geschreven.</seg>
+                <seg>Hotel Fiesta.</seg>
+                <seg>Drie maal per dag buffet, kinderanimatie, zwembaden, glijbanen en een
+                    privéstrand aan zee.</seg>
+                <lb/><lb/>
+                <seg>We zijn hooguit een uurtje op zee, wanneer het schip vaart mindert.</seg>
+                <seg>De kolonne piratenboten meert aan bij een oude en vervallen steiger.</seg>
+                <seg>Elk schip heeft zijn eigen steiger, ik tel er zeven naast elkaar.</seg>
+                <lb type="indent"/>
+                <seg>De piraten helpen ons van boord, we staan bijeengepakt naast het schip.</seg>
+                <seg>We krijgen instructies: verderop aan de andere kant van dit eiland, ligt een
+                    prachtig strand.</seg>
+                <seg>Over twee uur worden we verwacht in een grote hut van palmbladeren vlakbij de
+                    steiger.</seg>
+                <seg>Daar krijgen we onze lunch.</seg>
+                <seg>Op het dak van de hut wappert een zwarte vlag met een wit piratenhoofd.</seg>
+                <seg>Dat is onze hut, de vlag ons oriëntatiepunt.</seg>
+                <lb type="indent"/>
+                <seg>Finn en ik dralen nog wat aan de aanlegsteiger.</seg>
+                <seg>De andere toeristen van ons schip, die al dapper aan de verkenningstocht van
+                    het eiland waren begonnen, zijn nog maar een tiental meters van de steiger
+                    verwijderd, wanner ze langs links en rechts belaagd worden door mannen op
+                    qats.</seg>
+                <seg>Ook komen er enkele kamelen aandraven.</seg>
+                <lb type="indent"/>
+                <seg>Met open mond wijst Finn naar de dieren, naar de mannen op de qats.</seg>
+                <seg>Ik neem hem bij de hand en wil met hem naar de kamelen wandelen, maar hij plant
+                    zijn voetjes stevig in het zand.</seg>
+                <lb type="indent"/>
+                <seg>Dan hoor ik de oude piraat achter me.</seg>
+                <seg>In zijn handen heeft hij een grote koelzak.</seg>
+                <lb type="indent"/>
+                <seg>'Lunch,' zegt hij.</seg>
+                <lb type="indent"/>
+                <seg>En dat er geen flamingo's zijn deze tijd van het jaar.</seg>
+                <seg>Finn is vlak voor de piraat gaan staan.</seg>
+                <seg>Hij strijkt weer met zijn vingertoppen over het zwaard dat aan zijn gordel
+                    bengelt.</seg>
+                <lb type="indent"/>
+                <seg>De piraat kroelt Finn even door zijn haar en zet dan koers naar de
+                    palmhut.</seg>
+                <lb type="indent"/>
+                <seg>De qats zijn ondertussen weer vertrokken, nu bestuurd door uitgelaten joelende
+                    toeristen.</seg>
+                <seg>Er zijn nog twee kamelen zonder ruiters, hun drijvers kijken om zich heen en
+                    gaan dan richting het volgende piratenschip dat net aangemeerd is.</seg>
+                <lb/><lb/>
+                <seg>De kust is veilig, Finn laat zich nu met me meevoeren richting het
+                    strand.</seg>
+                <seg>We ploeteren langzaam in het zand, de zon brandt.</seg>
+                <seg>Het lijkt alsof we een woestijn doorkruisen.</seg>
+                <seg>Een verdiend cadeau.</seg>
+                <lb type="indent"/>
+                <seg>'Is het nog ver?' vraagt Finn.</seg>
+                <lb type="indent"/>
+                <seg>In de verte zie ik het opstuivende zand van de qats, een kustlijn kan ik niet
+                    zien.</seg>
+                <lb type="indent"/>
+                <seg>'Ik ben moe,' zegt Finn.</seg>
+                <seg>Zijn handje glijdt uit de mijne, twee seconden later zit hij neer in het hete
+                    zand.</seg>
+                <lb type="indent"/>
+                <seg>'Het is te warm om in de zon te zitten, pruts.</seg>
+                <seg>We moeten verder stappen.'</seg>
+                <lb type="indent"/>
+                <seg>Hij schudt zijn hoofdje, frult aan de gespen van zijn sandalen.</seg>
+                <lb type="indent"/>
+                <seg>Te moe voor een tot mislukken gedoemde pedagogische interventie, zet ik me
+                    naast hem op het hete zand.</seg>
+                <seg>Ik haal de zonnecrème nog eens boven.</seg>
+                <seg>Die bescherming kan ik hem bieden.</seg>
+                <lb/><lb/>
+                <seg>Ik zie een schaduw naast me, de man met de zwarte trainingsbroek.</seg>
+                <seg>Zijn sweater heeft hij om zijn middel gebonden.</seg>
+                <lb type="indent"/>
+                <seg>'Mon fils est fatigué,' zeg ik.</seg>
+                <seg>Te laat realiseer ik me hoe hulpeloos dat klinkt.</seg>
+                <lb type="indent"/>
+                <seg>De man hurkt voor Finn, met zijn rug naar hem toe.</seg>
+                <seg>Finn heeft meteen door dat hem een lift wordt aangeboden en slaat zijn armen om
+                    de man.</seg>
+                <seg>Hij kent hem niet, ik ken deze man niet en mijn zoontje hangt op zijn
+                    rug.</seg>
+                <lb type="indent"/>
+                <seg>We ploeteren samen verder door het zand.</seg>
+                <seg>De man heet Mustafa.</seg>
+                <seg>Zijn stem klinkt hees.</seg>
+                <seg>Hij vertelt me dat het flamingo-eiland een scheireiland is, een smalle strook
+                    zand.</seg>
+                <seg>De kade ligt aan de ene lange zijde, het strand aan de andere kant.</seg>
+                <seg>We moeten ongeveer een kilometer stappen, zegt hij.</seg>
+                <seg>Ik ben te moe en te verdoofd door de warmte om vragen te stellen.</seg>
+                <seg>Dat we vastzitten aan het land en geen losgeslagen eiland zijn, lucht me
+                    op.</seg>
+                <lb type="indent"/>
+                <seg>Wanneer we het strand naderen, zie ik parasols van palmbladeren met
+                    strandstoelen eronder.</seg>
+                <seg>Een vergeten paradijs dat wacht op de dagelijkse aanvoer van
+                    piratenvlees.</seg>
+                <seg>Tussen de parasols scharrelen jongens die flesjes frisdrank verkopen.</seg>
+                <seg>De man zet Finn neer.</seg>
+                <lb type="indent"/>
+                <seg>'Merci,' zeg ik tegen Mustafa.</seg>
+                <lb type="indent"/>
+                <seg>Hij knikt en beent met grote passen van ons weg.</seg>
+                <lb/><lb/>
+                <seg>Ik koop een flesje water en kies een van de nog vrije parasols uit.</seg>
+                <seg>Finn rent het water in en springt op en neer in de kleine golven.</seg>
+                <seg>Dan valt zijn blik ergens op, hij hurkt neer in het water en graait met zijn
+                    handjes naar de bodem.</seg>
+                <lb type="indent"/>
+                <seg>'Kom, mama,' roept hij.</seg>
+                <lb type="indent"/>
+                <seg>Ik stap naar hem toe, het water voelt heerlijk fris aan mijn voeten.</seg>
+                <seg>Finn toont me zijn vangst: een platte schelp<del seq="20201208134713" type="context" evidence="217-220">, de</del><del seq="20201208134720" type="context" evidence="242-254"><add seq="20201208134714" type="context" evidence="221-226"> d<del seq="20201208134715" type="typo" evidence="227-230">ue y</del></add><add seq="20201208134716" type="context|continue" evidence="231-241">ie uitloopt</add></del><add seq="20201208134724" type="context|continue" evidence="255-260"> met d<del seq="20201208134726" type="typo" evidence="263-264"> r</del></add><add seq="20201208134727" type="context|continue" evidence="265-287">e vorm van een Sint-<del seq="20201208134732" type="typo" evidence="288-289">ja</del></add><add seq="20201208134733" type="context|continue" evidence="291-304">Jacobsschelp.</add></seg>
+                <seg><add seq="20201208134738" type="context" evidence="307-337">Alleen<del seq="20201208134744" type="context" evidence="338-362"> loopt deze uit in een pn</del></add><add seq="20201208134747" type="context|continue" evidence="363-385"> heeft deze een b<del seq="20201208134754" type="context" evidence="391-393">li<del seq="20201208134752" type="context" evidence="386-389">nken</del><add seq="20201208134754" type="context|continue" evidence="390">n</add></del></add><add seq="20201208134756" type="context|continue" evidence="394-403">innenkant </add>van parelmoer.</seg>
+                <lb type="indent"/>
+                <seg>'Hoe heet ze?' vraagt hij.</seg>
+                <lb type="indent"/>
+                <seg><del seq="20201208134804" type="context" evidence="410">'Het lijkt een Sint Jacobsschelp, maar ik ben niet zeker.'</del><add seq="20201208134808" type="context" evidence="417-426">'Pinctada</add><add seq="20201208135602" type="context" evidence="1056-1063"> radiata</add>.'</seg>
+                <add seq="20201208134816" type="layout" evidence="436"><lb type="indent"/></add>
+                <seg><add seq="20201208134816" type="nt" evidence="436-486">Finn laat het parelmoer flikkeren in het zonlicht.</add></seg>
+                <lb type="indent"/>
+                <seg><del seq="20201208134815" type="context" evidence="431-434">Het </del><add seq="20201208134826" type="context" evidence="489-492">Het </add>zeewater is glashelder.</seg>
+                <seg><add seq="20201208134833" type="nt" evidence="504-526">Naast hem zoek ik mee<del seq="20201208134839" type="pre-context" evidence="527-528"> n</del></add><del seq="20201208140048" type="context" evidence="1353-1356"><add seq="20201208134840" type="nt|continue" evidence="541-552">, <del seq="20201208134844" type="pre-context" evidence="542-552">we delven v</del></add><add seq="20201208134848" type="nt|continue" evidence="553-571">deze kustlijn l<del seq="20201208134852" type="pre-context" evidence="572-575">icht</del></add><add seq="20201208134853" type="nt|continue" evidence="576-577">i<del seq="20201208134854" type="pre-context" evidence="578">t</del></add><add seq="20201208134854" type="nt|continue" evidence="579-596">gt vol prachitge <del seq="20201208134858" type="pre-context" evidence="597">z</del></add><add seq="20201208134858" type="nt|continue" evidence="598-609">exemplaren.</add></del><add seq="20201208140050" type="context" evidence="1361">.</add></seg>
+                <seg><add seq="20201208140051" type="nt" evidence="1364-1403">We vinden <add seq="20201208141208" type="pre-context" evidence="1813-1824">kaurische<del seq="20201208141212" type="typo" evidence="1825-1827">ple</del></add><add seq="20201208141212" type="pre-context|continue" evidence="1828-1850">lpen met <del seq="20201208141219" type="pre-context" evidence="1851-1864">een lichtbuite</del></add><add seq="20201208141221" type="pre-context|continue" evidence="1865-1879">goude stipjes, </add><del seq="20201208140102" type="context" evidence="1407-1410">massa's </del>gevlochten fuikhoorn, </add><del seq="20201208142118" type="pre-context" evidence="2005-2007"><mod seq="20201208142118" type="continue" evidence="2002-2004">ste</mod></del><mod seq="20201208142119" type="continue|continue" evidence="2008-2022">een grote<del seq="20201208142122" type="pre-context" evidence="2024-2030"> witte </del></mod><mod seq="20201208142124" type="continue|continue" evidence="2032-2048"> spierwitte stek<del seq="20201208142128" type="typo" evidence="2049-2059">lh</del></mod><mod seq="20201208142128" type="continue|continue" evidence="2051-2059">elhoorn, </mod></seg>
+                <lb/><lb/>
+                <seg>???</seg>
+                <lb/>
+                <seg>Rondom ons beginnen de meeste toeristen aan de terugweg naar de hut.</seg>
+                <seg>De mannen met de qats zijn miraculeus verdwenen, deze tocht moet iedereen te
+                    voet aanvatten.</seg>
+                <lb type="indent"/>
+                <seg>Ik geef Finn een plastic tasje voor zijn schelpenschat.</seg>
+                <seg>Hij bekijkt elke schelp voor hij ze in het zakje stopt.</seg>
+                <seg>Enkel de schelp met het parelmoer vanbinnen mag er niet in, die houdt hij in
+                    zijn handje.</seg>
+                <lb type="indent"/>
+                <seg>'Kom, we gaan.'</seg>
+                <lb/><lb/><lb/><lb/>
+                <seg>Finn kijkt om zich heen en zwaait dan.</seg>
+                <seg>Daar is zijn drager weer.</seg>
+                <seg>Mustafa komt onze richting uit.</seg>
+                <lb type="indent"/>
+                <seg>Deze keer probeer ik een gesprek met hem op gang te brengen, maar mijn vragen
+                    blijven onbeantwoord.</seg>
+                <seg>Hij doet alsof hij me niet hoort.</seg>
+                <seg>Of misschien begrijpt hij mijn Frans niet.</seg>
+                <lb/><lb/>
+                <seg>We komen als laatste in de hut aan die vanbinnen verrassend groot is.</seg>
+                <seg>Het doet me goed om uit de zon te zijn, alsof ik eindelijk naar adem kan happen
+                    na een lange tijd onder water.</seg>
+                <lb type="indent"/>
+                <seg>Finn en ik zetten ons aan de enige nog vrije houten tafel met banken.</seg>
+                <seg>De tafels zijn opgesteld in een cirkel, in het midden staan de piraten.</seg>
+                <seg>Ze zingen en kloppen met lepels op pannen.</seg>
+                <seg>Dan worden we tafel per tafel naar hen toe geroepen.</seg>
+                <seg>We krijgen een bord, waarop ze vis scheppen en couscous met groenten.</seg>
+                <seg>Het ruikt heerlijk.</seg>
+                <lb type="indent"/>
+                <seg>'Ik lust dat niet,' piept Finn wanneer we met ons bord in de rij staan.</seg>
+                <lb type="indent"/>
+                <seg>'Er is ook brood,' zeg ik.</seg>
+                <lb type="indent"/>
+                <seg>Finn laat zijn bord volscheppen en houdt het ver voor zich uit als we terug
+                    naar onze tafel stappen.</seg>
+                <seg>Hij zet zijn bord voor me neer, zodat ik met twee borden voor me zit.</seg>
+            </p>
+            <p>
+                <add seq="20201208134441" type="focus" evidence="34-54">Focus events<lb/>
+                    <media url="Google" mimeType="internet"><desc>schelp - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208134452" type="focus" evidence="57-77"><media url="Google" mimeType="internet"><desc>schelp plat parelmoer - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208134526" type="focus" evidence="104-118"><media url="Google" mimeType="internet"><desc>pinctadda - Norton Safe Search</desc></media></add>
+                <lb/>
+                <add seq="20201208134535" type="focus" evidence="122-138"><media url="Google" mimeType="internet"><desc>pinctada schelp - Norton Safe Search</desc></media></add>
+                <lb/>
+                <add seq="20201208134549" type="focus" evidence="141-149"><media url="Google" mimeType="internet"><desc>google - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208134604" type="focus" evidence="174"><media url="Google" mimeType="internet"><desc>pinctada - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208134621" type="focus" evidence="179"><media url="Wikipedia" mimeType="internet"><desc>Pinctada - Wikipedia</desc></media></add>
+                <lb/>
+                <add seq="20201208134903" type="focus" evidence="614"><media url="Google" mimeType="internet"><desc>pinctada - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208134908" type="focus" evidence="621"><media url="Google" mimeType="internet"><desc>schelpen terminologie - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208134921" type="focus" evidence="647"><media url="Wikipedia" mimeType="internet"><desc>Schelpterminologie (mollusken) - Wikipedia</desc></media></add>
+                <lb/>
+                <add seq="20201208135011" type="focus" evidence="693"><media url="Wikipedia" mimeType="internet"><desc>Lijst van Mollusca (wetenschappelijke soortnamen) - Wikipedia</desc></media></add>
+                <lb/>
+                <add seq="20201208135039" type="focus" evidence="708-737"><media url="Google" mimeType="internet"><desc>schelpen determineren - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208135050" type="focus" evidence="741"><media url="Google" mimeType="internet"><desc>Natuurinformatie - Determineer een eigen strandvondst</desc></media></add>
+                <lb/>
+                <add seq="20201208135056" type="focus" evidence="744"><media url="Google" mimeType="internet"><desc>schelpen determineren - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208135116" type="focus" evidence="758"><media url="Google" mimeType="internet"><desc>De 60+ beste afbeeldingen van Determineren in 2020 | natuur, biologie, dieren</desc></media></add>
+                <lb/>
+                <add seq="20201208135142" type="focus" evidence="806-808"><media url="Google" mimeType="internet"><desc>Pinterest - Nederland (ttps://nl.pinterest.com/janniemulder/determineren/)</desc></media></add>
+                <lb/>
+                <add seq="20201208135149" type="focus" evidence="811"><media url="Google" mimeType="internet"><desc>schelpen determineren - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208135213" type="focus" evidence="832"><media url="Google" mimeType="internet"><desc>(1) Pinterest</desc></media></add>
+                <lb/>
+                <add seq="20201208135217" type="focus" evidence="838"><media url="Google" mimeType="internet"><desc>Inhoudelijke activiteit - Onze zeeklas</desc></media></add>
+                <lb/>
+                <add seq="20201208135248" type="focus" evidence="875"><media url="Google" mimeType="internet"><desc>lvb_schelpen_determineren  -  Beveiligde weergave - Word</desc></media></add>
+                <lb/>
+                <add seq="20201208135309" type="focus" evidence="905"><media url="Google" mimeType="internet"><desc>schelpenachterzijde.jpg (2338×1653)</desc></media></add>
+                <lb/>
+                <add seq="20201208135328" type="focus" evidence="909"><media url="Google" mimeType="internet"><desc>schelpen determineren - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208135330" type="focus" evidence="912"><media url="Google" mimeType="internet"><desc>schelp plat parelmoer - Google Zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208135332" type="focus" evidence="917-946"><media url="Google" mimeType="internet"><desc>bonte mantel parelmoer - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208135359" type="focus" evidence="959"><media url="Google" mimeType="internet"><desc>pinctada djerba - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208135410" type="focus" evidence="965"><media url="Google" mimeType="internet"><desc>Distribution map of sampling sites for the pearl oyster Pinctada... | Download Scientific Diagram</desc></media></add>
+                <lb/>
+                <add seq="20201208135437" type="focus" evidence="977"><media url="Google" mimeType="internet"><desc>ResearchGate</desc></media></add>
+                <lb/>
+                <add seq="20201208135501" type="focus" evidence="991"><media url="Google" mimeType="internet"><desc>Bellaaj-Zouarietal.JMBA.pdf - Adobe Acrobat Reader DC</desc></media></add>
+                <lb/>
+                <add seq="20201208135527" type="focus" evidence="1002"><media url="Google" mimeType="internet"><desc>schelpenachterzijde.jpg (2338×1653)</desc></media></add>
+                <lb/>
+                <add seq="20201208135529" type="focus" evidence="1004"><media url="Google" mimeType="internet"><desc>bonte mantel parelmoer - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208135531" type="focus" evidence="1008-1027"><media url="Google" mimeType="internet"><desc>pinctada radiata - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208135645" type="focus" evidence="1108-1141"><media url="Google" mimeType="internet"><desc>welke schelpen vind je in djerba - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208135734" type="focus" evidence="1171"><media url="Google" mimeType="internet"><desc>www.strandvondsten.nl/bibliotheek/vita_marina_zeebiologische_documentatie/
+                    zeebiologische_documentatie/collectietechniek_47-48.pdf</desc></media></add>
+                <lb/>
+                <add seq="20201208135735" type="focus" evidence="1173"><media url="Google" mimeType="internet"><desc>collectietechniek_47-48.pdf</desc></media></add>
+                
+                <lb/>
+                <add seq="20201208135750" type="focus" evidence="1190-1121"><media url="Google" mimeType="internet"><desc>welke schelpen vind je in djerba - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208135855" type="focus" evidence="1246-1254"><media url="Google" mimeType="internet"><desc>welke schelpen vind je in tunesie - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208135955" type="focus" evidence="1283-1295"><media url="Google" mimeType="internet"><desc>fuikhoorn - Google Zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208140028" type="focus" evidence="1340"><media url="Google" mimeType="internet"><desc>Gevlochten fuikhoren - Wikipedia</desc></media></add>
+                <lb/>
+                <add seq="20201208140127" type="focus" evidence="1425-1446"><media url="Google" mimeType="internet"><desc>app schelp herkennen - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208140135" type="focus" evidence="1499"><media url="Google" mimeType="internet"><desc>Determineer je strandvondsten | Iedereen Wetenschapper</desc></media></add>
+                <lb/>
+                <add seq="20201208140353" type="focus" evidence="1453"><media url="Google" mimeType="internet"><desc>schelpenachterzijde.jpg (2338×1653)</desc></media></add>
+                <lb/>
+                <add seq="20201208140356" type="focus" evidence="1456"><media url="Google" mimeType="internet"><desc>fuikhoorn - Google Zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208140406" type="focus" evidence="1473"><media url="Google" mimeType="internet"><desc>Gevlochten fuikhoren - Wikipedia</desc></media></add>
+                <lb/>
+                <add seq="20201208140408" type="focus" evidence="1484"><media url="Google" mimeType="internet"><desc>pinctada radiata - Google Zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208140414" type="focus" evidence="1513-1532"><media url="Google" mimeType="internet"><desc>schelpen overzicht - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208140514" type="focus" evidence="1580"><media url="Google" mimeType="internet"><desc>Determineer je strandvondsten | Iedereen Wetenschapper</desc></media></add>
+                <lb/>
+                <add seq="20201208140516" type="focus" evidence="1584-1601"><media url="Google" mimeType="internet"><desc>cypra tigris - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208140723" type="focus" evidence="1645"><media url="Google" mimeType="internet"><desc>cypraea - Google Zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208140856" type="focus" evidence="1671"><media url="Google" mimeType="internet"><desc>Cowry,Cypraea Pantherina,Seashell | #32692848 </desc></media></add>
+                <lb/>
+                <add seq="20201208140917" type="focus" evidence="1682-1696"><media url="Google" mimeType="internet"><desc>cypraea pantherina - Google Zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208140932" type="focus" evidence="1705"><media url="Google" mimeType="internet"><desc>schelpen overzicht - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208140945" type="focus" evidence="1724"><media url="Google" mimeType="internet"><desc>Cypraea pantherina - Wikipedia</desc></media></add>
+                <lb/>
+                <add seq="20201208140953" type="focus" evidence="1728"><media url="Google" mimeType="internet"><desc>Cypraeidae - Wikipedia</desc></media></add>
+                <lb/>
+                <add seq="20201208141038" type="focus" evidence="1735-1760"><media url="Google" mimeType="internet"><desc>kauri schelp licht bruin - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208141102" type="focus" evidence="1774"><media url="Google" mimeType="internet"><desc>De kaurieschelp, een wereldmunt | Historiek</desc></media></add>
+                <lb/>
+                <add seq="20201208141236" type="focus" evidence="1887-1899"><media url="Google" mimeType="internet"><desc>app schelp herkennen - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208141254" type="focus" evidence="1909"><media url="Google" mimeType="internet"><desc>iNaturalist - Apps op Google Play</desc></media></add>
+                <lb/>
+                <add seq="20201208142012" type="focus" evidence="1915-1935"><media url="Google" mimeType="internet"><desc>stekelhoorn tunesie - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208142043" type="focus" evidence="1977-1986"><media url="Google" mimeType="internet"><desc>stekelhoorn schelp - Google Zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208142204" type="focus" evidence="2068-2077"><media url="Google" mimeType="internet"><desc>ocenebra - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208142245" type="focus" evidence="2095"><media url="Google" mimeType="internet"><desc>Ocenebra erinaceus - Google Chrome</desc></media></add>
+                <lb/>
+                <add seq="20201208142301" type="focus" evidence="2106-2143"><media url="Google" mimeType="internet"><desc>orcenebra erinaceus - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208142318" type="focus" evidence="2146"><media url="Google" mimeType="internet"><desc>Stekelhoren - Wikipedia</desc></media></add>
+                <lb/>
+                <add seq="20201208142537" type="focus" evidence="2153-2166"><media url="Google" mimeType="internet"><desc>mantelschelp - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208142543" type="focus" evidence="2168"><media url="Google" mimeType="internet"><desc>schelpen overzicht - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208142549" type="focus" evidence="2176"><media url="Google" mimeType="internet"><desc>bijzondere schelpen - Google Zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208142654" type="focus" evidence="2204"><media url="Google" mimeType="internet"><desc>Sandex: Souvenir-&amp; verzamelschelpen</desc></media></add>
+                <lb/>
+                <add seq="20201208142723" type="focus" evidence="2221"><media url="Google" mimeType="internet"><desc>wulk - Google Zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208142732" type="focus" evidence="2225-2275"><media url="Google" mimeType="internet"><desc>Revisits some of the pages above</desc></media></add>
+                <lb/>
+                <add seq="20201208142823" type="focus" evidence="2278"><media url="Google" mimeType="internet"><desc>Ocenebra erinaceus - Google Chrome</desc></media></add>
+                <lb/>
+                <add seq="20201208142827" type="focus" evidence="2282"><media url="Google" mimeType="internet"><desc>Soortenlijsten - Google Chrome</desc></media></add>
+                <lb/>
+                <add seq="20201208142840" type="focus" evidence="2289"><media url="Google" mimeType="internet"><desc>Soortenlijst - Google Chrome</desc></media></add>
+                <lb/>
+                <add seq="20201208142854" type="focus" evidence="2296"><media url="Google" mimeType="internet"><desc>Turritella communis</desc></media></add>
+                <lb/>
+                <add seq="20201208142859" type="focus" evidence="2302"><media url="Google" mimeType="internet"><desc>Skeneopsis planorbis</desc></media></add>
+                <lb/>
+                <add seq="20201208142904" type="focus" evidence="2310"><media url="Google" mimeType="internet"><desc>Philine catena</desc></media></add>
+                <lb/>
+                <add seq="20201208142910" type="focus" evidence="2318"><media url="Google" mimeType="internet"><desc>Odostomia semicostata</desc></media></add>
+                <lb/>
+                <add seq="20201208142915" type="focus" evidence="2326"><media url="Google" mimeType="internet"><desc>Lamellaria perspicua</desc></media></add>
+                <lb/>
+                <add seq="20201208142920" type="focus" evidence="2332"><media url="Google" mimeType="internet"><desc>Littorina littorea</desc></media></add>
+                <lb/>
+                <add seq="20201208142924" type="focus" evidence="2338"><media url="Google" mimeType="internet"><desc>Marshallora adversa</desc></media></add>
+                <lb/>
+                <add seq="20201208142930" type="focus" evidence="2346"><media url="Google" mimeType="internet"><desc>Gibbula cineraria</desc></media></add>
+                <lb/>
+                <add seq="20201208142936" type="focus" evidence="2355"><media url="Google" mimeType="internet"><desc>Diodora graeca</desc></media></add>
+                <lb/>
+                <add seq="20201208142939" type="focus" evidence="2360"><media url="Google" mimeType="internet"><desc>Cylichna cilinracae</desc></media></add>
+                <lb/>
+                <add seq="20201208142947" type="focus" evidence="2367"><media url="Google" mimeType="internet"><desc>Circulus striatus</desc></media></add>
+                <lb/>
+                <add seq="20201208142953" type="focus" evidence="2375"><media url="Google" mimeType="internet"><desc>Calliostoma zizyphinum</desc></media></add>
+                <lb/>
+                <add seq="20201208142957" type="focus" evidence="2381"><media url="Google" mimeType="internet"><desc>Chrysallida excavata</desc></media></add>
+                <lb/>
+                <add seq="20201208143001" type="focus" evidence="2389"><media url="Google" mimeType="internet"><desc>Odostomia scalaris</desc></media></add>
+                <lb/>
+                <add seq="20201208143007" type="focus" evidence="2397"><media url="Google" mimeType="internet"><desc>Alvania punctura</desc></media></add>
+                <lb/>
+                <add seq="20201208143011" type="focus" evidence="2406"><media url="Google" mimeType="internet"><desc>Acteon tornatilis</desc></media></add>
+                <lb/>
+                <add seq="20201208143020" type="focus" evidence="2414-2428"><media url="Google" mimeType="internet"><desc>acteon schelp - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208143130" type="focus" evidence="2474"><media url="Google" mimeType="internet"><desc>Acteon - Wikipedia</desc></media></add>
+                <lb/>
+                <add seq="20201208143149" type="focus" evidence="2480"><media url="Google" mimeType="internet"><desc>Spoelhoren - Wikipedia</desc></media></add>
+                <lb/>
+                <add seq="20201208143158" type="focus" evidence="2484"><media url="Google" mimeType="internet"><desc>Acteonidae - Wikipedia</desc></media></add>
+                <lb/>
+                <add seq="20201208143208" type="focus" evidence="2500"><media url="Google" mimeType="internet"><desc>mantelschelp - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208143213" type="focus" evidence="2511"><media url="Google" mimeType="internet"><desc>Acteonidae - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208143244" type="focus" evidence="2529-2577"><media url="Google" mimeType="internet"><desc>zeeslak grote lange opening - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208143314" type="focus" evidence="2608-2618"><media url="Google" mimeType="internet"><desc>schelp grote lange opening - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208143330" type="focus" evidence="2631"><media url="Google" mimeType="internet"><desc>Acteonidae - Wikipedia</desc></media></add>
+                <lb/>
+                <add seq="20201208143331" type="focus" evidence="2635-2655"><media url="Google" mimeType="internet"><desc>overzicht schelpen - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208143443" type="focus" evidence="2656"><media url="Google" mimeType="internet"><desc>Pinterest - https://nl.pinterest.com/pin/579557045770624599/</desc></media></add>
+                <lb/>
+                <add seq="20201208143457" type="focus" evidence="2732-2755"><media url="Google" mimeType="internet"><desc>zoekkaarten schelpen - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208143616" type="focus" evidence="2805"><media url="Google" mimeType="internet"><desc>Set Van Illustraties, Badges, Stickers, Schelpen Van Verschillende Soorten In Realistische Stijl Geïsoleerd Op Wit Royalty-Vrije Foto, Plaatjes, Beelden En Stock Fotografie. Image 81513135</desc></media></add>
+                <lb/>
+                <add seq="20201208143643" type="focus" evidence="2836"><media url="Google" mimeType="internet"><desc>Bellaaj-Zouarietal.JMBA.pdf</desc></media></add>
+                <lb/>
+                <add seq="20201208143734" type="focus" evidence="2910"><media url="Google" mimeType="internet"><desc>Stockfoto, Rechtenvrije Foto's en Stockbeelden - 123RF</desc></media></add>
+                <lb/>
+                <add seq="20201208143737" type="focus" evidence="2913"><media url="Google" mimeType="internet"><desc>bijzondere schelpen - Google Zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208143756" type="focus" evidence="2944-2951"><media url="Google" mimeType="internet"><desc>Opslaan als afbeelding: schelp</desc></media></add>
+                <lb/>
+                <add seq="20201208143834" type="focus" evidence="2987"><media url="Google" mimeType="internet"><desc>sea snail - Google Zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208143923" type="focus" evidence="3033"><media url="Google" mimeType="internet"><desc>zoekkaarten schelpen - Google Zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208143926" type="focus" evidence="3044-3064"><media url="Google" mimeType="internet"><desc>acer palmatum - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208143934" type="focus" evidence="3066"><media url="Google" mimeType="internet"><desc>zoekkaarten schelpen - Google Zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201208144053" type="focus" evidence="3136"><media url="Google" mimeType="internet"><desc>Poster Schelpen de hand getekend te stellen. Schetsontwerp elementen • Pixers® - We leven om te veranderen</desc></media></add>
+                <lb/>
+            </p>
+        </body>
+    </text>
+</TEI>

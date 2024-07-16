@@ -1,0 +1,722 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>En daarom haten ze zichzelf</title>
+                <author>Jente Posthuma</author>
+                <respStmt>
+                    <name>Lamyk Bekius</name>
+                    <resp>encoding scheme, TEI customization, encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p corresp="section">En daarom haten ze zichzelf</p>
+                <p corresp="session">32</p>
+                <p corresp="version">33</p>
+                <p corresp="total_versions">38</p>
+                <p corresp="name">Jente_Posthuma</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <l>Date: 15-10-2020</l>
+                    <l>Start time: 16:31:32</l>
+                    <l>Duration: 00:34:15</l>
+                </p>
+                <p><linkGrp>
+                    <link prev="32_s31" n="33_s32" next="34_s33"/>
+                </linkGrp></p>
+                <p>
+                    <material corresp="01_s00">Sessie-versie 1</material>
+                    <material corresp="02_s01">Sessie-versie 2</material>
+                    <material corresp="03_s02">Sessie-versie 3</material>
+                    <material corresp="04_s03">Sessie-versie 4</material>
+                    <material corresp="05_s04">Sessie-versie 5</material>
+                    <material corresp="06_s05">Sessie-versie 6</material>
+                    <material corresp="07_s06">Sessie-versie 7</material>
+                    <material corresp="08_s07">Sessie-versie 8</material>
+                    <material corresp="09_s08">Sessie-versie 9</material>
+                    <material corresp="10_s09">Sessie-versie 10</material>
+                    <material corresp="11_s10">Sessie-versie 11</material>
+                    <material corresp="12_s11">Sessie-versie 12</material>
+                    <material corresp="13_s12">Sessie-versie 13</material>
+                    <material corresp="14_s13">Sessie-versie 14</material>
+                    <material corresp="15_s14">Sessie-versie 15</material>
+                    <material corresp="16_s15">Sessie-versie 16</material>
+                    <material corresp="17_s16">Sessie-versie 17</material>
+                    <material corresp="18_s17">Sessie-versie 18</material>
+                    <material corresp="19_s18">Sessie-versie 19</material>
+                    <material corresp="20_s19">Sessie-versie 20</material>
+                    <material corresp="21_s20">Sessie-versie 21</material>
+                    <material corresp="22_s21">Sessie-versie 22</material>
+                    <material corresp="23_s22">Sessie-versie 23</material>
+                    <material corresp="24_s23">Sessie-versie 24</material>
+                    <material corresp="25_s24">Sessie-versie 25</material>
+                    <material corresp="26_s25">Sessie-versie 26</material>
+                    <material corresp="27_s26">Sessie-versie 27</material>
+                    <material corresp="28_s27">Sessie-versie 28</material>
+                    <material corresp="29_s28">Sessie-versie 29</material>
+                    <material corresp="30_s29">Sessie-versie 30</material>
+                    <material corresp="31_s30">Sessie-versie 31</material>
+                    <material corresp="32_s31">Sessie-versie 32</material>
+                    <material corresp="33_s32">Sessie-versie 33</material>
+                    <material corresp="34_s33">Sessie-versie 34</material>
+                    <material corresp="35_s34">Sessie-versie 35</material>
+                    <material corresp="36_s35">Sessie-versie 36</material>
+                    <material corresp="37_s36">Sessie-versie 37</material>
+                    <material corresp="38_s37">Sessie-versie 38</material>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><seg>Het bijna-stikken-incident </seg><lb/>
+                <seg><add seq="20201015164622" type="translocation" evidence="824">Niet de vrouwen</add></seg>
+                <add seq="20201015164605" type="layout" evidence="800-801"><lb/><lb/></add>
+                <seg>Ik houd van de zon, maar niet van deze.</seg>
+                <seg>Deze is te heet.</seg>
+                <seg>Kwaad kijk ik naar de zonnende vrouw in de kleine bikini, die zich net loom
+                    heeft opgericht om de kleur van haar buik te inspecteren.</seg>
+                <seg>Er parelt zweet op haar voorhoofd, ze ligt daar niet voor haar lol.</seg>
+                <seg>Haar man staat al een tijd in de branding in de verte te staren.</seg>
+                <seg>Hij heeft de vorm van een gorilla: dikke buik, holle rug, korte benen en lange
+                    armen.</seg>
+                <seg>Ik denk aan mijn man, hij heeft ook een dikke buik, maar een rechte rug en
+                    lange benen.</seg>
+                <seg>Mijn man is geen gorilla.</seg>
+                <seg>En hij draagt meestal een overhemd.</seg>
+                <lb type="indent"/>
+                <seg>Miranda July postte vanmorgen een filmpje op Instagram waarin ze wild door een
+                    smalle gang danst in een panty en Mickey Mouse-shirt.</seg>
+                <seg>Ik hou van July's verhalen, maar haar lichaam maakt me kwaad.</seg>
+                <seg>Het zijn de holle rug en de korte benen.</seg>
+                <seg>Mensen met een holle rug willen niet volwassen worden, zegt mijn
+                    yogadocent.</seg>
+                <seg>Ze blijven net als kinderen met hun billen naar achteren staan en verbergen hun
+                    genitalien.</seg>
+                <seg>De gorillaman maakt me kwaad, de zwetende, bewegingloze, vrouw die uit
+                    ijdelheid in de volle zon ligt en niet omdat ze ervan geniet.</seg>
+                <seg>Ze had ook dichter bij de weg onder de grote overhangende bomen kunnen gaan
+                    zitten, zoals wij.</seg>
+                <lb type="indent"/>
+                <seg>Mijn zoon trekt met zijn wijsvinger strepen in het zand.</seg>
+                <seg>Hij tekent een kasteel.</seg>
+                <lb type="indent"/>
+                <seg>Het kasteel is gesloten, zegt hij.</seg>
+                <lb type="indent"/>
+                <seg>Mooi, zeg ik.</seg>
+                <seg>Want je wilde toch op de waterfiets?</seg>
+                <lb type="indent"/>
+                <seg>Ik ga wel met hem naar het strand, zei ik vanmorgen tegen mijn man.</seg>
+                <seg>Gaan jullie maar naar de markt.</seg>
+                <seg>Vanavond zullen we vis grillen op de barbecue gbij het familiehuis van onze
+                    vrienden, die een zoon van dezelfde leeftijd hebben.</seg>
+                <seg>Hun zoon wilde mee om een vis uit te zoeken.</seg>
+                <seg>Hij is een moeilijke eter, zei zijn vader.</seg>
+                <seg>Zo houdt hij nog wat controle.</seg>
+                <seg>We moeten zeebaars hebben, zei zijn moeder.</seg>
+                <seg>Die is hier het best.</seg>
+                <seg>Zij groeide op aan deze zee, onder deze zon, zij keert hier elke zomer terug,
+                    de laatste jaren met haar gezin.</seg>
+                <seg>In het hoogseizoen zijn er wel veel mensen, hoor, waarschuwde ze me voor ik
+                    onze vliegtickets boekte.</seg>
+                <seg>Ze weet dat ik niet tegen mensen kan, ook al kent ze me pas een jaar.</seg>
+                <seg>De kuddes.</seg>
+                <seg>Hun uitdrukkingsloze ogen.</seg>
+                <seg>Zij haat ze ook, zegt ze, maar ik voel haar woede niet.</seg>
+                <seg>Ik weet nooit wat ze denkt, of ze al genoeg van ons heeft, bijvoorbeeld, we
+                    zijn hier al tien dagen, over vier dagen gaan we naar huis.</seg>
+                <seg>Misschien is twee weken niet wat ze bedoelde toen ze zei 'kom een paar dagen
+                    langs', maar voor een vakantie van maar een paar dagen vond ik de tickets te
+                    duur.</seg>
+                <seg>Voor we terugvliegen nemen we onze vrienden mee uit eten, om te bedanken, dat
+                    heb ik ze al zeker drie keer gezegd, maar nog steeds heb ik nergens
+                    gereserveerd.</seg>
+                <seg>De restaurants zijn hier matig en niet goedkoop.</seg>
+                <seg>Gisteren maakte onze vriendin pasta met inktvis volgens een oud
+                    familierecept.</seg>
+                <seg>Mijn man zei dat je de inktvis eerst moest ontdooien maar volgens onze vriendin
+                    deed haar familie dat nooit, die gooiden de bevroren inktvis zo de pan in.</seg>
+                <seg>Even later zag ik mijn man de magnetron op de ontdooistand zetten.</seg>
+                <seg>Maar hij moet bevroren de pan in, zei ik.</seg>
+                <seg>Terwijl we kibbelden over wie de kok was gooide onze vriendin de inktvis gauw
+                    in de pan.</seg>
+                <lb type="indent"/>
+                <seg>Ik ben niet aards, zeg ik altijd als mensen me vragen of ik van koken
+                    houd.</seg>
+                <seg>Ik kan niet koken en niet tuinieren en niet met geld omgaan.</seg>
+                <seg>Soms denk ik weleens dat ik mijn lichaam niet voel, dat ik erboven zweef.</seg>
+                <lb type="indent"/>
+                <seg>We huren een waterfiets met een glijbaan erop.</seg>
+                <seg>Ik ben de bestuurder, mijn taak is het om stevig door te trappen tot mijn zoon
+                    stop!</seg>
+                <seg>roept.</seg>
+                <seg>Dan moet ik wachten tot hij zwijgend van de glijbaan het water in plonst, met
+                    een ernstig gezicht voorbij komt zwemmen, hijgend de fiets op klimt en
+                    trappen! zegt.</seg>
+                <seg>En dan trap ik totdat hij stop! roept, et cetera.</seg>
+                <lb type="indent"/>
+                <seg>Dit kan ik, denk ik.</seg>
+                <seg>Dit loopt gesmeerd.</seg>
+                <lb type="indent"/>
+                <seg>Vlak voor ik de fiets weer bij de verhuurder wil inleveren zegt mijn zoon: Maar
+                    jij bent nog niet van de glijbaan geweest.</seg>
+                <seg>Hij staat op het trapje van de glijbaan en kijkt me aan.</seg>
+                <seg>Ik sta achter hem in het water.</seg>
+                <seg>Please?</seg>
+                <seg>zegt hij, dus ik zeg: Ok. Maar niet lachen als mijn billen er te groot voor
+                    zijn.</seg>
+                <seg>Enthousiast klimt hij van het trapje af, maar dan glijdt hij uit op de gladde
+                    plastic treden en hij valt en blijft met zijn vinger klem zitten tussen de trap
+                    en de trapleuning, een metalen buis.</seg>
+                <seg>Hij schreeuwt en ik probeer zijn vinger los te wrikken, maar er is geen ruimte,
+                    de buis drukt de vinger plat.</seg>
+                <seg>Ik duw tegen de vinger, steeds opnieuw, maar er komt geen beweging in en de dag
+                    dat hij een gebroken pols had flitst door me heen: het ziekenhuis, de eerste
+                    hulp, de patientenfolder over de behandeling van kinderen op de spoedeisende
+                    hulp, de manier waarop ver[pleegkundigen kindermishandeling signaleren, de
+                    gedachte dat ze zijn gebroken pols verkeerd zouden interpreteren, hoe ik mijn
+                    woorden plotseling veel te veel nadruk gaf.</seg>
+                <seg>Vergeefs duw ik tegen zijn vinger tot de gorilla-man plotseling naast me staat
+                    en de buis met twee handen vastgrijpt.</seg>
+                <seg>Hij trekt de leuning naar zich toe, zodat er ruimte ontstaat en ik de vinger
+                    van mijn zoon kan bevrijden.</seg>
+                <seg>Brullend grijpt hij zijn linkerhand.</seg>
+                <seg>Ik til hem op en zeg wel vier keer dank je wel tegen de man, thank you so much,
+                    terwijl ik het water uit loop, het strand op, richting de eerstehulppost die
+                    zich naast de strandtent bevindt, niet ver van waar we op onze handdoeken zaten,
+                    onder de bomen, waar het vuur van de zon ons niet kon raken.</seg>
+                <lb/>
+                <seg>Als die schroef niet had ontbroken, zeg ik die avond tegen mijn man en onze
+                    vrienden, dan was dit allemaal niet gebeurd.</seg>
+                <seg>De bovenste schroef van de trapleuning zat er niet in, zag ik later, toen ik
+                    met mijn zoon en zijn verbonden hand terugkeerde naar de waterfietsverhuur en
+                    naar de gorillaman die daar vlakbij nog steeds in de branding stond.</seg>
+                <seg>Kijk, zei ik.</seg>
+                <seg>Het is goedgekomen.</seg>
+                <seg>Zijn vinger is niet gebroken.</seg>
+                <seg>En toen zag ik dat er een schroef miste, waardoor zijn vinger tussen de leuning
+                    en de trap naar beneden had kunnen glijden.</seg>
+                <seg>Misschien had ik daar iets van moeten zeggen, dacht ik toen het al te laat
+                    was.</seg>
+                <lb type="indent"/>
+                <seg>Er was niets dat ik kon doen en hij schreeuwde zo verschrikkelijk, zeg ik
+                    ook.</seg>
+                <seg>Ik wil dat de anderen begrijpen dat <del seq="20201015164109" type="translocation" evidence="548-552">het vinger-klem-incident, zoals we het nu
+                    noemen, </del><add seq="20201015164222" type="context" evidence="554-559">het </add>een extreme gebeurtenis was, ook al was de vinger niet gebroken.</seg>
+                <seg>Ja, zeggen ze.</seg>
+                <seg>Ja, wat vervelend.</seg>
+                <seg>Maar vervelend is niet het juiste woord.</seg>
+                <seg><add seq="20201015164230" type="context" evidence="565-588">We praten nog even over </add><add seq="20201015164238" type="translocation" evidence="591">het vinger-klem-incident<del seq="20201015164136" type="context" evidence="596-599">, zoals we het nu
+                    noemen, </del></add><del seq="20201015164245" type="context" evidence="603-608"> Het</del><add seq="20201015164246" type="context" evidence="608-626"> en dan gaat het</add><del seq="20201015164252" type="context" evidence="629-638"> gesprek gaat</del> over Louis CK en de cancelcultuur, over hoe de tijdgeest ons
+                    waardensysteem beinvloedt.</seg> 
+                <seg>Ik zeg iets over het Nederlandse slavernijverleden.</seg>
+                <seg>Ik zeg dat slavenhouders hun tot slaaf gemaakten als beesten zagen, volgens
+                    mij.</seg>
+                <seg>Onze vriend begint over het verband tussen zonne-energie en het schrijverschap
+                    van Frederick Douglass, het onderwerp waarop hij lang geleden is
+                    gepromoveerd.</seg>
+                <seg>Waarom zei ik 'volgens mij'?</seg>
+                <seg>En ik denk aan alle keren dat ik iets doms zei tegen deze vrienden, allebei
+                    academici.</seg>
+                <seg>Inmiddels bespreken onze vriend en mijn man de duurzaamheid van
+                    kernenergie.</seg>
+                <seg>Op luide toon delen ze informatie uit artikelen die ze hebben gelezen,
+                    onderzoeken die zijn gedaan.</seg>
+                <seg>Onze vriendin is opgestaan om de afwasmachine in te laden.</seg>
+                <seg>De mannen praten, de vrouwen zwijgen.</seg>
+                <seg>Waarom kunnen ze niet wat zachter praten als ze hun bloedeloze gesprekken
+                    voeren.</seg>
+                <seg>Toch ben ik vooral kwaad op mezelf en als ik mezelf haat word ik steen van
+                    buiten en vuur van binnen en kan de hitte er niet uit.</seg>
+                <seg>Ik ben dom, denk ik.</seg>
+                <seg>Maar ik ben niet dom<add seq="20201015164118" type="context" evidence="517-533">, denk ik ook</add>.</seg>
+                <seg>Intelligentie is niet het oplepelen van feiten die je in de krant hebt
+                    gelezen.</seg>
+                <lb/>
+                <seg>De kinderen zitten voor de deur op een muurtje aan een calippo-ijsje te
+                    zuigen.</seg>
+                <seg>De buurjongen is er ook, hij heeft een grote koek waar hij kleine hapjes van
+                    neemt.</seg>
+                <seg>De vriend van mijn zoon en de buurjongen zitten tegen elkaar aan.</seg>
+                <seg>Ze giechelen.</seg>
+                <seg>Een eindje verder zit mijn zoon.</seg>
+                <seg>Zo gaat het steeds als ze met z'n drieen zijn, dan zit mijn zoon alleen.</seg>
+                <seg>Het is sinaasappelsmaak, zegt hij tegen mij.</seg>
+                <seg>Hij knijpt in het karton om het waterijs naar boven te duwen en zuigt dan
+                    hard.</seg>
+                <seg>Niet zo hard, zeg ik.</seg>
+                <seg>Dan kan het in je verkeerde keelgat schieten.</seg>
+                <seg>Hij knikt en zuigt verder.</seg>
+                <seg>Ik kijk naar de twee giechelende kinderen en moet bijna huilen en ik weet dat
+                    dit verdriet er veel eerder was dan mijn zoon.</seg>
+                <seg>Hij zuigt weer luidruchtig aan zijn ijsje en dan schiet er een stuk ijs achter
+                    in zijn keel.</seg>
+                <seg>Hij rochelt, schraapt, kokhalst en ik sta naast hem en probeer me te herinneren
+                    hoe je de Heimlich-manoeuvre moet uitvoeren.</seg>
+                <seg>Handen vlak onder het middenrif.</seg>
+                <seg>Maar ik geloof dat het bij kinderen anders moet.</seg>
+                <seg>Ik sla een paar keer op zijn rug.</seg>
+                <seg>Mijn man en onze vrienden wandelen naar buiten.</seg>
+                <seg>Help! roep ik.</seg>
+                <seg>Hij stikt<add seq="20201015163947" type="context" evidence="490">!</add><del seq="20201015163948" type="context" evidence="501">.</del></seg>
+                <seg>Mijn zoon laat een lange harde boer en dan ligt er een stuk feloranje ijs op de
+                    stoep.</seg>
+                <seg>Ik troost hem en tegen de anderen zeg ik: Ik kon niets doen.</seg>
+                <lb/>
+                <seg>Als de kinderen naar bed zijn <add seq="20201015164501" type="context" evidence="728-776">praten we over het bijna-stikken-incident en <del seq="20201015164515" type="context" evidence="777-783">dan </del></add><add seq="20201015164529" type="context|continue" evidence="785-791">dan </add>vertelt onze vriend over de keer dat hij tijdens
+                    het vervangen van een lampje een elektrische schok kreeg en zijn vrouw alleen
+                    maar naar haar telefoonscherm zat te staren.</seg>
+                <seg>Ik zocht op wat je moet doen als iemand een elektrische schok krijgt, zegt onze
+                    vriendin.</seg>
+                <seg>Ze houdt van koken, maar verder is ze niet aards, net als ik.</seg>
+                <seg>Een heleboel dingen vindt ze 'goor', dat woord gebruikt ze vaak.</seg>
+                <seg>Vogels vind ze goor, tassen van slap leer, rijp fruit, oren waarvan de
+                    oorlellen niet hangen, maar meteen doorgroeien in het gezicht.</seg>
+                <lb type="indent"/>
+                <seg>Haar moeder komt morgen terug van een paar dagen in de hoofdstad.</seg>
+                <lb type="indent"/>
+                <seg>Daarom eet ik nu nog wat, zegt ze.</seg>
+                <seg>Morgen kan het niet meer.</seg>
+                <lb type="indent"/>
+                <seg>O, zeg ik bezorgd.</seg>
+                <lb type="indent"/>
+                <seg>Als we 's zomers hier zijn, en mijn zussen zijn er ook, dan is mijn moeder de
+                    hele dag aan het koken, maar ze wil niet dat we eten.</seg>
+                <seg>Niet de vrouwen.</seg>
+                <lb type="indent"/>
+                <seg>Jij wel hoor, zegt ze dan.</seg>
+                <seg>Tegenover haar gasten is ze tolerant.</seg>
+                <lb type="indent"/>
+                <seg>Mijn vriendin heeft niet, zoals ik, de vorm van een peer.</seg>
+                <seg>Misschien had ik geen derde glas wijn moeten nemen.</seg>
+                <seg>Dik<add seq="20201015164717" type="context" evidence="839-847">ke mensen</add> k<del seq="20201015164720" type="context" evidence="856-857">an</del><add seq="20201015164721" type="context" evidence="858-864">unnen</add> mooi en lelijk zijn, net als dun<add seq="20201015164725" type="context" evidence="866-879">ne mensen</add>, leer ik mijn zoon.</seg>
+                <seg>Hij mag geen man worden die vrouwen op hun omvang beoordeelt.</seg>
+                <seg>Maar hij ziet ook hoe ik mijn achterkant in de spiegel bekijk.</seg>
+                <seg>Ik ben gezond, hoor ik mezelf vaak tegen mensen zeggen.</seg>
+                <seg>Daar gaat het om.</seg>
+                <seg><del seq="20201015164102" type="context" evidence="507-510">En a</del><add seq="20201015164103" type="context" evidence="515">A</add>ls ik onze vriendin hoor praten over de periode dat ze van de stress zo
+                    weinig at, hoe mager ze was en hoe goed dat voelde, word ik kwaad.</seg>
+                <seg>Om dat afschuwelijk hardnekkige schoonheidsideaal en uit jaloezie, want als ik
+                    gestresst ben eet ik meestal patat.</seg>
+                <seg>Waarschijnlijk vindt ze zichzelf de mooiste van ons twee.</seg>
+                <seg>Misschien gaat ze daarom wel graag met me om.</seg>
+                <seg>Ze noemt me stijlvol, maar nooit mooi.</seg>
+                <seg>Verlies jezelf niet zo in de gedachtengang van anderen, zegt mijn man
+                    altijd.</seg>
+                <seg>Vaak denken ze iets heel anders dan je vermoedt.</seg>
+                <seg>Het venijn zit in je eigen hoofd.</seg>
+                <seg>Vul me niet in, roept hij als we ruzie hebben.</seg>
+                <lb type="indent"/>
+                <seg>Hoe gaat het met je, vraagt onze vriend nu aan mij en hij vraagt waarom ik na
+                    het eten zo stil werd, of het kwam door zijn geklets.</seg>
+                <seg>Ik haat mezelf als ik zo word, zegt hij.</seg>
+                <seg>Als ik me ongemakkelijk voel ga ik hard praten.</seg>
+                <seg>Hij vertelt dat hij de hele dag al het gevoel heeft dat er een laagje plastic
+                    om hem heen zit, alsof hij in een luchtdichte verpakking zit.</seg>
+                <seg>Dat komt door het weer, zeg ik, het is benauwd.</seg>
+                <seg>Toen ik vanavond de keuken inkwam, zegt hij, en jullie daar al zaten te drinken
+                    en lachen dacht ik: Dit kan ik vandaag niet aan.</seg>
+                <seg>Over zijn onderzoeksonderwerpen kan hij altijd praten.</seg>
+                <seg>Als hij aan de ecologische geesteswetenschappen denkt voelt hij zich
+                    beter.</seg>
+                <seg>Ik herinner me zijn lezing De bikinilijn van Theodor Adorno en het einde van
+                    saai weer waar mijn man en ik geen woord van hadden begrepen.</seg>
+                <seg>Mijn werk is mijn redding, zegt hij.</seg>
+                <seg>Ik ben altijd bang dat ik weer terugzak in het moeras waar ik vandaan
+                    kom.</seg>
+                <seg>Hij vertelt over jeugd in Florida, de armoede, zijn kettingrokende moeder die
+                    drie slechtbetaalde baantjes had en daardoor nooit thuis was en hoe hij als hij
+                    uit school kwam net zo lang bij de deur met zijn sleutelbos rammelde tot hij
+                    zijn stiefvader, die altijd thuis was, o shit hoorde zeggen en naar zijn
+                    slaapkamer rennen.</seg>
+                <seg>Hij wilde hem niet nog eens naakt aantreffen op die idiote XL-massagestoel die
+                    hij op de vuilstort had gevonden, zijn pik in zijn ene hand en de
+                    afstandbediening in de andere.</seg>
+                <lb type="indent"/>
+                <seg>Onze vriendin zegt dat ze zich op het moederschap heeft gestort om niet te
+                    hoeven voelen hoe verwoestend haar eerste huwelijk was.</seg>
+                <seg>Verwoestend is alles wat ze over haar eerste huwelijk kwijt wil.</seg>
+                <seg>Gelukkig kreeg ze met die man geen kind en wel met haar tweede man, onze
+                    vriend, van wie ze een paar maanden na hun ontmoeting zwanger was.</seg>
+                <seg>Ik begin nu pas een beetje mijn oude zelf te worden, zegt ze.</seg>
+                <seg>Ze bedoelt de zelf die in kleine boekwinkeltjes bijzondere uitgaven van
+                    poeziebundels koopt, die 's avonds lange brieven schrijft aan fictieve figuren
+                    of in leegstaande panden kunstfeestjes organiseert, die zonder eerst te hoeven
+                    gaan liggen haar strakke spijkerbroek dichtritst.</seg>
+                <seg>Ze was vergeten hoe dat allemaal voelde.</seg>
+                <lb/>
+                <seg>Ik trakteer onze vriendin op cocktails, want ze is geen grote drinker dus dat
+                    kan ik wel betalen.</seg>
+                <seg>Op het terras van het plaatselijke hotel vertelt ze dat ze het mist om verliefd
+                    te zijn.</seg>
+                <seg>Dat spannende, springerige, zegt ze.</seg>
+                <seg>Niet het pornografische.</seg>
+                <seg>Het moment dat ze hem uit hun broek halen en het echte neuken begint, dat heb
+                    ik eigenlijk altijd goor gevonden, jij niet?</seg>
+                <seg>Nee, zeg ik.</seg>
+                <seg>Hoewel ik oudere lesbiennes de laatste tijd ineens aantrekkelijk vind.</seg>
+                <seg>De soort die pakken draagt, kort haar heeft en zich gedraagt alsof ze wel weet
+                    wat ze met je aan moet.</seg>
+                <seg>Dat is een cliche, zeg ik gauw.</seg>
+                <seg>Dat weet ik wel, een heteroseksuele vrouw van boven de veertig die zichzelf
+                    niet meer aantrekkelijk vindt omdat mannen liever naar jongere vrouwen kijken,
+                    die alleen begeerte kan voelen als een ander haar begeerlijk vindt, die daarom
+                    haar aandacht verlegt naar vrouwen die eruit zien als een man.</seg>
+                <seg>Alsof die vrouwen daarop zitten te wachten.</seg>
+                <lb type="indent"/>
+                <seg>Ze begint over de theorieen van verlangen die ze met haar filosofiestudenten
+                    behandelt en het valt me op dat ze speciaal voor mij eenvoudige woorden gebruikt
+                    en toch dwalen mijn gedachten af naar een moment op het strand, een paar dagen
+                    geleden, toen we met zijn allen in het laatste smalle strookje schaduw zaten en
+                    ik mezelf hot noemde.</seg>
+                <seg>I'm hot, riep ik.</seg>
+                <seg>I'm a hot woman!</seg>
+                <seg>Het was een grapje, ik bedoelde dat ik het warm had, maar iedereen zweeg en ik
+                    hoorde ze denken.</seg>
+                <seg>Opnieuw krimp ik ineen van schaamte.</seg>
+                <lb type="indent"/>
+                <seg>Vrouwen verlangen niet zelf, zegt onze vriendin, maar via een ander.</seg>
+                <seg>Ze ontkennen zichzelf en daarom haten ze zichzelf.</seg>
+                <seg>Ze zegt dat ze jaloers is op het androgyne uiterlijk van de tieners en
+                    twintigers van nu, dat ze zich ook zo had gekleed als dat in onze tijd gewoon
+                    was geweest, dat ze, net als haar studenten, niet gelooft dat er een wezenlijk
+                    verschil tussen mannen en vrouwen bestaat.</seg>
+                <seg>Ik zeg dat haar man zichzelf ook haat.</seg>
+                <lb/>
+                <seg>Ik draag een maxi-jurk met ballonmouwen <del seq="20201015164818" type="context" evidence="881-888">omdat </del>die mijn peervorm verbergt.</seg>
+                <seg>De moeder van onze vriendin is in het dorp aangekomen.</seg>
+                <seg>Vanavond eten we zalm, zei ze tegen ons toen ze uit haar auto stapte.</seg>
+                <seg>Dreigend hield ze een volle boodschappentas omhoog.</seg>
+                <lb type="indent"/>
+                <seg>Het grootste deel van de dag staat ze in de keuken, een tenger figuurtje in een
+                    gigantisch keukenschort.</seg>
+                <seg>Of ze zit in de woonkamer op de bank en kijkt tv.</seg>
+                <seg>Ik zie haar achterhoofd door het raam als ik in de voortuin onder de pijnboom
+                    zit met een kop koffie en mijn telefoon.</seg>
+                <seg>Ze heeft asblond geverfd kort haar en een smalle nek.</seg>
+                <seg>Ze kijkt naar een nieuwsreportage over de plaatselijke bosbranden, ik werk aan
+                    een activistische Instagram-story over varkens.</seg>
+                <seg>Een schrijver die ik ken publiceerde vandaag een column over de EU-campagne die
+                    Zuid-Europese jongeren ertoe moet bewegen meer varkensvlees te eten.</seg>
+                <seg>Letstalkaboutpork is de hashtag die hun eetlust moet opwekken.</seg>
+                <seg>De schrijver roept iedereen op de hashtag te kapen in posts over de misdadige
+                    mishandeling van varkens in de varkenshouderij.</seg>
+                <lb type="indent"/>
+                <seg>Varkens schuren onophoudelijk langs de stangen van hun veel te smalle kooien in
+                    een wanhopige poging tot contact, schrijf ik.</seg>
+                <seg>#Letstalkaboutpork.</seg>
+                <seg>Vanmorgen maakte ik een foto van het roze marmer in de badkamer dat als
+                    achtergrondje moet dienen bij die tekst.</seg>
+                <seg>Alleen krijg ik de letters er niet mooi in.</seg>
+                <seg>Bovendien zijn de screenshots van de column niet meer goed leesbaar zodra ik ze
+                    in mijn story zet.</seg>
+                <seg>Met mijn wijsvinger hamer ik op het scherm van mijn telefoon.</seg>
+                <seg>Godverdomme, zeg ik steeds<del seq="20201015164928" type="context" evidence="891-893">. D</del><add seq="20201015164928" type="context" evidence="894-900"> en d</add>an zeg ik flikker op en smijt<del seq="20201015164932" type="context" evidence="902-908"> ik</del> het toestel een eindje verder in het
+                    gras.</seg>
+                <seg>Ik vraag me af of het woord flikker in deze context kwetsend is.</seg>
+                <seg>Als ik het wil opzoeken moet ik opstaan en mijn telefoon gaan halen, maar om te
+                    kalmeren kan ik beter blijven zitten.</seg>
+                <seg>Kwaaie pier, zegt mijn man als ik zo word.</seg>
+                <seg>Zijn vader werd ook altijd kwaad op de dingen.</seg>
+                <seg>Als hij geen aluminiumfolie uit de houder kreeg dan rukte hij het ding van de
+                    muur en stampte het in elkaar.</seg>
+                <seg>Bij mensen houd ik me in en daar houdt mijn man niet van.</seg>
+                <seg>Dan word je tuttig, zegt hij.</seg>
+                <seg>Terwijl hij zelf ook ingehouden is.</seg>
+                <seg>Zodra we ruzie hebben exploderen we.</seg>
+                <seg>Dan laat ik alle woorden komen, zo goed als dat voelt, net als eten als ik
+                    alleen ben, en de spijt erna, omdat er altijd iets kapot gaat, in mijn
+                    zoon<add seq="20201015165027" type="context" evidence="917-926"> vooral</add>.</seg>
+                <seg>Soms staat hij tussen ons in en zie ik het gebeuren, ik zie zijn gezicht en
+                    zijn schoudertjes en toch kan ik niet stoppen, misschien is het meer als kotsen,
+                    of bevallen<del seq="20201015165028" type="context" evidence="927-930">, of het brullen van een baby</del>, de kracht waarmee het komt, dat gevoel
+                    tekort te zijn gedaan waarover de kranten steeds schrijven dat het gevaarlijk
+                    is, een bron is van rechts-extremistisch denken.</seg>
+                <lb type="indent"/>
+                <seg><del seq="20201015165253" type="pre-context" evidence="946-948">Die</del><del seq="20201015165309" type="pre-context" evidence="1000-1025"><add seq="20201015165255" type="rt" evidence="950-976">Toen we elkaar <del seq="20201015165302" type="pre-context" evidence="977-988">nog niet lan</del></add><add seq="20201015165305" type="rt|continue" evidence="989-999">pas kenden</add></del><add seq="20201015165311" type="rt" evidence="1027-1135">In ons eerste jaar samen ging ik <del seq="20201015165553" type="pre-context" evidence="1382-1385">drie</del><add seq="20201015165553" type="pre-context" evidence="1386-1399">een paar</add> maanden weg voor mijn werk en ik verheugde me op het moment dat <mod seq="20201015165429" type="continue" evidence="1218-1320">ik hem weer zou zien in de aankomsthal van Schiphol, <del seq="20201015165610" type="pre-context" evidence="1402-1405">waar</del><add seq="20201015165611" type="pre-context" evidence="1406-1410">hoe</add> hij<add seq="20201015165615" type="pre-context" evidence="1412-1516"> daar glimlachend zou staan, die heldere ogen en dat mooie wilde haar en hoe hij me vast zou pakken<del seq="20201015165725" type="pre-context" evidence="1517-1523">, zijn </del></add><add seq="20201015165727" type="pre-context" evidence="1525-1571"> en <add seq="20201015165751" type="pre-context" evidence="1576-1625">mijn geur opsnuiven, zoals hij <del seq="20201015165812" type="pre-context" evidence="1636-1641">altijd</del><add seq="20201015165813" type="pre-context" evidence="1642-1661">nog steeds weleens</add> doet<mod seq="20201015165819" type="continue" evidence="1663-1796">, maar hij bleek in de verkeerde aankomsthal te staan waardoor ik op hem  moest wachten in plaats van hij op mij en <del seq="20201015165921" type="pre-context" evidence="1804-1806">ik </del></mod><del seq="20201015165859" type="pre-context" evidence="1789"> als hij </del></add><del seq="20201015165859" type="pre-context" evidence="1799">zijn neus in mijn hals zou steken, zoals hij </del></add><del seq="20201015165507" type="pre-context|continue" evidence="1373"> met zijn handen in zijn zakken </del><del seq="20201015165458" type="pre-context" evidence="1321-1329">zou staan</del></mod><del seq="20201015165859" type="pre-context|continue" evidence="1800"><mod seq="20201015165500" type="continue|continue" evidence="1330-1363"><del seq="20201015165506" type="pre-context" evidence="1370-1373">of met bloemen zou staan,</del> grijnzend</mod></del><del seq="20201015165358" type="pre-context" evidence="1136-1138">ik </del></add><del seq="20201015165859" type="pre-context|continue" evidence="1801"><add seq="20201015165359" type="rt|continue" evidence="1139-1159">hij op <del seq="20201015165405" type="pre-context" evidence="1160-1175">het vliegveld </del></add><add seq="20201015165408" type="rt|continue" evidence="1177-">Schiphol in de aankomst hal zou staan</add> keer dat mijn man me op kwam halen van Schiphol en in de verkeerde
+                    aankomsthal ging staan, zodat ik op hem moest wachten in plaats van hij op
+                    mij.</del><mod seq="20201015165922" type="continue" evidence="1807-1837"> toen hij er eindelijk aankwam <add seq="20201015165953" type="pre-context" evidence="1849-1880">was er geen moment, alleen maar </add><del seq="20201015170010" type="pre-context" evidence="1885-1886">ik</del></mod><del seq="20201015170016" type="pre-context" evidence="1901-1913"><mod seq="20201015170011" type="continue" evidence="1889-1900">het gevoel</mod></del><mod seq="20201015170018" type="continue" evidence="1916-1939">dat <del seq="20201015170021" type="pre-context" evidence="1940-1943">benauwde </del><add seq="20201015170200" type="pre-context" evidence="1949-1964">verstikkende </add>gevoel</mod><mod seq="20201015170211" type="continue" evidence="1967-"> dat ik ook had toen <add seq="20201015170415" type="context" evidence="2160-2205">mijn broer het te druk had om zijn vriendin na</add><del seq="20201015170429" type="context" evidence="2210-2213">ik mijn nicht na</del> een schaamlipcorrectie uit het ziekenhuis <add seq="20201015170437" type="context" evidence="2221-2283">op te halen en ik moest komen, omdat ze <add seq="20201015170524" type="context" evidence="2309-2340">een grote bloeding had gehad </add><del seq="20201015170530" type="pre-context" evidence="2341-2344">maar bleef bloeden </del></add><del seq="20201015170504" type="context" evidence="2291-2294"><add seq="20201015170315" type="pre-context" evidence="2087-2094">moest </add>opha<del seq="20201015170318" type="pre-context" evidence="2096">a</del>l<del seq="20201015170319" type="pre-context" evidence="2103-2104">de</del><add seq="20201015170320" type="pre-context" evidence="2105-2108">en</add> omdat ze maar bleef bloeden</del></mod><mod seq="20201015170322" type="continue" evidence="2110-2146"> en niet alleen naar huis mocht gaan.</mod></seg> 
+                
+                <seg>We kenden elkaar nog niet lang en ik was drie maanden weggeweest en het moment
+                    waa </seg><lb type="indent"/>
+                <seg>Toen ik mijn man net kende en na drie maanden in het buitenland weer in
+                    Nederland landde en ik me verheugde op het moment dat ik mijn man, die toen nog
+                    mijn vriend was, weer zou zien, zodra de schuifdeuren naar de aankomsthal open
+                    zouden gaan en ik mijn man, die toen nog mijn vriend was, zou zien in mijn man
+                    me ophaalde van het vliegveld nadat ik een maand , maar in de verkeerde
+                    aankomsthal staat, zodat ik op hem moet wachten in plaats van hij op mij, toen
+                    ik hem eindelijk weer zag zocht ik lang naar woorden, had ik het gevoel bijna te
+                    stikken.</seg>
+                <seg>Of toen mijn beste vriendin na een schaamlipcorrectie maar bleef bloeden en ik
+                    haar uit het ziekenhuis op moest halen omdat ze niet alleen naar huis mocht
+                    gaan.</seg>
+                <seg>Maar toen ze haar vinger brak op haar eerste kickboksles en ik naar de eerste
+                    hulp moest komen, was ik niet kwaad.</seg>
+                <seg><del seq="20201015163827" type="context" evidence="463-466">Waarom toen niet, dat kan ik niet verklaren.</del></seg>
+                <seg><add seq="20201015163427" type="nt" evidence="16-36">Misschien omdat <del seq="20201015163456" type="pre-context" evidence="37-41">haar </del></add><add seq="20201015163501" type="nt|continue" evidence="42-52">d<del seq="20201015163841" type="context" evidence="471">a</del><add seq="20201015163841" type="context" evidence="474">i</add>t 's av<del seq="20201015163504" type="typo" evidence="53-54">pn</del></add><add seq="20201015163505" type="nt|continue" evidence="55-">onds gebeurde<del seq="20201015163543" type="context" evidence="188-190"> en</del><add seq="20201015163544" type="context" evidence="191-198">, toen</add> <del seq="20201015163532" type="context" evidence="156-163"><add seq="20201015163531" type="context" evidence="148-155">de kinde</add></del><add seq="20201015163534" type="context" evidence="164-186">haar kinderen sliepen</add><add seq="20201015163548" type="context" evidence="200-208"> en <del seq="20201015163550" type="context" evidence="209-212">haar</del></add>haar man <add seq="20201015163848" type="context" evidence="476-486">daarom </add><add seq="20201015163554" type="context" evidence="217-264">w<add seq="20201015163824" type="context" evidence="454">é</add><del seq="20201015163824" type="context" evidence="462">e</del>l een goede reden had om niet te kunnen komen.</add><del seq="20201015163603" type="context" evidence="269-272">toen echt niet kon komen, omdat de kinderen sli</del><del seq="20201015163519" type="typo" evidence="132-135">oepe</del></add><del seq="20201015163603" type="context|continue" evidence="272"><add seq="20201015163520" type="nt|continue" evidence="136-142">epen.</add></del></seg>
+                <lb/>
+                <seg>Haar benauwdheid bij het zelfvertrouwen waarmee de mannen praten.</seg>
+                <seg>Hoe vaak ze dat in haar leven al heeft gevoeld.</seg>
+                <seg>Benauwdheid en woede.</seg>
+                <seg>Of eigenlijk vooral woede en het inhouden van haar woede maakt haar
+                    benauwd.</seg>
+                <seg>Ze is eigenlijk altijd woedend.</seg>
+                <lb/>
+                <seg>Het vinger-klem-incident en het bijna-stikken-incident.</seg>
+                <seg>hoe bedreigend de wereld is en hoe onvoorbereid we allemaal zijn </seg>
+                <lb/>
+                <seg>De nek van de moeder van onze vriendin is zo smal dat een man met grote handen
+                    haar met 1 hand zou kunnen wurgen.</seg>
+                <seg>Onze vriend heeft grote handen.</seg>
+                <seg>Hij komt net het huis uit lopen.</seg>
+                <seg>Wil je nog wat doen vandaag, vraagt hij.</seg>
+                <seg>Het is onze twaalfde dag bij onze vrienden.</seg>
+                <seg>Overmorgen vertrekken we.</seg>
+                <seg>Ik zeg dat ik mijn story over varkens nog moet afmaken en hij loopt door naar
+                    het muurtje en steekt daar een sigaret op.</seg>
+                <seg>Zou hij zich ergeren aan mijn geldgebrek.</seg>
+                <seg>Ik kwam niets tekort in mijn jeugd, pas toen ik volwassen werd raakte ik blut,
+                    inmiddels vierentwintig jaar geleden.</seg>
+                <seg>Toen we gisteren pizza gingen halen riep ik dat ik zou betalen en toen kon ik
+                    mijn portemonnee niet vinden, maar dat was geen truc, ik kon hem echt niet
+                    vinden.</seg>
+                <seg>Ik kan niet ontspannen doen over geld.</seg>
+                <seg>Ook niet over eten.</seg>
+                <seg>Zodra het op tafel staat krijg ik haast, dan word ik bang dat er niet genoeg
+                    is, alsof de anderen alles voor me weg zouden graaien.</seg>
+                <seg>Zouden ze me gulzig vinden, omdat ik zoveel eet?</seg>
+                <seg>Ik heb hier steeds zo'n honger.</seg>
+                <seg>Ik vraag me af of ze me al gespannen vinden.</seg>
+                <seg>Mijn man zegt dat ik altijd zo gespannen ben.</seg>
+                <lb/><lb/>
+                <seg>------- AANTEKENINGEN ----------- </seg><lb/><lb/>
+                <seg>Het vinger-klem-incident.</seg>
+                <seg>Hoe machteloos ze was.</seg>
+                <seg>Diezelfde dag nog eens, tijdens het bijna-stikken-incident.</seg>
+                <seg>Overwhelmed.</seg>
+                <seg>Hoe bedreigend de wereld is en hoe onvoorbereid zij is.</seg>
+                <lb/>
+                <seg>Hoe zij mensen haat.</seg>
+                <seg>De kuddes.</seg>
+                <seg>Hun ogen.</seg>
+                <seg>Hun ongegeneerde manier van aanwezig zijn.</seg>
+                <seg>Hoe alert ze is op de haat van anderen jegens haar, vooral die van haar
+                    reisgenoten.</seg>
+                <seg>Kunnen ze haar aanwezigheid nog wel verdragen?</seg>
+                <seg>Ze is slim, maar niet intellectueel, zoals zij.</seg>
+                <seg>Haar domme uitspraak over slavernij.</seg>
+                <seg>Haar benauwdheid bij het zelfvertrouwen waarmee de mannen praten.</seg>
+                <seg>Hoe vaak ze dat in haar leven al heeft gevoeld.</seg>
+                <seg>Benauwdheid en woede.</seg>
+                <seg>Of eigenlijk vooral woede en het inhouden van haar woede maakt haar
+                    benauwd.</seg>
+                <seg>Ze is eigenlijk altijd woedend.</seg>
+                <lb/>
+                <seg>De vrouw en de man met wie ze reist zijn zwart.</seg>
+                <seg>Ze denkt aan die amerikaanse vrouw die zichzelf voordeed als zwart.</seg>
+                <seg>De woede die dat opriep.</seg>
+                <seg>De punkster op haar school en hoe ze precies dezelfde laarzen kocht met in
+                    plaats van zwarte bontrandjes haar zwarte omgeslagen kniekousen
+                    eroverheen.</seg>
+                <seg>Hoe goed ze is in het kopieren van anderen.</seg>
+                <seg>Later had ze het vriendje van de punkster maar dat was op zijn initiatief, niet
+                    het hare.</seg>
+                <seg>Ze vertelt de zwarte man over haar benauwdheid tijdens het mannengesprek.</seg>
+                <seg>Hij zeght dat hij voelde hoe ze zich terugtrok, dat hij zichzelf haat als hij
+                    zo hard begint te praten over bijvoorbeeld politiek, of kernenergie, het
+                    onderwerp van zijn onderzoek.</seg>
+                <seg>Ze voelt haar woede zakken.</seg>
+                <seg>Ze hadf niet verwacht dat hij zo gevoelig was.</seg>
+                <seg>Ze vraagt zich af of het komt doordat hij zwart is.</seg>
+                <seg>Ze haat zichzelf omdat ze alles wat hij doet op zijn kleur betrekt.</seg>
+                <seg>Eigenlijk haat ze zichzelf altijd.</seg>
+                <lb/>
+                <seg>Over geen begeerte meer voelen omdat ze niet meer het standaard begeerlijke
+                    uiterlijk heeft.</seg>
+                <seg>Over de schaamte die ze voelde toen ze zichzelf voor de grap a hot woman
+                    noemde.</seg>
+                <seg>Pas een paar dagen later, vertraagde schaamte.</seg>
+                <lb/>
+                <seg>Over niet autorijden.</seg>
+                <seg>Afhankelijkheid.</seg>
+                <seg>Afkeuring van jonge vrouwen als ze zegt dat ze geen goed chauffeur is.</seg>
+                <seg>Wel van een rots het water in springen.</seg>
+                <seg>Dapper hoor, zegt haar man.</seg>
+                <seg>Maar hij deed het ook.</seg>
+                <lb/><lb/>
+                <seg>Over de vriendin die haar niet meer opzoekt.</seg>
+                <seg>Maar zij zoekt de vriendin ook niet meer op.</seg>
+                <seg>Wat is het probleem?</seg>
+                <seg>(ze had de vriendin vrouwonvriendelijk genoemd, een paar keer) </seg><lb/><lb/>
+                <seg>Hoe gemakkelijk ze de macht over haarzelf, over haar zoon, aan een ander
+                    geeft.</seg>
+                <lb/><lb type="indent"/>
+                <seg>Kijk, zegt ze.</seg>
+                <seg>Ik merk dat ze het zonder te veel moeilijke woorden uit probeerde te
+                    leggen.</seg>
+                <seg>Aan de ene kant heb je de school die zegt dat je je verlangen kunt trainen door
+                    simpelweg veel te kijken naar aantrekkelijk gepresenteerde beelden van lichamen
+                    die buiten de schoonheidsnorm vallen.</seg>
+                <seg>Dus door bijvoorbeeld veel glamourfoto's te zien van dikke, zwarte, behaarde
+                    vrouwen ga je ze vanzelf aantrekkelijker vinden.</seg>
+                <lb type="indent"/>
+                <seg>Ze zei zwart, denk ik.</seg>
+                <lb type="indent"/>
+                <seg>Ik zeg zwart, en dik, en behaard, zei ze, omdat die drie kenmerken buiten de
+                    westerse heersende vrouwelijke schoonheidsnorm vallen.</seg>
+                <lb type="indent"/>
+                <seg>Ik knik enthousiast en zeg dat ik veel interessante vrouwen op Instagram
+                    volg.</seg>
+                <seg>Zwarte en witte dikke vrouwen die mooi zijn en iets te vertellen hebben.</seg>
+                <seg>Om de norm te verleggen en me te sterken aan hun verhalen.</seg>
+                <seg>Aan behaard had ik nog niet gedacht, zeg ik.</seg>
+                <lb type="indent"/>
+                <seg>Aan de andere kant heb je dus theoretici als Andrea Long Chu, zegt ze, die
+                    vindt dat we ons verlangen gewoon moeten nemen voor wat het is.</seg>
+                <seg>We rarely want the things we should, zegt Chu.</seg>
+                <seg>Je kunt het niet een bepaalde politieke richting op forceren.</seg>
+                <seg>You could sooner give a cat a bath.'</seg>
+                <lb type="indent"/>
+                <seg>Weer knik ik en denk aan de droom die ik laatste had over de .... die .....
+                    Maar dromen tellen niet, die kun je niet letterlijk nemen.</seg>
+                <lb type="indent"/>
+                <seg>Als ze naar de wc gaat google ik Andrea Long Chu en zie dat ze een witte
+                    trans-vrouw is en nog slimmer dan mijn vrienden.</seg>
+                <seg>In haar boek Female stelt ze dat iedereen vrouwelijk is en dat iedereen dat
+                    haat en dat ze skeptisch is over het bestaan van mannen en over die bizarre
+                    claims, zoals ze die zelf noemt, die broad, indefensible, sweeping
+                    generalisaties over iedereen in de geschiedenis, zegt ze: het gaat mij erom een
+                    reactie op te roepen bij de lezer.</seg>
+                <seg>I dont think we believe things because they are true.</seg>
+                <seg>I think we believe them because they make us feel a particular way.</seg>
+                <seg>En extreme provocatieve uitspraken kunnen ons bewust maken van de emoties in
+                    argument or the production of truth.</seg>
+                <seg>Je geeft de lezer een kans om zich te realiseren: dit zit me dwars, niet omdat
+                    het verkeerd/fout is, op intellectueel niveau, maar omdat I have investments in
+                    some things being true and other things not being true, and those investments,
+                    that is the tendrils of desire.</seg>
+                <seg>Provocation can be an education of the senses if you let it.</seg>
+                <lb type="indent"/>
+                <seg>The trick of desire is not to get crushed by it.</seg>
+                <lb type="indent"/>
+                <seg>Dikke billen zijn gewoon erg aanwezig.</seg>
+                <seg>(ik voed mijn woede, zelfhaat, makes me feel a particular way) </seg><lb type="indent"/>
+                <seg>Ze begint over een vrouwelijke Amerikaanse schrijver die zegt dat we allemaal
+                    vrouwelijk zijn </seg><lb type="indent"/>
+                <seg>zelf-ontkenning.</seg>
+                <seg>alles is female elke handeling waarin het zelf is sacrificed to make room for
+                    the desires of another.the desires may be real or imagined.</seg>
+                <seg>to be female is to let someone else do your desiring for you, at your own
+                    expense </seg><lb type="indent"/>
+                <seg>Ik denk niet dat we dingen geloven omdat ze waar zijn, zegt onze
+                    vriendin.</seg>
+                <seg>Ik denk dat we ze geloven omdat ze bepaalde gevoelens in ons oproepen.</seg>
+                <seg>Ze citeert de Amerikaanse schrijver Andrea Long Chu, die ook zei dat we zelden
+                    willen wat we zouden moeten willen, dat we onze verlangens niet een bepaalde
+                    politiek correcte richting op kunnen dwingen.</seg>
+                <seg>You could sooner give a cat a bath.</seg>
+                <lb/><lb type="indent"/>
+                <seg>, zegt ze.</seg>
+                <seg>Ik geloof dat we dat verschil hebben verzonnen.</seg>
+                <lb/><lb type="indent"/>
+                <seg>Volgens mij geloven we niet in dingen omdat ze waar zijn, zeg ik, maar we
+                    geloven erin omdat we ons daar beter door voelen.</seg>
+                <seg>Of slechter, het is maar net wat je gewend bent.</seg>
+                <lb/>
+                <seg>dat ze meer op een jongen wil lijken, dat ze ook daarom niet eet.</seg>
+                <seg>Ze wil zich vrij voelen om nieuwe liefdes te exploreren, zonder porno dus, puur
+                    geestelijk, ze begrijpt best dat dit ingewikkeld is.</seg>
+                <seg>Ik vraag of ze hier met haar man over praat.</seg>
+                <seg>Nee, zegt ze.</seg>
+                <seg>Van het woord 'praten' alleen al krijg ik de rillingen.</seg>
+                <lb type="indent"/>
+                <seg>Ik lach en ze zegt dat haar man haar soms haat omdat hij haar niet kan lezen en
+                    ik zeg dat ik daar niet van opkijk, dat ik bij haar ook een geheim geestesleven
+                    vermoed.</seg>
+                <lb/>
+                <seg>Ik zeg dat ik haar behoefte aan vrijheid begrijp, dat ik die ook voel, maar dat
+                    het bij mij anders ligt.</seg>
+                <seg>Ik heb geen verliefdheid nodig, maar geld.</seg>
+                <seg>Zonder geld zit ik vast, zeg ik.</seg>
+                <seg>Mijn ouders waren niet arm, als kind had ik genoeg, maar sinds ik volwassen ben
+                    ben ik blut.</seg>
+                <seg>Er was een jaar dat ik wat meer verdiende.</seg>
+                <seg>Toen ben ik drie maanden in de Verenigde Staten geweest.</seg>
+                <seg>Ik zeg dat ik graag vast zit aan 1 man, deze man, dat ik mijn hele volwassen
+                    leven aan niemand vast zat, alleen aan mezelf, in mijn kleine, donkere
+                    appartement, maar ik was los van de wereld, tot ik hem ontmoette.</seg>
+                <seg>Ik geniet van onze dagelijkse rituelen, het bordje pap bij het ontbijt, zijn
+                    versleten ochtendjas, ik vind het prettig om ouder te worden, omdat we dat samen
+                    doen.</seg>
+                <seg>Maar ik zou wel meer geld willen hebben, want dan kunnen we drie maanden naar
+                    Japan.</seg>
+                <lb/>
+                <seg>Over het verschil mooie en lelijke mensen.</seg>
+                <seg>Is dat geen onrecht?</seg>
+                <seg>man, vrouw, zwart, wit.</seg>
+                <seg>Hoe zit het met lelijk?</seg>
+                <lb type="indent"/>
+                <seg>Over verlies van verlangen, geen seks alsjeblieft.</seg>
+                <seg>Jaloezie op vrouwen die wel van seks genieten.</seg>
+                <seg>Komt door kapitalisme, zegt de vriend.</seg>
+                <seg>Ons werk dooft ons verlangen.</seg>
+                <lb type="indent"/>
+                <seg>(ik kopieer haar, gaat vanzelf) </seg><lb/><lb/>
+                <seg>Zijn vader was niet alleen kwaad op de dingen.</seg>
+                <seg>Hij schold ook mensen uit, thuis, in het verkeer.</seg>
+                <seg>Mijn man scheld ook op mensen in het verkeer en soms op mij en dan scheld ik
+                    terug.</seg>
+                <seg>Dat zijn de momenten dat alle harde woorden die ik in mezelf verzameld heb
+                    eruit rollen, met een vaart die me verrast want meestal moet ik zoeken naar
+                    woorden, zachte verstikkende woorden, zo goed als dat ineens voelt, net als eten
+                    wanneer je alleen bent, en het gevoel van spijt erna, want soms is onze zoon
+                    erbij en dan zie ik hem huilen en ik zie zijn schoudertjes en toch kan ik de
+                    woorden niet stoppen, misschien is het meer als kotsen, of bevallen, de kracht
+                    waarmee het komt.</seg>
+                <seg>En misschien is het niet alleen spijt erna, maar ook het gevoel gerechtvaardigd
+                    te zijn, omdat mij tekort is gedaan, het gevoel waarover nu steeds in kranten
+                    wordt geschreven dat het gevaarlijk is, een bron van rechts-extremistisch
+                    denken.</seg>
+                <seg>Eigenlijk ben ik altijd kwaad.</seg>
+                <lb type="indent"/>
+                <seg>Bovendien: mijn man houdt er toch niet van als ik me 'ingehouden'
+                    gedraag?</seg>
+                <seg>Zo noemt hij dat, zo heeft hij dat meerdere keren gezegd.</seg>
+                <seg>Eigenlijk ben ik altijd kwaad.</seg>
+                <lb/><lb type="indent"/>
+                <seg>Zijn vader werd ook kwaad op mensen en zijn moeder zei dat ze daar op den duur
+                    aan wende.</seg>
+                <seg>Mijn man wil niet wennen aan mijn woede op de mensen, maar dat is hypocriet
+                    want zelf voelt hij die woede ook.</seg>
+                <seg>En ik weiger om aan zijn uitbarstingen te wennen.</seg>
+                <seg>Dus staan we weleens heen en weer te schreeuwen met onze zoon tussen ons
+                    in.</seg>
+                <seg>Meestal houd ik me in, maar als ik me laat gaan kan ik niet meer ophouden, dan
+                    komen de woorden vanzelf en dan zie ik dat mijn zoon huilt, dan zie ik zijn ogen
+                    en schoudertjes en toch stop ik niet.</seg>
+                <seg>Als ik daaraan denk krimpt mijn hart ineen.</seg>
+                <seg>Onze zoon begint ook kwaad op de dingen te worden, hij lijkt het meest op
+                    mij.</seg>
+                <lb/>
+                <lb type="indent"/>
+                <seg>Het vinger-klem-incident en het bijna-stikken-incident.</seg>
+                <seg>hoe bedreigend de wereld is en hoe onvoorbereid we allemaal zijn </seg>
+                <lb/><lb type="indent"/>
+                <seg>Alles wat je zegt komt er aarzelend uit, zei een uitgever bij wie ik op mijn
+                    vijfentwintigste solliciteerde.</seg>
+                <seg>Die zin heb ik altijd onthouden.</seg>
+                <seg>Meestal zoek ik lang om de juiste woorden te vinden, woorden die geen aanstoot
+                    geven, die iets verhullen, die me verstikken.</seg>
+            </p>
+            <p>
+                <add seq="20201015163638" type="focus" evidence="316">Focus events<lb/><lb/>
+                    <media url="Google" mimeType="internet"><desc>accent grave windows - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201015163701" type="focus" evidence="335">
+                    <media url="Google" mimeType="internet"><desc>accent aigu windows - Google zoeken</desc></media></add>
+                <lb/>
+            </p>
+        </body>
+    </text>
+</TEI>

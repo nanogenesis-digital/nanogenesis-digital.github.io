@@ -1,0 +1,487 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>En daarom haten ze zichzelf</title>
+                <author>Jente Posthuma</author>
+                <respStmt>
+                    <name>Lamyk Bekius</name>
+                    <resp>encoding scheme, TEI customization, encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p corresp="section">En daarom haten ze zichzelf</p>
+                <p corresp="session">35</p>
+                <p corresp="version">36</p>
+                <p corresp="total_versions">38</p>
+                <p corresp="name">Jente_Posthuma</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <l>Date: 18-10-2020</l>
+                    <l>Start time: 20:11:14</l>
+                    <l>Duration: 02:07:45</l>
+                </p>
+                <p><linkGrp>
+                    <link prev="35_s34" n="36_s35" next="37_s36"/>
+                </linkGrp></p>
+                <p>
+                    <material corresp="01_s00">Sessie-versie 1</material>
+                    <material corresp="02_s01">Sessie-versie 2</material>
+                    <material corresp="03_s02">Sessie-versie 3</material>
+                    <material corresp="04_s03">Sessie-versie 4</material>
+                    <material corresp="05_s04">Sessie-versie 5</material>
+                    <material corresp="06_s05">Sessie-versie 6</material>
+                    <material corresp="07_s06">Sessie-versie 7</material>
+                    <material corresp="08_s07">Sessie-versie 8</material>
+                    <material corresp="09_s08">Sessie-versie 9</material>
+                    <material corresp="10_s09">Sessie-versie 10</material>
+                    <material corresp="11_s10">Sessie-versie 11</material>
+                    <material corresp="12_s11">Sessie-versie 12</material>
+                    <material corresp="13_s12">Sessie-versie 13</material>
+                    <material corresp="14_s13">Sessie-versie 14</material>
+                    <material corresp="15_s14">Sessie-versie 15</material>
+                    <material corresp="16_s15">Sessie-versie 16</material>
+                    <material corresp="17_s16">Sessie-versie 17</material>
+                    <material corresp="18_s17">Sessie-versie 18</material>
+                    <material corresp="19_s18">Sessie-versie 19</material>
+                    <material corresp="20_s19">Sessie-versie 20</material>
+                    <material corresp="21_s20">Sessie-versie 21</material>
+                    <material corresp="22_s21">Sessie-versie 22</material>
+                    <material corresp="23_s22">Sessie-versie 23</material>
+                    <material corresp="24_s23">Sessie-versie 24</material>
+                    <material corresp="25_s24">Sessie-versie 25</material>
+                    <material corresp="26_s25">Sessie-versie 26</material>
+                    <material corresp="27_s26">Sessie-versie 27</material>
+                    <material corresp="28_s27">Sessie-versie 28</material>
+                    <material corresp="29_s28">Sessie-versie 29</material>
+                    <material corresp="30_s29">Sessie-versie 30</material>
+                    <material corresp="31_s30">Sessie-versie 31</material>
+                    <material corresp="32_s31">Sessie-versie 32</material>
+                    <material corresp="33_s32">Sessie-versie 33</material>
+                    <material corresp="34_s33">Sessie-versie 34</material>
+                    <material corresp="35_s34">Sessie-versie 35</material>
+                    <material corresp="36_s35">Sessie-versie 36</material>
+                    <material corresp="37_s36">Sessie-versie 37</material>
+                    <material corresp="38_s37">Sessie-versie 38</material>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><seg><del seq="20201018213631" type="context" evidence="3572">Het bijna-stikken-incident</del><add seq="20201018213631" type="rt" evidence="3575-3590"><add seq="20201018221847" type="context" evidence="5230">Het b</add><del seq="20201018221850" type="context" evidence="5237">B</del>ijna<del seq="20201018221853" type="context" evidence="5248"> </del><add seq="20201018221853" type="context" evidence="5249">-</add>stikken<add seq="20201018221857" type="context" evidence="5267-5284">-incident</add></add></seg><lb/>
+                <seg>Ik houd van de zon, maar niet van deze.</seg>
+                <seg>Deze is te heet.</seg>
+                <seg>Kwaad kijk ik naar de zonnende vrouw in de kleine bikini, die zich net loom
+                    heeft opgericht om de kleur van haar buik te inspecteren.</seg>
+                <seg>Er parelt zweet op haar voorhoofd, ze ligt daar niet voor haar lol.</seg>
+                <seg>Haar man staat al een tijd in de branding in de verte te staren.</seg>
+                <seg>Hij heeft de vorm van een gorilla: dikke buik, holle rug, korte benen en lange
+                    armen.</seg>
+                <seg>Ik denk aan mijn man, hij heeft ook een dikke buik, maar een rechte rug en
+                    lange benen.</seg>
+                <seg>Mijn man is geen gorilla en hij draagt meestal een overhemd.</seg>
+                <lb type="indent"/>
+                <seg>Miranda July postte vanmorgen een filmpje op Instagram waarin ze wild door een
+                    smalle gang danst in een panty en Mickey Mouse-shirt.</seg>
+                <seg>Ik hou van July's verhalen, maar haar lichaam maakt me kwaad.</seg>
+                <seg>Het zijn de holle rug en de korte benen.</seg>
+                <seg>Mensen met een holle rug willen niet volwassen worden, zegt mijn
+                    yogadocent.</seg>
+                <seg>Ze verbergen hun genitali<del seq="20201018213724" type="context" evidence="3592">e</del><add seq="20201018213727" type="context" evidence="3646">ë</add>n.</seg>
+                <seg>De gorillaman maakt me kwaad, de zwetende, bewegingloze, vrouw die uit
+                    ijdelheid in de volle zon ligt en niet omdat ze ervan geniet.</seg>
+                <seg>Ze had ook dichter bij de weg onder de grote overhangende bomen kunnen gaan
+                    zitten, zoals wij.</seg>
+                <lb type="indent"/>
+                <seg>Mijn zoon trekt met zijn wijsvinger strepen in het zand.</seg>
+                <seg>Hij tekent een kasteel.</seg>
+                <lb type="indent"/>
+                <seg>Het kasteel is gesloten, zegt hij.</seg>
+                <lb type="indent"/>
+                <seg>Mooi, zeg ik.</seg>
+                <seg>Want je wilde toch op de waterfiets?</seg>
+                <lb type="indent"/>
+                <seg>Ik ga wel met hem naar het strand, zei ik vanmorgen tegen mijn man.</seg>
+                <seg>Gaan jullie maar naar de markt.</seg>
+                <seg>Vanavond zullen we vis grillen op de barbecue bij het familiehuis van onze
+                    vrienden, die een zoon van dezelfde leeftijd hebben.</seg>
+                <seg>Hun zoon wilde mee om een vis uit te zoeken.</seg>
+                <seg>Hij is een moeilijke eter, zei zijn vader.</seg>
+                <seg>Zo houdt hij nog wat contr<del seq="20201018213755" type="context" evidence="3653">o</del><add seq="20201018213802" type="context" evidence="3659">ô</add>le.</seg>
+                <seg>We moeten zeebaars hebben, zei zijn moeder.</seg>
+                <seg>Die is hier het best.</seg>
+                <seg>Zij groeide op aan deze zee, onder deze zon, zij keert hier elke zomer terug,
+                    de laatste jaren met haar gezin.</seg>
+                <seg>In het hoogseizoen zijn er wel veel mensen, waarschuwde ze me voor ik onze
+                    vliegtickets boekte.</seg>
+                <seg>We kennen elkaar<del seq="20201018201339" type="context" evidence="13-19"> nog niet lang</del><add seq="20201018201510" type="context" evidence="21-33"> pas kort</add>, maar ze weet al dat ik niet tegen mensen kan.
+                    Zij haat ze ook, zegt ze, maar ik voel haar woede niet.</seg>
+                <seg>Ik weet nooit wat ze denkt, of ze al genoeg van ons heeft, bijvoorbeeld, we
+                    zijn hier al tien dagen, over vier dagen gaan we naar huis.</seg>
+                <seg>Misschien is twee weken niet wat ze bedoelde toen ze zei 'kom een paar dagen
+                    langs', maar voor een vakantie van maar een paar dagen vond ik de tickets te
+                    duur.</seg>
+                <seg>Om te bedanken<del seq="20201018213849" type="context" evidence="3667"> nemen</del><add seq="20201018213850" type="context" evidence="3669-3677"> zullen</add> we onze vrienden mee uit eten<add seq="20201018213854" type="context" evidence="3679-3687"> nemen</add>, dat heb ik ze al zeker drie
+                    keer gezegd, maar nog steeds heb ik nergens gereserveerd.</seg>
+                <seg>De restaurants zijn hier niet goedkoop.</seg>
+                <add seq="20201018201541" type="layout" evidence="35"><lb type="indent"/></add>
+                <seg>Gisteren maakte onze vriendin pasta met inktvis volgens een oud
+                    familierecept.</seg>
+                <seg>Mijn man zei dat je de inktvis eerst moest ontdooien maar volgens onze vriendin
+                    deed haar<del seq="20201018201628" type="context" evidence="54-60"> familie</del><add seq="20201018201630" type="context" evidence="61-68"> moeder</add> dat nooit, die gooide<del seq="20201018201634" type="context" evidence="77">n</del> de bevroren inktvis zo de pan in.</seg>
+                <seg>Even later zag ik mijn man de magnetron op de ontdooistand zetten.</seg>
+                <seg>Maar hij moet bevroren de pan in, zei ik.</seg>
+                <seg>Terwijl we kibbelden over wie de kok was bereidde onze vriendin het eten, de
+                    lekkerste pasta met inktvis die we ooit hadden ge<del seq="20201018201601" type="context" evidence="42-44">had</del><add seq="20201018201602" type="context" evidence="45-52">proefd</add>, dat moest mijn man ook
+                    toegeven.</seg>
+                <lb type="indent"/>
+                <seg>Ik ben niet aards, zeg ik altijd als mensen me vragen of ik van koken
+                    houd.</seg>
+                <seg>Ik kan niet koken en niet tuinieren.</seg>
+                <seg>En ik kan niet met geld omgaan.</seg>
+                <seg>Soms denk ik weleens dat ik mijn lichaam niet voel, dat ik erboven zweef.</seg>
+                <lb type="indent"/>
+                <seg>We huren een waterfiets met een glijbaan erop.</seg>
+                <seg>Ik ben de bestuurder, mijn taak is het om stevig door te trappen tot mijn zoon
+                    stop! roept.</seg>
+                <seg>Dan moet ik wachten tot hij zwijgend van de glijbaan het water in plonst, met
+                    een ernstig gezicht voorbij komt zwemmen, hijgend de fiets op klimt en
+                    trappen! zegt.</seg>
+                <seg>En dan trap ik totdat hij stop! roept, et cetera.</seg>
+                <lb type="indent"/>
+                <seg>Dit kan ik, denk ik.</seg>
+                <seg>Dit loopt gesmeerd.</seg>
+                <lb type="indent"/>
+                <seg>Vlak voor ik de fiets weer bij de verhuurder wil inleveren zegt mijn zoon: Maar
+                    jij bent nog niet van de glijbaan geweest.</seg>
+                <seg>Hij staat op het trapje en kijkt me aan.</seg>
+                <seg>Ik sta achter hem in het water.</seg>
+                <seg>Please? zegt hij, dus ik zeg: Ok. Maar niet lachen als mijn billen<del seq="20201018201640" type="context" evidence="85-88"> te groot voor</del><add seq="20201018201753" type="context" evidence="90-96"> niet op</add> de glijbaan <del seq="20201018201756" type="context" evidence="101-104">zijn</del><add seq="20201018201757" type="context" evidence="105-113">passen</add>.</seg>
+                <seg>Enthousiast klimt hij van het trapje af, maar dan glijdt hij uit op de gladde
+                    plastic treden en hij valt en blijft met zijn vinger klem zitten tussen de trap
+                    en de trapleuning, een metalen buis.</seg>
+                <seg>Hij schreeuwt en ik probeer zijn vinger los te wrikken, maar er is geen ruimte,
+                    de buis drukt de vinger plat.</seg>
+                <seg>Ik duw tegen de vinger, steeds opnieuw, maar er komt geen beweging in en de dag
+                    dat hij een gebroken pols had flitst door me heen: het ziekenhuis, de eerste
+                    hulp, de pati<del seq="20201018201928" type="context" evidence="119">e</del><add seq="20201018202101" type="context" evidence="180">ë</add>ntenfolder over de behandeling van kinderen op de spoedeisende
+                    hulp, de manier waarop verpleegkundigen kindermishandeling signaleren, de
+                    gedachte dat ze zijn gebroken pols verkeerd zouden interpreteren, hoe ik mijn
+                    woorden plotseling veel te veel nadruk gaf.</seg>
+                <seg>Vergeefs duw ik tegen zijn vinger tot de gorillaman plotseling naast me staat
+                    en de buis met twee handen vastgrijpt.</seg>
+                <seg>Hij trekt de leuning naar zich toe, zodat er ruimte ontstaat en ik de vinger
+                    kan bevrijden.</seg>
+                <seg>Brullend grijpt mijn zoon zijn linkerhand.</seg>
+                <seg>Ik til hem op en zeg wel vier keer dank je wel tegen de man, thank you so much,
+                    terwijl ik het water uit loop, het strand op, richting de eerstehulppost die
+                    zich naast de strandtent bevindt, niet ver van waar we op onze handdoeken zaten,
+                    onder de bomen, waar het vuur van de zon ons niet kon raken.</seg>
+                <lb/>
+                <seg>Als die schroef niet had ontbroken, zeg ik die avond tegen mijn man en onze
+                    vrienden, dan was dit allemaal niet gebeurd.</seg>
+                <seg>De bovenste schroef van de trapleuning zat er niet in, zag ik later, toen ik
+                    met mijn zoon en zijn verbonden hand terugkeerde naar de waterfietsverhuur en
+                    naar de gorillaman die daar vlakbij nog steeds in de branding stond.</seg>
+                <seg>Kijk, zei ik.</seg>
+                <seg>Het is goedgekomen.</seg>
+                <seg>Zijn vinger is niet gebroken.</seg>
+                <seg>En toen zag ik dat er een schroef miste, waardoor zijn vinger tussen de leuning
+                    en de trap naar beneden had kunnen glijden.</seg>
+                <seg>Misschien had ik daar iets van moeten zeggen.</seg>
+                <lb type="indent"/>
+                <seg>Er was niets dat ik kon doen en hij schreeuwde zo verschrikkelijk, zeg ik<del seq="20201018202107" type="context" evidence="192-195"> die avond ook</del><add seq="20201018202213" type="context" evidence="197-208"> nog eens</add>.</seg>
+                <seg>Ik wil dat de anderen begrijpen dat het<add seq="20201018202232" type="translocation" evidence="219-220"> vinger-klem-incident</add> een extreme gebeurtenis was<del seq="20201018202235" type="context" evidence="225-231">, dit</del><del seq="20201018202214" type="translocation" evidence="209-213"> vinger-klem-incident</del><del seq="20201018202239" type="context" evidence="233-255">, zoals we het noemen</del>, ook al was de vinger niet
+                    gebroken.</seg>
+                <seg>Ja, zeggen ze.</seg>
+                <seg>Ja, wat vervelend.</seg>
+                <seg>Maar vervelend is niet het juiste woord.</seg>
+                <seg>We praten over Louis CK en de cancelcultuur, over hoe de tijdgeest ons
+                    waardensysteem be<del seq="20201018202253" type="context" evidence="257">i</del><add seq="20201018202255" type="context" evidence="259">ï</add>nvloedt.</seg>
+                <seg>Ik zeg iets over het Nederlandse slavernijverleden.</seg>
+                <seg>Ik zeg dat slavenhouders hun tot slaaf gemaakten als beesten zagen, volgens
+                    mij.</seg>
+                <seg>Onze vriend begint over het verband tussen zonne-energie en het schrijverschap
+                    van Frederick Douglass, het onderwerp waarop hij lang geleden is
+                    gepromoveerd.</seg>
+                <seg>Waarom zei ik 'volgens mij'?</seg>
+                <seg>En ik denk aan alle keren dat ik iets doms zei tegen deze vrienden, allebei
+                    academici.</seg>
+                <seg><del seq="20201018203822" type="context" evidence="621">O</del><add seq="20201018203823" type="context" evidence="623-632">Het is o</add>ngelooflijk<del seq="20201018203827" type="context" evidence="634-637"> hoe</del><add seq="20201018203828" type="context" evidence="638-643">, zo</add> onnozel <add seq="20201018203832" type="context" evidence="645-651">als </add>zij is, zullen ze regelmatig tegen elkaar
+                    zeggen.</seg>
+                <seg>Inmiddels bespreken onze vriend en mijn man de duurzaamheid van
+                    kernenergie.</seg>
+                <seg>Op luide toon delen ze informatie uit artikelen die ze hebben gelezen,
+                    onderzoeken die zijn gedaan.</seg>
+                <seg>Onze vriendin is opgestaan om de afwasmachine in te laden.</seg>
+                <seg>De mannen praten, de vrouwen zwijgen.</seg>
+                <seg>Waarom kunnen ze niet wat zachter praten als ze hun bloedeloze gesprekken
+                    voeren.</seg>
+                <seg>Toch ben ik vooral kwaad op mezelf en als ik mezelf haat word ik steen van
+                    buiten en vuur van binnen en kan de hitte er niet uit.</seg>
+                <lb type="indent"/>
+                <seg>De kinderen zitten voor de deur op een muurtje aan een calippo-ijsje te
+                    zuigen.</seg>
+                <seg>De buurjongen is er ook, hij heeft een grote koek waar hij kleine hapjes van
+                    neemt.</seg>
+                <seg>De vriend van mijn zoon en de buurjongen zitten tegen elkaar aan.</seg>
+                <seg>Ze giechelen.</seg>
+                <seg>Een eindje verder zit mijn zoon.</seg>
+                <seg>Zo gaat het steeds als ze met z'n drie<del seq="20201018203908" type="context" evidence="653">e</del><add seq="20201018203910" type="context" evidence="655">ë</add>n zijn, dan zit mijn zoon alleen.</seg>
+                <seg><del seq="20201018214640" type="context" evidence="3918"><add seq="20201018214321" type="nt" evidence="3706-3718"><del seq="20201018214414" type="context" evidence="3801">Laatst </del><del seq="20201018214507" type="context|continue" evidence="3872"><add seq="20201018214415" type="context" evidence="3804-3824">De vorige keer </add>ze</del><del seq="20201018214326" type="context" evidence="3719-3722">o***</del></add><add seq="20201018214327" type="nt|continue" evidence="3723-3785"><del seq="20201018214506" type="context" evidence="3871">i hij dat hij niet wist</del><add seq="20201018214507" type="context" evidence="3874-3897">Laatst vroeg hij zich af</add> of zijn vriend<del seq="20201018214428" type="context" evidence="3826"> zijn vriend</del> nog wel <del seq="20201018214430" type="context" evidence="3831-3832">was</del><add seq="20201018214431" type="context" evidence="3833-3861">zijn vriend wilde zijn</add>.</add></del></seg>
+                <seg><add seq="20201018214641" type="rt" evidence="3921-">Ik weet niet of hij mijn vriend nog wel wil zijn, ze<del seq="20201018214651" type="context" evidence="3974">u</del></add><add seq="20201018214651" type="rt|continue" evidence="3975-4017">i hij gisteren<del seq="20201018214720" type="context" evidence="4030-4038"> toen ik hem naar bed bracht</del><add seq="20201018214732" type="context" evidence="4039-4049"> tegen me</add>.</add></seg>
+                <seg>Het is sinaasappelsmaak, zegt hij<del seq="20201018214345" type="context" evidence="3791"> tegen mij</del><add seq="20201018214346" type="context" evidence="3793-3799"> nu</add>.</seg>
+                <seg>Hij knijpt in het karton om het waterijs naar boven te duwen en zuigt dan
+                    hard.</seg>
+                <seg>Niet zo hard, zeg ik.</seg>
+                <seg>Dan kan het in je verkeerde keelgat schieten.</seg>
+                <seg>Hij knikt en zuigt verder.</seg>
+                <seg>Ik <add seq="20201018203930" type="context" evidence="660-691">moet bijna huilen als ik naar </add><del seq="20201018203939" type="context" evidence="699-713">kijk naar </del>de twee giechelende kinderen <del seq="20201018203944" type="context" evidence="713">en moet bijna huilen </del><add seq="20201018203944" type="context" evidence="715-723">kijk </add>en ik weet dat
+                    dit verdriet ouder is dan mijn zoon, dat het komt uit de tijd dat ik zelf twee
+                    giechelende rotvrienden had.</seg>
+                <seg>Hij zuigt weer luidruchtig aan zijn ijsje en dan schiet er een stuk ijs achter
+                    in zijn keel.</seg>
+                <seg>Hij rochelt, <add seq="20201018215214" type="context" evidence="4194-4203">hoest, </add>schraapt, kokhalst en ik sta naast hem en probeer me te herinneren
+                    hoe je de Heimlich-manoeuvre<del seq="20201018215223" type="context" evidence="4205"> moet</del> uitvoer<del seq="20201018215225" type="context" evidence="4210-4211">en</del><add seq="20201018215226" type="context" evidence="4218">t</add>.</seg>
+                <seg>Handen vlak onder het middenrif.</seg>
+                <seg>Maar ik geloof dat het bij kinderen anders moet.</seg>
+                <seg>Ik sla een paar keer op zijn rug.</seg>
+                <seg>Mijn man en onze vrienden wandelen naar buiten.</seg>
+                <seg>Help, roep ik.</seg>
+                <seg>Hij stikt<del seq="20201018204012" type="context" evidence="725">!</del><add seq="20201018204013" type="context" evidence="735">.</add></seg>
+                <seg>Mijn zoon laat een lange harde boer en dan ligt er een stuk feloranje ijs op de
+                    stoep.</seg>
+                <seg>Ik troost hem en tegen de anderen zeg ik: Ik kon niets doen.</seg>
+                <lb type="indent"/>
+                <seg><del seq="20201018204101" type="context" evidence="738-742">Als d</del><add seq="20201018204103" type="context" evidence="746">D</add>e kinderen slapen<add seq="20201018204106" type="context" evidence="748-765"> en<add seq="20201018204220" type="context" evidence="870-899"> we<del seq="20201018204306" type="context" evidence="919"> zitten</del><del seq="20201018204320" type="context" evidence="962"><add seq="20201018204307" type="context" evidence="921-932"> drinken wijn</add></del><add seq="20201018204337" type="context" evidence="971-978"> zitten</add> op het muurtje</add><add seq="20201018204311" type="context" evidence="937-950"><del seq="20201018204340" type="context" evidence="980-992"> voor de deur</del>.</add><del seq="20201018204433" type="context" evidence="1052"><add seq="20201018204346" type="context" evidence="998-1019"> De wijn is bijna op<del seq="20201018204350" type="context" evidence="1020-1022">., </del></add><add seq="20201018204351" type="context" evidence="1023-1025">, h</add></del><del seq="20201018204134" type="context" evidence="775"> we hebben</del></add><del seq="20201018204133" type="context" evidence="769"> bespreken we</del> <del seq="20201018204316" type="context" evidence="955">h</del><del seq="20201018204350" type="context" evidence="1022"><add seq="20201018204317" type="context" evidence="960">H</add></del><add seq="20201018204434" type="context" evidence="1058">H</add>et bijna-stikken-incident<add seq="20201018204140" type="context" evidence="777-809"><del seq="20201018204353" type="context" evidence="1031"> hebben we</del><add seq="20201018204401" type="context" evidence="1035-1036"> is</add><del seq="20201018204441" type="context" evidence="1084-1087"><add seq="20201018204439" type="context" evidence="1063-1067"> al</add></del> uitgebreid besproken</add><del seq="20201018204442" type="context|continue" evidence="1071">.</del></seg>
+                <seg><del seq="20201018204202" type="context" evidence="841"><add seq="20201018204147" type="context" evidence="812-823">Nu vertelt o</add></del><del seq="20201018204150" type="context" evidence="828">O</del><del seq="20201018204203" type="context" evidence="845"><add seq="20201018204202" type="context" evidence="844">O</add></del><del seq="20201018204215" type="context" evidence="860"><add seq="20201018204204" type="context" evidence="847-858">Inmiddels</add></del><del seq="20201018204441" type="context" evidence="1069-1071"><add seq="20201018204217" type="context" evidence="868">O</add></del><add seq="20201018204442" type="context" evidence="1072-1076">, o</add>nze vriend<del seq="20201018204155" type="context" evidence="830-836"> vertelt</del><add seq="20201018204244" type="context" evidence="902-915"> vertelt<del seq="20201018204406" type="context" evidence="1043-1044"> nu</del></add><add seq="20201018204445" type="context" evidence="1078-1082"> nu</add> over de keer dat hij tijdens het vervangen van een lampje
+                    een elektrische schok kreeg en zijn vrouw alleen maar naar haar telefoonscherm
+                    zat te staren.</seg>
+                <seg>Ik zocht op wat je moet doen als iemand een elektrische schok krijgt, zegt onze
+                    vriendin.</seg>
+                <seg>Ze houdt van koken, maar verder is ze niet aards, net als ik.</seg>
+                <seg>Een heleboel dingen vindt ze 'goor', dat woord gebruikt ze vaak.</seg>
+                <seg>Vogels vind ze goor, tassen van slap leer, rijp fruit, oren waarvan de
+                    oorlellen niet hangen, maar meteen doorgroeien in het gezicht.</seg>
+                <lb type="indent"/>
+                <seg>Haar moeder komt <add seq="20201018204522" type="context" evidence="1097-1102">over</add><del seq="20201018215512" type="context" evidence="4279-4284">morgen</del><add seq="20201018215514" type="context" evidence="4285-4302"> een paar dagen</add><del seq="20201018215613" type="context" evidence="4333-4361"> terug van een paar dagen in de hoofdstad</del><add seq="20201018215622" type="context" evidence="4362"> vanuit <add seq="20201018215651" type="context" evidence="4372-4390">haar appartement <del seq="20201018215654" type="typo" evidence="4391-4392">on</del></add><add seq="20201018215655" type="context|continue" evidence="4393-4399">in </add>de hoofdstad naar het </add><add seq="20201018215803" type="context" evidence="4409-4423">familiehuis</add>.</seg>
+                <lb type="indent"/>
+                <seg>Daarom eet ik nu <del seq="20201018204609" type="context" evidence="1141-1147">nog wat</del><add seq="20201018204611" type="context" evidence="1148-1159">wat meer</add>, zegt ze.</seg>
+                <seg><del seq="20201018215551" type="context" evidence="4308"><add seq="20201018215457" type="context" evidence="4266-4274">Vanaf </add><del seq="20201018204525" type="context" evidence="1104">M</del><add seq="20201018204526" type="context" evidence="1106-1112"><del seq="20201018215457" type="context" evidence="4264">O</del>ver<del seq="20201018204537" type="context" evidence="1119">m</del></add><del seq="20201018204536" type="context" evidence="1114-1119">orgen</del><del seq="20201018204542" type="context" evidence="1133"><add seq="20201018204537" type="context" evidence="1120-1131"> twee dagen</add></del><add seq="20201018204542" type="context" evidence="1134">morgen</add></del><add seq="20201018215552" type="context" evidence="4311-4323">Als zij er is</add> kan het niet meer.</seg>
+                <lb type="indent"/>
+                <seg>O, zeg ik bezorgd.</seg>
+                <lb type="indent"/>
+                <seg>Als we 's zomers hier zijn en mijn zussen zijn er ook, dan is mijn moeder de
+                    hele dag aan het koken, maar ze wil niet dat we eten.</seg>
+                <seg>Niet de vrouwen.</seg>
+                <lb type="indent"/>
+                <seg>Jij wel hoor, zegt ze dan.</seg>
+                <seg>Tegenover haar gasten is ze tolerant.</seg>
+                <lb type="indent"/>
+                <seg>Mijn vriendin heeft niet, zoals ik, de vorm van een peer.</seg>
+                <seg>Misschien had ik geen derde glas wijn moeten nemen.</seg>
+                <seg>Dikke mensen kunnen mooi en lelijk zijn, net als dunne mensen, leer ik mijn
+                    zoon.</seg>
+                <seg>Hij mag geen man worden die vrouwen op hun omvang beoordeelt.</seg>
+                <seg>Met je ogen zie je lang niet alles, is een zin uit <emph rend="italics">De kleine prins</emph> die ik vaak<add seq="20201018204641" type="context" evidence="1169-1181"> tegen hem</add> herhaal<add seq="20201018204738" type="context" evidence="1203-1232"><del seq="20201018204918" type="context" evidence="1274-1285">, maar dat b</del><add seq="20201018204920" type="context" evidence="1286-1291"><del seq="20201018204951" type="context" evidence="1301-1302">. </del><add seq="20201018204951" type="context" evidence="1303-1320"><del seq="20201018215917" type="context" evidence="4440-4449"> en dan zegt hij:</del><add seq="20201018215926" type="context" evidence="4450">.</add> </add>B</add>oeit<del seq="20201018204843" type="context" evidence="1269"> hem</del> niet<del seq="20201018204959" type="context" evidence="1326-1347">, <add seq="20201018204809" type="context" evidence="1252-1260">zegt hij<add seq="20201018204923" type="context" evidence="1293-1299"> dan</add>, </add>h</del><del seq="20201018215929" type="context" evidence="4455-4457"><add seq="20201018205004" type="context" evidence="1348-1353">. H</add></del><add seq="20201018215930" type="context" evidence="4458-4482">, zegt hij dan<del seq="20201018215939" type="context" evidence="4484">,</del> want h</add>ij</add><del seq="20201018204749" type="context" evidence="1238-1250"> en dan zegt hij 'boeit niet'<del seq="20201018204654" type="context" evidence="1185">,</del> want hij</del> v<del seq="20201018204713" type="context" evidence="1190-1193">indt</del><add seq="20201018204715" type="context" evidence="1194-1199">ond</add> <del seq="20201018215948" type="context" evidence="4489-4490">da</del><add seq="20201018215949" type="context" evidence="4491-4496">he</add>t geen goed boek.</seg>
+                <seg>Bovendien ziet hij ook wel hoe ik mijn achterkant in de spiegel bekijk.</seg>
+                <seg>Onze vriendin vertelt me weleens over de tijd dat ze studeerde, toen ze van de
+                    stress zo weinig at,<del seq="20201018204800" type="context" evidence="1243-1250"> over</del> hoe goed het voelde om zo mager te zijn.</seg>
+                <seg>Dan <del seq="20201018220132" type="context" evidence="4526-4532">zeg ik </del><del seq="20201018220334" type="context" evidence="4599"><add seq="20201018220223" type="context" evidence="4537-4545">word ik</add><add seq="20201018205615" type="context" evidence="1774-1783"><del seq="20201018220132" type="context|continue" evidence="4532">-</del> kwaad<del seq="20201018220229" type="context" evidence="4547-4549"> - </del></add><add seq="20201018220230" type="context" evidence="4550-4553">, om</add>dat </del><add seq="20201018220334" type="context" evidence="4601-4611">zeg ik dat </add><add seq="20201018205312" type="context" evidence="15054-1523"><del seq="20201018220235" type="context" evidence="4570-4571">da</del><del seq="20201018220339" type="context" evidence="4616-4621"><add seq="20201018220236" type="context" evidence="4572-4577">he</add></del><add seq="20201018220339" type="context" evidence="4618-4621">da</add>t niet klopt, <del seq="20201018220342" type="context" evidence="4623-4627"><add seq="20201018220253" type="context" evidence="4583-4587">om</add></del>dat </add><del seq="20201018205319" type="context" evidence="1528-1534">ik </del><add seq="20201018205046" type="context" evidence="1364-1377"><del seq="20201018205521" type="context" evidence="1682-1686">je je</del><add seq="20201018205522" type="context" evidence="1687-1699">ze zic<del seq="20201018205524" type="typo" evidence="1700-1707">vh niet</del></add><add seq="20201018205526" type="context" evidence="1707-1751">h niet tegelijk gestresst en goed kan voelen</add><del seq="20201018205543" type="context" evidence="1764"> <add seq="20201018205110" type="context" evidence="1401-1414">van stress </add>niet </del></add><del seq="20201018205051" type="context" evidence="1379"><del seq="20201018205025" type="context" evidence="1355-1356">he</del><add seq="20201018205026" type="context" evidence="1357-1362">da</add>t tegenstrijdig vindt, je </del><del seq="20201018205544" type="context|continue" evidence="1769">goed <add seq="20201018205053" type="context" evidence="1384-1390">kunt </add><del seq="20201018205120" type="context" evidence="1416">voelen <del seq="20201018205101" type="context" evidence="1392-1393">om</del><add seq="20201018205102" type="context" evidence="1294-1399">door</add>dat je je gestresst
+                    voelt</del><add seq="20201018205127" type="context" evidence="1419-1424">voelen</add></del> en ik geef haar een standje zoals veel <del seq="20201018220348" type="context" evidence="4629-4636"><add seq="20201018205217" type="context" evidence="1466-1474">jonge </add></del>vrouwen mij een standje geven als
+                    ik zelfondermijnende opmerkingen maak, <del seq="20201018220546" type="context" evidence="4731-4734">maar</del><add seq="20201018220547" type="context" evidence="4753-4738">want</add> ik ben ook<add seq="20201018220354" type="context" evidence="4638-4713"> kwaad o<del seq="20201018220551" type="context" evidence="4746">p</del><add seq="20201018220551" type="context" evidence="4747-4768">mdat ze buigt voor</add> dat hardnekkige, vernietigende schoonheidsideaal en ik ben</add> jaloers, want als ik
+                    gestresst <del seq="20201018205150" type="context" evidence="1434-1436">ben</del><add seq="20201018205151" type="context" evidence="1437-1464">raak <del seq="20201018205723" type="context" evidence="1803-1804">krijg ik </del><del seq="20201018205257" type="context" evidence="1492">honger, dan</del></add><del seq="20201018205255" type="context" evidence="1488"> eet ik <add seq="20201018205246" type="context" evidence="1476-1486">het lief</add></del><del seq="20201018205723" type="context|continue" evidence="1804"><add seq="20201018205257" type="context" evidence="1493-1502">zin in </add></del><add seq="20201018205724" type="context" evidence="1806-1811">eet ik </add>patat.</seg>
+                <seg><add seq="20201018205340" type="context" evidence="1537-1564"><del seq="20201018220604" type="context" evidence="4774">Ik heb bedacht dat z</del><add seq="20201018220605" type="context" evidence="4776">Z</add>ij <add seq="20201018220607" type="context" evidence="4783-4791">vindt </add>zich<add seq="20201018220029" type="context" evidence="4498-4503">zelf</add> </add><del seq="20201018205345" type="context" evidence="1567">V</del><del seq="20201018205353" type="context" evidence="1576"><add seq="20201018205345" type="context" evidence="1570">v</add>an ons twee vindt zij zichzelf</del> vast <del seq="20201018205359" type="context" evidence="1581-1590">de mooiste</del><add seq="20201018205401" type="context" evidence="1591-1621"><del seq="20201018220112" type="context" evidence="4510-4514">het</del><add seq="20201018220113" type="context" evidence="4515-4524">de</add> mooist<add seq="20201018220116" type="context" evidence="4524">e</add><del seq="20201018220612" type="context" evidence="4793"> vindt van</del> ons twee</add>, <del seq="20201018220618" type="context" evidence="4799"><add seq="20201018205408" type="context" evidence="1623-1632">dat ze </add></del>misschien<del seq="20201018205413" type="context" evidence="1634"> gaat ze</del><add seq="20201018220620" type="context" evidence="4804-4809"> dat ze</add> daarom wel
+                    graag met me om<add seq="20201018205416" type="context" evidence="1639-1647">gaat</add>.</seg>
+                <seg>Ze noemt me stijlvol, maar nooit mooi.</seg>
+                <seg><add seq="20201018205448" type="context" evidence="1660-1680">Mijn man, die mij w</add><add seq="20201018205821" type="context" evidence="1822-1866">él mooi vindt<add seq="20201018210008" type="context" evidence="2026">,</add> zegt dat ik me te veel v</add><del seq="20201018205841" type="context" evidence="1877">V</del>erlies<del seq="20201018205850" type="context" evidence="1887"> jezelf niet zo</del> in de gedachtengang van anderen, <del seq="20201018205915" type="context" evidence="1894">zegt mijn man altijd,
+                    die mij<del seq="20201018220914" type="context" evidence="4916-4921"> wél</del> mooi vindt.</del><add seq="20201018205916" type="context" evidence="1896-1903">dat ze v</add><del seq="20201018205918" type="context" evidence="1908">V</del>aak <add seq="20201018205922" type="context" evidence="1910-1923">iets anders </add><del seq="20201018205926" type="context" evidence="1935-1946">denken ze iets anders </del><add seq="20201018210015" type="context" evidence="2028-2036">denken </add>dan <del seq="20201018205939" type="context" evidence="1995-1996">je</del><add seq="20201018205940" type="context" evidence="1999-2002"> ik</add> vermoed<del seq="20201018205943" type="context" evidence="2006">t</del>.</seg>
+                <seg>Het venijn zit in je eigen hoofd<add seq="20201018205947" type="context" evidence="2008-2019">, zegt hij</add>.</seg>
+                <seg><add seq="20201018210021" type="context" evidence="2039-2046">En: </add>Vul me niet in<del seq="20201018210027" type="context" evidence="2048-2051">, roept hij</del><add seq="20201018210031" type="context" evidence="2053">!</add> als we ruzie hebben.</seg>
+                <lb type="indent"/>
+                <seg>Hoe gaat het met je, vraagt onze vriend nu aan mij en hij vraagt waarom ik na
+                    het eten zo stil werd, of het kwam door zijn geklets.</seg>
+                <seg>Ik haat mezelf als ik zo word, zegt hij.</seg>
+                <seg>Als ik me ongemakkelijk voel ga ik hard praten.</seg>
+                <seg>Hij vertelt dat hij de hele dag al het gevoel heeft dat er een laagje plastic
+                    om hem heen zit, alsof hij in een luchtdichte verpakking zit.</seg>
+                <seg>Dat komt door het weer, zeg ik, het is benauwd.</seg>
+                <seg>Toen ik vanavond de keuken inkwam, zegt hij, en jullie daar al zaten te drinken
+                    en lachen dacht ik: Dit kan ik vandaag niet aan.</seg>
+                <seg>Over zijn vakgebied kan hij altijd praten.</seg>
+                <seg><del seq="20201018210553" type="context" evidence="2205">A</del><del seq="20201018220654" type="context" evidence="4817"><add seq="20201018210605" type="context" evidence="2215-2232">Hij kalmeert a</add></del><del seq="20201018220800" type="context" evidence="4858"><add seq="20201018220656" type="context" evidence="4825">A</add>ls hij aan de</del><add seq="20201018220801" type="context" evidence="4861-4866"><del seq="20201018220816" type="context" evidence="4894-4898">Van d</del><add seq="20201018220818" type="context" evidence="4902">D</add>e</add> ecologische geesteswetenschappen <del seq="20201018220806" type="context" evidence="4872">denkt<del seq="20201018210152" type="context" evidence="2062-2079"> krijgt hij energie</del><del seq="20201018210616" type="context" evidence="2234"><add seq="20201018210200" type="context" evidence="2080-2100"> voelt hij zich goed</add></del><add seq="20201018220716" type="context" evidence="4836-4856"> wordt hij rustig</add></del><add seq="20201018220811" type="context" evidence="4975-4892">maken hem rustig</add>.</seg>
+                <seg>Ik herinner me zijn lezing <emph rend="italics">De bikinilijn<del seq="20201018211225" type="context" evidence="1660-1663"><add seq="20201018210211" type="context" evidence="2102-2105">en</add></del> van Theodor Adorno en het einde van
+                    saai weer</emph> waar mijn man en ik geen woord van hadden begrepen.</seg>
+                <seg>Mijn werk is <del seq="20201018211233" type="context" evidence="2665-2673"><add seq="20201018210239" type="context" evidence="2107-2112">altijd </add></del>mijn redding<del seq="20201018221005" type="context" evidence="4929-4940"> geweest</del>, zegt hij.</seg>
+                <seg>Hij vertelt over jeugd in Florida, <add seq="20201018221024" type="context" evidence="4946-4952">over </add>de armoede<del seq="20201018221028" type="context" evidence="4956">,</del><add seq="20201018221028" type="context" evidence="4957-4959"> en</add> zijn kettingrokende moeder die
+                    drie slechtbetaalde baantjes had en daardoor nooit thuis was<add seq="20201018210641" type="context" evidence="2254-2262">. Als</add><del seq="20201018210650" type="context" evidence="2264"> en hoe hij als</del> hij
+                    uit school kwam <add seq="20201018210652" type="context" evidence="2269-2286"><del seq="20201018210737" type="context" evidence="2304">rammelde </del><add seq="20201018210738" type="context" evidence="2306-2313">stond </add>hij </add>net zo lang bij de deur met zijn sleutelbos<add seq="20201018210742" type="context" evidence="2315-2319"> te</add> rammel<del seq="20201018210746" type="context" evidence="2328-2329">de</del><add seq="20201018210747" type="context" evidence="2330-2335">len</add> tot hij
+                    zijn stiefvader, die altijd thuis was, o shit hoorde zeggen en naar zijn
+                    slaapkamer rennen<del seq="20201018210445" type="context" evidence="2181-2183">. H</del><del seq="20201018210752" type="context" evidence="2337-2344"><add seq="20201018210447" type="context" evidence="2184-2199">, want h</add></del><add seq="20201018210754" type="context" evidence="2345-2350"><del seq="20201018211111" type="context" evidence="2590">. </del><del seq="20201018210907" type="context|continue" evidence="2392">H</del></add><del seq="20201018210906" type="context" evidence="2392-2392">ij</del><del seq="20201018210931" type="context" evidence="2419"><add seq="20201018210907" type="context" evidence="2397-2410">Net iets te vaak</add></del><del seq="20201018210938" type="context" evidence="2441"><add seq="20201018210932" type="context" evidence="2422-2438">Van alle keren</add></del><del seq="20201018211046" type="context|continue" evidence="2568"><add seq="20201018210944" type="context" evidence="2450-2465">Hij had gel<del seq="20201018210951" type="context|continue" evidence="2492-">eerd</del></add></del><del seq="20201018210950" type="context|continue" evidence="2472"> had hem<del seq="20201018210710" type="context" evidence="2288-2296"> al een paar keer</del><add seq="20201018210722" type="context" evidence="2297-2302"> al</add><add seq="20201018210842" type="context" evidence="2379-2390"> net iets</add></del><add seq="20201018211044" type="context" evidence="2566"><del seq="20201018211045" type="context" evidence="2567">eerd</del><add seq="20201018211112" type="context" evidence="2592-2626"><del seq="20201018211248" type="context" evidence="2675-2682">, want h</del><del seq="20201018221110" type="context" evidence="4982-4985"><add seq="20201018211249" type="context" evidence="2683-2689">. H</add></del><add seq="20201018221111" type="context" evidence="4986-4993">, want h</add>ij hoefde hem niet nog eens</add><del seq="20201018211122" type="context" evidence="2632"> had hem al net iets te</del></add><add seq="20201018210757" type="context" evidence="2352-2363"><del seq="20201018210949" type="context" evidence="2470-2472"> te</del><del seq="20201018211043" type="context" evidence="2567-"><add seq="20201018210952" type="context" evidence="2496-2526">eerd van alle keren dat hij</add></del><del seq="20201018211002" type="context" evidence="2528"> vaak</del><del seq="20201018211122" type="context|continue" evidence="2633"><add seq="20201018211042" type="context" evidence="2565"> vaak</add></del></add><del seq="20201018211041" type="context" evidence="2562"><add seq="20201018211003" type="context" evidence="2530-2535"> hem</add></del> naakt aan<del seq="20201018211006" type="context" evidence="2537-2545">getroffen</del><del seq="20201018211040" type="context" evidence="2559"><add seq="20201018211008" type="context" evidence="2546-2555">trof</add></del><add seq="20201018211125" type="context" evidence="2637-2647"> te treffen</add><del seq="20201018211132" type="context" evidence="2653"><add seq="20201018211040" type="context" evidence="2560">getroffen</add></del> op die<del seq="20201018210315" type="context" evidence="2122"> idioot</del><add seq="20201018210316" type="context" evidence="2124-2138"> belachelijk</add> grote <add seq="20201018210418" type="context" evidence="2155-2159">nep</add>leren
+                    leunstoel<del seq="20201018210328" type="context" evidence="2140"> van hem</del><add seq="20201018210420" type="context" evidence="2161-2168"> van hem,</add><del seq="20201018210426" type="context" evidence="2174-2179"> die hij op de vuilstort had gevonden,</del> zijn pik in zijn ene
+                    hand en de afstandbediening in de andere.</seg>
+                <lb type="indent"/>
+                <seg>Onze vriendin zegt dat ze zich op het moederschap heeft gestort om niet te
+                    hoeven voelen hoe verwoestend haar eerste huwelijk was.</seg>
+                <seg>Verwoestend is alles wat ze over haar eerste huwelijk kwijt wil.</seg>
+                <seg>Gelukkig kreeg ze met die man geen kind en wel met haar tweede man, onze
+                    vriend, van wie ze een paar maanden na hun ontmoeting zwanger was.</seg>
+                <seg>Ik begin nu pas een beetje mijn oude zelf te worden, zegt ze.</seg>
+                <seg>Ze bedoelt de zelf die in kleine boekwinkeltjes bijzondere uitgaven van
+                    po<del seq="20201018211324" type="context" evidence="2691">e</del><add seq="20201018211326" type="context" evidence="2693-2698">ë</add>ziebundels koopt, die 's avonds lange brieven schrijft aan fictieve figuren
+                    of in leegstaande panden kunstfeestjes organiseert, die zonder eerst te hoeven
+                    gaan liggen haar strakke spijkerbroek dichtritst.</seg>
+                <seg>Ze was vergeten hoe dat allemaal voelde.</seg>
+                <lb/>
+                <seg><del seq="20201018211402" type="context" evidence="2701-2702">Ik</del><add seq="20201018211404" type="context" evidence="2707-2715">Vandaag</add> trakteer<add seq="20201018211407" type="context" evidence="2718-2721"> ik</add> onze vriendin op cocktails.</seg>
+                <seg><add seq="20201018211504" type="context" evidence="2788-2809">Geen probleem, zeg ik.</add></seg>
+                <seg><add seq="20201018211412" type="rt" evidence="2724-2751">Echt<del seq="20201018211511" type="context" evidence="2815">, zeg ik, <add seq="20201018211455" type="context" evidence="2771-2785">dat is echt </add>geen probleem</del>.</add></seg>
+                <seg><del seq="20201018211431" type="context" evidence="2763">Geen probleem! zeg ik, w</del><add seq="20201018211431" type="context" evidence="2767">W</add>ant ik weet dat ze geen grote drinker is.</seg>
+                <seg>Op het terras van het plaatselijke hotel vertelt ze dat ze het mist om verliefd
+                    te zijn.</seg>
+                <seg>Dat spannende, fladderige, zegt ze.</seg>
+                <seg>Niet het pornografische.</seg>
+                <seg>Het moment dat ze hem uit hun broek halen en het echte neuken begint, dat heb
+                    ik eigenlijk altijd goor gevonden, jij niet?</seg>
+                <seg>Nee, zeg ik.</seg>
+                <seg>Hoewel ik oudere lesbiennes de laatste tijd ineens aantrekkelijk vind.</seg>
+                <seg>De soort die pakken draagt, kort haar heeft en zich gedraagt alsof ze wel weet
+                    wat ze met je aan moet.</seg>
+                <seg>Dat is een cliché, zeg ik gauw.</seg>
+                <seg>Dat weet ik ook wel, een heteroseksuele vrouw van boven de veertig die zichzelf
+                    niet meer aantrekkelijk vindt omdat de gemiddelde <add seq="20201018211544" type="context" evidence="2823-2840">heteroseksuele </add>man liever naar jongere
+                    vrouwen kijkt, die alleen begeerte kan voelen als een ander haar begeerlijk
+                    vindt, die daarom haar aandacht verlegt naar vrouwen die eruit zien als een
+                    man.</seg>
+                <seg>Alsof die vrouwen daarop zitten te wachten.</seg>
+                <lb type="indent"/>
+                <seg>Ze begint over de theorie<del seq="20201018211558" type="context" evidence="2842">e</del><add seq="20201018211601" type="context" evidence="2844">ë</add>n van verlangen die ze met haar filosofiestudenten
+                    behandelt en het valt me op dat ze speciaal voor mij eenvoudige woorden gebruikt
+                    en toch dwalen mijn gedachten af naar een moment op het strand, een paar dagen
+                    geleden, toen we met zijn allen in het laatste smalle strookje schaduw zaten en
+                    ik mezelf <emph rend="italics">hot</emph> noemde.</seg>
+                <seg>I'm hot, riep ik.</seg>
+                <seg>I'm a hot woman!</seg>
+                <seg>Het was een grapje, ik bedoelde dat ik het warm had<del seq="20201018211623" type="context" evidence="2854-2856"> en</del><add seq="20201018211624" type="context" evidence="2857-2864">, maar</add> iedereen zweeg<del seq="20201018211629" type="context" evidence="2869-2872"> maar</del><add seq="20201018211630" type="context" evidence="2873-2878"> en</add> ik
+                    hoorde ze denken.</seg>
+                <seg>Opnieuw krimp ik ineen van schaamte.</seg>
+                <lb type="indent"/>
+                <seg>Vrouwen verlangen niet zelf, zegt onze vriendin, maar via een ander.</seg>
+                <seg>Ze ontkennen zichzelf en daarom haten ze zichzelf.</seg>
+                <seg>Ze zegt dat ze jaloers is op het androgyne uiterlijk van de tieners en
+                    twintigers van nu, dat ze <del seq="20201018211720" type="context" evidence="2945-2954"><add seq="20201018211648" type="context" evidence="2881-22943">ook niet eet omdat ze meer op een jongen wil lijken, dat ze </add></del>zich ook zo had gekleed als dat in onze tijd gewoon
+                    was geweest, dat ze, net als haar studenten, niet gelooft dat er een wezenlijk
+                    verschil tussen mannen en vrouwen bestaat.</seg>
+                <seg>Ik zeg dat haar man zichzelf ook haat.</seg>
+                <lb type="indent"/>
+                <seg>Op de dag dat de moeder van onze vriendin in het dorp aankomt draag ik een
+                    wijde maxi-jurk met ballonmouwen die, als ik uit de wind blijf, mijn peervorm
+                    verhult.</seg>
+                <seg>Vanavond eten we zalm, zegt <del seq="20201018211747" type="context" evidence="2960">z</del><add seq="20201018211747" type="context" evidence="2961">d</add>e <add seq="20201018211749" type="context" evidence="2966-2972">moeder </add>tegen ons als ze uit haar auto stapt.</seg>
+                <seg>Dreigend houdt ze een volle boodschappentas omhoog.</seg>
+                <lb type="indent"/>
+                <seg>Het grootste deel van de dag staat ze in de keuken, een tenger figuurtje in een
+                    gigantisch keukenschort.</seg>
+                <seg>Of ze zit in de woonkamer op de bank en kijkt tv.</seg>
+                <seg>Ik zie haar achterhoofd door het raam als ik in de voortuin onder de pijnboom
+                    zit met mijn telefoon.</seg>
+                <seg>Ze heeft asblond geverfd kort haar en een smalle nek.</seg>
+                <seg>Ze kijkt naar een nieuwsreportage over de plaatselijke bosbranden.</seg>
+                <seg>Ik werk aan een activistische Instagram-story over varkens.</seg>
+                <seg>Een schrijver die ik ken publiceerde vandaag een column over de EU-campagne die
+                    Zuid-Europese jongeren ertoe moet bewegen meer varkensvlees te eten.</seg>
+                <seg>Letstalkaboutpork is de hashtag die hun eetlust moet opwekken.</seg>
+                <seg>De schrijver roept iedereen op de hashtag te kapen in posts over de misdadige
+                    mishandeling van varkens in de varkenshouderij.</seg>
+                <lb type="indent"/>
+                <seg>Varkens schuren onophoudelijk langs de stangen van hun veel te smalle kooien in
+                    een wanhopige poging tot contact, schrijf ik.</seg>
+                <seg>#Letstalkaboutpork.</seg>
+                <seg>Vanmorgen maakte ik een foto van het roze marmer in <del seq="20201018212008" type="context" evidence="2981-2982">de</del><add seq="20201018212009" type="context" evidence="2983-2989">onze</add> badkamer dat als
+                    achtergrondje moet dienen bij die tekst.</seg>
+                <seg>Alleen krijg ik de letters er niet mooi in.</seg>
+                <seg>Bovendien zijn de screenshots van de column niet meer goed leesbaar zodra ik ze
+                    in mijn story zet.</seg>
+                <seg>Met mijn wijsvinger timmer ik op het scherm van mijn telefoon.</seg>
+                <seg>Godverdomme, zeg ik steeds en dan zeg ik flikker op en smijt het toestel een
+                    eindje verder in het dorre gras.</seg>
+                <seg>Ik sluit mijn ogen, <add seq="20201018212042" type="context" evidence="2991-3004">haal <add seq="20201018212058" type="context" evidence="3006-3013">diep </add>adem, </add>vraag me af of het woord flikker in deze context kwetsend
+                    is en reik naar mijn telefoon om het op te zoeken.</seg>
+                <seg>Kwaaie pier, zegt mijn man als ik zo word.</seg>
+                <seg><del seq="20201018212108" type="context" evidence="3015">M</del><add seq="20201018212111" type="context" evidence="3022">Z</add>ijn vader werd ook altijd kwaad op de dingen.</seg>
+                <seg>Als hij geen aluminiumfolie uit de houder kreeg rukte hij het ding van de muur
+                    en stampte het in elkaar.</seg>
+                <lb type="indent"/>
+                <seg>Bij mensen houd ik me in.</seg>
+                <seg>Volgens mijn man ga ik me dan ineens tuttig gedragen, maar hij is zelf ook
+                    ingehouden.</seg>
+                <seg>Als we ruzie hebben exploderen we allebei, dan laat ik alle woorden komen en
+                    dat voelt goed, net als eten als ik alleen ben, maar <del seq="20201018212225" type="context" evidence="3033">dan komt </del><add seq="20201018221341" type="context" evidence="5011-5018">dan komt </add>ook <del seq="20201018221347" type="context" evidence="5024"><add seq="20201018212228" type="context" evidence="3047-3054">met </add></del>het
+                    zelfverwijt<del seq="20201018221353" type="context" evidence="5031"> erna</del>, <del seq="20201018221412" type="context" evidence="5040">omdat</del><add seq="20201018221413" type="context" evidence="5041-5046">want</add> er <add seq="20201018221416" type="context" evidence="5048-5055">gaat </add>altijd iets kapot<del seq="20201018221531" type="context" evidence="5134-5140"> gaat</del>, in mijn zoon vooral<del seq="20201018212241" type="context" evidence="3062">, want die
+                        is er weleens bij</del><del seq="20201018212318" type="context" evidence="3094-3096">. S</del><del seq="20201018221422" type="context" evidence="5057"><add seq="20201018212319" type="context" evidence="3097-3108">, want s</add>oms </del><add seq="20201018212305" type="context" evidence="3070-3092"><del seq="20201018221422" type="context|continue" evidence="5058">is</del><add seq="20201018221422" type="context" evidence="5059-5067">, als</add> hij erbij<add seq="20201018221424" type="context" evidence="5070-5073"> is</add><del seq="20201018221431" type="context" evidence="5088-5090"> en</del><add seq="20201018221433" type="context" evidence="5091-5107">, soms zie ik het</add><del seq="20201018221537" type="context" evidence="5142-5148"> dan</del> </add><del seq="20201018221443" type="context" evidence="5112-5121">zie ik het </del>gebeuren, in zijn gezicht, zijn smalle schouders, en toch kan
+                    ik niet stoppen, misschien is het meer als kotsen, of bevallen, de kracht
+                    waarmee het komt.</seg>
+                <lb type="indent"/>
+                <seg>De nek van de moeder van onze vriendin is zo smal dat iemand met grote handen
+                    haar met één hand zou kunnen wurgen.</seg>
+                <seg>Onze vriend komt net het huis uit lopen.</seg>
+                <seg>Wil je nog wat doen vandaag, vraagt hij.</seg>
+                <seg>Ik zeg dat ik mijn story over varkens nog moet afmaken en hij loopt door naar
+                    het muurtje en steekt daar een sigaret op.</seg>
+                <seg>Zouden ze zich al aan me ergeren, vraag ik me af.</seg>
+                <seg>Toen we gisteren pizza gingen halen riep ik dat ik zou betalen en toen kon ik
+                    mijn portemonnee niet vinden, maar dat was geen <del seq="20201018213147" type="context" evidence="3430-3433">truc</del><add seq="20201018213147" type="context" evidence="3434-3438">s<del seq="20201018213148" type="context" evidence="3439-3442">,pes</del></add><add seq="20201018213149" type="context|continue" evidence="3443-3450">moes</add>.</seg>
+                <seg>Hij zat in mijn andere tas, bleek later.</seg>
+                <seg><del seq="20201018212902" type="context" evidence="3253-3256">Ik</del><add seq="20201018212908" type="context" evidence="3258-3305"><del seq="20201018221632" type="context" evidence="5159">Misschien heb ik</del><add seq="20201018221633" type="context" evidence="5162-5175">Ik heb dan wel</add> geen geld, maar ik <del seq="20201018212935" type="context" evidence="3315-3326">kom niet</del></add><add seq="20201018212936" type="context" evidence="3327-3367">groeide niet op in armoede, zoals hij</add><del seq="20201018212707" type="context" evidence="3168-3188"> heb geen geld</del><del seq="20201018212934" type="context" evidence="3315"><add seq="20201018212858" type="context" evidence="3235-3248"> heb geen geld</add>, maar mijn ouders waren niet arm, zoals de zijne</del>.</seg>
+                <seg>Pas toen ik volwassen werd raakte ik blut en dat ben ik de rest van mijn leven
+                    gebleven.</seg>
+                <seg>En zouden ze me<del seq="20201018213432" type="context" evidence="3523-3532"> al</del> gulzig vinden, ik heb hier steeds zo'n honger, ik krijg
+                    haast als er eten op tafel staat, alsof er niet genoeg is<del seq="20201018221633" type="context" evidence="5185-5188">, alsof</del><add seq="20201018221701" type="context" evidence="5189-5191"> en</add> de anderen me
+                    voor zullen zijn, altijd die angst iets tekort te komen,<del seq="20201018213542" type="context" evidence="3534-4544"><add seq="20201018213355" type="context" evidence="3481-3491"> maar ook</add></del> tekort te schieten<del seq="20201018213359" type="context" evidence="3494">,</del><del seq="20201018213546" type="context" evidence="3546-3548"><add seq="20201018213402" type="context" evidence="3499-3505"> of</add></del><add seq="20201018213547" type="context" evidence="3552">,</add>
+                    tekort te worden gedaan<del seq="20201018213345" type="context" evidence="3466">,</del><del seq="20201018213414" type="context" evidence="3507-3517"><add seq="20201018213346" type="context" evidence="3467-3479"> en dat is</add></del><del seq="20201018213559" type="context" evidence="3554"><add seq="20201018213416" type="context" evidence="3518">,</add></del><add seq="20201018213559" type="context" evidence="3555-3570"> en<add seq="20201018221714" type="context" evidence="5197-5207"> laatste</add> dat is</add> het gevoel waarover de kranten <add seq="20201018212531" type="context" evidence="3120-3129">steeds </add>schrijven<add seq="20201018221806" type="context" evidence="5219">,</add> <add seq="20201018221809" type="context" evidence="5223-5227">om</add>dat het
+                    gevaarlijk is, een bron van rechts-extremistisch denken.</seg>
+                <add seq="20201018221738" type="layout" evidence="5217"><lb type="indent"/></add>
+                <seg><del seq="20201018212546" type="context" evidence="3131">Z</del><del seq="20201018212743" type="context" evidence="3190"><add seq="20201018212547" type="context" evidence="3133-3156">Maar z</add></del><add seq="20201018212743" type="context" evidence="3193">Z</add>e zullen me op zijn minst gespannen vinden.</seg>
+                <seg>Mijn man zegt dat ik altijd zo gespannen ben.</seg>
+            </p>
+            <p>
+                <add seq="20201018201837" type="focus" evidence="147">Focus events<lb/><lb/>
+                    <media url="Google" mimeType="internet"><desc>trema windows - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201018201915" type="focus" evidence="168"><media url="Google" mimeType="internet"><desc>Hoe typ je een Kleine letter e met umlaut ? (ë)</desc></media></add>
+                <lb/>
+                <add seq="20201018202310" type="focus" evidence="301"><media url="Google" mimeType="internet"><desc>tijdgeest waardensysteem - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201018202420" type="focus" evidence="362"><media url="Google" mimeType="internet"><desc>zonne-energie frederick douglass - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201018202445" type="focus" evidence="387"><media url="Google" mimeType="internet"><desc>sun energy frederick douglass - Google zoeken</desc></media></add>
+                <lb/>
+                
+                <add seq="20201018202937" type="focus" evidence="514"><media url="Google" mimeType="internet"><desc>frederick douglass solar energy' - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201018202947" type="focus" evidence="560"><media url="Google" mimeType="internet"><desc>Frederick Douglass - Wikipedia</desc></media></add>
+                <lb/>
+                <add seq="20201018212957" type="focus" evidence="3392"><media url="Google" mimeType="internet"><desc>truc of truuk - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201018213016" type="focus" evidence="3411"><media url="Google" mimeType="internet"><desc>Synoniemen.net</desc></media></add>
+                <lb/>
+                <add seq="20201018213129" type="focus" evidence="3428"><media url="Google" mimeType="internet"><desc>Synoniemen van truc; ander woord voor truc - synoniemen.net</desc></media></add>
+                <lb/>
+                <add seq="20201018214818" type="focus" evidence="4118"><media url="Google" mimeType="internet"><desc>schrapen rochelen kokhalsen - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201018214852" type="focus" evidence="4150"><media url="Google" mimeType="internet"><desc>bijna stikken verkeerde keelgat - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201018214858" type="focus" evidence="4156"><media url="Google" mimeType="internet"><desc>Het verkeerde keelgat - Lesmateriaal - Wikiwijs</desc></media></add>
+                <lb/>
+                <add seq="20201018214859" type="focus" evidence="4160"><media url="Google" mimeType="internet"><desc>Schooltv: Verslikken - Wat gebeurt er als je je verslikt?</desc></media></add>
+                <lb/>
+                <add seq="20201018215245" type="focus" evidence="4239"><media url="Google" mimeType="internet"><desc>heimlich manoeuvre - Google zoeken</desc></media></add>
+                <lb/>
+                <add seq="20201018215246" type="focus" evidence="4245"><media url="Google" mimeType="internet"><desc>Heimlichmanoeuvre - Wikipedia</desc></media></add>
+                <lb/>
+            </p>
+        </body>
+    </text>
+</TEI>

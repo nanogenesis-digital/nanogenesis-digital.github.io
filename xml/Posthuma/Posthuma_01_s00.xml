@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>En daarom haten ze zichzelf</title>
+                <author>Jente Posthuma</author>
+                <respStmt>
+                    <name>Lamyk Bekius</name>
+                    <resp>encoding scheme, TEI customization, encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p corresp="section">En daarom haten ze zichzelf</p>
+                <p corresp="session">0</p>
+                <p corresp="version">1</p>
+                <p corresp="total_versions">38</p>
+                <p corresp="name">Jente_Posthuma</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <l>Date: 03-08-2020</l>
+                    <l>Start time: 16:58:46</l>
+                    <l>Duration: 00:24:27</l>
+                </p>
+                <p><linkGrp>
+                    <link prev="#" n="01_s00" next="02_s01"/>
+                    </linkGrp>
+                </p>
+                <p>
+                    <material corresp="01_s00">Sessie-versie 1</material>
+                    <material corresp="02_s01">Sessie-versie 2</material>
+                    <material corresp="03_s02">Sessie-versie 3</material>
+                    <material corresp="04_s03">Sessie-versie 4</material>
+                    <material corresp="05_s04">Sessie-versie 5</material>
+                    <material corresp="06_s05">Sessie-versie 6</material>
+                    <material corresp="07_s06">Sessie-versie 7</material>
+                    <material corresp="08_s07">Sessie-versie 8</material>
+                    <material corresp="09_s08">Sessie-versie 9</material>
+                    <material corresp="10_s09">Sessie-versie 10</material>
+                    <material corresp="11_s10">Sessie-versie 11</material>
+                    <material corresp="12_s11">Sessie-versie 12</material>
+                    <material corresp="13_s12">Sessie-versie 13</material>
+                    <material corresp="14_s13">Sessie-versie 14</material>
+                    <material corresp="15_s14">Sessie-versie 15</material>
+                    <material corresp="16_s15">Sessie-versie 16</material>
+                    <material corresp="17_s16">Sessie-versie 17</material>
+                    <material corresp="18_s17">Sessie-versie 18</material>
+                    <material corresp="19_s18">Sessie-versie 19</material>
+                    <material corresp="20_s19">Sessie-versie 20</material>
+                    <material corresp="21_s20">Sessie-versie 21</material>
+                    <material corresp="22_s21">Sessie-versie 22</material>
+                    <material corresp="23_s22">Sessie-versie 23</material>
+                    <material corresp="24_s23">Sessie-versie 24</material>
+                    <material corresp="25_s24">Sessie-versie 25</material>
+                    <material corresp="26_s25">Sessie-versie 26</material>
+                    <material corresp="27_s26">Sessie-versie 27</material>
+                    <material corresp="28_s27">Sessie-versie 28</material>
+                    <material corresp="29_s28">Sessie-versie 29</material>
+                    <material corresp="30_s29">Sessie-versie 30</material>
+                    <material corresp="31_s30">Sessie-versie 31</material>
+                    <material corresp="32_s31">Sessie-versie 32</material>
+                    <material corresp="33_s32">Sessie-versie 33</material>
+                    <material corresp="34_s33">Sessie-versie 34</material>
+                    <material corresp="35_s34">Sessie-versie 35</material>
+                    <material corresp="36_s35">Sessie-versie 36</material>
+                    <material corresp="37_s36">Sessie-versie 37</material>
+                    <material corresp="38_s37">Sessie-versie 38</material>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><seg><add seq="20200803165925" type="nt" evidence="3-15">Verhaal <add seq="20200803171459" type="context" evidence="3136-3138">De </add>Gids</add></seg>
+                <lb/><lb/>
+                <seg><add seq="20200803171505" type="nt" evidence="3147-3170">Het vinger-klem-incident</add></seg><lb/>
+                <seg><add seq="20200803171445" type="nt" evidence="3113-3127">Aantekeningen: </add></seg><lb/>
+                <seg><add seq="20200803165934" type="nt" evidence="19-43">Het vinger-klem-incident.</add></seg>
+                <seg><add seq="20200803165945" type="nt" evidence="46-56">Hoe machte<del seq="20200803165947" type="typo" evidence="57">;</del></add><add seq="20200803165948" type="nt|continue" evidence="58-71">loos ze was.</add></seg>
+                <seg><add seq="20200803170005" type="nt" evidence="74-75">D<del seq="20200803170006" type="typo" evidence="76">o</del></add><add seq="20200803170006" type="nt|continue" evidence="77-90">iezelfde dag <del seq="20200803170011" type="pre-context" evidence="91">m</del></add><add seq="20200803170012" type="nt|continue" evidence="92-136">nog eens, tijdens het bijna-stikken-incident.</add></seg>
+                <seg><add seq="20200803170027" type="nt" evidence="139-148">Overwhe<del seq="20200803170029" type="typo" evidence="149-151">;lm</del></add><add seq="20200803170031" type="nt|continue" evidence="152-156">lmed.</add></seg>
+                <seg><add seq="20200803170034" type="nt" evidence="159-213">Hoe bedreigend de wereld is en hoe onvoorbereid zij is.</add></seg>
+                <lb/>
+                <seg><add seq="20200803170054" type="nt" evidence="216-235">Hoe zij mensen haat.</add></seg>
+                <seg><add seq="20200803170059" type="nt" evidence="238-247">De kuddes.</add></seg>
+                <seg><add seq="20200803170102" type="nt" evidence="250-258">Hun ogen<del seq="20200803170105" type="typo" evidence="258">/</del></add><add seq="20200803170105" type="nt|continue" evidence="260">.</add></seg>
+                <seg><add seq="20200803170117" type="nt" evidence="263-272">Hun onge<del seq="20200803170122" type="typo" evidence="273-274">ne</del></add><add seq="20200803170123" type="nt|continue" evidence="275-302">geneerde manier van aanwe<del seq="20200803170127" type="typo" evidence="303-305">rzi</del></add><add seq="20200803170128" type="nt|continue" evidence="306-314">zig zijn.</add></seg>
+                <seg><add seq="20200803170133" type="nt" evidence="317-400">Hoe alert ze is op de haat van anderen jegens haar, vooral die van haar
+                    reisgenoten.</add></seg>
+                <seg><add seq="20200803170155" type="nt" evidence="405-451">Kunnen ze haar aanwezigheid nog wel verdragen?</add></seg>
+                <seg><add seq="20200803170210" type="nt" evidence="454-500">Ze is slim, maar niet intellectueel, zoals zij.</add></seg>
+                <seg><add seq="20200803170222" type="nt" evidence="503-518">Haar domme uits<del seq="20200803170225" type="pre-context" evidence="518">t</del></add><add seq="20200803170227" type="nt|continue" evidence="520-540">praak over slavernij.</add></seg>
+                <seg><add seq="20200803170233" type="nt" evidence="543-607">Haar benauwdheid bij het zelfvertrouwen waarmee de mannen praten.</add></seg>
+                <seg><add seq="20200803170250" type="nt" evidence="610-656">Hoe vaak ze dat in haar leven al heeft gevoeld.</add></seg>
+                <seg><add seq="20200803170259" type="nt" evidence="659-679">Benauwdheid en woede.</add></seg>
+                <seg><add seq="20200803170306" type="nt" evidence="682-757">Of eigenlijk vooral woede en het inhouden van haar woede maakt haar
+                    benauwd.</add></seg>
+                <seg><add seq="20200803170327" type="nt" evidence="760-790">Ze is eigenlijk altijd woedend.</add></seg>
+                <lb/>
+                <seg><add seq="20200803170337" type="nt" evidence="793-825">Hoe a-relaxed ze omgaat met geld.</add></seg>
+                <seg><add seq="20200803170347" type="nt" evidence="828-885">Hoe ze gefocust is op het eten en of ze wel genoeg krijgt.</add></seg>
+                <seg><add seq="20200803170402" type="nt" evidence="888-907">Is ze al gespannen?</add></seg>
+                <seg><add seq="20200803170409" type="nt" evidence="910-950">Haar man zegt dat ze altijd gespannen is.</add></seg>
+                <seg><add seq="20200803170418" type="nt" evidence="953-977">Ze heeft dezelfde jurk a<del seq="20200803170424" type="typo" evidence="978">;</del></add><add seq="20200803170424" type="nt|continue" evidence="979-1007">ls de vrouw met wie ze reist.</add></seg>
+                <lb/>
+                <seg><add seq="20200803170436" type="nt" evidence="1011-1057">De vrouw en de man met wie ze reist zijn zwart.</add></seg>
+                <seg><add seq="20200803170449" type="nt" evidence="1060-1118">Ze denkt aan die amerikaanse vrouw die zichzelf voordee<del seq="20200803170500" type="pre-context" evidence="1119-1122">t al</del></add><add seq="20200803170501" type="nt|continue" evidence="1123-1134">d als zwart.</add></seg>
+                <seg><add seq="20200803170506" type="nt" evidence="1137-1160">De woede die dat opriep.</add></seg>
+                <seg><add seq="20200803170515" type="nt" evidence="1163-1312">De punkster op haar school en hoe ze precies dezelfde laarzen kocht met in
+                    plaats van zwarte bontrandjes haar zwarte omgeslagen kniekousen
+                    eroverheen.</add></seg>
+                <seg><add seq="20200803170559" type="nt" evidence="1315-1357">Hoe goed ze is in het kopieren van anderen.</add></seg>
+                <seg><add seq="20200803170617" type="nt" evidence="1360-1448">Later had ze het vriendje van de punkster maar dat was op zijn initiatief, niet
+                    het hare.</add></seg>
+                <seg><add seq="20200803170637" type="nt" evidence="1451-1523">Ze vertelt de zwarte man over haar benauwdheid tijdens het mannengesprek.</add></seg>
+                <seg><add seq="20200803170656" type="nt" evidence="1526-1705">Hij zeght dat hij voelde hoe ze zich terugtrok, dat hij zichzelf haat als hij
+                    zo hard begint te praten over bijvoorbeeld politiek, of kernenergie, het
+                    onderwerp van zijn onderzoek.</add></seg>
+                <seg><add seq="20200803170737" type="nt" evidence="1708-1734">Ze voelt haar woede zakken.</add></seg>
+                <seg><add seq="20200803170745" type="nt" evidence="1737-1782">Ze hadf niet verwacht dat hij zo gevoelig was.</add></seg>
+                <seg><add seq="20200803170753" type="nt" evidence="1785-1835">Ze vraagt zich af of het komt doordat hij zwart is.</add></seg>
+                <seg><add seq="20200803170805" type="nt" evidence="1838-1902">Ze haat zichzelf<add seq="20200803170903" type="typo" evidence="1942"> </add>omdat ze alles wat hij doet op zijn kleur betrekt.</add></seg>
+                <seg><del seq="20200803170834" type="pre-context" evidence="1921"><add seq="20200803170833" type="nt" evidence="1920">D</add></del><add seq="20200803170835" type="nt|continue" evidence="1923-1938"><del seq="20200803170915" type="context" evidence="1961-1965">Ze<add seq="20200803170912" type="context" evidence="1958-1960">***</add></del><add seq="20200803170916" type="context" evidence="1967-1975">Eigenlijk</add> haat <add seq="20200803170921" type="context" evidence="1979-1981">ze </add>zichzelf</add><mod seq="20200803170906" type="continue" evidence="1946-1953"> altijd.</mod></seg>
+                <lb/>
+                <seg><add seq="20200803170933" type="nt" evidence="1991-2082">Over geen begeerte meer voelen omdat ze niet meer het standaard begeerlijke
+                    uiterlijk heeft.</add></seg>
+                <seg><add seq="20200803170953" type="nt" evidence="2085-2146">Over de schaamte die ze voelde toen ze zichzelf voor de grap <del seq="20200803171007" type="pre-context" evidence="2147">e</del></add><add seq="20200803171007" type="nt|continue" evidence="2148-2166">a hot woman
+                    noemde.</add></seg>
+                <seg><add seq="20200803171013" type="nt" evidence="2169-2214">Pas een paar dagen later, vertraagde schaamte.</add></seg>
+                <lb/>
+                <seg><add seq="20200803171025" type="nt" evidence="2217-2237">Over niet autorijden.</add></seg>
+                <seg><add seq="20200803171031" type="nt" evidence="2240-2255">Afhankelijkheid.</add></seg>
+                <seg><add seq="20200803171036" type="nt" evidence="2258-2327">Afkeuring van jonge vrouwen als ze zegt dat ze geen goed chauffeur is.</add></seg>
+                <seg><add seq="20200803171102" type="nt" evidence="2330-2368">Wel van een rots het water in springen.</add></seg>
+                <seg><add seq="20200803171111" type="nt" evidence="2371-2397">Dapper hoor, zegt haar man.</add></seg>
+                <seg><add seq="20200803171118" type="nt" evidence="2400-2421">Maar hij deed het ook.</add></seg>
+                <lb/>
+                <seg><add seq="20200803171124" type="nt" evidence="2424-2467">Over de vriendin die haar niet meer opzoekt.</add></seg>
+                <seg><add seq="20200803171137" type="nt" evidence="2470-2513">Maar zij zoekt de vriendin ook niet meer op.</add></seg>
+                <seg><add seq="20200803171150" type="nt" evidence="2516-2536">Wat is het probleem?</add></seg>
+                <seg><add seq="20200803171200" type="nt" evidence="2539-2549">(ze <del seq="20200803171205" type="pre-context" evidence="2550-2556">noemde </del></add><add seq="20200803171206" type="nt|continue" evidence="2557-2615">had de vriendin vrouwonvriendelijk genoemd, een paar keer) </add></seg><lb/>
+                <seg><add seq="20200803171222" type="nt" evidence="2620-2737">Over haar woede toen haar zus haar om 6 uur 's ochtends ophaalde van Schiphol
+                    maar in de verkeerde aankomsthal stond.</add></seg>
+                <seg><add seq="20200803171253" type="nt" evidence="2740-2763">Haar woede op haar zus <del seq="20200803171304" type="pre-context" evidence="2764">d</del></add><add seq="20200803171304" type="nt|continue" evidence="2765-2863">toen die na een schaamlipcorrectie maar bleef bloeden en
+                    zij haar uit het ziekenhuis moest ophalen.</add></seg>
+                <seg><add seq="20200803171328" type="nt" evidence="2866-2886">Maar ze was niet boo<del seq="20200803171331" type="typo" evidence="2887">d</del></add><add seq="20200803171331" type="nt|continue" evidence="2888-2978">s toen haar zus haar vinger brak bij het kickboksen en zij
+                    naar het ziekenhuis moest komen.</add></seg>
+                <seg><add seq="20200803171402" type="nt" evidence="2980-3024">Waarom toen niet, dat kan ze niet
+                    verklaren.</add></seg>
+                <lb/>
+                <seg><add seq="20200803171416" type="nt" evidence="3027-3105">Hoe gemakkelijk ze de macht over haarzelf, over haar zoon, aan een ander
+                    geeft.</add></seg>
+            </p>
+        </body>
+    </text>
+</TEI>

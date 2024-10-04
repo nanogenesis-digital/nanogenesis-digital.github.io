@@ -23,10 +23,6 @@
                 <link href="https://fonts.googleapis.com/css?family=Roboto Slab" rel="stylesheet"/>
                 <title><xsl:value-of select="//tei:titleStmt/tei:title"/> -
                     <xsl:value-of select="//tei:titleStmt/tei:author"/></title>
-                <script type="application/javascript">
-                    var a = 0; 
-                    var count = 0;
-                </script>
             </head>
             <body>
                 <nav class="navbar navbar-expand-lg navbar-light">
@@ -51,6 +47,7 @@
                             
                         </div>
                     </div>
+                    <span class="copyright"><xsl:value-of select="//tei:publicationStmt/tei:p[@corresp = 'section']"/> © <xsl:value-of select="//tei:titleStmt/tei:author"/></span>
                 </nav>
                 <div class="container-fluid">
                     <div class="row">
@@ -59,36 +56,26 @@
                             
                             <div class="description">
                                 <h2 align="left">
-                                    <xsl:value-of select="//tei:titleStmt/tei:author"/>
-                                    <xsl:text> - </xsl:text>
-                                    <xsl:text>"</xsl:text>
-                                    <xsl:value-of select="//tei:publicationStmt/tei:p[@corresp = 'section']"/>
-                                    <xsl:text>"</xsl:text>
+                                    <xsl:value-of select="//tei:titleStmt/tei:author"/> - "<xsl:value-of select="//tei:publicationStmt/tei:p[@corresp = 'section']"/>"
                                 </h2>
                                 <h3 align="left">
-                                    <xsl:text>Sessie </xsl:text>
-                                    <xsl:value-of select="//tei:publicationStmt/tei:p[@corresp = 'session']"/>
+                                    Session <xsl:value-of select="//tei:publicationStmt/tei:p[@corresp = 'session']"/>
                                 </h3>
                                 <ul class="list-unstyled">
                                     <xsl:apply-templates select="//tei:head"/>
                                     <ul class="list-unstyled">
                                         <li>
-                                            <xsl:text>Date: </xsl:text>
-                                            <xsl:value-of select="substring-after(//tei:sourceDesc/tei:p/tei:l[1], ':')"/>
+                                            Date: <xsl:value-of select="substring-after(//tei:sourceDesc/tei:p/tei:l[1], ':')"/>
                                         </li>
                                         <li>
-                                            <xsl:text>Start time: </xsl:text>
-                                            <xsl:value-of select="substring-after(//tei:sourceDesc/tei:p/tei:l[2], ':')"/>
+                                            Start time: <xsl:value-of select="substring-after(//tei:sourceDesc/tei:p/tei:l[2], ':')"/>
                                         </li>
                                         <li>
-                                            <xsl:text>Duration: </xsl:text>
-                                            <xsl:value-of select="substring-after(//tei:sourceDesc/tei:p/tei:l[3], ':')"/>
+                                            Duration: <xsl:value-of select="substring-after(//tei:sourceDesc/tei:p/tei:l[3], ':')"/>
                                         </li>
                                         <li>
-                                            <xsl:text>Progress: </xsl:text>
-                                            <xsl:text>session-version </xsl:text>
-                                            <xsl:value-of select="//tei:publicationStmt/tei:p[@corresp = 'version']"/>
-                                            <xsl:text> of </xsl:text>
+                                            <xsl:text>Progress: session-version </xsl:text>
+                                            <xsl:value-of select="//tei:publicationStmt/tei:p[@corresp = 'version']"/> of 
                                             <xsl:value-of select="//tei:publicationStmt/tei:p[@corresp = 'total_versions']"/>
                                         </li>
                                         <li>
@@ -162,9 +149,9 @@
                                 <div class="collapse" id="collapseInfo">
                                     <div class="card card-body">
                                         <p>The default text is the text at the beginning of the writing session.
-                                            To show the modifications in the order in which they appeared, use <i style="font-size:14px;" class="fa"></i>, or click through them at your own pace using <i onclick="decrease()" style="font-size:14px;cursor: pointer;" class="fa"></i> amd <i onclick="increase()" style="font-size:14px;cursor: pointer;" class="fa"></i>. Show all the writing operations at the same time using 'All writing operations'. After this, choose to wheter or not to show all the deletions, insertions and typos by clicking the toggle 'deletions', 'insertions', or 'typos'. 
+                                            To show the modifications in the order in which they appeared, use <i style="font-size:14px;" class="fa"></i>, or click through them at your own pace using <i onclick="decrease()" style="font-size:14px;cursor: pointer;" class="fa"></i> and <i onclick="increase()" style="font-size:14px;cursor: pointer;" class="fa"></i>. Show all the writing operations at the same time using 'All writing operations'. After this, choose to wheter or not to show all the deletions, insertions and typos by clicking the toggle 'deletions', 'insertions', or 'typos'. 
                                             'Symbols' places all the writing operations between symbols. 'Numbers revisions' shows the numbers of the order of all the modifications in the text.
-                                            The numbers can be enlarged using '<i style="font-size:12px" class="fa"></i> numbers'. 'Writing path' shows the path the writer took through the text and shows how linear the writing session was.</p>
+                                            The numbers can be enlarged with '<i style="font-size:12px" class="fa"></i> numbers'. 'Writing path' shows the path the writer took through the text and shows how linear the writing session was.</p>
                                     </div>
                                 </div>
                             </div>
@@ -189,7 +176,7 @@
                                 <div style="text-align: center;">
                                     <i style="font-size:24px;cursor: pointer" class="material-icons refresh_btn"></i>
                                 </div>
-                                <p id="demo" style="text-align: center;"/>
+                                <p id="counter" style="text-align: center;"/>
                             </div>
                         </div>
                         <div class="col-lg-1 d-none d-lg-block sides"/>

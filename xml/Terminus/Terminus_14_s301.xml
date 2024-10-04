@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title n="" xml:id="T-Terminus-301_d1e9" prev="#" next="#">Roosevelt</title>
+            <author>Gie Bogaert</author>
+         </titleStmt>
+         <publicationStmt>
+            <p n="section">Terminus</p>
+            <p corresp="sessie">Sessie 301</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>
+               <l>Datum: 9 mei 2015</l>
+               <l>Tijd: 08:29:14</l>
+               <l>Duur: 00:25:25</l>
+            </p>
+            <p><linkGrp><link prev="Terminus-264" n="Terminus-301" next="Terminus-330"/></linkGrp></p></sourceDesc>
+      </fileDesc>
+   </teiHeader>
+
+   <text>
+      <body>
+         <said who="Franklin-10">
+            <p>
+               <title n="" xml:id="T-Terminus-301_d1e50" prev="#" next="#">TERMINUS</title>
+            </p>
+            <p>
+               <seg n="Terminus-301,[Fr10|004]" type="metamark" xml:id="Terminus-301_d1e56" prev="#" next="#Terminus-301_d1e62"><emph rend="italics">Al het voorgaande wordt op de helling gezet.</emph></seg>
+            </p>
+            <p>
+               <seg n="Terminus-301,[Fr10|011]" type="metamark" xml:id="Terminus-301_d1e62" prev="#Terminus-301_d1e56" next="#Terminus-301_d1e68">BEGIN:</seg>
+            </p>
+            <p>
+               <seg n="Terminus-301,[4108]" type="metamark" xml:id="Terminus-301_d1e68" prev="#Terminus-301_d1e62" next="#Terminus-301_d1e71">Tss.</seg>
+               <seg n="Terminus-301,[Fr10|002]" type="metamark" xml:id="Terminus-301_d1e71" prev="#Terminus-301_d1e68" next="#Terminus-301_d1e74">(cf. openingswoord: Psst)</seg>                
+               <seg n="Terminus-301,[4109]" xml:id="Terminus-301_d1e74" prev="#Terminus-301_d1e71" next="#Terminus-301_d1e80">Wat een gedoe, hè.</seg>
+               <lb type="indent"/>
+               <seg n="Terminus-301,[4110]" xml:id="Terminus-301_d1e80" prev="#Terminus-301_d1e74" next="#Terminus-301_d1e87">Tjongejonge.</seg>
+               <lb type="indent"/>
+               <seg n="Terminus-301,[4113]" xml:id="Terminus-301_d1e87" prev="#Terminus-301_d1e80" next="#Terminus-301_d1e90">Zie je (ergens)bloed?</seg>
+               <seg n="Terminus-301,[Fr10|003]" type="metamark" xml:id="Terminus-301_d1e90" prev="#Terminus-301_d1e87" next="#Terminus-301_d1e96">/ (En overal ruikt het naar bloed ofschoon nergens bloed te bespeuren
+                  valt.)</seg>
+               <lb type="indent"/>
+               <seg n="Terminus-301,[4115]" xml:id="Terminus-301_d1e96" prev="#Terminus-301_d1e90" next="#Terminus-301_d1e102">Leef je nog?</seg>
+               <lb type="indent"/>
+               <seg n="Terminus-301,[4116]" xml:id="Terminus-301_d1e102" prev="#Terminus-301_d1e96" next="#Terminus-301_d1e108">Dacht je dat je werd doodgeschoten dan?</seg>
+               <lb type="indent"/>
+               <seg n="Terminus-301,[4117]" xml:id="Terminus-301_d1e108" prev="#Terminus-301_d1e102" next="#Terminus-301_d1e114"><add seq="20150509085119" type="context" evidence="4103-4108">Heb je</add><del seq="20150509085120" type="context" evidence="4109-4131">Doet het</del> ergens pijn?</seg>
+            </p>
+            <p>
+               <seg n="Terminus-301,[Fr10|005]" type="metamark" xml:id="Terminus-301_d1e114" prev="#Terminus-301_d1e108" next="#Terminus-301_d1e117">Alle personages leven nog.</seg>
+               <seg n="Terminus-301,[Fr10|006]" type="metamark" xml:id="Terminus-301_d1e117" prev="#Terminus-301_d1e114" next="#Terminus-301_d1e120">Doen andere dingen.</seg>
+               <seg n="Terminus-301,[Fr10|007]" type="metamark" xml:id="Terminus-301_d1e120" prev="#Terminus-301_d1e117" next="#Terminus-301_d1e123">Van alle verhalen klopt niets.</seg>
+               <seg n="Terminus-301,[4130]" type="metamark" xml:id="Terminus-301_d1e123" prev="#Terminus-301_d1e120" next="#Terminus-301_d1e126">Barry loopt fluitend weg.</seg>
+               <seg n="Terminus-301,[4122]" type="metamark" xml:id="Terminus-301_d1e126" prev="#Terminus-301_d1e123" next="#Terminus-301_d1e130">Gaard leeft nog/weer.</seg>
+               <seg n="Terminus-301,[Fr10|010]" type="metamark" xml:id="Terminus-301_d1e130" prev="#Terminus-301_d1e126" next="#Terminus-301_d1e133">Is helemaal niet aangereden geweest.</seg>
+               <seg n="Terminus-301,[4122]" type="metamark" xml:id="Terminus-301_d1e133" prev="#Terminus-301_d1e130" next="#Terminus-301_d1e136">Klopt het stof uit zijn broek - is gestruikeld.</seg>
+               <seg n="Terminus-301,[Fr10|008]" type="metamark" xml:id="Terminus-301_d1e136" prev="#Terminus-301_d1e133" next="#Terminus-301_d1e142">Helge, Janine en Jella lopen verder.</seg>
+            <lb/>
+               <seg n="Terminus-301,[4127]" type="metamark" xml:id="Terminus-301_d1e142" prev="#Terminus-301_d1e136" next="#Terminus-301_d1e149">En X kijkt naar de stoeptegels voor hem/haar alsof er/daar iets op geschreven
+                  staat.</seg>
+            <lb/>
+               <seg n="Terminus-301,[4136]" xml:id="Terminus-301_d1e149" prev="#Terminus-301_d1e142" next="#Terminus-301_d1e152">En jij?</seg>
+               <seg n="Terminus-301,[4137]" xml:id="Terminus-301_d1e152" prev="#Terminus-301_d1e149" next="#Terminus-301_d1e155">Voel je nog wat in je buik?</seg>
+               <seg n="Terminus-301,[4138]" xml:id="Terminus-301_d1e155" prev="#Terminus-301_d1e152" next="#Terminus-301_d1e158">Natuurlijk niet.</seg>
+               <seg n="Terminus-301,[4138|001]" xml:id="Terminus-301_d1e158" prev="#Terminus-301_d1e155" next="#Terminus-301_d1e161">Je wilde alleen maar begeerd worden.</seg>
+               <seg n="Terminus-301,[4138|002]" xml:id="Terminus-301_d1e161" prev="#Terminus-301_d1e158" next="#Terminus-301_d1e165">Niks meer of niks minder.</seg>
+               <seg n="Terminus-301,[4138|003]" xml:id="Terminus-301_d1e165" prev="#Terminus-301_d1e161" next="#Terminus-301_d1e168">De rest is in je hoofd gebeurd.</seg>
+               <seg n="Terminus-301,[4141]" xml:id="Terminus-301_d1e168" prev="#Terminus-301_d1e165" next="#Terminus-301_d1e174">Einde verhaal.</seg>
+               <lb type="indent"/>
+               <seg n="Terminus-301,[4144]" xml:id="Terminus-301_d1e174" prev="#Terminus-301_d1e168" next="#Terminus-301_d1e177">Je werk(dag)(week) zit er op.</seg>
+               <seg n="Terminus-301,[4145]" xml:id="Terminus-301_d1e177" prev="#Terminus-301_d1e174" next="#Terminus-301_d1e183">Je hebt goed geteld.</seg>
+               <lb type="indent"/>
+               <seg n="Terminus-301,[4142]" xml:id="Terminus-301_d1e183" prev="#Terminus-301_d1e177" next="#Terminus-301_d1e186">Haal je fiets maar uit de stalling<add seq="20150509085159" type="context" evidence="4240">.</add></seg>
+               <seg n="Terminus-301,[4143]" xml:id="Terminus-301_d1e186" prev="#Terminus-301_d1e183" next="#Terminus-301_d1e192"><add seq="20150509085200" type="context" evidence="4243">R</add><del seq="20150509085201" type="context" evidence="4244-4257">en r</del>ij naar huis.</seg>
+               <lb type="indent"/>
+               <seg n="Terminus-301,[4146]" xml:id="Terminus-301_d1e192" prev="#Terminus-301_d1e186" next="#Terminus-301_d1e195">Het nummer van het slot is twee, zes, <emph rend="italics">zeven</emph>.</seg>
+               <seg n="Terminus-301,[4147]" xml:id="Terminus-301_d1e195" prev="#Terminus-301_d1e192" next="#Terminus-301_d1e201">Niet negen.</seg>
+               <lb type="indent"/>
+               <seg n="Terminus-301,[4148]" xml:id="Terminus-301_d1e201" prev="#Terminus-301_d1e195" next="#Terminus-301_d1e207">Ik zei toch al dat je me niet moest geloven?</seg>
+               <lb type="indent"/>
+               <seg n="Terminus-301,[4148|001]" xml:id="Terminus-301_d1e207" prev="#Terminus-301_d1e201" next="#Terminus-301_d1e214">Pleinen zijn volstrekt onbetrouwbaar.</seg>
+               <lb type="indent"/>
+               <seg n="Terminus-301,[4150]" xml:id="Terminus-301_d1e214" prev="#Terminus-301_d1e207" next="#">Ik heb zelfs jou verzonnen.</seg>
+            </p>
+         </said>
+         <p source="chapters">
+            <title n="" xml:id="T-Terminus-301_d1e220" prev="#" next="#T-Terminus-301_d1e221">FLAPTEKST</title>
+            <title n="" xml:id="T-Terminus-301_d1e221" prev="#T-Terminus-301_d1e220" next="#T-Terminus-301_d1e224">OPSTAP</title>
+            <title n="" xml:id="T-Terminus-301_d1e224" prev="#T-Terminus-301_d1e221" next="#T-Terminus-301_d1e227">HALFZEVEN</title>
+            <title n="" xml:id="T-Terminus-301_d1e227" prev="#T-Terminus-301_d1e224" next="#T-Terminus-301_d1e230">CARLA</title>
+            <title n="" xml:id="T-Terminus-301_d1e230" prev="#T-Terminus-301_d1e227" next="#T-Terminus-301_d1e233">HELGE</title>
+            <title n="" xml:id="T-Terminus-301_d1e233" prev="#T-Terminus-301_d1e230" next="#T-Terminus-301_d1e237">REMY</title>
+            <title n="" xml:id="T-Terminus-301_d1e237" prev="#T-Terminus-301_d1e233" next="#T-Terminus-301_d1e240">ACHT UUR</title>
+            <title n="" xml:id="T-Terminus-301_d1e240" prev="#T-Terminus-301_d1e237" next="#T-Terminus-301_d1e243">FRANKLIN</title>
+            <title n="" xml:id="T-Terminus-301_d1e243" prev="#T-Terminus-301_d1e240" next="#T-Terminus-301_d1e246">FELIX</title>
+            <title n="" xml:id="T-Terminus-301_d1e246" prev="#T-Terminus-301_d1e243" next="#T-Terminus-301_d1e249">GAARD</title>
+            <title n="" xml:id="T-Terminus-301_d1e249" prev="#T-Terminus-301_d1e246" next="#T-Terminus-301_d1e252">JANINE</title>
+            <title n="" xml:id="T-Terminus-301_d1e252" prev="#T-Terminus-301_d1e249" next="#T-Terminus-301_d1e256">TIEN UUR</title>
+            <title n="" xml:id="T-Terminus-301_d1e256" prev="#T-Terminus-301_d1e252" next="#T-Terminus-301_d1e259">FRANKLIN</title>
+            <title n="" xml:id="T-Terminus-301_d1e259" prev="#T-Terminus-301_d1e256" next="#T-Terminus-301_d1e262">ANA</title>
+            <title n="" xml:id="T-Terminus-301_d1e262" prev="#T-Terminus-301_d1e259" next="#T-Terminus-301_d1e265">HELGE</title>
+            <title n="" xml:id="T-Terminus-301_d1e265" prev="#T-Terminus-301_d1e262" next="#T-Terminus-301_d1e268">FARAAZ</title>
+            <title n="" xml:id="T-Terminus-301_d1e268" prev="#T-Terminus-301_d1e265" next="#T-Terminus-301_d1e271">MIDDAG</title>
+            <title n="" xml:id="T-Terminus-301_d1e271" prev="#T-Terminus-301_d1e268" next="#T-Terminus-301_d1e275">JELLA</title>
+            <title n="" xml:id="T-Terminus-301_d1e275" prev="#T-Terminus-301_d1e271" next="#T-Terminus-301_d1e278">FRANKLIN</title>
+            <title n="" xml:id="T-Terminus-301_d1e278" prev="#T-Terminus-301_d1e275" next="#T-Terminus-301_d1e281">BARRY</title>
+            <title n="" xml:id="T-Terminus-301_d1e281" prev="#T-Terminus-301_d1e278" next="#T-Terminus-301_d1e284">CARLA</title>
+            <title n="" xml:id="T-Terminus-301_d1e284" prev="#T-Terminus-301_d1e281" next="#T-Terminus-301_d1e287">TWEE UUR</title>
+            <title n="" xml:id="T-Terminus-301_d1e287" prev="#T-Terminus-301_d1e284" next="#T-Terminus-301_d1e290">JANINE</title>
+            <title n="" xml:id="T-Terminus-301_d1e290" prev="#T-Terminus-301_d1e287" next="#T-Terminus-301_d1e294">HELGE</title>
+            <title n="" xml:id="T-Terminus-301_d1e294" prev="#T-Terminus-301_d1e290" next="#T-Terminus-301_d1e297">FRANKLIN</title>
+            <title n="" xml:id="T-Terminus-301_d1e297" prev="#T-Terminus-301_d1e294" next="#T-Terminus-301_d1e300">FELIX</title>
+            <title n="" xml:id="T-Terminus-301_d1e300" prev="#T-Terminus-301_d1e297" next="#T-Terminus-301_d1e303">FARAAZ</title>
+            <title n="" xml:id="T-Terminus-301_d1e303" prev="#T-Terminus-301_d1e300" next="#T-Terminus-301_d1e306">ANA</title>
+            <title n="" xml:id="T-Terminus-301_d1e306" prev="#T-Terminus-301_d1e303" next="#T-Terminus-301_d1e309">JELLA</title>
+            <title n="" xml:id="T-Terminus-301_d1e309" prev="#T-Terminus-301_d1e306" next="#T-Terminus-301_d1e313">CARLA</title>
+            <title n="" xml:id="T-Terminus-301_d1e313" prev="#T-Terminus-301_d1e309" next="#T-Terminus-301_d1e316">GAARD</title>
+            <title n="" xml:id="T-Terminus-301_d1e316" prev="#T-Terminus-301_d1e313" next="#T-Terminus-301_d1e319">BARRY</title>
+            <title n="" xml:id="T-Terminus-301_d1e319" prev="#T-Terminus-301_d1e316" next="#T-Terminus-301_d1e322">VIER UUR</title>
+            <title n="" xml:id="T-Terminus-301_d1e322" prev="#T-Terminus-301_d1e319" next="#T-Terminus-301_d1e325">REMY</title>
+            <title n="" xml:id="T-Terminus-301_d1e325" prev="#T-Terminus-301_d1e322" next="#T-Terminus-301_d1e328">CARLA</title>
+            <title n="" xml:id="T-Terminus-301_d1e328" prev="#T-Terminus-301_d1e325" next="#T-Terminus-301_d1e332">JELLA</title>
+            <mod seq="20150509083059" type="chapters" evidence="43-1620"><title n="" xml:id="T-Terminus-301_d1e332" prev="#T-Terminus-301_d1e328" next="#T-Terminus-301_d1e335">FRANKLIN</title></mod>
+            <mod seq="20150509083737" type="chapters" evidence="1732-2711"><title n="" xml:id="T-Terminus-301_d1e335" prev="#T-Terminus-301_d1e332" next="#T-Terminus-301_d1e338">RICO</title></mod>
+            <mod seq="20150509084336" type="chapters" evidence="2791-3369"><title n="" xml:id="T-Terminus-301_d1e338" prev="#T-Terminus-301_d1e335" next="#T-Terminus-301_d1e341">FELIX</title></mod>
+            <title n="" xml:id="T-Terminus-301_d1e341" prev="#T-Terminus-301_d1e338" next="#T-Terminus-301_d1e344">FARAAZ</title>
+            <title n="" xml:id="T-Terminus-301_d1e344" prev="#T-Terminus-301_d1e341" next="#T-Terminus-301_d1e347">FRANKLIN</title>
+            <title n="" xml:id="T-Terminus-301_d1e347" prev="#T-Terminus-301_d1e344" next="#T-Terminus-301_d1e351">AMBER!</title>
+            <title n="" xml:id="T-Terminus-301_d1e351" prev="#T-Terminus-301_d1e347" next="#T-Terminus-301_d1e354">ANA</title>
+            <title n="" xml:id="T-Terminus-301_d1e354" prev="#T-Terminus-301_d1e351" next="#T-Terminus-301_d1e357">BARRY</title>
+            <title n="" xml:id="T-Terminus-301_d1e357" prev="#T-Terminus-301_d1e354" next="#T-Terminus-301_d1e360">JANINE</title>
+            <mod seq="20150509084531" type="chapters" evidence="3390-3464"><title n="" xml:id="T-Terminus-301_d1e360" prev="#T-Terminus-301_d1e357" next="#T-Terminus-301_d1e363">ZES UUR</title></mod>
+            <mod seq="20150509084615" type="chapters" evidence="3488-3624"><title n="" xml:id="T-Terminus-301_d1e363" prev="#T-Terminus-301_d1e360" next="#T-Terminus-301_d1e366">FELIX</title></mod>
+            <title n="" xml:id="T-Terminus-301_d1e366" prev="#T-Terminus-301_d1e363" next="#T-Terminus-301_d1e370">REMY</title>
+            <title n="" xml:id="T-Terminus-301_d1e370" prev="#T-Terminus-301_d1e366" next="#T-Terminus-301_d1e373">FARAAZ</title>
+            <title n="" xml:id="T-Terminus-301_d1e373" prev="#T-Terminus-301_d1e370" next="#T-Terminus-301_d1e376">JANINE</title>
+            <title n="" xml:id="T-Terminus-301_d1e376" prev="#T-Terminus-301_d1e373" next="#T-Terminus-301_d1e379">BARRY</title>
+            <title n="" xml:id="T-Terminus-301_d1e379" prev="#T-Terminus-301_d1e376" next="#T-Terminus-301_d1e382">JELLA</title>
+            <title n="" xml:id="T-Terminus-301_d1e382" prev="#T-Terminus-301_d1e379" next="#T-Terminus-301_d1e385">GAARD</title>
+            <title n="" xml:id="T-Terminus-301_d1e385" prev="#T-Terminus-301_d1e382" next="#T-Terminus-301_d1e389">ANA</title>
+            <title n="" xml:id="T-Terminus-301_d1e389" prev="#T-Terminus-301_d1e385" next="#T-Terminus-301_d1e392">HELGE</title>
+            <title n="" xml:id="T-Terminus-301_d1e392" prev="#T-Terminus-301_d1e389" next="#T-Terminus-301_d1e395">CARLA</title>
+            <title n="" xml:id="T-Terminus-301_d1e395" prev="#T-Terminus-301_d1e392" next="#T-Terminus-301_d1e398">VOORAVOND</title>
+            <title n="" xml:id="T-Terminus-301_d1e398" prev="#T-Terminus-301_d1e395" next="#T-Terminus-301_d1e401">FELIX</title>
+            <title n="" xml:id="T-Terminus-301_d1e401" prev="#T-Terminus-301_d1e398" next="#T-Terminus-301_d1e404">REMY</title>
+            <title n="" xml:id="T-Terminus-301_d1e404" prev="#T-Terminus-301_d1e401" next="#T-Terminus-301_d1e408">FARAAZ</title>
+            <title n="" xml:id="T-Terminus-301_d1e408" prev="#T-Terminus-301_d1e404" next="#T-Terminus-301_d1e411">JANINE</title>
+            <title n="" xml:id="T-Terminus-301_d1e411" prev="#T-Terminus-301_d1e408" next="#T-Terminus-301_d1e414">JELLA</title>
+            <title n="" xml:id="T-Terminus-301_d1e414" prev="#T-Terminus-301_d1e411" next="#T-Terminus-301_d1e417">ANA</title>
+            <title n="" xml:id="T-Terminus-301_d1e417" prev="#T-Terminus-301_d1e414" next="#T-Terminus-301_d1e420">HELGE</title>
+            <title n="" xml:id="T-Terminus-301_d1e420" prev="#T-Terminus-301_d1e417" next="#T-Terminus-301_d1e423">CARLA</title>
+            <mod seq="20150509085004" type="chapters" evidence="3809-3891"><title n="" xml:id="T-Terminus-301_d1e423" prev="#T-Terminus-301_d1e420" next="#T-Terminus-301_d1e427">BARRY</title></mod>
+            <title n="" xml:id="T-Terminus-301_d1e427" prev="#T-Terminus-301_d1e423" next="#">TERMINUS</title>
+            <mod seq="20150509085337" type="chapters" evidence="4430-4450"><title>KRIJTKUNSTENAAR</title></mod>
+         </p>
+      </body>
+   </text>
+</TEI>

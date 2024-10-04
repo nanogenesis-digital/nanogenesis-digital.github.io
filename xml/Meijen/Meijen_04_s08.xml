@@ -20,7 +20,7 @@
                 <p>
                     <l>Date: 05-08-2020 </l>
                     <l>Start time: 14:09:48</l>
-                    <l>Duration: 1:26:22</l>
+                    <l>Duration: 01:26:22</l>
                 </p>
                 <p><linkGrp><link prev="03_s07" n="04_s08" next="05_s10"/></linkGrp></p>
                 <p>
@@ -30,7 +30,6 @@
                     <material corresp="04_s08">Sessie-versie 4</material>
                     <material corresp="05_s10">Sessie-versie 5</material>
                     <material corresp="06_s11">Sessie-versie 6</material>
-                    <material corresp="Final">Gepubliceerde tekst</material>
                 </p>
             </sourceDesc>
         </fileDesc>

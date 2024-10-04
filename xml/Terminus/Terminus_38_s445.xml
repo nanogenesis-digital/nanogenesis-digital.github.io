@@ -1,0 +1,202 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title n="" xml:id="T-Terminus-445_d1e9" prev="#" next="#">Roosevelt</title>
+            <author>Gie Bogaert</author>
+         </titleStmt>
+         <publicationStmt>
+            <p n="section">Terminus</p>
+            <p corresp="sessie">Sessie 445</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>
+               <l>Datum: 31 november 2015</l>
+               <l>Tijd: 18:08:54</l>
+               <l>Duur: 00:22:02</l>
+            </p>
+            <p><linkGrp><link prev="Terminus-441" n="Terminus-445" next="Terminus-ED"/></linkGrp></p></sourceDesc>
+      </fileDesc>
+   </teiHeader>
+
+
+   <text>
+      <body>
+         <said who="Franklin-10">
+            <p>
+               <title n="" xml:id="T-Terminus-445_d1e50" prev="#" next="#">TERMINUS</title>
+            </p>
+            <p>
+               <seg n="Terminus-445,[4108]" xml:id="Terminus-445_d1e56" prev="#" next="#Terminus-445_d1e59">T<add seq="20151131182728" type="context" evidence="4180-4181">ss</add><del seq="20151131182729" type="context" evidence="4182-4183">S</del>.</seg>
+               <seg n="Terminus-445,[4109]" xml:id="Terminus-445_d1e59" prev="#Terminus-445_d1e56" next="#Terminus-445_d1e65">Wat een gedoe, hè?</seg>
+            
+            <lb type="indent"/>
+               <seg n="Terminus-445,[4110]" xml:id="Terminus-445_d1e65" prev="#Terminus-445_d1e59" next="#Terminus-445_d1e71">Tjongejonge.</seg>
+            
+            <lb type="indent"/>
+               <seg n="Terminus-445,[4111]" xml:id="Terminus-445_d1e71" prev="#Terminus-445_d1e65" next="#Terminus-445_d1e77">Je denkt natuurlijk: goh, moet het zo eindigen?</seg>
+               <seg n="Terminus-445,[4111|001]" xml:id="Terminus-445d_d1e74"><del seq="20151131182740" type="context" evidence="4189-4192">Zo geweldig?</del></seg>
+            
+            <lb type="indent"/>
+               <seg n="Terminus-445,[4112]" xml:id="Terminus-445_d1e77" prev="#Terminus-445_d1e71" next="#Terminus-445_d1e84">Kijk <add seq="20151131182748" type="context" evidence="4205-4208">dan </add>nog maar eens goed.</seg>
+            
+            <lb type="indent"/>
+               <seg n="Terminus-445,[4113]" xml:id="Terminus-445_d1e84" prev="#Terminus-445_d1e77" next="#Terminus-445_d1e90">Zie je ergens bloed?</seg>
+            
+            <lb type="indent"/>
+               <seg n="Terminus-445,[4114]" xml:id="Terminus-445_d1e90" prev="#Terminus-445_d1e84" next="#Terminus-445_d1e96">Nee toch?</seg>
+            
+            <lb type="indent"/>
+               <seg n="Terminus-445,[4115]" xml:id="Terminus-445_d1e96" prev="#Terminus-445_d1e90" next="#Terminus-445_d1e102">En als je iets kunt zien, dan leef je toch nog?</seg>
+            
+            <lb type="indent"/>
+               <seg n="Terminus-445,[4116]" xml:id="Terminus-445_d1e102" prev="#Terminus-445_d1e96" next="#Terminus-445_d1e108">Dacht je dat je werd doodgeschoten <add seq="20151131182755" type="context" evidence="4214-4217">soms</add><del seq="20151131182756" type="context" evidence="4218-4225">dan</del>?</seg>
+            
+            <lb type="indent"/>
+               <seg n="Terminus-445,[4117]" xml:id="Terminus-445_d1e108" prev="#Terminus-445_d1e102" next="#Terminus-445_d1e114">Heb je ergens pijn misschien?</seg>
+            
+            <lb type="indent"/>
+               <seg n="Terminus-445,[4118]" xml:id="Terminus-445_d1e114" prev="#Terminus-445_d1e108" next="#Terminus-445_d1e117">Sta maar weer op.</seg>
+               <seg n="Terminus-445,[4119]" xml:id="Terminus-445_d1e117" prev="#Terminus-445_d1e114" next="#Terminus-445_d1e120">Je had gewoon een flauwte.</seg>
+               <seg n="Terminus-445,[4120]" xml:id="Terminus-445_d1e120" prev="#Terminus-445_d1e117" next="#Terminus-445_d1e127">Meer niet.</seg>
+            
+            <lb type="indent"/>
+               <seg n="Terminus-445,[4121]" xml:id="Terminus-445_d1e127" prev="#Terminus-445_d1e120" next="#Terminus-445_d1e130">Kijk naar al die mensen om je heen.</seg>
+               <seg n="Terminus-445,[4122]" xml:id="Terminus-445_d1e130" prev="#Terminus-445_d1e127" next="#Terminus-445_d1e133">Zie je hoe die grijze man daar het stof uit zijn broek slaat alsof hij is
+                  gestruikeld?</seg>
+               <seg n="Terminus-445,[4123]" xml:id="Terminus-445_d1e133" prev="#Terminus-445_d1e130" next="#Terminus-445_d1e139">Merk je dat die lange vrouw met het lint in haar haar nog een zitje heeft
+                  gevonden op tram 11?</seg>
+            
+            <lb type="indent"/>
+               <seg n="Terminus-445,[4124]" xml:id="Terminus-445_d1e139" prev="#Terminus-445_d1e133" next="#Terminus-445_d1e145">Kijk hoe de tram <add seq="20151131182808" type="context" evidence="4239-4243">naar </add>het <del seq="20151131182811" type="context" evidence="4252-4365">oude </del>stadscentrum <add seq="20151131182815" type="context" evidence="4301-4305">rijdt</add><del seq="20151131182816" type="context" evidence="4306-4331">in draait</del>.</seg>
+            
+            <lb type="indent"/>
+               <seg n="Terminus-445,[4125]" xml:id="Terminus-445_d1e145" prev="#Terminus-445_d1e139" next="#Terminus-445_d1e148">Zie je hoe die vrouw met dat blonde haar op het perron zich tegen de late zon
+                  beschermt, hoewel die nu een behaaglijke warmte geeft?</seg>
+               <seg n="Terminus-445,[4126]" xml:id="Terminus-445_d1e148" prev="#Terminus-445_d1e145" next="#Terminus-445_d1e151">En kijk eens hoe die al wat oudere vrouw daar mijn buik af waggelt.</seg>
+               <seg n="Terminus-445,[4127]" xml:id="Terminus-445_d1e151" prev="#Terminus-445_d1e148" next="#Terminus-445_d1e157">Ze kijkt naar de stoeptegels voor haar alsof er iets op geschreven staat.</seg>
+            
+            <lb type="indent"/>
+               <seg n="Terminus-445,[4128]" xml:id="Terminus-445_d1e157" prev="#Terminus-445_d1e151" next="#Terminus-445_d1e160">De kelner bij Gustav doet er nog een uurtje bij omdat een van zijn collega's net
+                  terug naar huis is gegaan en het weer druk is op het terras.</seg>
+               <seg n="Terminus-445,[4129]" xml:id="Terminus-445_d1e160" prev="#Terminus-445_d1e157" next="#Terminus-445_d1e166">Hij heeft zijn vrouw al gebeld en zijn dochtertje aan de lijn gevraagd.</seg>
+            
+            <lb type="indent"/>
+               <seg n="Terminus-445,[4130]" xml:id="Terminus-445_d1e166" prev="#Terminus-445_d1e160" next="#Terminus-445_d1e169">En zie je hoe die jongen fluitend naar de Leien loopt?</seg>
+               <seg n="Terminus-445,[4131]" xml:id="Terminus-445_d1e169" prev="#Terminus-445_d1e166" next="#Terminus-445_d1e172">In zijn sporttas zitten een trompet en een rode tifo met een drietand
+                  erop.</seg>
+               <seg n="Terminus-445,[4132]" xml:id="Terminus-445_d1e172" prev="#Terminus-445_d1e169" next="#Terminus-445_d1e175">Hij is op weg naar de Grote Markt.</seg>
+               <seg n="Terminus-445,[4133]" xml:id="Terminus-445_d1e175" prev="#Terminus-445_d1e172" next="#Terminus-445_d1e178">Een paar jongens van het werk wachten al op hem.</seg>
+               <seg n="Terminus-445,[4134]" xml:id="Terminus-445_d1e178" prev="#Terminus-445_d1e175" next="#Terminus-445_d1e182">Ze hebben hun gezichten met de Belgische driekleur beschilderd.</seg>
+               <seg n="Terminus-445,[4135]" xml:id="Terminus-445_d1e182" prev="#Terminus-445_d1e178" next="#Terminus-445_d1e188">Ze werken niet voor niets in de lakkerij.</seg>
+            
+            <lb type="indent"/>
+               <seg n="Terminus-445,[4136]" xml:id="Terminus-445_d1e188" prev="#Terminus-445_d1e182" next="#Terminus-445_d1e191">En jij?</seg>
+               <seg n="Terminus-445,[4137]" xml:id="Terminus-445_d1e191" prev="#Terminus-445_d1e188" next="#Terminus-445_d1e198">Voel jij nog wat in je buik?</seg>
+            
+            <lb type="indent"/>
+               <seg n="Terminus-445,[4138]" xml:id="Terminus-445_d1e198" prev="#Terminus-445_d1e191" next="#Terminus-445_d1e201">Natuurlijk niet.</seg>
+               <seg n="Terminus-445,[4139]" xml:id="Terminus-445_d1e201" prev="#Terminus-445_d1e198" next="#Terminus-445_d1e204"><emph rend="italics">It all happens inside.</emph></seg>
+               <seg n="Terminus-445,[4140]" xml:id="Terminus-445_d1e204" prev="#Terminus-445_d1e201" next="#Terminus-445_d1e210">De reclameslogan op het dak daar blijft de enige die niet gelogen is.</seg>
+            
+            <lb type="indent"/>
+               <seg n="Terminus-445,[4141]" xml:id="Terminus-445_d1e210" prev="#Terminus-445_d1e204" next="#Terminus-445_d1e216">Einde verhaal dus.</seg>
+            
+            <lb type="indent"/>
+               <seg n="Terminus-445,[4142]" xml:id="Terminus-445_d1e216" prev="#Terminus-445_d1e210" next="#Terminus-445_d1e219">Haal je fiets maar uit de stalling.</seg>
+               <seg n="Terminus-445,[4143]" xml:id="Terminus-445_d1e219" prev="#Terminus-445_d1e216" next="#Terminus-445_d1e222">Rij naar huis.</seg>
+               <seg n="Terminus-445,[4144]" xml:id="Terminus-445_d1e222" prev="#Terminus-445_d1e219" next="#Terminus-445_d1e225">Je werk zit er op.</seg>
+               <seg n="Terminus-445,[4145]" xml:id="Terminus-445_d1e225" prev="#Terminus-445_d1e222" next="#Terminus-445_d1e231">Je hebt goed geteld.</seg>
+            
+            <lb type="indent"/>
+               <seg n="Terminus-445,[4146]" xml:id="Terminus-445_d1e231" prev="#Terminus-445_d1e225" next="#Terminus-445_d1e237">Het nummer van het cijferslot is twee, zes, <emph rend="italics">zeven</emph>.</seg>
+            
+            <lb type="indent"/>
+               <seg n="Terminus-445,[4147]" xml:id="Terminus-445_d1e237" prev="#Terminus-445_d1e231" next="#Terminus-445_d1e243">Nee, niet negen.</seg>
+            
+            <lb type="indent"/>
+               <seg n="Terminus-445,[4148]" xml:id="Terminus-445_d1e243" prev="#Terminus-445_d1e237" next="#Terminus-445_d1e250">Ik zei vanmiddag toch al dat je je oren niet zou geloven?</seg>
+            
+            <lb type="indent"/>
+               <seg n="Terminus-445,[4149]" xml:id="Terminus-445_d1e250" prev="#Terminus-445_d1e243" next="#Terminus-445_d1e256">Vertrouw nooit een <add seq="20151131182831" type="context" evidence="4354-4358">oude </add>man<del seq="20151131182833" type="context" evidence="4367-4419"> van honderdvijftig</del>.</seg>
+            
+            <lb type="indent"/>
+               <seg n="Terminus-445,[4150]" xml:id="Terminus-445_d1e256" prev="#Terminus-445_d1e250" next="#">Ik heb zelfs jou verzonnen.</seg>
+            </p>
+         </said>
+         <p source="chapters">
+            <title n="" xml:id="T-Terminus-445_d1e262" prev="#" next="#T-Terminus-445_d1e263">FLAPTEKST</title>
+            <title n="" xml:id="T-Terminus-445_d1e263" prev="#T-Terminus-445_d1e262" next="#T-Terminus-445_d1e266">OPSTAP</title>
+            <title n="" xml:id="T-Terminus-445_d1e266" prev="#T-Terminus-445_d1e263" next="#T-Terminus-445_d1e269">HALFZEVEN</title>
+            <title n="" xml:id="T-Terminus-445_d1e269" prev="#T-Terminus-445_d1e266" next="#T-Terminus-445_d1e272">CARLA</title>
+            <title n="" xml:id="T-Terminus-445_d1e272" prev="#T-Terminus-445_d1e269" next="#T-Terminus-445_d1e275">HELGE</title>
+            <title n="" xml:id="T-Terminus-445_d1e275" prev="#T-Terminus-445_d1e272" next="#T-Terminus-445_d1e279">REMY</title>
+            <title n="" xml:id="T-Terminus-445_d1e279" prev="#T-Terminus-445_d1e275" next="#T-Terminus-445_d1e282">ACHT UUR</title>
+            <title n="" xml:id="T-Terminus-445_d1e282" prev="#T-Terminus-445_d1e279" next="#T-Terminus-445_d1e285">FRANKLIN</title>
+            <title n="" xml:id="T-Terminus-445_d1e285" prev="#T-Terminus-445_d1e282" next="#T-Terminus-445_d1e288">FELIX</title>
+            <title n="" xml:id="T-Terminus-445_d1e288" prev="#T-Terminus-445_d1e285" next="#T-Terminus-445_d1e291">GAARD</title>
+            <title n="" xml:id="T-Terminus-445_d1e291" prev="#T-Terminus-445_d1e288" next="#T-Terminus-445_d1e294">JANINE</title>
+            <title n="" xml:id="T-Terminus-445_d1e294" prev="#T-Terminus-445_d1e291" next="#T-Terminus-445_d1e298">TIEN UUR</title>
+            <title n="" xml:id="T-Terminus-445_d1e298" prev="#T-Terminus-445_d1e294" next="#T-Terminus-445_d1e301">FRANKLIN</title>
+            <title n="" xml:id="T-Terminus-445_d1e301" prev="#T-Terminus-445_d1e298" next="#T-Terminus-445_d1e304">ANA</title>
+            <title n="" xml:id="T-Terminus-445_d1e304" prev="#T-Terminus-445_d1e301" next="#T-Terminus-445_d1e307">HELGE</title>
+            <title n="" xml:id="T-Terminus-445_d1e307" prev="#T-Terminus-445_d1e304" next="#T-Terminus-445_d1e310">FARAAZ</title>
+            <title n="" xml:id="T-Terminus-445_d1e310" prev="#T-Terminus-445_d1e307" next="#T-Terminus-445_d1e313">MIDDAG</title>
+            <title n="" xml:id="T-Terminus-445_d1e313" prev="#T-Terminus-445_d1e310" next="#T-Terminus-445_d1e317">JELLA</title>
+            <title n="" xml:id="T-Terminus-445_d1e317" prev="#T-Terminus-445_d1e313" next="#T-Terminus-445_d1e320">FRANKLIN</title>
+            <title n="" xml:id="T-Terminus-445_d1e320" prev="#T-Terminus-445_d1e317" next="#T-Terminus-445_d1e323">BARRY</title>
+            <title n="" xml:id="T-Terminus-445_d1e323" prev="#T-Terminus-445_d1e320" next="#T-Terminus-445_d1e326">CARLA</title>
+            <title n="" xml:id="T-Terminus-445_d1e326" prev="#T-Terminus-445_d1e323" next="#T-Terminus-445_d1e329">TWEE UUR</title>
+            <title n="" xml:id="T-Terminus-445_d1e329" prev="#T-Terminus-445_d1e326" next="#T-Terminus-445_d1e332">JANINE</title>
+            <title n="" xml:id="T-Terminus-445_d1e332" prev="#T-Terminus-445_d1e329" next="#T-Terminus-445_d1e336">HELGE</title>
+            <title n="" xml:id="T-Terminus-445_d1e336" prev="#T-Terminus-445_d1e332" next="#T-Terminus-445_d1e339">FRANKLIN</title>
+            <title n="" xml:id="T-Terminus-445_d1e339" prev="#T-Terminus-445_d1e336" next="#T-Terminus-445_d1e342">FELIX</title>
+            <title n="" xml:id="T-Terminus-445_d1e342" prev="#T-Terminus-445_d1e339" next="#T-Terminus-445_d1e345">FARAAZ</title>
+            <title n="" xml:id="T-Terminus-445_d1e345" prev="#T-Terminus-445_d1e342" next="#T-Terminus-445_d1e348">ANA</title>
+            <title n="" xml:id="T-Terminus-445_d1e348" prev="#T-Terminus-445_d1e345" next="#T-Terminus-445_d1e351">JELLA</title>
+            <title n="" xml:id="T-Terminus-445_d1e351" prev="#T-Terminus-445_d1e348" next="#T-Terminus-445_d1e355">CARLA</title>
+            <title n="" xml:id="T-Terminus-445_d1e355" prev="#T-Terminus-445_d1e351" next="#T-Terminus-445_d1e358">GAARD</title>
+            <title n="" xml:id="T-Terminus-445_d1e358" prev="#T-Terminus-445_d1e355" next="#T-Terminus-445_d1e361">BARRY</title>
+            <title n="" xml:id="T-Terminus-445_d1e361" prev="#T-Terminus-445_d1e358" next="#T-Terminus-445_d1e364">VIER UUR</title>
+            <title n="" xml:id="T-Terminus-445_d1e364" prev="#T-Terminus-445_d1e361" next="#T-Terminus-445_d1e367">REMY</title>
+            <title n="" xml:id="T-Terminus-445_d1e367" prev="#T-Terminus-445_d1e364" next="#T-Terminus-445_d1e370">CARLA</title>
+            <title n="" xml:id="T-Terminus-445_d1e370" prev="#T-Terminus-445_d1e367" next="#T-Terminus-445_d1e374">JELLA</title>
+            <title n="" xml:id="T-Terminus-445_d1e374" prev="#T-Terminus-445_d1e370" next="#T-Terminus-445_d1e377">FRANKLIN</title>
+            <title n="" xml:id="T-Terminus-445_d1e377" prev="#T-Terminus-445_d1e374" next="#T-Terminus-445_d1e380">SHAUN</title>
+            <title n="" xml:id="T-Terminus-445_d1e380" prev="#T-Terminus-445_d1e377" next="#T-Terminus-445_d1e383">FELIX</title>
+            <title n="" xml:id="T-Terminus-445_d1e383" prev="#T-Terminus-445_d1e380" next="#T-Terminus-445_d1e386">FARAAZ</title>
+            <title n="" xml:id="T-Terminus-445_d1e386" prev="#T-Terminus-445_d1e383" next="#T-Terminus-445_d1e389">FRANKLIN</title>
+            <title n="" xml:id="T-Terminus-445_d1e389" prev="#T-Terminus-445_d1e386" next="#T-Terminus-445_d1e393">FRAN</title>
+            <title n="" xml:id="T-Terminus-445_d1e393" prev="#T-Terminus-445_d1e389" next="#T-Terminus-445_d1e396">ANA</title>
+            <title n="" xml:id="T-Terminus-445_d1e396" prev="#T-Terminus-445_d1e393" next="#T-Terminus-445_d1e399">JANINE</title>
+            <title n="" xml:id="T-Terminus-445_d1e399" prev="#T-Terminus-445_d1e396" next="#T-Terminus-445_d1e402">BARRY</title>
+            <title n="" xml:id="T-Terminus-445_d1e402" prev="#T-Terminus-445_d1e399" next="#T-Terminus-445_d1e405">ZES UUR</title>
+            <title n="" xml:id="T-Terminus-445_d1e405" prev="#T-Terminus-445_d1e402" next="#T-Terminus-445_d1e408">FRANKLIN</title>
+            <title n="" xml:id="T-Terminus-445_d1e408" prev="#T-Terminus-445_d1e405" next="#T-Terminus-445_d1e412">HELGE</title>
+            <title n="" xml:id="T-Terminus-445_d1e412" prev="#T-Terminus-445_d1e408" next="#T-Terminus-445_d1e415">BARRY</title>
+            <title n="" xml:id="T-Terminus-445_d1e415" prev="#T-Terminus-445_d1e412" next="#T-Terminus-445_d1e418">FELIX</title>
+            <title n="" xml:id="T-Terminus-445_d1e418" prev="#T-Terminus-445_d1e415" next="#T-Terminus-445_d1e421">REMY</title>
+            <title n="" xml:id="T-Terminus-445_d1e421" prev="#T-Terminus-445_d1e418" next="#T-Terminus-445_d1e424">JANINE</title>
+            <title n="" xml:id="T-Terminus-445_d1e424" prev="#T-Terminus-445_d1e421" next="#T-Terminus-445_d1e427">FARAAZ</title>
+            <title n="" xml:id="T-Terminus-445_d1e427" prev="#T-Terminus-445_d1e424" next="#T-Terminus-445_d1e431">GAARD</title>
+            <title n="" xml:id="T-Terminus-445_d1e431" prev="#T-Terminus-445_d1e427" next="#T-Terminus-445_d1e434">ANA</title>
+            <title n="" xml:id="T-Terminus-445_d1e434" prev="#T-Terminus-445_d1e431" next="#T-Terminus-445_d1e437">JELLA</title>
+            <title n="" xml:id="T-Terminus-445_d1e437" prev="#T-Terminus-445_d1e434" next="#T-Terminus-445_d1e440">CARLA</title>
+            <title n="" xml:id="T-Terminus-445_d1e440" prev="#T-Terminus-445_d1e437" next="#T-Terminus-445_d1e443">VOORAVOND</title>
+            <mod seq="20151131180935" type="chapters" evidence="84-782"><title n="" xml:id="T-Terminus-445_d1e443" prev="#T-Terminus-445_d1e440" next="#T-Terminus-445_d1e446">FARAAZ</title></mod>
+            <mod seq="20151131181134" type="chapters" evidence="888-1751"><title n="" xml:id="T-Terminus-445_d1e446" prev="#T-Terminus-445_d1e443" next="#T-Terminus-445_d1e450">FELIX</title></mod>
+            <mod seq="20151131181538" type="chapters" evidence="1850-2102"><title n="" xml:id="T-Terminus-445_d1e450" prev="#T-Terminus-445_d1e446" next="#T-Terminus-445_d1e453">REMY</title></mod>
+            <mod seq="20151131181650" type="chapters" evidence="2133-2355"><title n="" xml:id="T-Terminus-445_d1e453" prev="#T-Terminus-445_d1e450" next="#T-Terminus-445_d1e456">FRANKLIN</title></mod>
+            <mod seq="20151131181749" type="chapters" evidence="2429-2701"><title n="" xml:id="T-Terminus-445_d1e456" prev="#T-Terminus-445_d1e453" next="#T-Terminus-445_d1e459">REMY</title></mod>
+            <mod seq="20141131181933" type="chapters" evidence="2783-3127"><mod seq="20151131181912" type="chapters" evidence="2740-2769"><title n="" xml:id="T-Terminus-445_d1e459" prev="#T-Terminus-445_d1e456" next="#T-Terminus-445_d1e462">JELLA</title></mod></mod>
+            <mod seq="20151131182203" type="chapters" evidence="3160-3169"><title n="" xml:id="T-Terminus-445_d1e462" prev="#T-Terminus-445_d1e459" next="#T-Terminus-445_d1e465">ANA</title></mod>
+            <mod seq="20151131182215" type="chapters" evidence="3180-3311"><title n="" xml:id="T-Terminus-445_d1e465" prev="#T-Terminus-445_d1e462" next="#T-Terminus-445_d1e469">HELGE</title></mod>
+            <mod seq="20151131182322" type="chapters" evidence="3327-3474"><title n="" xml:id="T-Terminus-445_d1e469" prev="#T-Terminus-445_d1e465" next="#T-Terminus-445_d1e472">JANINE</title></mod>
+            <mod seq="20151131182509" type="chapters" evidence="3496-3638"><title n="" xml:id="T-Terminus-445_d1e472" prev="#T-Terminus-445_d1e469" next="#T-Terminus-445_d1e475">CARLA</title></mod>
+            <mod seq="20151131182549" type="chapters" evidence="3681-4021"><title n="" xml:id="T-Terminus-445_d1e475" prev="#T-Terminus-445_d1e472" next="#T-Terminus-445_d1e478">BARRY</title></mod>
+            <title n="" xml:id="T-Terminus-445_d1e478" prev="#T-Terminus-445_d1e475" next="#T-Terminus-445_d1e481">TERMINUS</title>
+            <mod seq="20151131182856" type="chapters" evidence="4449-4968"><title n="" xml:id="T-Terminus-445_d1e481" prev="#T-Terminus-445_d1e478" next="#">KRIJTKUNSTENAAR</title></mod>
+         </p>
+      </body>
+   </text>
+</TEI>

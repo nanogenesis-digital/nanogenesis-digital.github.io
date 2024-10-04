@@ -1,0 +1,264 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Roosevelt</title>
+            <author>Gie Bogaert</author>
+            <respStmt>
+               <name>Lamyk Bekius</name>
+               <resp>encoding scheme, TEI customization, encoding</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p corresp="section">Opstap</p>
+            <p corresp="session">42</p>
+            <p corresp="version">26</p>
+            <p corresp="total_versions">41</p>
+            <p corresp="name">Gie Bogaert</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>
+               <l>Datum: 20 september 2013</l>
+               <l>Tijd: 19:03:34</l>
+               <l>Duur: 03:48:50</l>
+            </p>
+            <p><linkGrp>
+               <link prev="25_s040" n="26_s042" next="27_s047"/>
+            </linkGrp></p>
+            <p>
+               <material corresp="01_s012">Sessie-versie 1</material>
+               <material corresp="02_s014">Sessie-versie 2</material>
+               <material corresp="03_s015">Sessie-versie 3</material>
+               <material corresp="04_s016">Sessie-versie 4</material>
+               <material corresp="05_s017">Sessie-versie 5</material>
+               <material corresp="06_s018">Sessie-versie 6</material>
+               <material corresp="07_s021">Sessie-versie 7</material>
+               <material corresp="08_s022">Sessie-versie 8</material>
+               <material corresp="09_s023">Sessie-versie 9</material>
+               <material corresp="10_s025">Sessie-versie 10</material>
+               <material corresp="11_s026">Sessie-versie 11</material>
+               <material corresp="12_s027">Sessie-versie 12</material>
+               <material corresp="13_s028">Sessie-versie 13</material>
+               <material corresp="14_s029">Sessie-versie 14</material>
+               <material corresp="15_s030">Sessie-versie 15</material>
+               <material corresp="16_s031">Sessie-versie 16</material>
+               <material corresp="17_s032">Sessie-versie 17</material>
+               <material corresp="18_s033">Sessie-versie 18</material>
+               <material corresp="19_s034">Sessie-versie 19</material>
+               <material corresp="20_s035">Sessie-versie 20</material>
+               <material corresp="21_s036">Sessie-versie 21</material>
+               <material corresp="22_s037">Sessie-versie 22</material>
+               <material corresp="23_s038">Sessie-versie 23</material>
+               <material corresp="24_s039">Sessie-versie 24</material>
+               <material corresp="25_s040">Sessie-versie 25</material>
+               <material corresp="26_s042">Sessie-versie 26</material>
+               <material corresp="27_s047">Sessie-versie 27</material>
+               <material corresp="28_s049">Sessie-versie 28</material>
+               <material corresp="29_s086">Sessie-versie 29</material>
+               <material corresp="30_s090">Sessie-versie 30</material>
+               <material corresp="31_s113">Sessie-versie 31</material>
+               <material corresp="32_s158">Sessie-versie 32</material>
+               <material corresp="33_s159">Sessie-versie 33</material>
+               <material corresp="34_s162">Sessie-versie 34</material>
+               <material corresp="35_s163">Sessie-versie 35</material>
+               <material corresp="36_s176">Sessie-versie 36</material>
+               <material corresp="37_s254">Sessie-versie 37</material>
+               <material corresp="38_s328">Sessie-versie 38</material>
+               <material corresp="39_s409">Sessie-versie 39</material>
+               <material corresp="40_s430">Sessie-versie 40</material>
+               <material corresp="41_s432">Sessie-versie 41</material>
+               <material corresp="PT">Gepubliceerde tekst</material>
+            </p></sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+            <p>
+               <title/>
+            </p>
+            <p><seg n="Opstap-042,[0001]" xml:id="Opstap-042_d1e34" next="#Opstap-042_d1e38">Pst.</seg><lb type="indent"/>
+               <seg n="Opstap-042,[0002]" xml:id="Opstap-042_d1e38" prev="#Opstap-042_d1e34" next="#Opstap-042_d1e42">Psssst.</seg>
+               <lb type="indent"/><seg n="Opstap-042,[0003]" xml:id="Opstap-042_d1e42" prev="#Opstap-042_d1e38" next="#Opstap-042_d1e46">Jij, ja.</seg>
+               <lb type="indent"/><seg n="Opstap-042,[0004]" xml:id="Opstap-042_d1e46" prev="#Opstap-042_d1e42" next="#Opstap-042_d1e49">Kom wat dichter.</seg>
+            <seg n="Opstap-042,[0005]" xml:id="Opstap-042_d1e49" prev="#Opstap-042_d1e46" next="#Opstap-042_d1e56">Vertrouw me maar. Ik heb geen kwade bedoelingen.</seg>
+               <lb type="indent"/><seg n="Opstap-042,[0006]" xml:id="Opstap-042_d1e56" prev="#Opstap-042_d1e49" next="#Opstap-042_d1e61">Dat is beter.</seg>
+               <lb type="indent"/><seg n="Opstap-042,[0007]" xml:id="Opstap-042_d1e61" prev="#Opstap-042_d1e56" next="#Opstap-042_d1e64">Ik weet het, ik ruik niet lekker, vooral niet op zomerochtenden als deze.</seg>
+            <seg n="Opstap-042,[0008]" xml:id="Opstap-042_d1e64" prev="#Opstap-042_d1e61" next="#Opstap-042_d1e68">De nacht zit nog in mijn kleren.</seg>
+               <lb type="indent"/><del seq="20130920205855" xml:id="Opstap-042-translocation1" type="translocation" evidence="11903-11907"><seg n="Opstap-042,[0008|001]"><add seq="20130920205749" type="nt" evidence="11555-11587">S<del seq="20130920205759" type="typo" evidence="11594-11595">a</del>l<add seq="20130920205801" type="typo" evidence="11599">a</add>pen doe i<add seq="20130920205804" type="typo" evidence="11638">k</add><del seq="20130920205805" type="typo" evidence="11639-11640">i</del> nooit.</add></seg> <seg n="Opstap-042,[0008|002]"><add seq="20130920205753" type="typo" evidence="11577-11587">Ik sluimer.</add></seg></del>
+            <seg n="Opstap-042,[0009]" xml:id="Opstap-042_d1e68" prev="#Opstap-042_d1e64" next="#Opstap-042_d1e71">Wat aarzel je?</seg>
+            <seg n="Opstap-042,[0010]" xml:id="Opstap-042_d1e71" prev="#Opstap-042_d1e68" next="#Opstap-042_d1e74">Schrikt mijn oudemannenhuid je af?</seg>
+            <seg n="Opstap-042,[0011]" xml:id="Opstap-042_d1e74" prev="#Opstap-042_d1e71" next="#Opstap-042_d1e77">De schrammen en die paar putten?</seg>
+            <seg n="Opstap-042,[0012]" xml:id="Opstap-042_d1e77" prev="#Opstap-042_d1e74" next="#Opstap-042_d1e80">Kijk niet te nauw.</seg>
+            <seg n="Opstap-042,[0013]" xml:id="Opstap-042_d1e80" prev="#Opstap-042_d1e77" next="#Opstap-042_d1e84">Ik heb een goed hart.</seg>
+               <lb type="indent"/><seg n="Opstap-042,[0014]" xml:id="Opstap-042_d1e84" prev="#Opstap-042_d1e80" next="#Opstap-042_d1e87">Mijn naam is Roosevelt.</seg>
+            <seg n="Opstap-042,[0015]" xml:id="Opstap-042_d1e87" prev="#Opstap-042_d1e84" next="#Opstap-042_d1e90">Maar dat weet je natuurlijk, anders was je hier niet.</seg>
+            <seg n="Opstap-042,[0016]" xml:id="Opstap-042_d1e90" prev="#Opstap-042_d1e87" next="#Opstap-042_d1e93">Je mag me ook Franklin noemen<del seq="20130920210102" type="context" evidence="12116-12117">,</del> als dat gemakkelijker ligt.</seg>
+            <seg n="Opstap-042,[0016|002]" xml:id="Opstap-042_d1e93" prev="#Opstap-042_d1e90" next="#Opstap-042_d1e96">Het schept een band.</seg>
+            <seg n="Opstap-042,[0016|003]" xml:id="Opstap-042_d1e96" prev="#Opstap-042_d1e93" next="#Opstap-042_d1e100">Daar hou ik van.</seg>
+               <lb type="indent"/><seg n="Opstap-042,[0017]" xml:id="Opstap-042_d1e100" prev="#Opstap-042_d1e96" next="#Opstap-042_d1e103">Honderdvijftig jaar maken er iemand niet beter op, zoals je ziet.</seg>
+            <seg n="Opstap-042,[0018]" xml:id="Opstap-042_d1e103" prev="#Opstap-042_d1e100" next="#Opstap-042_d1e106">Ik kan nauwelijks nog bewegen.</seg>
+            <seg n="Opstap-042,[0019]" xml:id="Opstap-042_d1e106" prev="#Opstap-042_d1e103" next="#Opstap-042_d1e109">Ik heb nogal last van jicht.</seg>
+            <seg n="Opstap-042,[0020]" xml:id="Opstap-042_d1e109" prev="#Opstap-042_d1e106" next="#Opstap-042_d1e112">En zo nu en dan spelen mijn ingewanden op.</seg>
+            <seg n="Opstap-042,[0021]" xml:id="Opstap-042_d1e112" prev="#Opstap-042_d1e109" next="#Opstap-042_d1e116">Soms is het alsof er een tram doorheen rijdt.</seg>
+            <del seq="20130920214024" xml:id="Opstap-042-translocation3" type="translocation" evidence="17962-18017"><add seq="20130920210032" type="translocation" evidence="12048-12050" sameAs="#Opstap-042-translocation2"><seg n="Opstap-042,[0008|001]">Slapen doe ik nooit.</seg> <seg n="Opstap-042,[0008|002]">Ik sluimer.</seg></add></del>
+               <lb type="indent"/><seg n="Opstap-042,[0022]" xml:id="Opstap-042_d1e116" prev="#Opstap-042_d1e112" next="#Opstap-042_d1e119">Ik zou best ook een nieuw pak kunnen gebruiken.</seg>
+            <seg n="Opstap-042,[0026]" xml:id="Opstap-042_d1e119" prev="#Opstap-042_d1e116" next="#Opstap-042_d1e120">Het is me al lang beloofd, <seg n="Opstap-042,[0027]" xml:id="Opstap-042_d1e120" prev="#Opstap-042_d1e119" next="#Opstap-042_d1e123">maar beloftes aan een oude man worden zelden
+               ingelost.</seg></seg>
+            <del seq="20130920210023" xml:id="Opstap-042-translocation2" type="translocation" evidence="12032-12036"><add seq="20130920205912" type="translocation" evidence="11936" sameAs="#Opstap-042-translocation1"><seg n="Opstap-042,[0008|001]">Slapen doe ik nooit.</seg> <seg n="Opstap-042,[0008|002]">Ik sluimer.</seg></add></del>
+               <lb type="indent"/><seg n="Opstap-042,[0028]" xml:id="Opstap-042_d1e123" prev="#Opstap-042_d1e119" next="#Opstap-042_d1e128">Ruik je de ochtend?</seg>
+               <lb type="indent"/><seg n="Opstap-042,[0029]" xml:id="Opstap-042_d1e128" prev="#Opstap-042_d1e123" next="#Opstap-042_d1e132">Proef je de dag?</seg>
+               <lb type="indent"/><seg n="Opstap-042,[0030]" xml:id="Opstap-042_d1e132" prev="#Opstap-042_d1e128" next="#Opstap-042_d1e135">Heb je gezien dat de zon al achter de kantoren is geklommen?</seg>
+            <seg n="Opstap-042,[0031]" xml:id="Opstap-042_d1e135" prev="#Opstap-042_d1e132" next="#Opstap-042_d1e138">Een deel van haar gloed ligt tegen de zijgevel van de Opera.</seg>
+            <seg n="Opstap-042,[0032]" xml:id="Opstap-042_d1e138" prev="#Opstap-042_d1e135" next="#Opstap-042_d1e142">Merk je hoe het roze licht daar over het terras van Brasserie Gustav
+            valt?</seg>
+               <lb type="indent"/><seg n="Opstap-042,[0033]" xml:id="Opstap-042_d1e142" prev="#Opstap-042_d1e138" next="#Opstap-042_d1e148">Het wordt bloedheet straks. Let maar op.</seg>
+            <seg n="Opstap-042,[0034]" xml:id="Opstap-042_d1e148" prev="#Opstap-042_d1e142" next="#Opstap-042_d1e152">Er komt nog gedonder van.</seg>
+               <lb type="indent"/><seg n="Opstap-042,[0035]" xml:id="Opstap-042_d1e152" prev="#Opstap-042_d1e148" next="#Opstap-042_d1e155">Zie je die jongen ginder?</seg>
+            <seg n="Opstap-042,[0036]" xml:id="Opstap-042_d1e155" prev="#Opstap-042_d1e152" next="#Opstap-042_d1e158">Nee, niet daar, 
+            <seg n="Opstap-042,[0037]" xml:id="Opstap-042_d1e158" prev="#Opstap-042_d1e155" next="#Opstap-042_d1e161">je kijkt de verkeerde kant op.</seg></seg>
+            <seg n="Opstap-042,[0038]" xml:id="Opstap-042_d1e161" prev="#Opstap-042_d1e158" next="#Opstap-042_d1e164">Daar. Bij het vijfde perron.</seg>
+            <seg n="Opstap-042,[0039]" xml:id="Opstap-042_d1e164" prev="#Opstap-042_d1e161" next="#Opstap-042_d1e167">Of het zesde, dat kan ook.</seg>
+            <seg n="Opstap-042,[0041]" xml:id="Opstap-042_d1e167" prev="#Opstap-042_d1e164" next="#Opstap-042_d1e171">Kijk, hij gaat op zijn knieën zitten.</seg>
+            <seg n="Opstap-042,[0042]" xml:id="Opstap-042_d1e171" prev="#Opstap-042_d1e167" next="#Opstap-042_d1e174">Zie je hem nu?</seg>
+            <seg n="Opstap-042,[0043]" xml:id="Opstap-042_d1e174" prev="#Opstap-042_d1e171" next="#Opstap-042_d1e178">Zou je vermoeden dat hij aanstalten maakt om mijn stoepen vol te
+            schrijven?</seg>
+               <lb type="indent"/><seg n="Opstap-042,[0044]" xml:id="Opstap-042_d1e178" prev="#Opstap-042_d1e174" next="#Opstap-042_d1e181">Geloof je me niet?</seg>
+            <seg n="Opstap-042,[0045]" xml:id="Opstap-042_d1e181" prev="#Opstap-042_d1e178" next="#Opstap-042_d1e187">Je denkt dat ik zo'n oude fantast ben? Een fabulant, die al van 's morgens vroeg zijn verveling probeert te
+               verdrijven?</seg>
+            <seg n="Opstap-042,[0046]" xml:id="Opstap-042_d1e187" prev="#Opstap-042_d1e181" next="#Opstap-042_d1e190">Vind je dat die jongen er betrouwbaarder uitziet dan?</seg>
+            <seg n="Opstap-042,[0047]" xml:id="Opstap-042_d1e190" prev="#Opstap-042_d1e187" next="#Opstap-042_d1e194">Zo met die bril en die te grote pet op?</seg>
+               <lb type="indent"/><seg n="Opstap-042,[0048]" xml:id="Opstap-042_d1e194" prev="#Opstap-042_d1e190" next="#Opstap-042_d1e197">Daar heb je de eerste reinigingswagen.</seg>
+            <seg n="Opstap-042,[0049]" xml:id="Opstap-042_d1e197" prev="#Opstap-042_d1e194" next="#Opstap-042_d1e200">Die dikke loopt alweer voorop, in haar oranje hesje.</seg>
+            <seg n="Opstap-042,[0050]" xml:id="Opstap-042_d1e200" prev="#Opstap-042_d1e197" next="#Opstap-042_d1e203">Hoor haar zuchten.</seg>
+            <seg n="Opstap-042,[0051]" xml:id="Opstap-042_d1e203" prev="#Opstap-042_d1e200" next="#Opstap-042_d1e206">Ze heeft net <add seq="20130920224625" type="context" evidence="27419-27428">vernomen</add><del seq="20130920224627" type="context" evidence="27429-27448"><add seq="20130920210222" type="context" evidence="12241-12247">gehoord</add></del><del seq="20130920210223" type="context" evidence="12248-12270">vernomen</del> dat ze ook vanavond dienst moet doen.</seg>
+            <seg n="Opstap-042,[0052]" xml:id="Opstap-042_d1e206" prev="#Opstap-042_d1e203" next="#Opstap-042_d1e207">Bij de kaaien, <seg n="Opstap-042,[0053]" xml:id="Opstap-042_d1e207" prev="#Opstap-042_d1e206" next="#Opstap-042_d1e209">na het vuurwerk.</seg></seg>
+            <seg n="Opstap-042,[0054]" xml:id="Opstap-042_d1e209" prev="#Opstap-042_d1e206" next="#Opstap-042_d1e214">Kijk hoe ze mijn plooien probeert schoon te vegen.</seg>
+               <lb type="indent"/><seg n="Opstap-042,[0055]" xml:id="Opstap-042_d1e214" prev="#Opstap-042_d1e209" next="#Opstap-042_d1e217">Heb je gemerkt dat de eerste trams al op weg zijn?</seg>
+            <seg n="Opstap-042,[0056]" xml:id="Opstap-042_d1e217" prev="#Opstap-042_d1e214" next="#Opstap-042_d1e220">Zag je het groepje arbeiders met hun vrachtje bier passeren?</seg>
+            <seg n="Opstap-042,[0057]" xml:id="Opstap-042_d1e220" prev="#Opstap-042_d1e217" next="#Opstap-042_d1e223">En de vroege pendelaars?</seg>
+            <seg n="Opstap-042,[0059]" xml:id="Opstap-042_d1e223" prev="#Opstap-042_d1e220" next="#Opstap-042_d1e227">Je bent lang niet de enige die al wakker is.</seg>
+               <lb type="indent"/><seg n="Opstap-042,[0060]" xml:id="Opstap-042_d1e227" prev="#Opstap-042_d1e223" next="#Opstap-042_d1e230">Wat denk je, zal ik eens een stuk of wat passanten aan het woord laten op dit
+               vroege uur?</seg>
+            <seg n="Opstap-042,[0061]" xml:id="Opstap-042_d1e230" prev="#Opstap-042_d1e227" next="#Opstap-042_d1e233">Ze doen vertellen over wat hen zoal bezighoudt?</seg>
+            <seg n="Opstap-042,[0062]" xml:id="Opstap-042_d1e233" prev="#Opstap-042_d1e230" next="#Opstap-042_d1e236">Over hun besognes?</seg>
+            <seg n="Opstap-042,[0063]" xml:id="Opstap-042_d1e236" prev="#Opstap-042_d1e233" next="#Opstap-042_d1e239">Hun heldhaftigheid?</seg>
+            <seg n="Opstap-042,[0063]" xml:id="Opstap-042_d1e239" prev="#Opstap-042_d1e236" next="#Opstap-042_d1e243">Hun <emph rend="italics">faux pas</emph>?</seg>
+               <lb type="indent"/><seg n="Opstap-042,[0065]" xml:id="Opstap-042_d1e243" prev="#Opstap-042_d1e239" next="#Opstap-042_d1e247">Misschien hoor je zo ook nog wel je eigen verhaal.</seg>
+               <lb type="indent"/><seg n="Opstap-042,[0066]" xml:id="Opstap-042_d1e247" prev="#Opstap-042_d1e243" next="#Opstap-042_d1e251">Goed?</seg>
+               <lb type="indent"/><seg n="Opstap-042,[0067]" xml:id="Opstap-042_d1e251" prev="#Opstap-042_d1e247" next="#">Luister dan.</seg>
+         </p>
+         
+         <p source="chapters">
+            <mod seq="20130920224507" type="chapters" evidence="27395-29401">
+               <mod seq="20130920213913" type="chapters" evidence="17939-17947">
+                  <mod seq="20130920190351" type="chapters" evidence="14-852"><title xml:id="T-Opstap-042_d1e255" prev="#" next="#T-Opstap-042_d1e256">FLAPTEKST</title></mod>
+               </mod>
+            </mod>
+         
+            <title xml:id="T-Opstap-042_d1e256" prev="#T-Opstap-042_d1e255" next="#T-Opstap-042_d1e261">HALFZEVEN</title>
+         
+            <mod seq="20130920224826" type="chapters" evidence="27643-28506">
+               <mod seq="20130920223829" type="chapters" evidence="26138-27375">
+                  <mod seq="20130920222815" type="chapters" evidence="23870-25957">
+                     <mod seq="20130920214244" type="chapters" evidence="18053-21502">
+                        <mod seq="20130920213214" type="chapters" evidence="16524-17889">
+                           <mod seq="20130920212139" type="chapters" evidence="15192-16425">
+                              <mod seq="20130920211339" type="chapters" evidence="13893-14690">
+                                 <mod seq="20130920210926" type="chapters" evidence="12922-13634">
+                                    <mod seq="20130920210308" type="chapters" evidence="12431-12673">
+                                       <mod seq="20130920204742" type="chapters" evidence="10043-11545">
+                                          <mod seq="20130920204112" type="chapters" evidence="9750-9984">
+                                             <mod seq="20130920200127" type="chapters" evidence="6066-8610">
+                                                <mod seq="20130920194324" type="chapters" evidence="4872-5788">
+                                                   <mod seq="20130920192929" type="chapters" evidence="2610-4739">
+                                                      <mod seq="20130920190716" type="chapters" evidence="1076-2167">
+                                                         <title xml:id="T-Opstap-042_d1e261" prev="#T-Opstap-042_d1e256" next="#T-Opstap-042_d1e265">CARLA</title>
+                                                      </mod>
+                                                   </mod>
+                                                </mod>
+                                             </mod>
+                                          </mod>
+                                       </mod>
+                                    </mod>
+                                 </mod>
+                              </mod>
+                           </mod>
+                        </mod>
+                     </mod>
+                  </mod>
+               </mod>
+            </mod>
+         
+         
+            <mod seq="20130920212007" type="chapters" evidence="14877-15107">
+               <mod seq="20130920211303" type="chapters" evidence="13690-13751">
+                  <title xml:id="T-Opstap-042_d1e265" prev="#T-Opstap-042_d1e261" next="#T-Opstap-042_d1e269">REMY</title>
+               </mod>
+            </mod>
+         
+         
+            <mod seq="20130920212116" type="chapters" evidence="15144-" n="24">
+               <title xml:id="T-Opstap-042_d1e269" prev="#T-Opstap-042_d1e265" next="#T-Opstap-042_d1e273">HELGE</title>
+            </mod>
+         
+         <title xml:id="T-Opstap-042_d1e273" prev="#T-Opstap-042_d1e269" next="#T-Opstap-042_d1e277">ACHT UUR</title>
+            <mod seq="20130920214128" type="chapters" evidence="18039"><title xml:id="T-Opstap-042_d1e277" prev="#T-Opstap-042_d1e273" next="#T-Opstap-042_d1e281">FRANKLIN</title></mod>
+           
+         <title xml:id="T-Opstap-042_d1e281" prev="#T-Opstap-042_d1e277" next="#T-Opstap-042_d1e286">FELIX</title>
+         <title xml:id="T-Opstap-042_d1e286" prev="#T-Opstap-042_d1e281" next="#T-Opstap-042_d1e290">JANINE</title>
+         <title xml:id="T-Opstap-042_d1e290" prev="#T-Opstap-042_d1e286" next="#T-Opstap-042_d1e294">GAARD</title>
+         <title xml:id="T-Opstap-042_d1e294" prev="#T-Opstap-042_d1e290" next="#T-Opstap-042_d1e298">TIEN UUR</title>
+         <title xml:id="T-Opstap-042_d1e298" prev="#T-Opstap-042_d1e294" next="#T-Opstap-042_d1e302">FRANKLIN</title>
+         <title xml:id="T-Opstap-042_d1e302" prev="#T-Opstap-042_d1e298" next="#T-Opstap-042_d1e306">ANA</title>
+         <title xml:id="T-Opstap-042_d1e306" prev="#T-Opstap-042_d1e302" next="#T-Opstap-042_d1e311">FARAAZ</title>
+         <title xml:id="T-Opstap-042_d1e311" prev="#T-Opstap-042_d1e306" next="#T-Opstap-042_d1e315">HELGE</title>
+         <title xml:id="T-Opstap-042_d1e315" prev="#T-Opstap-042_d1e311" next="#T-Opstap-042_d1e319">MIDDAG</title>
+         <title xml:id="T-Opstap-042_d1e319" prev="#T-Opstap-042_d1e315" next="#T-Opstap-042_d1e323">FRANKLIN</title>
+         <title xml:id="T-Opstap-042_d1e323" prev="#T-Opstap-042_d1e319" next="#T-Opstap-042_d1e327">BARRY</title>
+         <title xml:id="T-Opstap-042_d1e327" prev="#T-Opstap-042_d1e323" next="#T-Opstap-042_d1e331">JELLA</title>
+         <title xml:id="T-Opstap-042_d1e331" prev="#T-Opstap-042_d1e327" next="#T-Opstap-042_d1e336">CARLA</title>
+         <title xml:id="T-Opstap-042_d1e336" prev="#T-Opstap-042_d1e331" next="#T-Opstap-042_d1e341">TWEE UUR</title>
+         <title xml:id="T-Opstap-042_d1e341" prev="#T-Opstap-042_d1e336" next="#T-Opstap-042_d1e344">FELIX</title>
+         <title xml:id="T-Opstap-042_d1e344" prev="#T-Opstap-042_d1e341" next="#T-Opstap-042_d1e347">FARAAZ</title>
+         <title xml:id="T-Opstap-042_d1e347" prev="#T-Opstap-042_d1e344" next="#T-Opstap-042_d1e350">JANINE</title>
+         <title xml:id="T-Opstap-042_d1e350" prev="#T-Opstap-042_d1e347" next="#T-Opstap-042_d1e353">BARRY</title>
+         <title xml:id="T-Opstap-042_d1e353" prev="#T-Opstap-042_d1e350" next="#T-Opstap-042_d1e356">JELLA</title>
+         <title xml:id="T-Opstap-042_d1e356" prev="#T-Opstap-042_d1e353" next="#T-Opstap-042_d1e360">GAARD</title> 
+         <title xml:id="T-Opstap-042_d1e360" prev="#T-Opstap-042_d1e356" next="#T-Opstap-042_d1e363">ANA</title>
+         <title xml:id="T-Opstap-042_d1e363" prev="#T-Opstap-042_d1e360" next="#T-Opstap-042_d1e366">HELGE</title>
+         <title xml:id="T-Opstap-042_d1e366" prev="#T-Opstap-042_d1e363" next="#T-Opstap-042_d1e370">CARLA</title>
+         <title xml:id="T-Opstap-042_d1e370" prev="#T-Opstap-042_d1e366" next="#T-Opstap-042_d1e374">VIER UUR</title>
+         <title xml:id="T-Opstap-042_d1e374" prev="#T-Opstap-042_d1e370" next="#T-Opstap-042_d1e377">FELIX</title>
+         <title xml:id="T-Opstap-042_d1e377" prev="#T-Opstap-042_d1e374" next="#T-Opstap-042_d1e380">REMY</title>
+         <title xml:id="T-Opstap-042_d1e380" prev="#T-Opstap-042_d1e377" next="#T-Opstap-042_d1e383">FARAAZ</title>
+         <title xml:id="T-Opstap-042_d1e383" prev="#T-Opstap-042_d1e380" next="#T-Opstap-042_d1e386">JANINE</title>
+         <title xml:id="T-Opstap-042_d1e386" prev="#T-Opstap-042_d1e383" next="#T-Opstap-042_d1e389">BARRY</title>
+         <title xml:id="T-Opstap-042_d1e389" prev="#T-Opstap-042_d1e386" next="#T-Opstap-042_d1e393">JELLA</title>
+         <title xml:id="T-Opstap-042_d1e393" prev="#T-Opstap-042_d1e389" next="#T-Opstap-042_d1e396">LIANNE</title>
+         <title xml:id="T-Opstap-042_d1e396" prev="#T-Opstap-042_d1e393" next="#T-Opstap-042_d1e399">ANA</title>
+         <title xml:id="T-Opstap-042_d1e399" prev="#T-Opstap-042_d1e396" next="#T-Opstap-042_d1e404">CARLA</title>
+         <title xml:id="T-Opstap-042_d1e404" prev="#T-Opstap-042_d1e399" next="#T-Opstap-042_d1e408">ZES UUR</title>
+         <title xml:id="T-Opstap-042_d1e408" prev="#T-Opstap-042_d1e404" next="#T-Opstap-042_d1e411">FELIX</title>
+         <title xml:id="T-Opstap-042_d1e411" prev="#T-Opstap-042_d1e408" next="#T-Opstap-042_d1e414">REMY</title>
+         <title xml:id="T-Opstap-042_d1e414" prev="#T-Opstap-042_d1e411" next="#T-Opstap-042_d1e417">FARAAZ</title>
+         <title xml:id="T-Opstap-042_d1e417" prev="#T-Opstap-042_d1e414" next="#T-Opstap-042_d1e420">JANINE</title>
+         <title xml:id="T-Opstap-042_d1e420" prev="#T-Opstap-042_d1e417" next="#T-Opstap-042_d1e423">BARRY</title>
+         <title xml:id="T-Opstap-042_d1e423" prev="#T-Opstap-042_d1e420" next="#T-Opstap-042_d1e427">JELLA</title>
+         <title xml:id="T-Opstap-042_d1e427" prev="#T-Opstap-042_d1e423" next="#T-Opstap-042_d1e430">GAARD</title>
+         <title xml:id="T-Opstap-042_d1e430" prev="#T-Opstap-042_d1e427" next="#T-Opstap-042_d1e433">ANA</title>
+         <title xml:id="T-Opstap-042_d1e433" prev="#T-Opstap-042_d1e430" next="#T-Opstap-042_d1e436">HELGE</title>
+         <title xml:id="T-Opstap-042_d1e436" prev="#T-Opstap-042_d1e433" next="#T-Opstap-042_d1e441">CARLA</title>
+         <title xml:id="T-Opstap-042_d1e441" prev="#T-Opstap-042_d1e436" next="#T-Opstap-042_d1e445">VOORAVOND</title>
+         <title xml:id="T-Opstap-042_d1e445" prev="#T-Opstap-042_d1e441" next="#T-Opstap-042_d1e448">FELIX</title>
+         <title xml:id="T-Opstap-042_d1e448" prev="#T-Opstap-042_d1e445" next="#T-Opstap-042_d1e451">REMY</title>
+         <title xml:id="T-Opstap-042_d1e451" prev="#T-Opstap-042_d1e448" next="#T-Opstap-042_d1e454">FARAAZ</title>
+         <title xml:id="T-Opstap-042_d1e454" prev="#T-Opstap-042_d1e451" next="#T-Opstap-042_d1e457">JANINE</title>
+         <title xml:id="T-Opstap-042_d1e457" prev="#T-Opstap-042_d1e454" next="#T-Opstap-042_d1e460">BARRY</title>
+         <title xml:id="T-Opstap-042_d1e460" prev="#T-Opstap-042_d1e457" next="#T-Opstap-042_d1e464">JELLA</title>
+         <title xml:id="T-Opstap-042_d1e464" prev="#T-Opstap-042_d1e460" next="#T-Opstap-042_d1e467">ANA</title> 
+         <title xml:id="T-Opstap-042_d1e467" prev="#T-Opstap-042_d1e464" next="#T-Opstap-042_d1e470">HELGE</title>
+         <title xml:id="T-Opstap-042_d1e470" prev="#T-Opstap-042_d1e467" next="#T-Opstap-042_d1e474">CARLA</title>
+         <title xml:id="T-Opstap-042_d1e474" prev="#T-Opstap-042_d1e470" next="#">EPILOOG</title></p>
+      </body>
+   </text>
+</TEI>

@@ -18,9 +18,9 @@
             </publicationStmt>
             <sourceDesc>
                 <p>
-                    <l>Date: </l>
-                    <l>Start time: </l>
-                    <l>Duration: </l>
+                    <l>Date: 04-08-2020</l>
+                    <l>Start time: 12:04:13</l>
+                    <l>Duration: 00:29:24</l>
                 </p>
                 <p><linkGrp><link prev="#" n="01_s01" next="02_s04"/></linkGrp></p>
                 <p>
@@ -30,7 +30,6 @@
                     <material corresp="04_s08">Sessie-versie 4</material>
                     <material corresp="05_s10">Sessie-versie 5</material>
                     <material corresp="06_s11">Sessie-versie 6</material>
-                    <material corresp="Final">Gepubliceerde tekst</material>
                 </p>
             </sourceDesc>
         </fileDesc>

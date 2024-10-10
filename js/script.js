@@ -202,13 +202,38 @@ function toggleClassVisibility(className, displayType = "inline") {
         elements[i].style.display = elements[i].style.display === displayType ? "none" : displayType;
     }
 }
+// Helper function to convert hex to RGB
+function hexToRgb(hex) {
+    let shorthandRegex = /^#?([a-f\d])([a-f\d])([a-f\d])$/i;
+    hex = hex.replace(shorthandRegex, (m, r, g, b) => r + r + g + g + b + b);
 
+    let result = /^#?([a-f\d]{2})([a-f\d]{2})([a-f\d]{2})$/i.exec(hex);
+    return result ? `rgb(${parseInt(result[1], 16)}, ${parseInt(result[2], 16)}, ${parseInt(result[3], 16)})` : null;
+}
 function toggleColorAndDecoration(elements, color, textDecoration = "line-through") {
+    let rgbColor = hexToRgb(color); // Convert the provided hex color to RGB
+
     for (let i = 0; i < elements.length; i++) {
-        elements[i].style.color = elements[i].style.color === color ? "" : color;
-        elements[i].style.textDecoration = elements[i].style.textDecoration === textDecoration ? "" : textDecoration;
+        // Get the original color (store it in the data attribute if not already set)
+        let originalColor = elements[i].getAttribute("data-original-color") || elements[i].style.color || window.getComputedStyle(elements[i]).color;
+        if (!elements[i].getAttribute("data-original-color")) {
+            elements[i].setAttribute("data-original-color", originalColor); // Save the original color
+        }
+
+        console.log("Original color (logged as RGB):", originalColor); // Log the original color in RGB
+
+        // Compare RGB color values to handle resetting correctly
+        if (window.getComputedStyle(elements[i]).color === rgbColor) {
+            elements[i].style.color = originalColor; // Revert to the original color
+            elements[i].style.textDecoration = "";   // Reset text decoration
+        } else {
+            elements[i].style.color = color;         // Apply the new hex color
+            elements[i].style.textDecoration = textDecoration;
+        }
     }
 }
+
+
 
 function showhidedeletions() {
     $(".del").toggleClass('temporaryhide');

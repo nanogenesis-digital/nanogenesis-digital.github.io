@@ -47,3 +47,278 @@ a:link {
   .process_link:hover {
     opacity: 0.5;
   }
+
+  /* voor macro tabel */
+.zui-table {
+  background-color: #ffffff;
+  border: none;
+  border-collapse: separate;
+  border-spacing: 0;
+  font: normal 13px Arial, sans-serif;
+
+}
+
+.zui-table th {
+  background-color: white;
+  border: none;
+  color: #302B27;
+  text-align: center;
+  width: 100%;
+  min-width: 32px;
+  white-space: nowrap;
+}
+.zui-table tbody td.zui-sticky-col {
+  color: black;
+  padding: 0px;
+  white-space: nowrap;
+  
+}
+
+.zui-table tbody td {
+  border-bottom: solid 1px #E8EEEA;
+  color:#ffffff;
+  padding: 0px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.zui-table tbody td:hover {
+  border-bottom: solid 1px #E8EEEA;
+  color: #000000;
+  padding: 0px;
+  white-space: nowrap;
+  
+}
+
+
+.zui-table tbody .Franklin a.section {
+  color:  black;
+  padding: 0px;
+  white-space: nowrap;
+  
+}
+
+.zui-table tbody a:hover {
+  color: #302B27;
+  padding: 0px;
+  white-space: nowrap;
+}
+
+.zui-wrapper {
+  position: relative;
+  top: 5px;
+  margin-bottom: 40px;
+}
+.zui-scroller {
+  margin-left: 80px;
+  overflow-x: scroll;
+  overflow-y: visible;
+  padding-bottom: 5px;
+  width: auto;
+}
+.zui-table .zui-sticky-col {
+  left: 0;
+  position: absolute;
+  top: auto;
+  width: 80px;
+
+}
+
+.zui-table .Franklin {
+  background-color: #E0B0D5;
+  border: none;
+  color: #E0B0D5;
+  padding: 0px;
+  text-align: center;
+  border-bottom: solid 1px #E0B0D5;
+  white-space: nowrap;
+}
+
+.zui-table tbody .Franklin a {
+  color:  #E0B0D5;
+  padding: 0px;
+  white-space: nowrap;
+}
+.zui-table tbody .Franklin a:hover {
+  color:  #302B27;
+  padding: 0px;
+  white-space: nowrap;
+}
+
+.zui-table .Faraaz {
+  background-color: #DD6986;
+  border: none;
+  color: #DD6986;
+  padding: 0px;
+  text-align: center;
+  border-bottom: solid 1px #DD6986;
+  white-space: nowrap;
+  
+}
+
+.zui-table tbody .Faraaz a {
+  color:  #DD6986;
+  padding: 0px;
+  white-space: nowrap;
+}
+.zui-table tbody .Faraaz a:hover {
+  color:  #302B27;
+  padding: 0px;
+  white-space: nowrap;
+}
+
+.zui-table tbody .Faraaz a.section {
+  color:  black;
+  padding: 0px;
+  white-space: nowrap;
+  
+}
+.zui-table .Carla {
+  background-color: #D4E09B;
+  border: none;
+  color: #D4E09B;
+  padding: 0px;
+  text-align: center;
+  border-bottom: solid 1px #D4E09B;
+  white-space: nowrap;
+  
+}
+
+.zui-table .Helge {
+  background-color: #F7B801;
+  border: none;
+  color: #F7B801;
+  padding: 0px;
+  text-align: center;
+  border-bottom: solid 1px #F7B801;
+  white-space: nowrap;
+  
+}
+
+.zui-table .Remy {
+  background-color: #058A5E;
+  border: none;
+  color: #058A5E;
+  padding: 0px;
+  text-align: center;
+  border-bottom: solid 1px #058A5E;
+  white-space: nowrap;
+  
+}
+
+
+.zui-table .Felix {
+  background-color: #61868F;
+  border: none;
+  color: #61868F;
+  padding: 0px;
+  text-align: center;
+  border-bottom: solid 1px #61868F;
+  white-space: nowrap;
+  
+}
+
+.zui-table .Gaard {
+  background-color: #CEDEDF;
+  border: none;
+  color: #CEDEDF;
+  padding: 0px;
+  text-align: center;
+  border-bottom: solid 1px #CEDEDF;
+  white-space: nowrap;
+
+}
+
+.zui-table .Janine {
+  background-color: #FFE77A;
+  border: none;
+  color: #ffe814;
+  padding: 0px;
+  text-align: center;
+  border-bottom: solid 1px #FFE77A;
+  white-space: nowrap;
+  
+}
+
+.zui-table .Ana {
+  background-color: #D6AE29;
+  border: none;
+  color: #D6AE29;
+  padding: 0px;
+  text-align: center;
+  border-bottom: solid 1px #D6AE29;
+  white-space: nowrap;
+  
+}
+
+.zui-table .Jella {
+  background-color: #7FB069;
+  border: none;
+  color: #7FB069;
+  padding: 0px;
+  text-align: center;
+  border-bottom: solid 1px #7FB069;
+  white-space: nowrap;
+  
+}
+
+.zui-table .Barry {
+  background-color: #D95D39;
+  border: none;
+  color: #D95D39;
+  padding: 0px;
+  text-align: center;
+  border-bottom: solid 1px #D95D39;
+  white-space: nowrap;
+  
+}
+
+.zui-table .Shaun {
+  background-color: #BE7C4D;
+  border: none;
+  color: #BE7C4D;
+  padding: 0px;
+  text-align: center;
+  border-bottom: solid 1px #BE7C4D;
+  white-space: nowrap;
+  
+}
+
+.zui-table .Fran {
+  background-color: #856084;
+  border: none;
+  color: #856084;
+  padding: 0px;
+  text-align: center;
+  border-bottom: solid 1px #856084;
+  white-space: nowrap;
+  
+}
+
+.zui-table .Uur {
+  background-color: #9E0031;
+  border: none;
+  color: #9E0031;
+  padding: 0px;
+  text-align: center;
+  border-bottom: solid 1px #9E0031;
+  white-space: nowrap;
+  
+}
+
+.zui-table .Krijt {
+  background-color: #CC998D;
+  border: none;
+  color: #CC998D;
+  padding: 0px;
+  text-align: center;
+  border-bottom: solid 1px #CC998D;
+  white-space: nowrap;
+  
+}
+.zui-table tbody td.zui-sticky-col.Uur {
+  color: white;
+  padding: 0px;
+  white-space: nowrap;
+  
+}

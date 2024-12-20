@@ -25,11 +25,11 @@ a:link {
     text-decoration: none; 
   }
 
-  .writing_process {
+.writing_process {
     height:200px; 
     padding: 5px;
     text-align: center;
-  }
+}
 
   .process_link {
     display: block;
@@ -48,6 +48,25 @@ a:link {
     opacity: 0.5;
   }
 
+  .text-column {
+    display: block;
+        margin: 10px;
+        padding: 10px 20px;
+        font-size: 16px;
+        color: #023C40;
+        background-color:#CFD8D7;
+        border: none;
+        border-radius: 5px;
+        text-align: center;
+  }
+ .text-column p {
+  text-align: justify;
+ }
+
+ .text-column a {
+  color: #023C40;
+  text-decoration: underline;
+ }
   /* voor macro tabel */
 .zui-table {
   background-color: #ffffff;

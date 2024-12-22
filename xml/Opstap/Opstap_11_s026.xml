@@ -14,11 +14,11 @@
             <p corresp="session">26</p>
             <p corresp="version">11</p>
             <p corresp="total_versions">41</p>
-            <p corresp="name">Gie Bogaert</p>
+            <p corresp="name">Bogaert_Opstap</p>
          </publicationStmt>
          <sourceDesc>
             <p>
-               <l>Datum: 26 augustus 2013</l>
+               <l>Datum: 26-08-2013</l>
                <l>Tijd: 09:15:43</l>
                <l>Duur: 00:39:18</l>
             </p>
@@ -67,7 +67,7 @@
                <material corresp="39_s409">Sessie-versie 39</material>
                <material corresp="40_s430">Sessie-versie 40</material>
                <material corresp="41_s432">Sessie-versie 41</material>
-               <material corresp="PT">Gepubliceerde tekst</material>
+               
             </p></sourceDesc> 
       </fileDesc>
    </teiHeader>

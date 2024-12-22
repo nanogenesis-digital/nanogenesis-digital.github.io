@@ -23,7 +23,7 @@
                <l>Duur: 00:05:01</l>
             </p>
             <p><linkGrp>
-               <link prev="#" n="01_s013" next="02_s016"/>
+               <link prev="01_s013" n="01_s013" next="02_s016"/>
             </linkGrp></p>
             <p>
                <material corresp="01_s013">Sessie-versie 1</material>

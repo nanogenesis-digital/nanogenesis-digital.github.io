@@ -14,11 +14,11 @@
             <p corresp="session">90</p>
             <p corresp="version">30</p>
             <p corresp="total_versions">41</p>
-            <p corresp="name">Gie Bogaert</p>
+            <p corresp="name">Bogaert_Opstap</p>
          </publicationStmt>
          <sourceDesc>
             <p>
-               <l>Datum: 3 december 2013</l>
+               <l>Datum: 3-12-2013</l>
                <l>Tijd: 16:20:15</l>
                <l>Duur: 01:34:57</l>
                <l>Sessies 90, 91 en 92 zijn verkeerd gelogged. Het einddocument van sessie 90 bevat de secties van Carla, Remy en Helge in Halfzeven dubbel. De veranderingen in Franklin (incipit) zijn daar al in aangebracht, maar dit is niet in de logging data te vinden. In het start document van sessie 91 zijn deze aanpassingen weer niet aanwezig, maar in deze sessie plakt Bogaert alle tekst tot en met het gedeelte van Carla, hier zijn de aanpassingen in de incipit weer aanwezig. Tijdens sessie 92 worden stukken tekst verwijdert, onder andere delen van de incipit voor de wijzigingen die hier te zien zijn. De procesdata van deze revisies is dus niet beschikbaar.</l></p>
@@ -67,7 +67,6 @@
                <material corresp="39_s409">Sessie-versie 39</material>
                <material corresp="40_s430">Sessie-versie 40</material>
                <material corresp="41_s432">Sessie-versie 41</material>
-               <material corresp="PT">Gepubliceerde tekst</material>
             </p></sourceDesc>
       </fileDesc>
    </teiHeader>

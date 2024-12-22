@@ -8,6 +8,10 @@ body {
 nav {
     background-color: #CFD8D7;
 }
+.dropdown-item:active {
+  background-color:#AFBEC0;
+  color: white;
+}
 
 .nav-link {
     color:#023C40;

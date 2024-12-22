@@ -14,11 +14,11 @@
             <p corresp="session">18</p>
             <p corresp="version">6</p>
             <p corresp="total_versions">41</p>
-            <p corresp="name">Gie Bogaert</p>
+            <p corresp="name">Bogaert_Opstap</p>
          </publicationStmt>
          <sourceDesc>
             <p>
-               <l>Datum: 23 augustus 2013</l>
+               <l>Datum: 23-08-2013</l>
                <l>Tijd: 13:45:12</l>
                <l>Duur: 00:09:26</l>
                <l>In deze sessie maakte Bogaert een aantal wijzigingen in de beschrijvingen van het plein in de vroege ochtend. Deze beschrijvingen zijn gebaseerd op observaties die Bogaert maakte op 7 juni 2013 op de Franklin Rooseveltplaats in Antwerpen. Verder schrijft hij een stuk over pleinen - het belang van pleinen in de geschiedenis. Inspiratie voor dit stuk vond Bogaert in 'Pleinvrees', een kort stuk van Hilde Van den Ende in <emph>De Morgen</emph> (4 juli 2013).</l>
@@ -68,7 +68,7 @@
                <material corresp="39_s409">Sessie-versie 39</material>
                <material corresp="40_s430">Sessie-versie 40</material>
                <material corresp="41_s432">Sessie-versie 41</material>
-               <material corresp="PT">Gepubliceerde tekst</material>
+               
             </p></sourceDesc> 
          
       </fileDesc>

@@ -2,26 +2,75 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title n="" xml:id="T-Terminus-393_d1e9" prev="#" next="#">Roosevelt</title>
+            <title>Roosevelt</title>
             <author>Gie Bogaert</author>
+            <respStmt>
+               <name>Lamyk Bekius</name>
+               <resp>encoding scheme, TEI customization, encoding</resp>
+            </respStmt>
          </titleStmt>
          <publicationStmt>
-            <p n="section">Terminus</p>
-            <p corresp="sessie">Sessie 393</p>
+            <p corresp="section">Terminus</p>
+            <p corresp="session">393</p>
+            <p corresp="version">27</p>
+            <p corresp="total_versions">38</p>
+            <p corresp="name">Bogaert_Terminus</p>
          </publicationStmt>
          <sourceDesc>
             <p>
-               <l>Datum: 28 september 2015</l>
+               <l>Datum: 28-09-2015</l>
                <l>Tijd: 20:55:48</l>
                <l>Duur: 00:37:10</l>
             </p>
-            <p><linkGrp><link prev="Terminus-387" n="Terminus-393" next="Terminus-396"/></linkGrp></p></sourceDesc>
+            <p><linkGrp>
+               <link prev="26_s387" n="27_s393" next="28_s396"/>
+            </linkGrp></p>
+            <p>
+               <material corresp="01_s013">Sessie-versie 1</material>
+               <material corresp="02_s016">Sessie-versie 2</material>
+               <material corresp="03_s047">Sessie-versie 3</material>
+               <material corresp="04_s048">Sessie-versie 4</material>
+               <material corresp="05_s088">Sessie-versie 5</material>
+               <material corresp="06_s089">Sessie-versie 6</material>
+               <material corresp="07_s156">Sessie-versie 7</material>
+               <material corresp="08_s160">Sessie-versie 8</material>
+               <material corresp="09_s175">Sessie-versie 9</material>
+               <material corresp="10_s241">Sessie-versie 10</material>
+               <material corresp="11_s257">Sessie-versie 11</material>
+               <material corresp="12_s260">Sessie-versie 12</material>
+               <material corresp="13_s264">Sessie-versie 13</material>
+               <material corresp="14_s301">Sessie-versie 14</material>
+               <material corresp="15_s330">Sessie-versie 15</material>
+               <material corresp="16_s337">Sessie-versie 16</material>
+               <material corresp="17_s339">Sessie-versie 17</material>
+               <material corresp="18_s344">Sessie-versie 18</material>
+               <material corresp="19_s347">Sessie-versie 19</material>
+               <material corresp="20_s349">Sessie-versie 20</material>
+               <material corresp="21_s350">Sessie-versie 21</material>
+               <material corresp="22_s366">Sessie-versie 22</material>
+               <material corresp="23_s368">Sessie-versie 23</material>
+               <material corresp="24_s373">Sessie-versie 24</material>
+               <material corresp="25_s380">Sessie-versie 25</material>
+               <material corresp="26_s387">Sessie-versie 26</material>
+               <material corresp="27_s393">Sessie-versie 27</material>
+               <material corresp="28_s396">Sessie-versie 28</material>
+               <material corresp="29_s404">Sessie-versie 29</material>
+               <material corresp="30_s405">Sessie-versie 30</material>
+               <material corresp="31_s406">Sessie-versie 31</material>
+               <material corresp="32_s407">Sessie-versie 32</material>
+               <material corresp="33_s408">Sessie-versie 33</material>
+               <material corresp="34_s410">Sessie-versie 34</material>
+               <material corresp="35_s423">Sessie-versie 35</material>
+               <material corresp="36_s436">Sessie-versie 36</material>
+               <material corresp="37_s441">Sessie-versie 37</material>
+               <material corresp="38_s445">Sessie-versie 38</material>
+            </p>
+         </sourceDesc>
       </fileDesc>
    </teiHeader>
-
    <text>
       <body>
-         <said who="Franklin-10">
+         
             <p>
                <title n="" xml:id="T-Terminus-393_d1e50" prev="#" next="#">TERMINUS</title>
             </p>
@@ -121,7 +170,7 @@
                <lb type="indent"/>
                <seg n="Terminus-393,[4150]" xml:id="Terminus-393_d1e329" prev="#Terminus-393_d1e323" next="#">Ik heb zelfs jou verzonnen.</seg>
             </p>
-         </said>
+         
          <p source="chapters">
             <title n="" xml:id="T-Terminus-393_d1e335" prev="#" next="#T-Terminus-393_d1e339">FLAPTEKST</title>
             <title n="" xml:id="T-Terminus-393_d1e336" prev="#T-Terminus-393_d1e335" next="#T-Terminus-393_d1e339">OPSTAP</title>

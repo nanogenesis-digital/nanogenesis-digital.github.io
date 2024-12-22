@@ -38,8 +38,11 @@ function documentLoader() {
       criticalElement.innerHTML = ''; // Clear existing content
       criticalElement.appendChild(resultDocument3);
     })
+    
     .catch(function (error) {
       console.error("Error loading documents:", error);
+      // Redirect to index.html on error
+      window.location.href = folder_xml.concat(writer,"about.html");;
     });
   }
   

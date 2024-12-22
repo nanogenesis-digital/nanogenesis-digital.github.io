@@ -14,11 +14,11 @@
             <p corresp="session">30</p>
             <p corresp="version">15</p>
             <p corresp="total_versions">41</p>
-            <p corresp="name">Gie Bogaert</p>
+            <p corresp="name">Bogaert_Opstap</p>
          </publicationStmt>
          <sourceDesc>
             <p>
-               <l>Datum: 26 augustus 2013</l>
+               <l>Datum: 26-08-2013</l>
                <l>Tijd: 15:07:10</l>
                <l>Duur: 00:54:19</l>
                <l>In deze sessie ging Bogaert verder met het uitwerken van de beschrijving van de 'krijtkunstenaar', waarmee hij de vorige sessie was begonnen.</l>
@@ -68,7 +68,7 @@
                <material corresp="39_s409">Sessie-versie 39</material>
                <material corresp="40_s430">Sessie-versie 40</material>
                <material corresp="41_s432">Sessie-versie 41</material>
-               <material corresp="PT">Gepubliceerde tekst</material>
+               
             </p></sourceDesc>
       </fileDesc>
    </teiHeader>

@@ -22,7 +22,7 @@
                     <l>Start time: 13:44:19</l>
                     <l>Duration: 00:22:50</l>
                 </p>
-                <p><linkGrp><link prev="18_s21" n="19_s22" next="19_s22"/></linkGrp></p>
+                <p><linkGrp><link prev="18_s21" n="19_s22" next="#"/></linkGrp></p>
                 <p>
                     <material corresp="01_s01">Sessie-versie 1</material>
                     <material corresp="02_s02">Sessie-versie 2</material>

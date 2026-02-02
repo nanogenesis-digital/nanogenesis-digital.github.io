@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>'t</title>
+            <author>Maud Vanhauwaert</author>
+            <respStmt>
+               <name>Lamyk Bekius</name>
+               <resp>encoding scheme, TEI customization, encoding</resp>
+            </respStmt>
+            <respStmt>
+               <name>Suleika Jacobs</name>
+               <resp>encoding</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p corresp="section">'t</p>
+            <p corresp="session">13</p>
+            <p corresp="version">5</p>
+            <p corresp="total_versions">5</p>
+            <p corresp="name">Maud_Vanhauwaert</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>
+               <l>Date: 12-05-2024</l>
+               <l>Start time: 22:56:05</l>
+               <l>Duration: 00:07:35</l>
+            </p>
+            <p><linkGrp>
+               <link prev="04_s10" n="05_s13" next="#"/>
+            </linkGrp></p>
+            <p>
+               <material corresp="01_s01">Sessie-versie 1</material>
+               <material corresp="02_s05">Sessie-versie 2</material>
+               <material corresp="03_s07">Sessie-versie 3</material>
+               <material corresp="04_s10">Sessie-versie 4</material>
+               <material corresp="05_s13">Sessie-versie 5</material>
+            </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p><del seq="20240512000050" type="context" evidence="81">het is allang begonnen - we vallen er knal middenin	
+            <lb/>
+            <lb/>eerst moet ik nog even de berg 
+            <lb/>van alle boeken die ooit zijn geschreven, alle
+            <lb/>werkelijk alle,  gedichten over
+            <lb/>om eindelijk te kunnen	
+            <lb/>
+            <lb/>
+            <lb/>de opmaat 
+            <lb/>
+            <lb/>
+            <lb/>beginnen is sneeuw ruimen, kijken wat eronder ligt
+            <lb/>
+            <lb/>het wit 
+            <lb/>
+            <lb/>beginnen is de drempel overgaan
+            <lb/>
+            <lb/>begin 
+            <lb/>
+            <lb/>verlangen naar een opmaat, om maar niet te hoeven beginnen
+            <lb/>
+            <lb/>begon begost begot
+            <lb/>
+            <lb/>uitstellen
+            <lb/>
+            <lb/>elk woord bezoedelt
+            <lb/>
+            <lb/>er ritselt nog een partituur, 
+            <lb/>
+            <lb/>en hop
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>ANACROUSE
+            <lb/>
+            <lb/></del>
+            <lb/>
+            <lb/>'t
+            <lb/>
+            <lb/>liefst zou ik blijven hangen in de opmaat
+            <lb/>licht, onbeklemtoond
+            <lb/>de kans dat alles nog alle kanten op kan kantelen
+            <lb/>
+            <lb/><del seq="20240512000108" type="context" evidence="116">-</del><del seq="20240512000122" type="typo" evidence="139"><add seq="20240512000121" type="context" evidence="138">_</add></del><add seq="20240512000224" type="source" evidence="228"><del seq="20240512000225" type="context" evidence="232">(</del>–<del seq="20240512000227" type="context" evidence="237">)</del></add> de pelouse van de anacrouse<add seq="20240512000250" type="context" evidence="283"> </add><del seq="20240512000253" type="context" evidence="287">-</del><add seq="20240512000257" type="context" evidence="294">–</add> 
+            <lb/>
+            <lb/>maar de opmaat is al ingepalmd
+            <lb/>door al wat ooit eerder is bedacht
+            <lb/>je vloeit eruit voort, rekent er mee af
+            <lb/>
+            <lb/>de opmaat is een berg die je op moet 
+            <lb/>alvorens je, uithijgend op de kam
+            <lb/>aan de overkant het verblindende wit ziet
+            <lb/>
+            <lb/>onbeschreven, onbevlekt
+            <lb/>
+            <lb/>elke betreding een overtreding 
+            <lb/>en net daarom zou ik alles doen (de kattenbak verversen, sokken stoppen, mijn groottante bellen, het parket boenen, eindelijk eens die rookmelders bestellen, voor als ik me nog eens zo voel <del seq="20240512000323" type="context" evidence="343">-</del><add seq="20240512000329" type="context" evidence="356">–</add>  geproc<add seq="20240512000428" type="typo" evidence="443">r</add>ast<del seq="20240512000430" type="typo" evidence="452">r</del>ineerd<del seq="20240512000305" type="context" evidence="304-305"> -</del><add seq="20240512000313" type="context" evidence="321"> –</add> alvast een recept verzinnen voor een medicijn,...) 
+            <lb/>
+            <lb/>desnoods meteen eindigen
+            <lb/>alles, om maar niet te hoeven
+            <lb/>
+            <lb/>beginnen.
+            <del seq="20240512000502" type="context" evidence="495"><lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>liefst zou ik blijven hangen in de opmaat
+            <lb/>licht, onbeklemtoond
+            <lb/>de kans dat alles nog alle kanten op kan kantelen
+            <lb/>
+            <lb/>- de pelouse van de anacrouse- 
+            <lb/>
+            <lb/>maar de opmaat is al ingepalmd
+            <lb/>door al wat ooit eerder is bedacht
+            <lb/>je vloeit eruit voort, rekent er mee af
+            <lb/>
+            <lb/>de opmaat is een berg die je op moet 
+            <lb/>alvorens je, uithijgend op de kam
+            <lb/>aan de overkant het verblindende wit ziet
+            <lb/>
+            <lb/>onbeschreven, onbevlekt
+            <lb/>
+            <lb/>elke betreding een overtreding 
+            <lb/>en net daarom zou ik alles doen (de kattenbak verversen, sokken stoppen, mijn groottante bellen, het parket boenen, eindelijk eens die rookmelders bestellen, voor als ik me nog eens zo voel -  geprocastineerd - een medicijn verzinnen
+            <lb/>
+            <lb/>desnoods meteen eindigen
+            <lb/>alles, om maar niet te hoeven
+            <lb/>
+            <lb/>beginnen.
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>de bladspiegel reflecteert je vertwijfelde gelaat
+            <lb/>alleen daarom zou je het oppervlak
+            <lb/>met woorden, geketste keitjes willen breken
+            <lb/>
+            <lb/>
+            <lb/>reculer pour mieux sauter
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>dit is een opmaat
+            <lb/>onbeklemtoond
+            <lb/>
+            <lb/>- iets dat nog alle kanten op kan -
+            <lb/>
+            <lb/>onvolledig, onbeklemtoon
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>anacrouse
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>sterven lijkt me makkelijker dan geboren worden 
+            <lb/>je sterft uit een leven (dat je hebt meegemaakt, je kent het, 
+            <lb/>als geen ander, je hebt er zicht op)
+            <lb/>maar waaruit word je geboren?
+            <lb/>je bent blind een taalloos
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/></del>
+         </p>
+         <p><add seq="20240512000136" type="focus" evidence="173">Focus events<lb/>
+            <media url="google.com" mimeType="Internet"><desc>gedachtestreepje - Google Zoeken</desc></media></add>
+            <lb/>
+            <add seq="20240512000138" type="focus" evidence="176"><media url="taaladvies.net" mimeType="Internet"><desc>Gedachtestreepje - Taaladvies</desc></media></add>
+            <lb/>
+            <add seq="20240512000202" type="focus" evidence="199"><media url="google.com" mimeType="Internet"><desc>gedachtestreepje - Google Zoeken</desc></media></add>
+            <lb/>
+            <add seq="20240512000205" type="focus" evidence="203"><media url="wikipedia.com" mimeType="Internet"><desc>Gedachtestreepje - Wikipedia</desc></media></add>
+            <lb/>
+            <add seq="20240512000434" type="focus" evidence="459"><media url="google.com" mimeType="Internet"><desc>New Tab - procast... - Google Zoeken</desc></media></add>
+         </p>
+      </body>
+   </text>
+</TEI>

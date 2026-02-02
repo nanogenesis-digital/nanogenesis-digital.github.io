@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
   <head>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
@@ -8,6 +8,8 @@
     <link href="../../css/style.css" rel="stylesheet"/>
     <link href="https://fonts.googleapis.com/css?family=Roboto Slab" rel="stylesheet"/>
     <link rel="shortcut icon" type="image/x-icon" href="{{ "/favicon.ico"  | absolute_url }}">
+    <script src="../../js/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
 </head>
   <body>
     <nav class="navbar navbar-expand-lg">
@@ -37,6 +39,7 @@
                   <li><a class="dropdown-item" href="../../../html/processviewer.html?process=Posthuma_01_s00">Jente Posthuma</a></li>
                   <li><a class="dropdown-item" href="../../../html/processviewer.html?process=VanRijswijk_01_s00">Roos van Rijswijk</a></li>
                   <li><a class="dropdown-item" href="../../../html/processviewer.html?process=Troch_01_s02">David Troch</a></li>
+                  <li><a class="dropdown-item" href="../../../html/processviewer.html?process=Vanhauwaert_01_s01">Maud Vanhauwaert</a></li>
                   <li><a class="dropdown-item" href="../../../html/processviewer.html?process=VanPelt_01_s01">Ellen Van Pelt</a></li>
                   
                 </ul>
@@ -50,14 +53,15 @@
           
           <div class="col-12 text-column">
             <h1>About Jens Meijen</h1>
-            <p>Jens Meijen (1996–) is a writer, doctoral researcher, AI consultant and journalist. He debuted with the poetry collection <i>Xenomorf</i> (2019) – which won the C. Buddingh’ poetry prize for best Dutch debut – followed by a novel, <i>De lichtjaren</i> (2021) and a second volume of poetry, <i>Sunset Industries</i> (2023). Meijen logged the writing process of his story “Constellaties” for the Track Changes project. The story was also the product of Meijen’s writer’s residency in Paris, organised by the Flemish-Dutch cultural organisation deBuren. The story was published on deBuren’s website as well as in the literary journal <i>DW-B</i>, where it appeared in the theme issue ‘Altijd was die muur daar’. 
+            <p>Jens Meijen (1996) is a writer, doctoral researcher, AI consultant and journalist. He debuted with the poetry collection <i>Xenomorf</i> (2019) – which won the C. Buddingh’ poetry prize for best Dutch debut – followed by a novel, <i>De lichtjaren</i> (2021) and a second volume of poetry, <i>Sunset Industries</i> (2023). Meijen logged the writing process of his story “Constellaties” for the Track Changes project. The story was also the product of Meijen’s writer’s residency in Paris, organised by the Flemish-Dutch cultural organisation deBuren. The story was published on deBuren’s website as well as in the literary journal <i>DW-B</i>, where it appeared in the theme issue ‘Altijd was die muur daar’. 
             
             </p>
             <h2>"Constellaties"</h2>
             <p>As a magical-realistic and metafictional detective story, “Constellations” describes the quest of an unnamed first-person narrator in Paris to solve the mystery of his uncle’s disappearance. The story begins with the narrator recalling the night a message appeared on his wall telling him to go outside, where he would receive a letter from his uncle, Alain. The uncle writes that he has been murdered and that it is the narrator’s job to catch the killers. He must go to a certain address in Paris and ask about the wall. </p>
            <h2>About the writing process</h2>
            <p>Meijen wrote “Constellaties” in six writing sessions in August 2020, resulting in six Word documents and 8 hours, 45 minutes and 50 seconds of logged keystroke data. The first three sessions took place on August 4th and the fourth on August 5th. Meijen sent this version to his editor at deBuren. On 18 and 19 August, he revised the story based on the comments from the editor, resulting in the final logged version. </p>
-        </div>
+            <div id="charts" class="charts"></div>
+          </div>
         
         </div>
         <div class="row">

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
   <head>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
@@ -8,6 +8,8 @@
     <link href="../../css/style.css" rel="stylesheet"/>
     <link href="https://fonts.googleapis.com/css?family=Roboto Slab" rel="stylesheet"/>
     <link rel="shortcut icon" type="image/x-icon" href="{{ "/favicon.ico"  | absolute_url }}">
+    <script src="../../js/chart.js"></script>
+     <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
 </head>
   <body>
     <nav class="navbar navbar-expand-lg">
@@ -37,6 +39,7 @@
                   <li><a class="dropdown-item" href="../../../html/processviewer.html?process=Posthuma_01_s00">Jente Posthuma</a></li>
                   <li><a class="dropdown-item" href="../../../html/processviewer.html?process=VanRijswijk_01_s00">Roos van Rijswijk</a></li>
                   <li><a class="dropdown-item" href="../../../html/processviewer.html?process=Troch_01_s02">David Troch</a></li>
+                  <li><a class="dropdown-item" href="../../../html/processviewer.html?process=Vanhauwaert_01_s01">Maud Vanhauwaert</a></li>
                   <li><a class="dropdown-item" href="../../../html/processviewer.html?process=VanPelt_01_s01">Ellen Van Pelt</a></li>
                   
                 </ul>
@@ -67,6 +70,7 @@
            <p>Van Pelt wrote “Dauphin” in 21 sessions over a period of 13 days between
             late November 2020 and mid-January 2021. The writing process resulted in 18 logged writing sessions sessions, with a total duration of 15 hours, 19 minutes and 26 seconds,
             as well as 18 Word documents. </p>
+            <div id="charts" class="charts"></div>
         </div>
         
         </div>

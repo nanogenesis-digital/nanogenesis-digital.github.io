@@ -74,6 +74,22 @@ body {
   cursor: pointer;
 }
 
+#jumpButton {
+  background-color: #302B27;
+  border: none;
+  border-radius: 8px;
+  color: #F3F6F4;
+  width: 100%;
+
+
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
 .btn {
   background-color: #F3F6F4;
 }
@@ -259,3 +275,8 @@ s.del.cut {
 	opacity: 1;
 }
 
+input {
+    margin: 7px;
+    padding: 2px;
+    width: 100%;
+        }

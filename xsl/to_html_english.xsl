@@ -43,6 +43,9 @@
                                         
                                     </ul>
                                 </li>
+                                <li class="nav-item">
+                                    <a class="nav-link " aria-current="page" href="../xml/{$lastname}/about.html">About the writing process</a>
+                                </li>
                             </ul>
                             
                         </div>
@@ -138,7 +141,7 @@
                                         </ul>
                                     </li>
                                     <li>
-                                        <xsl:text>Number of times sources were consulted: </xsl:text>
+                                        <xsl:text>Number of times sources consulted: </xsl:text>
                                         <xsl:value-of select="count(//tei:add[@type = 'focus'])"/>
                                     </li>
                                 </ul>
@@ -177,6 +180,8 @@
                                     <i style="font-size:24px;cursor: pointer" class="material-icons refresh_btn"></i>
                                 </div>
                                 <p id="counter" style="text-align: center;"/>
+                                <input type="number" id="jumpInput" min="1" placeholder="Step #"/>
+                                <button id="jumpButton">Jump</button>
                             </div>
                         </div>
                         <div class="col-lg-1 d-none d-lg-block sides"/>
@@ -381,8 +386,6 @@
     
     <xsl:template match="//tei:add[@type = 'layout']">
         <i xmlns="http://www.w3.org/1999/xhtml" class="line"><xsl:attribute name="id">line<xsl:value-of select="@n"/></xsl:attribute></i><ins xmlns="http://www.w3.org/1999/xhtml" class="add layout" style="color: #fff;display: none"><xsl:attribute name="id"><xsl:value-of select="@n"/></xsl:attribute><xsl:apply-templates/><span class="n sup"><xsl:value-of select="@n"/></span><span class="p sup"><xsl:value-of select="@change"/></span>.</ins></xsl:template>
-    
-    
     
     
     <xsl:template match="//tei:del[@type = 'layout']">

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>'t</title>
+            <author>Maud Vanhauwaert</author>
+            <respStmt>
+               <name>Lamyk Bekius</name>
+               <resp>encoding scheme, TEI customization, encoding</resp>
+            </respStmt>
+            <respStmt>
+               <name>Suleika Jacobs</name>
+               <resp>encoding</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p corresp="section">'t</p>
+            <p corresp="session">10</p>
+            <p corresp="version">4</p>
+            <p corresp="total_versions">5</p>
+            <p corresp="name">Maud_Vanhauwaert</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>
+               <l>Date: 12-05-2024</l>
+               <l>Start time: 19:13:35</l>
+               <l>Duration: 00:23:12</l>
+            </p>
+            <p><linkGrp>
+               <link prev="03_s07" n="04_s10" next="05_s13"/>
+            </linkGrp></p>
+            <p>
+               <material corresp="01_s01">Sessie-versie 1</material>
+               <material corresp="02_s05">Sessie-versie 2</material>
+               <material corresp="03_s07">Sessie-versie 3</material>
+               <material corresp="04_s10">Sessie-versie 4</material>
+               <material corresp="05_s13">Sessie-versie 5</material>
+            </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>het is allang begonnen - we vallen er knal middenin	
+            <lb/>
+            <lb/>
+            <lb/>eerst moet ik nog even de berg 
+            <lb/>van alle boeken die ooit zijn geschreven, alle
+            <lb/>werkelijk alle,  gedichten over
+            <lb/>om eindelijk te kunnen	
+            <lb/>
+            <lb/>
+            <lb/>de opmaat 
+            <lb/>
+            <lb/>
+            <lb/>beginnen is sneeuw ruimen, kijken wat eronder ligt
+            <lb/>
+            <lb/>het wit 
+            <lb/>
+            <lb/>beginnen is de drempel overgaan
+            <lb/>
+            <lb/>begin 
+            <lb/>
+            <lb/>verlangen naar een opmaat, om maar niet te hoeven beginnen
+            <lb/>
+            <lb/>begon begost begot
+            <lb/>
+            <lb/>uitstellen
+            <lb/>
+            <lb/>elk woord bezoedelt
+            <lb/>
+            <lb/>er ritselt nog een partituur, 
+            <lb/>
+            <lb/>en hop
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>ANACROUSE
+            <lb/>
+            <lb/>
+            <lb/>
+            <add seq="20240512000936" type="translocation" evidence="412-437"><lb/>'t
+               <lb/>
+               <lb/>liefst zou ik blijven hangen in de opmaat
+               <lb/>licht, onbeklemtoond
+               <lb/>de kans dat alles nog alle kanten op kan kantelen
+               <lb/>
+               <lb/>- de pelouse van de anacrouse- 
+               <lb/>
+               <lb/>maar de opmaat is al ingepalmd
+               <lb/>door al wat ooit eerder is bedacht
+               <lb/>je vloeit eruit voort, rekent er mee af
+               <lb/>
+               <lb/>de opmaat is een berg die je op moet 
+               <lb/>alvorens je, uithijgend op de kam
+               <lb/>aan de overkant het verblindende wit ziet
+               <lb/>
+               <lb/>onbeschreven, onbevlekt
+               <lb/>
+               <lb/>elke betreding een overtreding 
+               <lb/>en net daarom zou ik alles doen (de kattenbak verversen, sokken stoppen, mijn groottante bellen, het parket boenen, eindelijk eens die rookmelders bestellen, <del seq="20240512001215" type="context" evidence="684-690"><add seq="20240512001100" type="context" evidence="590-593">al<del seq="20240512001101" type="typo" evidence="594-595">as</del></add><add seq="20240512001102" type="context" evidence="596-600">vast </add></del><add seq="20240512000950" type="context" evidence="445-479"><del seq="20240512001214" type="context" evidence="674-683">een recept</del><add seq="20240512001005" type="context" evidence="505-523"><del seq="20240512001213" type="context" evidence="663-673"> <add seq="20240512001016" type="context" evidence="531-540">verzinnen </add></del>voor<del seq="20240512001220" type="context" evidence="702-715"> een medicijn </del></add><del seq="20240512001116" type="context" evidence="604-607"> ver</del><del seq="20240512001055" type="context" evidence="568-585">zinnen tegen dit g</del><del seq="20240512000957" type="typo" evidence="480-482">voe</del></add><del seq="20240512000959" type="typo" evidence="489-494"><add seq="20240512000958" type="typo" evidence="483-487">eovel </add></del><del seq="20240512001054" type="context" evidence="562-567"><add seq="20240512001000" type="context" evidence="495-500">evoel </add></del><del seq="20240512001219" type="context" evidence="698-701">voor</del> als ik me nog eens zo voel - geprocast<add seq="20240512001739" type="context" evidence="844">r</add>ineerd - <del seq="20240512001225" type="context" evidence="723-725">een</del><add seq="20240512001226" type="context" evidence="726-730">alva<del seq="20240512001227" type="typo" evidence="731">t</del></add><add seq="20240512001228" type="context" evidence="732-737">st een</add> <add seq="20240512001158" type="context" evidence="627-642">recept<add seq="20240512001805" type="context" evidence="855-864"> verzinnnen</add> <add seq="20240512001305" type="context" evidence="792-809">voor een medicijn<del seq="20240512001811" type="context" evidence="878"> </del></add><add seq="20240512001231" type="context" evidence="741-750"><del seq="20240512001810" type="context" evidence="869-877">verzinnen</del><del seq="20240512001313" type="context" evidence="833"> </del></add><del seq="20240512001312" type="context" evidence="824-832">voor een </del></add><del seq="20240512001311" type="context" evidence="823">m</del><del seq="20240512001236" type="context" evidence="754-770">edicijn verzinnen</del><add seq="20240512001238" type="context" evidence="771-775"><del seq="20240512001310" type="context" evidence="821-822">ed</del><del seq="20240512001239" type="typo" evidence="776-778">ijn</del></add><del seq="20240512001241" type="typo" evidence="781-782"><add seq="20240512001240" type="typo" evidence="779-780">ci</add></del><add seq="20240512001242" type="context" evidence="783-788"><del seq="20240512001309" type="context" evidence="816-820">icijn</del><del seq="20240512001823" type="context" evidence="881"><add seq="20240512001813" type="context" evidence="880">.</add></del><add seq="20240512001824" type="context" evidence="882">,</add><add seq="20240512001825" type="context" evidence="889-891">...</add>)</add>
+               <lb/>
+               <lb/>desnoods meteen eindigen
+               <lb/>alles, om maar niet te hoeven
+               <lb/>
+               <lb/>beginnen.
+               <lb/>
+               <lb/>
+               <lb/>
+               <lb/>
+               <lb/>
+               <lb/>
+               <lb/>
+               <lb/>
+               <lb/>
+               <lb/>
+               <lb/>
+               <lb/>
+            </add>
+            <del seq="20240512000922" type="context" evidence="394"><lb/>'t</del>
+            <lb/>
+            <lb/>liefst zou ik blijven hangen in de opmaat
+            <lb/>licht, onbeklemtoond
+            <lb/>de kans dat alles nog alle kanten op kan kantelen
+            <lb/>
+            <lb/>- de pelouse van de anacrouse- 
+            <lb/>
+            <lb/>maar de opmaat is al ingepalmd
+            <lb/>door al wat ooit eerder is bedacht
+            <lb/>je vloeit eruit voort, rekent er mee af
+            <lb/>
+            <lb/>de opmaat is een berg die je op moet 
+            <lb/>alvorens je, uithijgend op de kam
+            <lb/>aan de overkant het verblindende wit ziet
+            <lb/>
+            <lb/>onbeschreven, onbevlekt
+            <lb/>
+            <lb/>elke betreding een overtreding 
+            <lb/>en net daarom zou ik alles doen (de kattenbak verversen, sokken stoppen, mijn groottante bellen, het parket boenen, eindelijk eens die rookmelders bestellen,<del seq="20240512000308" type="context" evidence="197"><add seq="20240512000125" type="context" evidence="47-61"> een recept v<del seq="20240512000129" type="context" evidence="62-63">oo</del></add><del seq="20240512000134" type="context" evidence="67-69"><add seq="20240512000130" type="context" evidence="64-66">erz</add></del><add seq="20240512000135" type="context" evidence="70-94">oor een medicijn <del seq="20240512000148" type="context" evidence="95-101">tegen '</del></add></del><add seq="20240512000155" type="context" evidence="102-109">voor al<del seq="20240512000158" type="typo" evidence="110"> </del></add>
+            <add seq="20240512000200" type="context" evidence="111-145">s ik me nog eens <del seq="20240512000552" type="context" evidence="353-355">zo </del><add seq="20240512000611" type="context" evidence="356-358">zo </add></add>voel<del seq="20240512000314" type="context" evidence="204-205">: </del><add seq="20240512000314" type="context" evidence="206-208"> - <del seq="20240512000527" type="context" evidence="336-346"><add seq="20240512000455" type="context" evidence="322-329">serieus </add></del>geproc<del seq="20240512000212" type="typo" evidence="146">q</del></add>
+            <add seq="20240512000213" type="context" evidence="147-155">astineerd</add><del seq="20240512000321" type="context" evidence="212"> </del><del seq="20240512000222" type="context" evidence="167">alvast de factuur opmaken voor dit gedicht, een flauwe mop verzinnen)</del><add seq="20240512000451" type="context" evidence="313"></add><add seq="20240512000322" type="context" evidence="213-246">- <del seq="20240512000437" type="context" evidence="270-295">een recept verzinnen voor </del>een <del seq="20240512000338" type="context" evidence="247-248">d,</del></add><add seq="20240512000339" type="context" evidence="249-256">medicijn</add><add seq="20240512000442" type="context" evidence="301-309"> verzinnen</add>
+            <lb/>
+            <lb/>desnoods meteen eindigen
+            <lb/>alles, om maar niet te hoeven
+            <lb/>
+            <lb/>beginnen.
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>de bladspiegel reflecteert je vertwijfelde gelaat
+            <lb/>alleen daarom zou je het oppervlak
+            <lb/>met woorden, geketste keitjes willen breken
+            <lb/>
+            <lb/>
+            <lb/>reculer pour mieux sauter
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>dit is een opmaat
+            <lb/>onbeklemtoond
+            <lb/>- iets dat nog alle kanten op kan -
+            <lb/>onvolledig, onbeklemtoon
+            <lb/>
+            <lb/>
+            <lb/>anacrouse
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>sterven lijkt me makkelijker dan geboren worden 
+            <lb/>je sterft uit een leven (dat je hebt meegemaakt, je kent het, 
+            <lb/>als geen ander, je hebt er zicht op)
+            <lb/>maar waaruit word je geboren?
+            <lb/>je bent blind een taalloos
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+         </p>
+         <p>
+         </p>
+      </body>
+   </text>
+</TEI>

@@ -52,10 +52,10 @@ function documentLoader() {
   documentLoader();
 
 
-  $(document).ready(function () {
-    console.log(rev);
+ 
 
-    // Event delegation to handle button clicks
+$(document).ready(function () {
+
     $('body')
         .on("click", ".start_btn", start)
         .on("click", ".refresh_btn", refresh)
@@ -66,9 +66,19 @@ function documentLoader() {
         })
         .on("click", ".increase_btn", function () {
             increase();
-            console.log(a);
+        })
+        .on("click", "#jumpButton", function () {
+            jumpToStep(document.getElementById("jumpInput").value);
         });
+
+    document.getElementById("jumpInput").addEventListener("keydown", function (e) {
+        if (e.key === "Enter") {
+            jumpToStep(this.value);
+        }
+    });
+
 });
+
 
 // Function to increase 'a'
 function increase() {
@@ -184,12 +194,13 @@ function refresh() {
     $(".del").removeClass("thick-del").css({ "text-decoration": "none" }).show();
     $(".add, .mod, .cont").hide();
     updateCounter(0, rev);
-    $("div.word").first().scrollIntoView({ behavior: "smooth" });
+    const firstWord = document.querySelector("div.word");
+    if (firstWord) {
+        firstWord.scrollIntoView({ behavior: "smooth" });
+    }
+
 }
 
-
-
-// When the user clicks on div, open the popup
 function InfoFunction() {
     var popup = document.getElementById("Info");
     popup.classList.toggle("show");
@@ -214,23 +225,23 @@ function hexToRgb(hex) {
     return result ? `rgb(${parseInt(result[1], 16)}, ${parseInt(result[2], 16)}, ${parseInt(result[3], 16)})` : null;
 }
 function toggleColorAndDecoration(elements, color, textDecoration = "line-through") {
-    let rgbColor = hexToRgb(color); // Convert the provided hex color to RGB
+    let rgbColor = hexToRgb(color); 
 
     for (let i = 0; i < elements.length; i++) {
-        // Get the original color (store it in the data attribute if not already set)
+      
         let originalColor = elements[i].getAttribute("data-original-color") || elements[i].style.color || window.getComputedStyle(elements[i]).color;
         if (!elements[i].getAttribute("data-original-color")) {
-            elements[i].setAttribute("data-original-color", originalColor); // Save the original color
+            elements[i].setAttribute("data-original-color", originalColor); 
         }
 
-        console.log("Original color (logged as RGB):", originalColor); // Log the original color in RGB
+        console.log("Original color (logged as RGB):", originalColor); 
 
-        // Compare RGB color values to handle resetting correctly
+       
         if (window.getComputedStyle(elements[i]).color === rgbColor) {
-            elements[i].style.color = originalColor; // Revert to the original color
-            elements[i].style.textDecoration = "";   // Reset text decoration
+            elements[i].style.color = originalColor; 
+            elements[i].style.textDecoration = "";   
         } else {
-            elements[i].style.color = color;         // Apply the new hex color
+            elements[i].style.color = color;         
             elements[i].style.textDecoration = textDecoration;
         }
     }
@@ -381,7 +392,24 @@ function hoverByClass(className, colorOver, colorOut = "transparent") {
     }
 }
 
-// Initialize hover effects for notes
+
 for (let i = 1; i <= 20; i++) {
     hoverByClass(`note${i}`, "#C4F1BE");
 }
+
+function jumpToStep(target) {
+    target = parseInt(target, 10);
+
+    if (isNaN(target) || target < 0 || target > rev) return;
+
+
+    flag = false;
+
+
+    refresh();
+
+    for (let i = 1; i <= target; i++) {
+        increase();
+    }
+}
+

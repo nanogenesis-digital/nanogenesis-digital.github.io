@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>'t</title>
+            <author>Maud Vanhauwaert</author>
+            <respStmt>
+               <name>Lamyk Bekius</name>
+               <resp>encoding scheme, TEI customization, encoding</resp>
+            </respStmt>
+            <respStmt>
+               <name>Suleika Jacobs</name>
+               <resp>encoding</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p corresp="section">'t</p>
+            <p corresp="session">5</p>
+            <p corresp="version">2</p>
+            <p corresp="total_versions">4</p>
+            <p corresp="name">Maud_Vanhauwaert</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>
+               <l>Date: 09-05-2024</l>
+               <l>Start time: 12:47:06</l>
+               <l>Duration: 01:11:54</l>
+            </p>
+            <p><linkGrp>
+               <link prev="01_s01" n="02_s05" next="03_s07"/>
+            </linkGrp></p>
+            <p>
+               <material corresp="01_s01">Sessie-versie 1</material>
+               <material corresp="02_s05">Sessie-versie 2</material>
+               <material corresp="03_s07">Sessie-versie 3</material>
+               <material corresp="04_s10">Sessie-versie 4</material>
+               <material corresp="05_s13">Sessie-versie 5</material>
+            </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <lb/>het is allang begonnen - we vallen er knal middenin	
+            <lb/>
+            <lb/>eerst moet ik nog even de berg 
+            <lb/>van alle boeken die ooit zijn geschreven, alle
+            <lb/>werkelijk alle,  gedichten over
+            <lb/>om eindelijk te kunnen	
+            <lb/>
+            <lb/>de opmaat 
+            <lb/>
+            <lb/>beginnen is sneeuw ruimen, kijken wat eronder ligt
+            <lb/>het wit 
+            <lb/>beginnen is de drempel overgaan
+            <lb/>begin 
+            <lb/>verlangen naar een opmaat, om maar niet te hoeven beginnen
+            <lb/>begon begost begot
+            <lb/>uitstellen
+            <lb/>elk woord bezoedelt
+            <lb/>er ritselt nog een partituur, 
+            <lb/>en hop
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>ANACROUSE
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>'t
+            <lb/>liefst zou ik blijven hangen in de opmaat
+            <lb/>licht<del seq="20240509000255" type="typo" evidence="118-121"><add seq="20240509000254" type="context" evidence="114-117">baar</add></del><del seq="20240509000300" type="context" evidence="129-135"><add seq="20240509000258" type="context|continue" evidence="122-128">vaardig</add></del>, onbeklemtoond,
+            <lb/><del seq="20240509000056" type="context" evidence="18-20">in </del>de kans dat alles nog alle kanten <add seq="20240509000414" type="context" evidence="216-217"> <del seq="20240509001600" type="context" evidence="903-904">op</del></add><add seq="20240509005920" type="context" evidence="3279-3281">op </add>kan<del seq="20240509000216" type="typo" evidence="89-90"><add seq="20240509000216" type="context" evidence="87-88">;;</add></del><del seq="20240509000421" type="context" evidence="231-233"><add seq="20240509000217" type="context|continue" evidence="92-96">...</add></del><add seq="20240509001602" type="context" evidence="908-916"> kantelen</add>
+            <add seq="20240509000154" type="nt" evidence="39-41"><lb/><lb/><del seq="20240509000155" type="pre-context" evidence="42-44">o,f</del></add><add seq="20240509000156" type="nt|continue" evidence="45-71">- <del seq="20240509000425" type="context" evidence="237-246">crousen in</del><add seq="20240509000429" type="context" evidence="247-149">de </add><add seq="20240509000453" type="context" evidence="277-287">pelouse v<del seq="20240509000455" type="typo" evidence="288-289">qn</del><add seq="20240509000456" type="context" evidence="290-291">an</add></add> de anacrouse- </add>
+            <del seq="20240509000536" type="translocation" evidence="306"><add seq="20240509000320" type="nt" evidence="139-156"><lb/><lb/>recul<del seq="20240509000348" type="context" evidence="209">l</del>er pour m<del seq="20240509000324" type="pre-context" evidence="157">i</del></add><add seq="20240509000324" type="nt|continue" evidence="158-166">ieux sau<del seq="20240509000329" type="typo" evidence="167">r</del></add><add seq="20240509000329" type="nt|continue" evidence="168-170">ter</add></del>
+            <lb/>
+            <lb/>maar de opmaat is al ingepalmd
+            <lb/>door al wat ooit eerder <del seq="20240509003828" type="context" evidence="2050-2053">werd</del><add seq="20240509003829" type="context" evidence="2054"><del seq="20240509003830" type="typo" evidence="2055">s</del></add><add seq="20240509003830" type="context" evidence="2056-2057">is</add> <del seq="20240509000618" type="context" evidence="341-350">geschreven</del><add seq="20240509000620" type="context" evidence="351-357">bedacht</add> 
+            <lb/>de opmaat is een berg die je <add seq="20240509005949" type="context" evidence="3287-3288">op </add>
+            <del seq="20240509003217" type="context" evidence="1607"><add seq="20240509001257" type="nt" evidence="745"><lb/></add></del>
+            <del seq="20240509005952" type="context" evidence="3292-3305"><lb/><del seq="20240509000634" type="context" evidence="361-366">eerst </del>helemaal op </del>moet <add seq="20240509010026" type="context" evidence="3317"><lb/></add>voor je <del seq="20240509002014" type="context" evidence="1045-4049">daar </del>
+            <add seq="20240509001956" type="nt" evidence="1023-1038"><del seq="20240509002007" type="context" evidence="1043"><lb/></del>aan de overkant<del seq="20240509010046" type="context" evidence="3334"><add seq="20240509010039" type="context" evidence="3325">,</add> </del></add><add seq="20240509010047" type="context" evidence="3335"><lb/></add>
+            <del seq="20240509001027" type="context" evidence="596"><lb/></del>
+            <del seq="20240509010032" type="context" evidence="3322"><lb/></del>uithijgend op de richel (je eerste regel)
+            <lb/><del seq="20240509001215" type="context" evidence="648">d<del seq="20240509001050" type="context" evidence="605-606">ie</del><add seq="20240509001051" type="context" evidence="607-618">e witte vl<del seq="20240509001054" type="typo" evidence="619-620">qk</del></add><add seq="20240509001055" type="context" evidence="621-627">akte <del seq="20240509001057" type="context" evidence="628-629">sc</del></add><add seq="20240509001058" type="context" evidence="630-634">ziet<lb/><lb/></add></del><add seq="20240509001218" type="nt" evidence="650-663">het verblin<del seq="20240509001221" type="typo" evidence="664">e</del></add><add seq="20240509001221" type="nt|continue" evidence="665-668">den<del seq="20240509001222" type="typo" evidence="669"> </del></add><add seq="20240509001222" type="nt|continue" evidence="670-676">de <del seq="20240509001225" type="typo" evidence="677-680">zit </del></add><add seq="20240509001226" type="nt|continue" evidence="681-689">wit ziet </add>
+            <add seq="20240509001230" type="nt" evidence="692-696"><del seq="20240509001232" type="pre-context" evidence="697-701"><lb/>zo pr</del></add><add seq="20240509001233" type="nt|continue" evidence="702-720"><del seq="20240509001329" type="context" evidence="750"><lb/>nog zo prachtig </del><add seq="20240509001332" type="context" evidence="752"><del seq="20240509001332" type="context" evidence="755">w</del></add><add seq="20240509001333" type="context" evidence="756-760"><lb/><lb/>zo<del seq="20240509001334" type="context" evidence="761-763"> ,q</del></add><add seq="20240509001335" type="context" evidence="764-772"> machtig </add><del seq="20240509002721" type="context" evidence="1357-1360"><add seq="20240509002717" type="context" evidence="1353-1356">nog </add></del><del seq="20240509001239" type="pre-context" evidence="721-723">aan</del></add><add seq="20240509001239" type="nt|continue" evidence="724-736">onaangeroerd <lb/></add>
+            <add seq="20240509003231" type="nt" evidence="1614"><lb/></add>
+            <del seq="20240509002253" type="translocation" evidence="1174"><add seq="20240509002025" type="nt" evidence="1059-1066">de blad<del seq="20240509002027" type="typo" evidence="1067">p</del></add><add seq="20240509002027" type="nt|continue" evidence="1068-1070">s<del seq="20240509002028" type="typo" evidence="1071-1072">pe</del></add><del seq="20240509002029" type="typo" evidence="1074"><add seq="20240509002029" type="nt|continue" evidence="1073">s</add></del><add seq="20240509002030" type="nt|continue" evidence="1075-1082">piegel <del seq="20240509002046" type="pre-context" evidence="1083">w</del></add><add seq="20240509002047" type="nt|continue" evidence="1084-1100"><del seq="20240509002159" type="context" evidence="1128-1140">die je angst </del>ref<del seq="20240509002052" type="typo" evidence="1101">e</del></add><add seq="20240509002052" type="nt|continue" evidence="1102-1109">lecteert</add></del>
+            <del seq="20240509001340" type="context" evidence="779"><add seq="20240509001125" type="context" evidence="635"><lb/><lb/></add>grenzeloze verblindend witte<add seq="20240509000712" type="context" evidence="372"> </add>
+            <del seq="20240509000712" type="context" evidence="371"><lb/></del>vlakte ziet
+            <add seq="20240509000715" type="nt" evidence="378-383"><lb/><lb/>onaa<del seq="20240509000719" type="typo" evidence="384-385">gn</del></add><add seq="20240509000719" type="pre-context" evidence="386-396">ngeroerd - </add><mod seq="20240509000853" type="continue" evidence="474-479">intact<lb/></mod>
+            <add seq="20240509000855" type="nt" evidence="482-499"><lb/>niet is zo <del seq="20240509000859" type="typo" evidence="500-506">,ooi ql</del></add><add seq="20240509000901" type="pre-context" evidence="507-511">mooi </add></del>
+            <del seq="20240509001347" type="typo" evidence="792"><add seq="20240509001347" type="context" evidence="791">j</add></del><del seq="20240509001513" type="context" evidence="887-895"><add seq="20240509001350" type="context" evidence="799-804">je <del seq="20240509001351" type="typo" evidence="805-807">zee</del></add><add seq="20240509001353" type="context" evidence="808-813">weet: </add></del><add seq="20240509000743" type="nt" evidence="405-437"><del seq="20240509001346" type="context" evidence="788"><lb/><lb/></del><del seq="20240509002300" type="context" evidence="1185"><add seq="20240509002023" type="nt" evidence="1058"><lb/></add></del>elke betreding<del seq="20240509000807" type="context" evidence="443-445"> is</del> een overtreding <del seq="20240509002302" type="context" evidence="1192"><lb/></del></add>
+            <del seq="20240509003632" type="translocation" evidence="1902"><add seq="20240509002306" type="translocation" evidence="1200"><lb/>de bladspiegel reflecteert<add seq="20240509002513" type="focus" evidence="1293"></add><add seq="20240509002543" type="focus" evidence="1308"></add><mod seq="20240509002418" type="continue" evidence="1263"> </mod><del seq="20240509002801" type="context" evidence="1380"><lb/></del></add><mod seq="20240509002804" type="continue" evidence="1381-1403">je vertwijfe<del seq="20240509002931" type="context|continue" evidence="1446-1450">lde g</del><del seq="20240509002811" type="pre-context" evidence="1404-1409">ezicht</del></mod><del seq="20240509002819" type="typo" evidence="1425-1429"><add seq="20240509002813" type="pre-context" evidence="1410-1414">leaat</add></del><add seq="240509002820" type="pre-context" evidence="1430-1434"><del seq="20240509002930" type="context" evidence="1441-1445">elaat</del></add><add seq="20240509002934" type="context" evidence="1452"><del seq="20240509002934" type="context" evidence="1453">l</del></add><add seq="20240509002935" type="context" evidence="1454-1463">lde gelaat</add>
+            <add seq="20240509002938" type="nt" evidence="1469-1499"><lb/><del seq="20240509003159" type="context" evidence="1594-1600">en dat </del>alleen daarom zou je <del seq="20240509002947" type="typo" evidence="1500-1502">zil</del></add><add seq="20240509002948" type="nt|continue" evidence="1503-1519"><del seq="20240509003246" type="context" evidence="1622-1639">willen schrijven </del></add>
+            <del seq="20240509003250" type="context" evidence="1644-1647"><add seq="20240509003006" type="nt" evidence="1533-1534"><lb/>o<del seq="20240509003007" type="typo" evidence="1535"> </del></add><add seq="20240509003008" type="nt|continue" evidence="1536-1539">m <del seq="20240509003009" type="pre-context" evidence="1540-1541">de</del></add></del><add seq="20240509003123" type="pre-context" evidence="1544-1553">het opper<del seq="20240509003124" type="typo" evidence="1554">l</del></add><add seq="20240509003125" type="pre-context" evidence="1555-1569">vlak<add seq="20240509003253" type="nt" evidence="1656-1670"><lb/><del seq="20240509003258" type="pre-context" evidence="1671-1684">willen breken </del></add><add seq="20240509003300" type="pre-context" evidence="1685-1695">met <del seq="20240509003302" type="typo" evidence="1696-1702">zoorden</del></add><add seq="20240509003303" type="pre-context" evidence="1703-1709">woorden</add> <del seq="20240509003307" type="pre-context" evidence="1716-1724">te breken</del></add><add seq="20240509003310" type="pre-context" evidence="1725-1732"><add seq="20240509003345" type="context" evidence="1802-1803">, </add><del seq="20240509003341" type="context" evidence="1792-1795">als </del>gek<del seq="20240509003311" type="typo" evidence="1733">t</del></add><add seq="20240509003311" type="pre-context" evidence="1734-1740">etste <del seq="20240509003313" type="typo" evidence="1741">e</del></add><add seq="20240509003313" type="pre-context" evidence="1742-1745">ke<del seq="20240509003314" type="typo" evidence="1746-1747">ti</del></add><add seq="20240509003314" type="pre-context" evidence="1748-1760">itjes <del seq="20240509003316" type="typo" evidence="1761-1767">zillen </del></add><add seq="20240509003318" type="pre-context" evidence="1768-1780">willen breken</add></del>
+            <del seq="20240509001405" type="context" evidence="825"><lb/></del>
+            <del seq="20240509001403" type="context" evidence="820"><lb/>die je weerspiegelt</del><add seq="20240509001405" type="nt" evidence="826-838"><add seq="20240509002301" type="nt" evidence="1189"><del seq="20240509003716" type="context" evidence="1969"><lb/></del></add><del seq="20240509002742" type="context|continue" evidence="1371">e</del><del seq="20240509002350" type="context|continue" evidence="1225-1235">n net daaro</del><del seq="20240509001408" type="typo" evidence="839">:</del></add><add seq="20240509001409" type="nt|continue" evidence="840-841"><del seq="20240509002349" type="context" evidence="1224">m</del><add seq="20240509002353" type="context" evidence="1236-1245"><add seq="20240509002936" type="context" evidence="1464"><lb/></add><del seq="20240509002740" type="context" evidence="1367-1368">n </del><del seq="20240509003138" type="context" evidence="1577-1585">je denkt</del></add><del seq="20240509001413" type="context" evidence="850"> </del></add>
+            <del seq="20240509001413" type="context" evidence="849"><lb/>
+               <lb/></del><add seq="20240509001414" type="context" evidence="856-857"><del seq="20240509003141" type="context" evidence="1588">: </del></add><del seq="20240509003411" type="context" evidence="1819-1823">alles</del><add seq="20240509003604" type="context" evidence="1883-1891"><del seq="20240509005339" type="context|continue" evidence="2986-2988">en </del><del seq="20240509003719" type="context|continue" evidence="1994-1999">toch: </del></add><add seq="20240509003412" type="context" evidence="1824-1838"><del seq="20240509003718" type="context|continue" evidence="1979-1993">je denkt alles </del></add><del seq="20240509003717" type="context" evidence="1971-1978"> zou ik </del><add seq="20240509003720" type="context" evidence="2002-2017"><del seq="20240509005336" type="context" evidence="2975-2983">je denkt: </del><del seq="20240509005355" type="typo" evidence="3005"><add seq="20240509005354" type="typo" evidence="3004">f</add></del><add seq="20240509005357" type="context" evidence="3006-3013"><add seq="20240509005510" type="context" evidence="3127-3129">en </add><del seq="20240509010135" type="context|continue" evidence="3383-3390">daarom: </del></add><del seq="20240509010134" type="context|continue" evidence="3379-3382">alle</del><del seq="20240509003723" type="typo" evidence="2018-2019"> s</del></add><add seq="20240509003723" type="context" evidence="2020-2028"><del seq="20240509010133" type="context|continue" evidence="3373-3378">s zou </del><del seq="20240509005349" type="context" evidence="2993-2997">ik </del><add seq="20240509005351" type="context" evidence="2998-3000"><del seq="20240509010132" type="context|continue" evidence="3370-3372">je </del></add></add><del seq="20240509010131" type="context" evidence="3366-3369">doen</del><add seq="20240509001419" type="context" evidence="865"><del seq="20240509003734" type="context" evidence="2032"><lb/></del></add><add seq="20240509010136" type="context" evidence="3392-3415">net daarom zou je alle<del seq="20240509010140" type="typo" evidence="3416"> </del></add><add seq="20240509010140" type="context" evidence="3417-3422">s doen</add>
+            <lb/>(<del seq="20240509005453" type="context" evidence="3096-3112"><add seq="20240509005431" type="context" evidence="3051-3056">je bel</add><del seq="20240509005413" type="context" evidence="3017-3020">mijn</del><del seq="20240509005430" type="context" evidence="3048-3050"><add seq="20240509005414" type="context" evidence="3021-3022">je</add><add seq="20240509005429" type="context" evidence="3047">o</add></del><del seq="20240509005429" type="context|continue" evidence="3046"> </del><add seq="20240509005429" type="context" evidence="3044"><del seq="20240509005429" type="context" evidence="3045">n</del></add><del seq="20240509005426" type="context" evidence="3026-3043">belastingsaangifte</del> indienen, </del>de kattenbak verversen, <add seq="20240509010711" type="context" evidence="3566-3573">vervoers</add><add seq="20240509005447" type="context" evidence="3068-3069">onkost<del seq="20240509005449" type="typo" evidence="3077-3079">n i</del><add seq="20240509005449" type="context" evidence="3080-3092">en indienen, </add></add>sokken stoppen, <add seq="20240509004850" type="context" evidence="2583-2595"><del seq="20240509005506" type="context" evidence="3116-3121">mijn</del><add seq="20240509005507" type="context" evidence="3122-3123">je</add> groott<del seq="20240509004852" type="typo" evidence="2596-2597">ou</del><add seq="20240509004852" type="context" evidence="2598-2610">ante bellen, </add></add><del seq="20240509004915" type="context|continue" evidence="2654-2657">nog </del><del seq="20240509004731" type="context" evidence="2466">even kijken of de Intimissi-winkel open is morgen want ik heb dringend een nieuwe bh nodig</del><add seq="20240509004738" type="context" evidence="2469-2477"><del seq="20240509004914" type="context|continue" evidence="2650-2653">even</del><add seq="20240509004743" type="context" evidence="2481-2482"><del seq="20240509004913" type="context|continue" evidence="2648-2649">, </del></add><add seq="20240509004753" type="context" evidence="2489-2502"><del seq="20240509004912" type="context|continue" evidence="2639-2647">want dat </del><del seq="20240509004755" type="typo" evidence="2503-2507">,oest</del></add><add seq="20240509004757" type="context" evidence="2508-2519"><del seq="20240509004911" type="context|continue" evidence="2630-2638">moest all</del><del seq="20240509004759" type="context" evidence="2520-2522">een</del></add><add seq="20240509004800" type="context" evidence="2523-2532"><del seq="20240509004910" type="context|continue" evidence="2622-2629">ang gebe</del><del seq="20240509004802" type="typo" evidence="2533-2534">ru</del></add><add seq="20240509004802" type="context" evidence="2535-2551"><del seq="20240509004909" type="context" evidence="2616-2621">uren,<del seq="20240509005605" type="typo" evidence="3135"> </del></del><add seq="20240509005152" type="context" evidence="2805-2817"><del seq="20240509005605" type="typo" evidence="3133-3134">vi</del><del seq="20240509005223" type="context" evidence="2837-2845">a bol.com</del> </add><add seq="20240509004951" type="context" evidence="2669-2683">eindelijk eens </add><add seq="20240509005609" type="context" evidence="3144-3147">die </add><add seq="20240509005227" type="context" evidence="2851-2857">online </add>rookmelder<del seq="20240509004813" type="typo" evidence="2552"> </del></add><add seq="20240509004813" type="context" evidence="2553-2555">s <del seq="20240509004814" type="typo" evidence="2556">v</del></add><add seq="20240509004814" type="context" evidence="2557-2565">bestellen</add><del seq="20240509004742" type="context" evidence="2478-2480"> is</del></add>, <mod seq="20240509003936" type="continue" evidence="2143-2152"><del seq="20240509005134" type="context|continue" evidence="2774-2785">nog even in </del><del seq="20240509004000" type="pre-context|continue" evidence="2192-2194">de </del><del seq="20240509003947" type="pre-context|continue" evidence="2161-2163">ver</del><del seq="20240509003941" type="pre-context" evidence="2153">t</del></mod><add seq="20240509003946" type="pre-context" evidence="2155-2157"><del seq="20240509003946" type="pre-context" evidence="2158-2160">oev</del></add><add seq="20240509003949" type="pre-context" evidence="2165-2177"><del seq="20240509003959" type="pre-context" evidence="2188-2191">... </del><mod seq="20240509004001" type="continue" evidence="2195-2208"><del seq="20240509004111" type="context" evidence="2284">het</del><del seq="20240509005133" type="context" evidence="2754-2773"><add seq="20240509004112" type="context" evidence="2286-2296">d<del seq="20240509004450" type="context" evidence="2422">e</del><add seq="20240509004450" type="context" evidence="2423-2434">ie<add seq="20240509005000" type="context" evidence="2702-2703"> <del seq="20240509005001" type="typo" evidence="2704">d</del></add><del seq="20240509005002" type="context" evidence="2709-2712"><add seq="20240509005001" type="context" evidence="2705-2708">stam</add></del><add seq="20240509005004" type="context" evidence="2713-2721">stamvolle</add><del seq="20240509004958" type="context" evidence="2690-2700"> stam<add seq="20240509004709" type="typo" evidence="2457">p</add>volle</del></add> limbo<del seq="20240509004512" type="context" evidence="2240"> </del></add></del><add seq="20240509005008" type="context" evidence="2725-2734"><del seq="20240509005138" type="context|continue" evidence="2792-2795">met</del><add seq="20240509005234" type="context" evidence="2870-2885"><del seq="20240509005300" type="context" evidence="2944-2963">desnoods wat </del><del seq="20240509005244" type="context" evidence="2886"> v</del></add><del seq="20240509005246" type="context" evidence="2902-2907">zinnen</del></add><del seq="20240509005250" type="typo" evidence="2918-2922"><add seq="20240509005250" type="context" evidence="2913-2917">;; ve</add></del><add seq="20240509005252" type="context" evidence="2924-2936"><del seq="20240509005615" type="context" evidence="3153-3155">...</del><mod seq="20240509005632" type="continue" evidence="3156-3165">een<add seq="20240509010951" type="context" evidence="3628-3631"> mop</add><del seq="20240509010944" type="context" evidence="3621-3627"> nieuw </del></mod><del seq="20240509010729" type="context" evidence="3578-3603"><add seq="20240509005849" type="context" evidence="3235-3252">woord voor procr<del seq="20240509005853" type="typo" evidence="3253-3254">qs</del></add><add seq="20240509005854" type="context" evidence="3255-3263">astinatie</add></del><add seq="20240509010840" type="context" evidence="3605"><del seq="20240509010841" type="context" evidence="3606">g</del></add><add seq="20240509010842" type="context" evidence="3607-3613"><del seq="20240509010855" type="context" evidence="3614-3620">verhaal</del></add> verzinnen</add><add seq="202405090052124" type="context" evidence="2749">)</add><del seq="20240509004117" type="context|continue" evidence="2302-2308"> voorgebor</del><del seq="20240509004004" type="typo" evidence="2209">t</del></mod><mod seq="20240509004004" type="continue|continue" evidence="2210-2214"><del seq="20240509004116" type="context" evidence="2300">chte </del></mod><del seq="20240509004006" type="context" evidence="2219-2223">ver</del> <add seq="20240509004826" type="typo" evidence="2569"><del seq="20240509004827" type="typo" evidence="2570">7</del></add><add seq="20240509004828" type="context" evidence="2572"><del seq="20240509005123" type="context|continue" evidence="2748"><lb/></del></add><del seq="20240509005122" type="context|continue" evidence="2742-2747">toeven</del></add><add seq="20240509004129" type="continue" evidence="2314"><del seq="20240509005121" type="context" evidence="2741">)</del></add>
+            <lb/>
+            <del seq="20240509000942" type="context" evidence="522"><lb/>ik zei het je toch: alles</del>
+            <lb/>desnoods meteen eindigen<del seq="20240509003744" type="context" evidence="2037"> </del><add seq="20240509003745" type="context" evidence="2038-2045"><del seq="20240509004023" type="translocation" evidence="2227-2234">, alles </del></add>
+            <lb/><add seq="20240509000949" type="context" evidence="529-535"><del seq="20240509001813" type="context" evidence="963">alles<add seq="20240509001721" type="context" evidence="929-940"> zou ik doen</add>, </del></add><add seq="20240509010224" type="context" evidence="3428-3437">wer<del seq="20240509010226" type="typo" evidence="3438-3444">eklijk </del></add><add seq="20240509010227" type="context" evidence="3445-3451">kelijk </add><add seq="20240509004028" type="translocation" evidence="2238-2244">alles, </add>om maar niet te hoeven
+            <del seq="20240509003423" type="context" evidence="1846"><lb/></del>
+            <lb/>beginnen<add seq="20240509000956" type="context" evidence="557">.</add>
+            <lb/><add seq="20240509004830" type="typo" evidence="2578"><del seq="20240509004928" type="typo" evidence="2662">7</del></add>
+            <add seq="20240509004928" type="nt" evidence="2663"><lb/></add>
+            <lb/>
+            <add seq="20240509003644" type="translocation" evidence="1920">de bladspiegel reflecteert je vertwijfelde gelaat<lb/>alleen daarom zou je het oppervlak<lb/>met woorden, geketste keitjes willen breken</add>
+            <lb/>
+            <lb/>
+            <lb/><add seq="20240509000551" type="translocation" evidence="335">reculer pour mieux sauter</add>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>dit is een opmaat
+            <lb/>onbeklemtoond
+            <lb/>- iets dat nog alle kanten op kan -
+            <lb/>onvolledig, onbeklemtoon
+            <lb/>
+            <lb/>
+            <lb/>anacrouse
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>sterven lijkt me makkelijker dan geboren worden 
+            <lb/>je sterft uit een leven (dat je hebt meegemaakt, je kent het, 
+            <lb/>als geen ander, je hebt er zicht op)
+            <lb/>maar waaruit word je geboren?
+            <lb/>je bent blind een taalloos
+            <lb/>
+            <lb/>
+         </p>
+         <p><add seq="20240509000337" type="focus" evidence="178">Focus events<lb/>
+            <media url="google.com" mimeType="Internet"><desc>reculer pour mieux sauter - Google Zoeken</desc></media></add>
+            <lb/>
+            <add seq="20240509000433" type="focus" evidence="253"><media url="google.com" mimeType="Internet"><desc>reculer pour mieux sauter - Google Zoeken</desc></media></add>
+            <lb/>
+            <add seq="20240509000441" type="focus" evidence="261"><media url="google.com" mimeType="Internet"><desc>anacrouse - Google Zoeken</desc></media></add>
+            <lb/>
+            <add seq="20240509002420" type="focus" evidence="1267"><media url="google.com" mimeType="Internet"><desc>anacrouse - Google Zoeken</desc></media></add>
+            <lb/>
+            <add seq="20240509002426" type="focus" evidence="1280"><media url="google.com" mimeType="Internet"><desc>gelaat synoniem - Google Zoeken</desc></media></add>
+            <lb/>
+            <add seq="20240509002432" type="focus" evidence="1284"><media url="synoniemen.net" mimeType="Internet"><desc>Synoniemen van gelaat; ander woord voor gelaat - synoniemen.net</desc></media></add>
+            <lb/>
+            <add seq="20240509002518" type="focus" evidence="1300"><media url="synoniemen.net" mimeType="Internet"><desc>Synoniemen van gelaat; ander woord voor gelaat - synoniemen.net</desc></media></add>
+            <lb/>
+            <add seq="20240509002604" type="focus" evidence="1317"><media url="synoniemen.net" mimeType="Internet"><desc>Synoniemen van gelaat; ander woord voor gelaat - synoniemen.net</desc></media></add>
+            <lb/>
+            <add seq="20240509002609" type="focus" evidence="1328"><media url="synoniemen.net" mimeType="Internet"><desc>Synoniemen van aarzelen; ander woord voor aarzelen - synoniemen.net</desc></media></add>
+            <lb/>
+            <add seq="20240509002632" type="focus" evidence="1339"><media url="synoniemen.net" mimeType="Internet"><desc>Synoniemen van angst; ander woord voor angst - synoniemen.net</desc></media></add>
+            <lb/>
+            <add seq="20240509003856" type="focus" evidence="2078"><media url="synoniemen.net" mimeType="Internet"><desc>Synoniemen van angst; ander woord voor angst - synoniemen.net</desc></media></add>
+            <lb/>
+            <add seq="20240509003908" type="focus" evidence="2094"><media url="google.com" mimeType="Internet"><desc>rijmwoordenboek - Google Zoeken</desc></media></add>
+            <lb/>
+            <add seq="20240509003912" type="focus" evidence="2098"><media url="rijmwoordenboek.vandale.nl" mimeType="Internet"><desc>Van Dale Rijmwoordenboek</desc></media></add>
+            <lb/>
+            <add seq="20240509003918" type="focus" evidence="2110"><media url="google.com" mimeType="Internet"><desc>rijmwoordenboek mick - Google Zoeken</desc></media></add>
+            <lb/>
+            <add seq="20240509003920" type="focus" evidence="2113"><media url="rijmwoordenboek.nl" mimeType="Internet"><desc>hoeven - Mick's Rijmwoordenboek</desc></media></add>
+            <lb/>
+            <add seq="20240509004041" type="focus" evidence="2254"><media url="rijmwoordenboek.nl" mimeType="Internet"><desc>hoeven - Mick's Rijmwoordenboek</desc></media></add>
+            <lb/>
+            <add seq="20240509004058" type="focus" evidence="2275"><media url="google.com" mimeType="Internet"><desc>voorgeborgte betekenis - Google Zoeken</desc></media></add>
+            <lb/>
+            <add seq="20240509004221" type="focus" evidence="2337"><media url="google.com" mimeType="Internet"><desc>voorgeborgte betekenis - Google Zoeken</desc></media></add>
+            <lb/>
+            <add seq="20240509004235" type="focus" evidence="2350"><media url="google.com" mimeType="Internet"><desc>limbo - Google Zoeken</desc></media></add>
+            <lb/>
+            <add seq="20240509004245" type="focus" evidence="2355"><media url="nl.wikipedia.org" mimeType="Internet"><desc>Limbo - Wikipedia</desc></media></add>
+            <lb/>
+            <add seq="20240509004303" type="focus" evidence="2392"><media url="google.com" mimeType="Internet"><desc>adjectieven beginnend met l - Google Zoeken</desc></media></add>
+            <lb/>
+            <add seq="20240509004331" type="focus" evidence="2406"><media url="google.com" mimeType="Internet"><desc>adjectieven beginnend met - Google Zoeken</desc></media></add>
+            <lb/>
+            <add seq="20240509004337" type="focus" evidence="2410"><media url="nl.wikitionary.org" mimeType="Internet"><desc>Categorie: Bijvoeglijk naamwoord in het Nederlands - WikiWoordenboek</desc></media></add>
+            <lb/>
+            <add seq="20240509005805" type="focus" evidence="3194"><media url="nl.wikitionary.org" mimeType="Internet"><desc>Categorie: Bijvoeglijk naamwoord in het Nederlands - WikiWoordenboek</desc></media></add>
+            <lb/>
+            <add seq="20240509005821" type="focus" evidence="3218"><media url="google.com" mimeType="Internet"><desc>uitstelgedrag - Google Zoeken</desc></media></add>
+            <lb/>
+            <add seq="20240509010331" type="focus" evidence="3457"><media url="google.com" mimeType="Internet"><desc>uitstelgedrag - Google Zoeken</desc></media></add>
+            <lb/>
+            <add seq="20240509010336" type="focus" evidence="3461"><media url="rijmwoordenboek.nl" mimeType="Internet"><desc>hoeven - Mick's Rijmwoordenboek</desc></media></add>
+            <lb/>
+            <add seq="20240509010405" type="focus" evidence="3501"><media url="google.com" mimeType="Internet"><desc>rijmwoordenboek mick - Google Zoeken</desc></media></add>
+            <lb/>
+            <add seq="20240509010411" type="focus" evidence="3504"><media url="rijmwoordenboek.vandale.nl" mimeType="Internet"><desc>Wat rijmt er op MICK? 531 rijmwoorden - Van Dale Rijmwoordenboek</desc></media></add>
+            <lb/>
+            <add seq="20240509010415" type="focus" evidence="3514"><media url="rijmwoordenboek.vandale.nl" mimeType="Internet"><desc>Wat rijmt er op HOEVEN? 207 rijmwoorden - Van Dale Rijmwoordenboek</desc></media></add>
+         </p>
+      </body>
+   </text>
+</TEI>
